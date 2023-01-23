@@ -1,0 +1,13 @@
+{
+  "editor.tabSize": 2,
+  "[markdown]": {
+    "editor.formatOnSave": true,
+  },
+  "cSpell.words": [
+    "autoplay",
+    "rapidonline"
+  ],
+  "markdownlint.config": {
+    "MD033": false
+  }
+}
