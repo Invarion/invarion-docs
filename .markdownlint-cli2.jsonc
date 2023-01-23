@@ -1,0 +1,11 @@
+{
+  "config": {
+    "default": true,
+    "no-inline-html": false,
+    "MD013": {
+      "line_length": 120
+    }
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["**/node_modules/**", "./tmp/**/*"]
+}

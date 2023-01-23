@@ -1,3 +1,3 @@
 # About Rapid Online
 
-Write here something about rapidonline
+Write here something about rapidonline.
