@@ -27,4 +27,5 @@ This document contains short description of RapidOnline product monthly releases
 
 ## September 2022
 
-- Map bearing: Ability to rotate the map which allows you to draw better looking plans. North arrow object and north arrow within title block are automatically rotated to match the map bearing.
+- Map bearing: Ability to rotate the map which allows you to draw better looking plans.
+North arrow object and north arrow within title block are automatically rotated to match the map bearing.
