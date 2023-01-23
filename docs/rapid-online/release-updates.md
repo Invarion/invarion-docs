@@ -12,14 +12,14 @@ This document contains short description of RapidOnline product monthly releases
 
 ## December 2022
 
-- Show/hide plan coordinates.
+- Add option to show/hide coordinates on the map.
 - Custom plan scale allows you to set any scale outside of the pop-up list.
-- Improved example objects showing plan scale.
+- Improve example objects showing plan scale.
 
 ## November 2022
 
 - Scratchpad tabs: ability to create custom tabs under scratchpad.
-- Improved print region preview, added page preview.
+- Improve print region preview, added page preview.
 
 ## October 2022
 
@@ -27,4 +27,4 @@ This document contains short description of RapidOnline product monthly releases
 
 ## September 2022
 
-- Created map bearing.
+- Map bearing: Ability to rotate the map which allows you to draw better looking plans. North arrow object and north arrow within title block are automatically rotated to match the map bearing.
