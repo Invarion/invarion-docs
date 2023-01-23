@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/invarion-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/cropped-favicon-32x32.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -52,7 +52,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Invarion Docs',
+        // title: 'Invarion Docs',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
