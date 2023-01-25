@@ -26,7 +26,6 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
   presets: [
     [
       'classic',
@@ -51,6 +50,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{ name: 'keywords', content: 'rapid online, rapid plan cloud, rapidplan, rapid path online, documentation, what\'s new' }],
       navbar: {
         // title: 'Invarion Docs',
         logo: {

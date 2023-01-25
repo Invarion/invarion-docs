@@ -1,3 +1,12 @@
+---
+keywords:
+  - docs
+  - rapidonline
+  - new features
+  - release notes
+description: RapidOnline release notes
+---
+
 # What's new in RapidOnline
 
 This document contains short description of RapidOnline product monthly releases.
