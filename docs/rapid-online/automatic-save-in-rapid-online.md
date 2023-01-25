@@ -5,7 +5,7 @@ description: RapidOnline/RapidPath Online autosave
 ---
 # Autosave
 
-Rapid Online/Rapid Path Online saves your work automatically. Changes pass through couple sages before they are saved.
+RapidPlan Online/RapidPath Online saves your work automatically. Changes pass through couple sages before they are saved.
 This is to prevent data loss in case of a crash. In this article we will explain how the autosave works.
 
 ## Autosave procedure
