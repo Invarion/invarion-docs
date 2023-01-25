@@ -1,8 +1,5 @@
 ---
 keywords:
-  - docs
-  - rapidonline
-  - rapid path online
   - autosave
 description: RapidOnline/RapidPath Online autosave
 ---
@@ -29,7 +26,7 @@ to the sync slot.
 
 All changes from pending queue or sync slot are saved locally in the browser by another parallel job. This process is
 almost instant therefore the chances of data loss are very low. Upon successful upload to the server,
-the local change is marked as saved.
+the local change is marked as saved. The procedure of cleaning up the local storage is described in [this article](./backup-management)
 
 Once there are no changes in neither queues, the application goes to the idle state.
 
