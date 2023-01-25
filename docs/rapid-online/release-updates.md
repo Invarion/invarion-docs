@@ -17,6 +17,8 @@ This document contains short description of RapidOnline product monthly releases
   - Roundabout
   - Scale marker
 - Fine grained zoom control: allows for precise zoom configuration in the print preview dialog.
+It also shows proper page scale and allows for setting scale 100%. If you export a plan with scale 100%,
+the printed plan will have correct dimensions. E.g. 1 unit of metric Scale Marker will be exactly 1 cm on the paper.
 - Linz basemap provider (only for NZ users).
 
 ## December 2022
