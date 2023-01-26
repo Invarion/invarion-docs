@@ -41,7 +41,9 @@ the printed plan will have correct dimensions. E.g. 1 unit of metric Scale Marke
 
 ## October 2022
 
-- Ability to copy/paste images on canvas.
+- Paste improvements:
+  - Add support for pasting plain text as text object from clipboard.
+  - Add support for pasting images as raster.
 
 ## September 2022
 
