@@ -13,6 +13,13 @@ This document contains short description of RapidOnline product monthly releases
 
 ## January 2023
 
+- Fix behavior of 'Fit vertically' and 'Fit horizontally' buttons in the print preview dialog.
+- Complete rework of live save functionality:
+  - Significantly improved reliability;
+  - Add local backups of unsaved changes;
+  - Add ability to restore unsaved changes from local backup;
+  - Application no longer crashes when you try to save a plan and rename it at the same time.
+- Change in default behavior of Work Zone and Delineator: they are shown in legend by default.
 - New tools added:
   - Roundabout
   - Scale marker
