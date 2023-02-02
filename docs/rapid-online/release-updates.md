@@ -11,6 +11,13 @@ description: RapidOnline release notes
 
 This document contains short description of RapidOnline product monthly releases.
 
+## February 2023
+
+- Add +/- buttons into Transform -> Custom panel input fields for touch devices,
+so that one can change the value without using virtual keyboard.
+- Add completely new UI layout for narrow screens i.e. narrower than 1024px (e.g. mobile phones).
+- Buttons for showing/hiding tool columns moved to the side of each panel respectively.
+
 ## January 2023
 
 - Fix behavior of 'Fit vertically' and 'Fit horizontally' buttons in the print preview dialog.
