@@ -13,11 +13,16 @@ This document contains short description of RapidOnline product monthly releases
 
 ## February 2023
 
+- New tool: 'Callout box'.
+- Delineator tool may no longer have zero spacing. Entering zero value causes application to crash.
+- Fix the bug when centering plan after loading using 'Zoom to objects' when total bounds of the plan are near zero causes
+the application to crash.
+- Significantly reduced size of the application.
 - Improve user experience on iPhones: focus on input fields do not trigger zooming in.
 - New tool: 'Arrow Text' - allows you to add text with arrow pointing to a specific location on the map.
 - Implement 'Add To Home Screen' functionality for mobile devices.
   - Add 'Home' page which opens when you open RapidOnline from Home screen of mobile device.
-- Add +/- buttons into Transform -> Custom panel input fields for touch devices,
+- Add +/- buttons into Transform -> Custom panel input fields for touch devices
 so that one can change the value without using virtual keyboard.
 - Add completely new UI layout for narrow screens i.e. narrower than 1024px (e.g. mobile phones).
 - Buttons for showing/hiding tool columns moved to the side of each panel respectively.
