@@ -13,6 +13,8 @@ This document contains short description of RapidOnline product monthly releases
 
 ## February 2023
 
+- Selection floating window hides beyond panels when you click somewhere outside of the canvas and goes on top of panels
+when you click on the canvas.
 - New tool: 'Callout box'.
 - Delineator tool may no longer have zero spacing. Entering zero value causes application to crash.
 - Fix the bug when centering plan after loading using 'Zoom to objects' when total bounds of the plan are near zero causes
