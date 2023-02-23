@@ -13,6 +13,9 @@ This document contains short description of RapidOnline product monthly releases
 
 ## February 2023
 
+- Performance improvements.
+- New tool: 'Path text' - allows you to add text along a path.
+- New tool: 'Bicycle lane'.
 - Selection floating window hides beyond panels when you click somewhere outside of the canvas and goes on top of panels
 when you click on the canvas.
 - New tool: 'Callout box'.
