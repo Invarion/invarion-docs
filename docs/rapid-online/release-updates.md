@@ -11,6 +11,11 @@ description: RapidOnline release notes
 
 This document contains short description of RapidOnline product monthly releases.
 
+## March 2023
+
+- New feature: 'Edit text' - allows you to edit text inside groups and signs without ungrouping them.
+- Drag and drop support for adding images to the plan.
+
 ## February 2023
 
 - Performance improvements.
