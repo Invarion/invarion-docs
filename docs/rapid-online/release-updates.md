@@ -13,6 +13,15 @@ This document contains short description of RapidOnline product monthly releases
 
 ## March 2023
 
+- New tool: 'Marked path' - allows you to draw a path with markings on it.
+- Change application title.
+- Update manual links in the application menu to point to different manuals for RapidOnline and RapidPath Online.
+- Improve progress bar on application startup.
+- RapidPath Online - increase maximum speed limit to 120 km/h.
+- Bug fixes:
+  - Sign stand looses connection after refresh
+  - UI glitches when focusing sign search input field
+  - Delineator drawing style resets after refresh.
 - New feature: 'Edit text' - allows you to edit text inside groups and signs without ungrouping them.
 - Drag and drop support for adding images to the plan.
 
