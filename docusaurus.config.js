@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Invarion doc',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Dinosaurs are meh',
   url: 'https://invarion.github.io/',
   baseUrl: '/invarion-docs/',
   onBrokenLinks: 'throw',
@@ -54,7 +54,7 @@ const config = {
       navbar: {
         // title: 'Invarion Docs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Invarion logo',
           src: 'img/logo.svg',
           srcDark: 'img/logo-dark.svg'
         },
