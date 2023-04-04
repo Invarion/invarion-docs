@@ -10,9 +10,11 @@ To open the RapidPath Vehicle Library you need to select the Vehicle tool from t
 
 <!-- _Figure 4.1 Swept Path tool in Tools Palette_ -->
 
-The Vehicle Library window is divided into two parts. The left section is used for browsing through available standards/guidelines and their predefined vehicles. Standards available to you will depend on which country you are operating in and/or which vehicle bundles you have included in your subscription. The right section displays information about the currently selected vehicle. It shows a side view diagram of the vehicle, key dimensions and parameters necessary for the swept path analysis. The unit system used (metric or imperial) is dependent on your application settings (under Preferences). 
+The Vehicle Library window is divided into two parts. The left section is used for browsing through available standards/guidelines and their predefined vehicles. Standards available to you will depend on which country you are operating in and/or which vehicle bundles you have included in your subscription. The right section displays information about the currently selected vehicle. It shows a side view diagram of the vehicle, key dimensions and parameters necessary for the swept path analysis.
+The unit system used (metric or imperial) is dependent on your application settings (under Preferences).
 
-Use the buttons at the top left to choose the vehicle package (country standard, etc), then appropriate vehicles will appear below. Select the vehicle to see its details. Vehicle's dimensions are visible at the bottom of the right section. If the vehicle consists of many parts, or contains trailers, use the select box to choose the part you are interested in. Changing the vehicle part will also adjust dimension markers on the side view, so they refer to the appropriate part. The selected part will be highlighted in red.
+Use the buttons at the top left to choose the vehicle package (country standard, etc), then appropriate vehicles will appear below. Select the vehicle to see its details. Vehicle's dimensions are visible at the bottom of the right section. If the vehicle consists of many parts, or contains trailers, use the select box to choose the part you are interested in. Changing the vehicle part will also adjust dimension markers on the side view, so they refer to the appropriate part.
+The selected part will be highlighted in red.
 
 ![Vehicle Library Window](Resources/Vehicle_Library_Window.png)
 
