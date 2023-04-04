@@ -91,7 +91,7 @@ Note that the evaluation process can take a while for particularly long paths. Y
 
 <!-- _Figure 5.4.2 Evaluation progress bar and sweep envelope_ -->
 
-Making changes to the already [evaluated path](Definitions) will cause the existing [Sweep Envelope](Definitions) (now obsolete) to disappear, requiring the path to be re-evaluated. Sweep Envelopes are not saved to the plan's file but are visible in the print and export upon evaluation. You can evaluate all the [Vehicle Paths](Definitions) in the active diagram by clicking the right mouse button anywhere on the canvas area and choosing the "Evaluate Paths" option. 
+Making changes to the already [evaluated path](Definitions) will cause the existing [Sweep Envelope](Definitions) (now obsolete) to disappear, requiring the path to be re-evaluated. Sweep Envelopes are not saved to the plan's file but are visible in the print and export upon evaluation. You can evaluate all the [Vehicle Paths](Definitions) in the active diagram by clicking the right mouse button anywhere on the canvas area and choosing the "Evaluate Paths" option.
 
 [Sweep Envelope](Definitions) can be styled using Vehicle Path's properties in the Object Properties window.
 
