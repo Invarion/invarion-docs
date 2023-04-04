@@ -8,7 +8,7 @@ The first step in creating the Swept Path Analysis is adding a [vehicle](Definit
 
 <!-- _Figure 5.1.1 Adding Vehicle_ -->
 
-If you want to use different vehicle's parameters you can change them in Vehicle Library before clicking the "Add" button. These changes will not be saved into the Library, they will only apply to the [vehicle](Definitions) that will be added to the plan. 
+If you want to use different vehicle's parameters you can change them in Vehicle Library before clicking the "Add" button. These changes will not be saved into the Library, they will only apply to the [vehicle](Definitions) that will be added to the plan.
 
 [Vehicles](Definitions) in RapidPath can be positioned and rotated just like any other object. But, their size is automatically adjusted to the plan's scale and cannot be changed. You can also copy/cut and paste [vehicles](Definitions).
 
@@ -56,7 +56,9 @@ and info such as:
 
 <!-- _Figure 5.3.2 Sections details window_ -->
 
-After setting the speed, friction and "[Turn on Stop](Definitions)" option you can start drawing the path. To do this, indicate the points on the canvas area by clicking the left mouse button. These points are called "Control Points" and can be adjusted later ([Chapter 5.7 Editing a Vehicle Path](#57-editing-a-vehicle-path)). Each point creates another [section](Definitions) of the [Vehicle Path](Definitions). Each [section](Definitions) can have different parameters such as speed, friction and [turn on stop](Definitions) setting. You can adjust section parameters before making each point to create a path that consists of sections with different speeds, friction and other parameters. Alternatively, the section parameters can be adjusted after drawing the path.
+After setting the speed, friction and "[Turn on Stop](Definitions)" option you can start drawing the path. To do this, indicate the points on the canvas area by clicking the left mouse button. These points are called "Control Points" and can be adjusted later ([Chapter 5.7 Editing a Vehicle Path](#57-editing-a-vehicle-path)). Each point creates another [section](Definitions) of the [Vehicle Path](Definitions).
+Each [section](Definitions) can have different parameters such as speed, friction and [turn on stop](Definitions) setting.
+You can adjust section parameters before making each point to create a path that consists of sections with different speeds, friction and other parameters. Alternatively, the section parameters can be adjusted after drawing the path.
 
 ![Drawing a vehicle path](Resources/Drawing_a_vehicle_path.png)
 
@@ -68,7 +70,8 @@ You can only create a path within the maneuverability capabilities of the curren
 
 <!-- _Figure 5.3.4 Angle indicator when drawing the path_ -->
 
-Use Undo ("Ctrl+z") and Redo ("Ctrl+y") options while creating [Vehicle Path](Definitions) to avoid wrongly placed or unwanted points. Additionally, you can edit your path later, when it is finished. More about this in [Chapter 5.7 Editing a Vehicle Path](Preparing-Swept-Path-Analysis#57-editing-a-vehicle-path). Finish drawing the path by clicking with the right mouse button or pressing the "Esc" key. Once the [Vehicle Path](Definitions) is finished it turns into a separate object that can be freely moved and rotated. You can delete the [Vehicle Path](Definitions) without deleting the [vehicle](Definitions).
+Use Undo ("Ctrl+z") and Redo ("Ctrl+y") options while creating [Vehicle Path](Definitions) to avoid wrongly placed or unwanted points. Additionally, you can edit your path later, when it is finished. More about this in [Chapter 5.7 Editing a Vehicle Path](Preparing-Swept-Path-Analysis#57-editing-a-vehicle-path). Finish drawing the path by clicking with the right mouse button or pressing the "Esc" key.
+Once the [Vehicle Path](Definitions) is finished it turns into a separate object that can be freely moved and rotated. You can delete the [Vehicle Path](Definitions) without deleting the [vehicle](Definitions).
 
 ![Finished vehicle path](Resources/Finished_vehicle_path.png)
 
@@ -94,7 +97,8 @@ Making changes to the already [evaluated path](Definitions) will cause the exist
 
 ## 5.5 Clearance Envelope
 
-Clearance Envelope will allow you to add offset to the [Sweep Envelope](Definitions) to accommodate for driver error or real world situations. It can only be displayed on the [evaluated Vehicle Path](Definitions). To turn on Clearance Envelope go to the "Clearance" section in path's properties and change "Show" property to "Filled" or "Outline". You can edit the clearance envelope offset distances in the "Clearance" section of the path's properties. Making changes to the clearance offset will require re-evaluation of the path.
+Clearance Envelope will allow you to add offset to the [Sweep Envelope](Definitions) to accommodate for driver error or real world situations. It can only be displayed on the [evaluated Vehicle Path](Definitions). To turn on Clearance Envelope go to the "Clearance" section in path's properties and change "Show" property to "Filled" or "Outline". You can edit the clearance envelope offset distances in the "Clearance" section of the path's properties.
+Making changes to the clearance offset will require re-evaluation of the path.
 
 ![Clearance Envelope and its offset settings in the Object Properties window](Resources/Clearance_Envelope_and_its_offset_settings_in_the_Object_Properties_window.png)
 
@@ -127,7 +131,8 @@ After the [Vehicle Path](Definitions) is finished you can edit and adjust it usi
 
    <!-- _Figure 5.7.1 Selected section of the vehicle path_ -->
 
-2. **Editing control points** - You can change [Vehicle Path](Definitions)'s geometry by moving control points. Select the path, then click on one of the red circles and drag while holding the left mouse button. It is possible that you won't be able to move it freely because its position can be bounded by vehicle's manoeuvrability capabilities ([sections](Definitions)' properties, other control points). You can also remove the control point by clicking on it with the right mouse button and choosing "Remove control point" option from the context menu.
+2. **Editing control points** - You can change [Vehicle Path](Definitions)'s geometry by moving control points. Select the path, then click on one of the red circles and drag while holding the left mouse button. It is possible that you won't be able to move it freely because its position can be bounded by vehicle's manoeuvrability capabilities ([sections](Definitions)' properties, other control points).
+You can also remove the control point by clicking on it with the right mouse button and choosing "Remove control point" option from the context menu.
 
 3. **Continuing the path** - You can continue drawing already finished path. To do this simply click with the right mouse button on the path you want to expand, then choose the "Continue path" option from the "Vehicle path" sub-menu. Continuing the path works the same way as drawing the path.
 
@@ -143,7 +148,6 @@ You can add additional [vehicle](Definitions) objects to the path to:
 - Check position/behavior of the vehicle and trailers at a specific point along the path; and
 - Start a new analysis from a selected point on the existing path to make multiple connected analyses or different route variants.
   
-
 To add additional [vehicles](Definitions) to the path, click on it with the right mouse button and choose the "Add vehicle" option from the "Vehicle path" sub-menu. Now place the [vehicles](Definitions) along the path by clicking with the left mouse button. When finished press the right mouse button or "Esc" key. These are ordinary [vehicle objects](Definitions) that can be moved, edited and even replaced with other vehicles. You can also start a new swept path analysis from them.
 
 ![Additional vehicles added to the existing vehicle path](Resources/Additional_vehicles_added_to_the_existing_vehicle_path.png)
@@ -165,7 +169,7 @@ It is always a good idea to add the description of the vehicle used for the Swep
 The Vehicle Profile displays the:
 
 - Vehicle's name;
-- Vehicle's side view with the most important dimensions; and 
+- Vehicle's side view with the most important dimensions; and
 - Vehicle's properties crucial for the Swept Path Analysis.
 
 ![Vehicle profile added to the plan](Resources/Vehicle_profile_added_to_the_plan.png)

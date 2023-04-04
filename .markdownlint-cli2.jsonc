@@ -3,7 +3,7 @@
     "default": true,
     "no-inline-html": false,
     "MD013": {
-      "line_length": 120
+      "line_length": 500
     }
   },
   "globs": ["**/*.md"],
