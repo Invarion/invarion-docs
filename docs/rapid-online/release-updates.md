@@ -11,6 +11,12 @@ description: RapidOnline release notes
 
 This document contains short description of RapidOnline product monthly releases.
 
+## April 2023
+
+- New tool: 'VMS Board' - allows you to draw VMS boards on the plan. The tool is integrated with Sign Stand tool.
+- Fix critical bug when units of measure of distance markers are saved incorrectly.
+- Progress bar shows exact percentage of the plan loading progress.
+
 ## March 2023
 
 - New tool: 'Marked path' - allows you to draw a path with markings on it.
