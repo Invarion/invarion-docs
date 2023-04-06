@@ -1,0 +1,8 @@
+{
+  "label": "Rapid Path",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "The RapidPath Manual."
+  }
+}
