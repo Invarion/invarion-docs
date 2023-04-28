@@ -13,6 +13,11 @@ This document contains short description of RapidOnline product monthly releases
 
 ## April 2023
 
+- Small bug fixes:
+  - Lane mask sometimes is dislocated on the export.
+  - Preview images are not being generated sometimes.
+- Improve stability for mobile devices (application could not open plan)
+- New capabilities for road tool, one can assign end types - none, flat, round or cul-de-sac.
 - New tool: 'VMS Board' - allows you to draw VMS boards on the plan. The tool is integrated with Sign Stand tool.
 - Fix critical bug when units of measure of distance markers are saved incorrectly.
 - Progress bar shows exact percentage of the plan loading progress.
