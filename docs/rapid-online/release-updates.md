@@ -11,6 +11,16 @@ description: RapidOnline release notes
 
 This document contains short description of RapidOnline product monthly releases.
 
+## May 2023
+
+- Progress dialog when engine is booting. Engine booting may take substantial time on mobile devices, now there's an indication that application is not frozen but does actual work.
+- New feature: adjust plan location. It's possible now to move basemap origin for existing plan. The option is available in main menu.
+- Bug fixes:
+  - Small portion of the bottom screen was not touchable on mobile devices.
+  - For some objects 'contains' mode selection (from left to right) picked the object anyway even if only part of the object was selected.
+- Add links to video tutorials.
+- Read-only mode for the users without Rapid Online / Rapid Path Online subscription.
+
 ## April 2023
 
 - Small bug fixes:
