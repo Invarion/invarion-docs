@@ -16,6 +16,10 @@ This document contains short description of RapidOnline product monthly releases
 - Default paper size in print dialog is selected based on the user license country.
 - New feature: Object Styles: one can save object style properties as style for later reuse, in addition any saved style can be saved as default for new objects of given type.
 
+## June 2023
+
+- New feature: Sign codes. One can show sign codes on the canvas. It can be enabled globally per plan or individually per sign.
+
 ## May 2023
 
 - Progress dialog when engine is booting. Engine booting may take substantial time on mobile devices, now there's an indication that application is not frozen but does actual work.
