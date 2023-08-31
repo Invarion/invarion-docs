@@ -11,6 +11,18 @@ description: RapidOnline release notes
 
 This document contains short description of RapidOnline product monthly releases.
 
+## August 2023
+
+- New tool: Buffered delineator
+- Add collapsible panels in the property grid
+- Add reverse arrows style for all types of distance markers
+- One can apply style to many objects in the selection if those objects are of the same type
+- Add interactive onboarding tutorial for new users. Old users also can see it through main menu of RapidOnline
+- Android devices have 'Download PDF' button instead of preview in print dialog
+- Legend and manifest got 'Custom dimensions' mode where one can resize the size of the box thus having a multi-column layout
+- Add ``wepb`` support for image primitives and Title boxes
+- Fix bug when *Text Outline* property was not applied properly to text objects
+
 ## July 2023
 
 - Default paper size in print dialog is selected based on the user license country.
