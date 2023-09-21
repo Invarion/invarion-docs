@@ -11,6 +11,16 @@ description: RapidOnline release notes
 
 This document contains short description of RapidOnline product monthly releases.
 
+## September 2023
+
+- All objects have opacity property now. It's possible to make objects semi-transparent.
+- Add the preview of selection state.
+- Add option for moving objects to another layer.
+- Bug fixes:
+  - Styles options for Signs are disabled because signs do not support styles.
+  - Fix styling of revisions panel.
+  - Improve stability of the application on iPhone.
+
 ## August 2023
 
 - New tool: Buffered delineator
