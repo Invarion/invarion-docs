@@ -11,6 +11,14 @@ description: RapidOnline release notes
 
 This document contains short description of RapidOnline product monthly releases.
 
+## October 2023
+
+- Introduce new print service.
+- Multi message sign tools now is shown only in Australia (because it's only used in Australia).
+- New tool: Lane Status Sign (only for Australia).
+- Styles are now allowed for signs and sign stands.
+- Fix bug when incorrect map type is selected during switching between map providers.
+
 ## September 2023
 
 - All objects have opacity property now. It's possible to make objects semi-transparent.
