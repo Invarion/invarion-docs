@@ -20,7 +20,7 @@ This document contains short description of RapidOnline product monthly releases
 - Fix bug when incorrect map type is selected during switching between map providers.
 - Optimize bundle size. Startup bundle is 20% smaller.
 - Add new option in right click menu: 'Open street view'. It opens Google Street View in a new tab.
-- Fix `Shared with me` section when Map view is selected in RapidPlanCloud.
+- Fix `Shared with me` section when Map view is selected in Invarion Cloud.
 - Fix bug when location search panel works incorrectly when user changes plan location multiple times.
 - Add confirmation dialog when user tries to create a style with the same name as existing style.
 
