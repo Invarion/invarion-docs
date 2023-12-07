@@ -6,13 +6,13 @@
 
 An image of a space dog below:
 
-![funny image](./images/space-dog.png)
+![funny image](images/space-dog.png)
 
 ## Old Geezer 
 
 this is him:
 
-![old geezer](./images/old-geezer.jpg)
+![old geezer](images/old-geezer.jpg)
 
 ## Links
 
@@ -24,4 +24,4 @@ Ok here are some links
 
 [page in the same folder](another-test)
 
-[page in a different folder](../rapid-path/3-Definitions)
+[page in a different folder](../rapid-path/Definitions)
