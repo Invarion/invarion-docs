@@ -8,4 +8,4 @@ With RapidPath you will be able to simultaneously create a traffic control plan 
 
 RapidPath runs in the RapidPlan software, if you are also learning how to use RapidPlan for the first time, you can review the RapidPlan user manual [here](http://rapidplan.net/webinstall/manual/rapidplan-3.5-user-manual/).
 
-If you need help with RapidPath you can communicate with us over contact form on our webpage <https://rapidplan.com/Home/ContactUs> or contact the Invarion technical support line in your country - please check out our website <https://invarion.com/locations> for contact details.
+If you need help with RapidPath you can communicate with us over contact form on our [webpage](https://rapidplan.com/Home/ContactUs) or contact the Invarion technical support line in your country - please check out our website [https://invarion.com/locations](https://invarion.com/locations) for contact details.
