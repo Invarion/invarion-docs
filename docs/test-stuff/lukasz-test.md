@@ -1,14 +1,12 @@
 # Lukasz Test
 
-
-
 ## Space dog
 
 An image of a space dog below:
 
 ![funny image](images/space-dog.png)
 
-## Old Geezer 
+## Old Geezer
 
 this is him:
 
