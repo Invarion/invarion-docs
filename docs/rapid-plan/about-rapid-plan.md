@@ -1,3 +1,3 @@
-# About Rapid Online
+# About RapidPlan
 
 Write here something about rapidplan
