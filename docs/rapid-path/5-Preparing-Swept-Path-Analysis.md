@@ -101,10 +101,10 @@ After the [Vehicle Path](Definitions) is finished you can edit and adjust it usi
 
 ![Selected section of the vehicle path](./images/Selected_section_of_the_vehicle_path.png)
 
-2. **Editing control points** - You can change [Vehicle Path](Definitions)'s geometry by moving control points. Select the path, then click on one of the red circles and drag while holding the left mouse button. It is possible that you won't be able to move it freely because its position can be bounded by vehicle's manoeuvrability capabilities ([sections](Definitions)' properties, other control points).
+1. **Editing control points** - You can change [Vehicle Path](Definitions)'s geometry by moving control points. Select the path, then click on one of the red circles and drag while holding the left mouse button. It is possible that you won't be able to move it freely because its position can be bounded by vehicle's manoeuvrability capabilities ([sections](Definitions)' properties, other control points).
 You can also remove the control point by clicking on it with the right mouse button and choosing "Remove control point" option from the context menu.
 
-3. **Continuing the path** - You can continue drawing already finished path. To do this simply click with the right mouse button on the path you want to expand, then choose the "Continue path" option from the "Vehicle path" sub-menu. Continuing the path works the same way as drawing the path.
+1. **Continuing the path** - You can continue drawing already finished path. To do this simply click with the right mouse button on the path you want to expand, then choose the "Continue path" option from the "Vehicle path" sub-menu. Continuing the path works the same way as drawing the path.
 
 ![Continuing the path option in the context menu](./images/Continuing_the_path_option_in_the_context_menu.png)
 
