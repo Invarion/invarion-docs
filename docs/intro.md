@@ -2,7 +2,6 @@
 sidebar_position: 1
 ---
 
-# Welcome to invarion doc
+# Welcome to Invarion help center
 
-1. Quick start guide is [here](./how-to-write-the-documenation).
-2. Look for in-depth documentation [there](https://docusaurus.io/docs/markdown-features).
+You'll find all sorts of resources here on RapidPlan.
