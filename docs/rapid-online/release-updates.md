@@ -11,6 +11,12 @@ description: RapidOnline release notes
 
 This document contains short description of RapidOnline product monthly releases.
 
+## November 2023
+
+- UI improvements in the print dialog. Now it's possible to select multiple pages and reorder them at once.
+- Fix issue where some old plans cannot be opened.
+- If something goes wrong during exporting a plan, the user can share plan for investigation immediately.
+
 ## October 2023
 
 - Introduce new print service.
