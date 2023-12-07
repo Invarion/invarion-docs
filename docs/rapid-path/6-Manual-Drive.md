@@ -1,7 +1,5 @@
 # 6. Manual Drive
 
-import Figure from '../components/figures'
-
 Manual Drive mode allows you to drive the vehicle manually around the canvas area. You can drive in forward and reverse and check how the vehicle behaves at different speeds.
 
 This tool was originally developed to test RapidPath's algorithms. Please let us know if you find it useful and you would like it to be further developed.
@@ -12,7 +10,7 @@ To manually drive a vehicle you first need to add a [vehicle](Definitions) to th
 Choose the direction in which you want to drive, lateral friction factor and steering method (Mouse or Keyboard).
 You can now click on the canvas and start driving the vehicle. Press "Esc" key if you want to quit Manual Drive mode. Controls for different steering modes are presented below.
 
-<Figure caption="6.1 Manual Drive mode" src={require('./Resources/Manual_Drive_mode.png').default} />
+![Manual Drive mode](./images/Manual_Drive_mode.png)
 
 |Mouse Controls||
 |---|---|
