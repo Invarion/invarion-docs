@@ -1,4 +1,4 @@
-# 3. Definitions
+# Definitions
 
 Term |Definition
 --- | ---

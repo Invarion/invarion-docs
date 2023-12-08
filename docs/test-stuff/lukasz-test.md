@@ -1,4 +1,4 @@
-# Lukasz Test
+# Lukasz Test Page dasdkjfdgsbnjk
 
 ## Space dog
 
@@ -10,7 +10,7 @@ An image of a space dog below:
 
 this is him:
 
-![old geezer](images/old-geezer.jpg)
+[![old geezer](images/old-geezer.jpg)](https://duckduckgo.com/?t=ffab&q=old+geezer&ia=web)
 
 ## Links
 
