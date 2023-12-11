@@ -11,6 +11,12 @@ description: RapidOnline release notes
 
 This document contains short description of RapidOnline product monthly releases.
 
+## December 2023
+
+- New tool: 'Rich text'. Full support of rich text. In addition pasting from other sources (e.g. MS Word, Excel, Google Spreadsheets) is supported.
+- Page border is shown in print preview.
+- Minor UI fixes.
+
 ## November 2023
 
 - UI improvements in the print dialog. Now it's possible to select multiple pages and reorder them at once.
