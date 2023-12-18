@@ -11,8 +11,7 @@
   "tasks": {
     "docusaurus": {
       "name": "docusaurus",
-      "command": "yarn docusaurus",
-      "runAtStart": false
+      "command": "yarn docusaurus"
     },
     "start": {
       "name": "start",
@@ -21,48 +20,39 @@
     },
     "build": {
       "name": "build",
-      "command": "yarn build",
-      "runAtStart": false
+      "command": "yarn build"
     },
     "swizzle": {
       "name": "swizzle",
-      "command": "yarn swizzle",
-      "runAtStart": false
+      "command": "yarn swizzle"
     },
     "deploy": {
       "name": "deploy",
-      "command": "yarn deploy",
-      "runAtStart": false
+      "command": "yarn deploy"
     },
     "clear": {
       "name": "clear",
-      "command": "yarn clear",
-      "runAtStart": false
+      "command": "yarn clear"
     },
     "serve": {
       "name": "serve",
-      "command": "yarn serve",
-      "runAtStart": false
+      "command": "yarn serve"
     },
     "write-translations": {
       "name": "write-translations",
-      "command": "yarn write-translations",
-      "runAtStart": false
+      "command": "yarn write-translations"
     },
     "write-heading-ids": {
       "name": "write-heading-ids",
-      "command": "yarn write-heading-ids",
-      "runAtStart": false
+      "command": "yarn write-heading-ids"
     },
     "typecheck": {
       "name": "typecheck",
-      "command": "yarn typecheck",
-      "runAtStart": false
+      "command": "yarn typecheck"
     },
     "lint": {
       "name": "lint",
-      "command": "yarn lint",
-      "runAtStart": false
+      "command": "yarn lint"
     }
   }
 }
