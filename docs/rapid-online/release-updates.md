@@ -13,6 +13,9 @@ This document contains short description of RapidOnline product monthly releases
 
 ## December 2023
 
+- Imported images have cap on the size of 2500x2500 pixels. If image is larger than that, it will be scaled down to fit the limit.
+- Improve performance when selecting large objects.
+- New feature: 'Snapping'. It allows you to snap objects to each other and to the geometries which other objects are made of. It's possible to enable/disable snapping in the top right tool panel by clicking on 'Magnet' button. Swept path snapping and snapping on touch devices are not supported yet.
 - New tool: 'Rich text'. Full support of rich text. In addition pasting from other sources (e.g. MS Word, Excel, Google Spreadsheets) is supported.
 - Page border is shown in print preview.
 - Minor UI fixes.
