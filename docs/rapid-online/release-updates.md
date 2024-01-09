@@ -11,6 +11,13 @@ description: RapidOnline release notes
 
 This document contains short description of RapidOnline product monthly releases.
 
+## January 2024
+
+- Snapping is now available on touch devices.
+- Add indicator when starting drawing polyline-like objects (roads, paths, etc.) so that it's clearly visible that you're placing control points.
+- Uploading entire folder with plans in Invarion Cloud.
+- One can manage public link directly in side panel in Invarion Cloud.
+
 ## December 2023
 
 - Imported images have cap on the size of 2500x2500 pixels. If image is larger than that, it will be scaled down to fit the limit.
