@@ -23,6 +23,7 @@ This document contains short description of RapidOnline product monthly releases
   1. 'Fit all to page' - fits all regions to the page size;
   1. Change page size and orientation.
 - New feature: 'Title block gallery'. It contains the old title block as first element along with new provided by Invarion. One can modify those title blocks to suit one's needs and save them to scratchpad for later use.
+- Fix bug when last used print settings are not saved.
 
 ## December 2023
 
