@@ -17,6 +17,12 @@ This document contains short description of RapidOnline product monthly releases
 - Add indicator when starting drawing polyline-like objects (roads, paths, etc.) so that it's clearly visible that you're placing control points.
 - Uploading entire folder with plans in Invarion Cloud.
 - One can manage public link directly in side panel in Invarion Cloud.
+- Add new tool: 'QR Code'.
+- Quick access for different actions for Print Regions directly from Print Regions panel:
+  1. 'Fit to page' - fits the region to the page size;
+  1. 'Fit all to page' - fits all regions to the page size;
+  1. Change page size and orientation.
+- New feature: 'Title block gallery'. It contains the old title block as first element along with new provided by Invarion. One can modify those title blocks to suit one's needs and save them to scratchpad for later use.
 
 ## December 2023
 
