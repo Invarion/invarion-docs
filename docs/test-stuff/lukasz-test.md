@@ -2,7 +2,7 @@
 
 ## heading added or LINT complains
 
-*edited again for testing*
+edited again for testing
 
 ## Space dog
 
