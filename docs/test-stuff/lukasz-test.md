@@ -27,3 +27,5 @@ Ok here are some links
 [page in the same folder](another-test)
 
 [page in a different folder](../rapid-path/Definitions)
+
+# Checking permission to commit (Mitchell here).
