@@ -11,6 +11,14 @@ description: RapidOnline release notes
 
 This document contains short description of RapidOnline product monthly releases.
 
+## February 2024
+
+- Bug fixes:
+  - When right clicking when context menu has already been opened opens native browser context menu;
+  - Scratchpad preview is broken on mobile devices.
+  - Code property of sign works incorrectly when selecting multiple signs.
+- Job Start/Job End dates can be emptied. New plan start with empty start and end job dates.
+
 ## January 2024
 
 - Snapping is now available on touch devices.
