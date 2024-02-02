@@ -18,6 +18,7 @@ This document contains short description of RapidOnline product monthly releases
   - Scratchpad preview is broken on mobile devices.
   - Code property of sign works incorrectly when selecting multiple signs.
 - Job Start/Job End dates can be emptied. New plan start with empty start and end job dates.
+- QR Code creating modal has a button which allows to create public link to the plan and use it as QR Code value.
 
 ## January 2024
 
