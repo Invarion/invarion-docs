@@ -1,0 +1,3 @@
+#### 13.6.1.5 DON'T have different Road Sections on different Layers
+
+This is especially important. It's never wise to have more than one road section in the same file. Doing so is likely to lead to confusion, when you have say 4 road sections, with 3 traffic schemes each. Unless you name your layers very carefully, you are likely to loose track of which layer scheme corresponds to which road base.

@@ -1,0 +1,5 @@
+## Consider using at least one other Layer at *all* times
+
+Even if your plan is to have only one traffic scheme on your road base, it's still usually a very good idea to have your traffic scheme on a separate layer to the road. The reason for this is simple: Once you are working on a given layer, you can't accidentally change, move or even select an object on another layer. This has the obvious advantage of making, selecting, and altering objects (particularly small ones) which overlap other items on your road base (like line markings/corner pieces/traffic islands) much easier.
+
+It also means that if you decide you really aren't happy with the traffic guidance scheme (or need to completely change it because of feedback from a road body) you can simply wipe the traffic guidance scheme layer in a single button stroke, rather than individually pick through and delete each item one by one.
