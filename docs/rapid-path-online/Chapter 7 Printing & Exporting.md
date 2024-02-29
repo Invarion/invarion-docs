@@ -1,12 +1,12 @@
-# Chapter 7: Printing and Exporting
+# Printing and Exporting
 
 Completed plans can be printed directly from the application, or exported as a PDF and Image file.
 
-## 7.1 Printing dialogue
+## Printing dialogue
 
-When your plan is ready for Printing or Exporting, simply select the **Print** option in the Main Menu, or click the printer icon (![printicon](https://rapidplan.net/webinstall/manual/rapidplan-online/Resources/printicon.png)) in the toolbar. Once selected, the following print dialogue window opens, containing several options to customize your document.
+When your plan is ready for Printing or Exporting, simply select the **Print** option in the Main Menu, or click the printer icon (![printicon](./assets/printicon.png)) in the toolbar. Once selected, the following print dialogue window opens, containing several options to customize your document.
 
-![](Resources/Print_dialogue.png)
+![Print_dialogue](./assets/Print_dialogue.png)
 
 These options include:
 
@@ -19,10 +19,10 @@ These options include:
 
 
 
-## 7.2 Printing and exporting plans
+## Printing and exporting plans
 
 Once the **Get PDF** button has been selected, you will be able to Print or Download your plan to PDF.
 
-![](Resources/Export_dialogue.png)
+![Export_dialogue](./assets/Export_dialogue.png)
 
 As shown in the image above, clicking the Download PDF button will allow you to save your plan as a PDF file. This will then open your default PDF application and show you a preview of your downloaded plan. Clicking Print plan will open your default printer dialogue.
