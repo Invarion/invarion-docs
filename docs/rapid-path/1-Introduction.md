@@ -1,4 +1,4 @@
-# 1. Introduction
+# Introduction
 
 Thank you for purchasing RapidPath, Invarion's swept path analysis tool.
 
