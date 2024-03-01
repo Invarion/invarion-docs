@@ -13,11 +13,15 @@ This document contains short description of RapidOnline product monthly releases
 
 ## February 2024
 
+- Add Auto orientation mode of print regions.
+- Add configurable date formats for different locales other than US (e.g. CA, NZ, AU, GB).
+- Different cursor types are shown on resize handles displaying different action states.
 - When selecting multiple signs the property panel shows incorrect value for ``Code``.
-- Fix problem when objects are snapped to print regions event if they are invisible.
+- Fix problem when objects are snapped to print regions even if they are invisible.
 - Add new tool: 'Number Stamp'.
 - Add new tool: 'Combined Offset Distance Marker'.
 - Bug fixes:
+  - Exported plan does not respect updates in Print dialog
   - When right clicking when context menu has already been opened opens native browser context menu;
   - Scratchpad preview is broken on mobile devices.
   - Code property of sign works incorrectly when selecting multiple signs.
