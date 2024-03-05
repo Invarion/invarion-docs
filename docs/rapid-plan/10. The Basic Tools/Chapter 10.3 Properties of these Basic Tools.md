@@ -1,4 +1,4 @@
-## Properties of these Basic Tools{.page-break-before}
+## Properties of these Basic Tools
 
 As is the case with all objects in RapidPlan, you can view and change the properties of a basic tool by double clicking on it to open the **Quick Edit** screen or from within the Properties Palette.
 

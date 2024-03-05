@@ -7,7 +7,7 @@ Using **Save** from the context menu allows you to save a group as a sign to the
 
 In some regards, it is the "lazy man's" sign creation tool - but it is equally suited to less sophisticated users who don't need or are unable to create signs using the full sign creation process.
 
-**How to Save from the context menu:** {.page-break-before}
+**How to Save from the context menu:** 
 
  - Ensure all of the elements of your sign are **grouped**.
  - Right click on the group and select **Save** from the context menu that appears.

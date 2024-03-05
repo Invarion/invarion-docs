@@ -18,7 +18,7 @@ right-click Rotate option, or ****CTRL + R****.
 
     ![Rotate_90_Degrees_Sign_from_Context_Menu](./assets/Rotate_90_Degrees_Sign_from_Context_Menu.png)
 
-**To free rotate:**{.page-break-before}
+**To free rotate:**
 
  - Select the sign that you wish to rotate. The rotation handles will become available for use. 
  - Using the rotation handle, drag the sign around until it is positioned as you require.

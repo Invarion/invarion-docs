@@ -1,4 +1,4 @@
-## Importing Photos for a Custom Area of the Plan{.page-break-before}
+## Importing Photos for a Custom Area of the Plan
 
 You can also import aerial photos for a custom area of the plan outside of the Print Region.
 

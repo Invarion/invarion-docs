@@ -4,7 +4,7 @@ To open the Sign Editor, select **View** and tick the **Sign Editor** box. The p
 
 ![Opening_the_Sign_Editor_Palette](./assets/Opening_the_Sign_Editor_Palette.png)
 
-**How to use the Sign Editor** {.page-break-before}
+**How to use the Sign Editor** 
 
 In the Sign Editor you can:
 
@@ -42,7 +42,7 @@ As you can see in [Resources/Quick_Edit_Sign_Variation_Option.png](#Resources/Qu
 
 Adding a description for you sign, and/or codes and sign sizes is very easy in the Sign Editor.
 
-**To Add a Designation Code to your Sign:** {.page-break-before}
+**To Add a Designation Code to your Sign:** 
 
  - Enter your desired code in the section below **Sign Codes**.
  - Select **Add**.

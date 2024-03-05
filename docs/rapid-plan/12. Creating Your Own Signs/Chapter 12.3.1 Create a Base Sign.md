@@ -8,7 +8,7 @@ If your new sign is to be similar in appearance to an existing sign, or even if 
 
 ![The_Base_Sign_(Left)_is_Ungrouped_(Center)_and_the_Text_Deleted,_Leaving_a_Suitable_Frame_to_Work_on_(Right)](./assets/The_Base_Sign_(Left)_is_Ungrouped_(Center)_and_the_Text_Deleted,_Leaving_a_Suitable_Frame_to_Work_on_(Right).bmp)
 
-#### Starting from Scratch{.page-break-before}
+#### Starting from Scratch
 
 If you want to start from scratch, there are a couple of guidelines you should adhere to:
 
