@@ -31,7 +31,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
+          // sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -78,10 +78,10 @@ const config = {
         to: "https://invarion.com/intl/products/rapidplan-online/",
         text: "RapidPlan Online",
       },
-      {
-        to: "https://invarion.com/intl/products/rapidpath-online/",
-        text: "RapidPath Online",
-      },
+      // {
+      //   to: "https://invarion.com/intl/products/rapidpath-online/",
+      //   text: "RapidPath Online",
+      // },
     ],
     popularDocsLinks: [
       { to: "/category/rapid-plan", text: "Setting up your Team" },
@@ -92,30 +92,32 @@ const config = {
 
       { to: "/category/rapid-path", text: "Billing FAQ" },
       { to: "/category/rapid-path", text: "Keyboard Shortcuts" },
-      { to: "/category/rapid-path", text: "Frequentyl Asked Questions" },
+      { to: "/category/rapid-path", text: "Frequently Asked Questions" },
     ],
     changelogsLinks: [
       {
         to: "/rapid-online/release-updates",
-        text: "RapidPlan",
+        text: "RapidPlan & RapidPath",
       },
-      {
-        to: "/rapid-online/release-updates",
-        text: "RapidPath",
-      },
+      // {
+      //   to: "/rapid-online/release-updates",
+      //   text: "RapidPath",
+      // },
       {
         to: "/rapid-online/release-updates",
         text: "RapidPlan Online",
       },
-      {
-        to: "rapid-online/release-updates",
-        text: "RapidPath Online",
-      },
+      // {
+      //   to: "rapid-online/release-updates",
+      //   text: "RapidPath Online",
+      // },
     ],
   },
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      respectPrefersColorScheme: true,
+
       metadata: [
         {
           name: "keywords",
@@ -128,6 +130,7 @@ const config = {
           alt: "Invarion logo",
           src: "img/logo.svg",
           srcDark: "img/logo-dark.svg",
+          href: "https://invarion.com/",
         },
         items: [
           {
@@ -136,11 +139,15 @@ const config = {
             position: "left",
             label: "Invarion Help Centre",
           },
+          {
+            position: "left",
+            label: "Home",
+            to: "/",
+          },
         ],
       },
       footer: {
-        style: "light",
-
+        // style: "light",
         links: [
           {
             title: "Company",

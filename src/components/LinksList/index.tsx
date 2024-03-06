@@ -7,20 +7,30 @@ export interface HomepageLinkProps {
   to: string;
   icon?: IconProp;
   text: string;
+  color?: string;
 }
 
-export const LinkWithIcon = ({ to, icon, text }: HomepageLinkProps) => {
+export interface HomepageLinkListProps {
+  links: HomepageLinkProps[];
+
+  color?: string;
+}
+
+export const LinkWithIcon = ({ to, icon, text, color }: HomepageLinkProps) => {
   return (
     <li style={{ marginBottom: 10 }}>
       <Link to={to}>
-        <span style={{ fontWeight: "bold" }}>{text}</span>
+        <span style={{ fontWeight: "bold", color: color ? color : "" }}>
+          {text}
+        </span>
       </Link>
     </li>
   );
 };
 
-export const LinksList: React.FC<{ links: HomepageLinkProps[] }> = ({
+export const LinksList: React.FC<HomepageLinkListProps> = ({
   links,
+  color,
 }): JSX.Element => {
   return (
     <ul>
@@ -30,6 +40,7 @@ export const LinksList: React.FC<{ links: HomepageLinkProps[] }> = ({
           to={linkProps.to}
           text={linkProps.text}
           icon={linkProps.icon}
+          color={color}
         />
       ))}
     </ul>
