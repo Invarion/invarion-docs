@@ -4,6 +4,6 @@ Sign stands can be customized by adjusting style options in the Properties palet
 
 When the sign stand is selected you can customize its properties such as the color, size and symbol. 
 
-You can also create your own custom object to use as a sign stand, as seen in [Resources/Custom_sign_stand.png](#Resources/Custom_sign_stand.png)
+You can also create your own custom object to use as a sign stand, as seen below.
 
-![](Resources/Customize_sign_stand.png)
+![customized sign stand](./assets/Customize_sign_stand.png)

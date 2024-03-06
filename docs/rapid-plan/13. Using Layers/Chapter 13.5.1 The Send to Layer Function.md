@@ -8,6 +8,6 @@ The Send to Layer function allows you to move objects directly from one layer to
  - Right click on the object (or one of the objects if there are more than one) and select **Send to Layer**. A list of available layers will appear.
  - Select the layer that you wish to send the object(s) to.
 
-	![](Resources/Moving_Object_between_Layers_by_Send_to_Layer_Function.png)
-
+	![moving objects between layers](./assets/Moving_Object_between_Layers_by_Send_to_Layer_Function.png)
+	
 	**Note**: You can also select Create new layer to create a new one to send to.
