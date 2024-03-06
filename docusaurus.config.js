@@ -152,7 +152,7 @@ const config = {
           {
             position: 'right',
             label: 'Technical Support',
-            to: '/',
+            to: 'https://invarion.com/support/ ',
           },
           {
             position: 'right',
@@ -215,15 +215,15 @@ const config = {
               },
               {
                 label: 'My Account',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://accounts.invarion.com/manage/my-account',
               },
               {
                 label: 'Manage Company',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://accounts.invarion.com/manage/my-company',
               },
               {
                 label: 'Manage Licenses',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://accounts.invarion.com/manage/license',
               },
             ],
           },
@@ -232,19 +232,19 @@ const config = {
             items: [
               {
                 label: 'Technical Support',
-                href: 'https://invarion.com/blog/',
+                href: 'https://invarion.com/support/',
               },
               {
                 label: 'FAQs',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://invarion.com/faqs/',
               },
               {
                 label: 'Video Tutorials',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://www.youtube.com/user/invarionsupport',
               },
               {
                 label: 'Download',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://invarion.com/install/',
               },
               {
                 label: 'Contact',
