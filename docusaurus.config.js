@@ -144,6 +144,21 @@ const config = {
             label: 'Home',
             to: '/',
           },
+          {
+            position: 'right',
+            label: 'Get in touch',
+            to: 'https://invarion.com/contact/',
+          },
+          {
+            position: 'right',
+            label: 'Technical Support',
+            to: 'https://invarion.com/support/ ',
+          },
+          {
+            position: 'right',
+            label: 'Pricing and Purchasing',
+            to: 'https://invarion.com/pricing/',
+          },
         ],
       },
       footer: {
@@ -154,15 +169,15 @@ const config = {
             items: [
               {
                 label: 'About Us',
-                to: 'https://invarion.com/eu/about/',
+                to: 'https://invarion.com/about/',
               },
               {
                 label: 'Our History',
-                to: 'https://invarion.com/eu/history/',
+                to: 'https://invarion.com/history/',
               },
               {
                 label: 'Our Guarantee',
-                to: 'https://invarion.com/eu/guarantee/',
+                to: 'https://invarion.com/guarantee/',
               },
               {
                 label: 'Blog',
@@ -175,19 +190,19 @@ const config = {
             items: [
               {
                 label: 'RapidPlan',
-                href: 'https://invarion.com/eu/products/rapidplan/',
+                href: 'https://invarion.com/products/rapidplan/',
               },
               {
                 label: 'RapidPlan Online',
-                href: 'https://invarion.com/eu/products/rapidplan-online/',
+                href: 'https://invarion.com/products/rapidplan-online/',
               },
               {
                 label: 'RapidPath',
-                href: 'https://invarion.com/eu/products/rapidpath/',
+                href: 'https://invarion.com/products/rapidpath/',
               },
               {
                 label: 'RapidPath Online',
-                href: 'https://invarion.com/eu/products/rapidpath-online/',
+                href: 'https://invarion.com/products/rapidpath-online/',
               },
             ],
           },
@@ -200,15 +215,15 @@ const config = {
               },
               {
                 label: 'My Account',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://accounts.invarion.com/manage/my-account',
               },
               {
                 label: 'Manage Company',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://accounts.invarion.com/manage/my-company',
               },
               {
                 label: 'Manage Licenses',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://accounts.invarion.com/manage/license',
               },
             ],
           },
@@ -217,23 +232,23 @@ const config = {
             items: [
               {
                 label: 'Technical Support',
-                href: 'https://invarion.com/blog/',
+                href: 'https://invarion.com/support/',
               },
               {
                 label: 'FAQs',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://invarion.com/faqs/',
               },
               {
                 label: 'Video Tutorials',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://www.youtube.com/user/invarionsupport',
               },
               {
                 label: 'Download',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://invarion.com/install/',
               },
               {
                 label: 'Contact',
-                href: 'https://invarion.com/eu/contact/',
+                href: 'https://invarion.com/contact/',
               },
             ],
           },
