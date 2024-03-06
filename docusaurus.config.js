@@ -244,7 +244,7 @@ const config = {
         //   srcDark: "img/logo-dark.svg",
         //   width: 100,
         // },
-        // copyright: `Copyright © ${new Date().getFullYear()} Invarion, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Invarion, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
