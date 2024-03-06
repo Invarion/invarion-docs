@@ -144,6 +144,21 @@ const config = {
             label: 'Home',
             to: '/',
           },
+          {
+            position: 'right',
+            label: 'Get in touch',
+            to: 'https://invarion.com/eu/contact/',
+          },
+          {
+            position: 'right',
+            label: 'Technical Support',
+            to: '/',
+          },
+          {
+            position: 'right',
+            label: 'Pricing and Purchasing',
+            to: 'https://invarion.com/eu/pricing/',
+          },
         ],
       },
       footer: {
