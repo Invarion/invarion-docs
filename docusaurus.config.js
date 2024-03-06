@@ -147,7 +147,7 @@ const config = {
           {
             position: 'right',
             label: 'Get in touch',
-            to: 'https://invarion.com/eu/contact/',
+            to: 'https://invarion.com/contact/',
           },
           {
             position: 'right',
@@ -157,7 +157,7 @@ const config = {
           {
             position: 'right',
             label: 'Pricing and Purchasing',
-            to: 'https://invarion.com/eu/pricing/',
+            to: 'https://invarion.com/pricing/',
           },
         ],
       },
@@ -169,15 +169,15 @@ const config = {
             items: [
               {
                 label: 'About Us',
-                to: 'https://invarion.com/eu/about/',
+                to: 'https://invarion.com/about/',
               },
               {
                 label: 'Our History',
-                to: 'https://invarion.com/eu/history/',
+                to: 'https://invarion.com/history/',
               },
               {
                 label: 'Our Guarantee',
-                to: 'https://invarion.com/eu/guarantee/',
+                to: 'https://invarion.com/guarantee/',
               },
               {
                 label: 'Blog',
@@ -190,19 +190,19 @@ const config = {
             items: [
               {
                 label: 'RapidPlan',
-                href: 'https://invarion.com/eu/products/rapidplan/',
+                href: 'https://invarion.com/products/rapidplan/',
               },
               {
                 label: 'RapidPlan Online',
-                href: 'https://invarion.com/eu/products/rapidplan-online/',
+                href: 'https://invarion.com/products/rapidplan-online/',
               },
               {
                 label: 'RapidPath',
-                href: 'https://invarion.com/eu/products/rapidpath/',
+                href: 'https://invarion.com/products/rapidpath/',
               },
               {
                 label: 'RapidPath Online',
-                href: 'https://invarion.com/eu/products/rapidpath-online/',
+                href: 'https://invarion.com/products/rapidpath-online/',
               },
             ],
           },
@@ -248,7 +248,7 @@ const config = {
               },
               {
                 label: 'Contact',
-                href: 'https://invarion.com/eu/contact/',
+                href: 'https://invarion.com/contact/',
               },
             ],
           },
