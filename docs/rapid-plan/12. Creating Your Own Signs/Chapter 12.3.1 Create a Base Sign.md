@@ -6,7 +6,7 @@ There are two methods that you can use to create your base sign. You can either 
 
 If your new sign is to be similar in appearance to an existing sign, or even if just the sign face is to be the same, it probably makes sense to use the existing sign as a base. Drop it onto the canvas, ungroup it and delete any unwanted elements.
 
-![The_Base_Sign_(Left)_is_Ungrouped_(Center)_and_the_Text_Deleted,_Leaving_a_Suitable_Frame_to_Work_on_(Right)](./assets/The_Base_Sign_(Left)_is_Ungrouped_(Center)_and_the_Text_Deleted,_Leaving_a_Suitable_Frame_to_Work_on_(Right).bmp)
+![The_Base_Sign_(Left)_is_Ungrouped_(Center)_and_the_Text_Deleted,_Leaving_a_Suitable_Frame_to_Work_on_(Right)](./assets/The_Base_Sign_(Left)_is_Ungrouped_(Center)_and_the_Text_Deleted_Leaving_a_Suitable_Frame_to_Work_on_(Right).bmp
 
 #### Starting from Scratch
 
@@ -23,4 +23,4 @@ You aren't limited to just using the frame of other signs - if there is a graphi
 
 #### Completing your Sign
 
-When you have finished creating your sign, drag a selection box around your sign and select the **Group** objects icon in the toolbar ![Group_icon](./assets/Group_icon.png){no-label inline}, **CTRL + G** or right click and select **Group objects**.
+When you have finished creating your sign, drag a selection box around your sign and select the **Group** objects icon in the toolbar ![Group_icon](./assets/Group_icon.png), **CTRL + G** or right click and select **Group objects**.

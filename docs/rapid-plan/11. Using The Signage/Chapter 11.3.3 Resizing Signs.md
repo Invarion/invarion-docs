@@ -8,4 +8,4 @@ The sign is resized by simply dragging out the resize handles. However, there is
 
 In the example below, we start with a regular sign, then resize it twice without holding shift. The final resized sign did make use of the shift key, ensuring it is kept in proportion.
 
-![Only_the_one_on_the_far_right_was_resized_whilst_holding_the_shift_key,_keeping_it_in_proportion](./assets/Only_the_one_on_the_far_right_was_resized_whilst_holding_the_shift_key,_keeping_it_in_proportion.png)
+![Only_the_one_on_the_far_right_was_resized_whilst_holding_the_shift_key,_keeping_it_in_proportion](./assets/Only_the_one_on_the_far_right_was_resized_whilst_holding_the_shift_key_keeping_it_in_proportion.png)
