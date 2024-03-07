@@ -11,6 +11,11 @@ description: RapidOnline release notes
 
 This document contains short description of RapidOnline product monthly releases.
 
+## March 2024
+
+- Change rotation handles style and change cursor style for rotation handles.
+- Mouse wheel scroll over resize and rotation handles triggers zoom in and zoom out.
+
 ## February 2024
 
 - Add Auto orientation mode of print regions.
