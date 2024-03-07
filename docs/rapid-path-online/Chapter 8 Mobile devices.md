@@ -16,17 +16,16 @@ Tap on to your canvas area to begin using the selected tool. Each tap on the can
 
 To select an object, simply **tap** on the object.
 
-To select multiple objects, simply **tap, hold and drag** across the objects you wish to select and create a [selection box](/docs/rapid-path-online/Chapter%203%20Using%20Invarion%20Cloud%20.md).
+To select multiple objects, simply **tap, hold and drag** across the objects you wish to select and create a [selection box](../rapid-path-online/Chapter%203%20Using%20Invarion%20Cloud.md).
 
 To access the Context menu tap the object and the menu will appear.
 
 ## Panning
 
-If you want to pan, use a single finger, hold and drag across the canvas area. 
+If you want to pan, use a single finger, hold and drag across the canvas area.
 
 ## Zooming
 
 To **zoom in**, pinch inwards on the canvas area.
 
 To **zoom out**, pinch outwards on the canvas area.
-
