@@ -1,8 +1,8 @@
-# 4. Vehicle Library
+# Vehicle Library
 
 Vehicle Library lets you browse through available standards and their predefined vehicles.
 
-## 4.1 Using Vehicle Library
+## Using Vehicle Library
 
 To open the RapidPath Vehicle Library you need to select the Vehicle tool from the Tools Palette.
 
@@ -16,7 +16,7 @@ The selected part will be highlighted in red.
 
 ![Vehicle Library Window](./images/Vehicle_Library_Window.png)
 
-All of these parameters can be modified when editing already placed vehicles. Read more about it in [Chapter 5.1 Adding Vehicle to The Plan](Preparing-Swept-Path-Analysis#51-adding-vehicle-to-the-plan) and [5.2 Editing an Existing Vehicle](Preparing-Swept-Path-Analysis#52-editing-an-existing-vehicle).
+All of these parameters can be modified when editing already placed vehicles. Read more about it in [Adding Vehicle to The Plan and Editing an Existing Vehicle](./5-Preparing-Swept-Path-Analysis.md).
 
 **Note**: Changes made to the vehicle will not be saved to the Vehicle Library.
 
