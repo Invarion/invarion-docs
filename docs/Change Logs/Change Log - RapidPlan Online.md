@@ -4,7 +4,7 @@ keywords:
   - rapidonline
   - new features
   - release notes
-description: RapidOnline release notes
+description: RapidOnline change log
 ---
 
 # What's new in RapidOnline

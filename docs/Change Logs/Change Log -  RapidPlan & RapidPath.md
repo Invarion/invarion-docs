@@ -7,25 +7,25 @@
 
 ##### KML Support
 
-![KML](133288013055718115-kml_big.png)
+![KML](./assets/133288013055718115-kml_big.png)
 
 Incorporate Keyhole Markup Language (KML/KMZ) geographic data into your plans and streamline your workflow by getting access to content created in Google Earth and similar KML-based systems.
 
  ##### Fit Objects
 
-![Fit Objects](133288013871632126-fit_small.png)
+![Fit Objects](./assets/133288013871632126-fit_small.png)
 
 Automatically apply scale and rotate transformations required to fit objects to the underlying basemap or other existing content. This is particularly useful for aligning third party aerials.
 
 ##### Scale/Rotate At Point
 
-![Scale/Rotate at point](133288014214613304-transform_big.png)
+![Scale/Rotate at point](./assets/133288014214613304-transform_big.png)
 
 Using the newly added "Select scale/rotate point" options, you can now scale or rotate selected objects around a specific point, provides a CAD-like experience for greater drawing precision and control over your plans.
 
 ##### Performance and Memory Usage Improvements
 
-![](133288014545860473-perf_small.png)
+![perf small](./assets/133288014545860473-perf_small.png)
 
 RapidPlan's core rendering engine has been redesigned to provide significant performance and memory usage improvements, so you can enjoy a faster and more reliable drawing experience.
 
@@ -85,7 +85,7 @@ RapidPlan's core rendering engine has been redesigned to provide significant per
 
 ##### Predefined Styles Improvements
 
-![Predefined styles improvements](133034891024137589-predefinedStyles.png)
+![Predefined styles improvements](./assets/133034891024137589-predefinedStyles.png)
 
 Predefined object styles can now automatically adjust scaled properties to the current plan scale. This lets you use on-site units to specify values for properties like road lane width or delineator spacing and use such styles to draw objects with the correct dimensions on plans at different scales.
 
@@ -93,25 +93,25 @@ Additionally, individual styles can now be added to the Scratchpad for quick acc
 
 ##### Print Regions List
 
-![print regions list](133034891426096549-printRegionsList.png)
+![print regions list](./assets/133034891426096549-printRegionsList.png)
 
 A dockable panel listing all Print Regions on the current plan allows accessing, editing and printing them without having to manually scroll the plan canvas.
 
 ##### Plan Location Tools
 
-![plan location tools](133034891694724289-planLocationTools.png)
+![plan location tools](./assets/133034891694724289-planLocationTools.png)
 
 Right click on any location while drawing a base map plan and use the location coordinates to look it up in a number of external services including Google Maps and Street View.
 
 ##### RapidPath: Export Video
 
-![rapidpath: exporting video](133034891892926616-rapidpathExportVideo.png)
+![rapidpath: exporting video](./assets/133034891892926616-rapidpathExportVideo.png)
 
 Present your swept path simulations by exporting RapidPath video clips presenting animated vehicle movement.
 
 ##### RapidPath: Vehicle Load
 
-![rapidpath:vehicle load](133034892084174873-rapidpathVehicleLoad.png)
+![rapidpath:vehicle load](./assets/133034892084174873-rapidpathVehicleLoad.png)
 
 Some RapidPath vehicles (Forklift and Reachstacker) now allow defining carried load that exceeds the vehicle body, making swept path calculations more realistic.
 
@@ -153,31 +153,31 @@ Some RapidPath vehicles (Forklift and Reachstacker) now allow defining carried l
 
 ##### Google Maps Support
 
-![google maps support](132779949694632358-googlemaps.png)
+![google maps support](./assets/132779949694632358-googlemaps.png)
 
 One of the most requested and long awaited features is finally available - Google Maps have been added to the list of supported basemap providers. Pick from one of 3 options: Satellite only, Hybrid Light (with road labels) or Hybrid Full and enjoy working over excellent quality aerial imagery for locations across the globe.
 
 ##### Invarion Launcher
 
-![invarion launcher](132779949904982976-launcher.png)
+![invarion launcher](./assets/132779949904982976-launcher.png)
 
 The Launcher is the new distribution channel for desktop versions of RapidPlan and RapidPath, ensuring your Invarion software is always up to date.
 
 ##### Hyperlink Tool
 
-![hyperlink tool](132779950037411619-hyperlink.png)
+![hyperlink tool](./assets/132779950037411619-hyperlink.png)
 
 Use the Hyperlink text tool on your plans to reference online resources and other files via clickable links on exported PDF documents.
 
 ##### RapidPath Improvements
 
-![rapidpath improvements](132786744829222284-predictedMovementArea.png)
+![rapidpath improvements](./assets/132786744829222284-predictedMovementArea.png)
 
 New RapidPath features have been introduced, among others the ability to present vehicle movement range from a specific position. [Click here](https://invarion.com/rapidpath/) for more information on conducting vehicle swept path analysis with RapidPath.
 
 ##### Performance and Stability
 
-![performance and stability](132779950452095920-PerformanceImprovements.png)
+![performance and stability](./assets/132779950452095920-PerformanceImprovements.png)
 
 The underlying platform used by RapiPlan was updated to improve performance and stability, as well as ensure long term support for our core features.
 
@@ -189,37 +189,37 @@ The underlying platform used by RapiPlan was updated to improve performance and 
 
 ##### Multi-layer Snapping
 
-![multilayersnapping](132580618682331461-multilayersnapping.png)
+![multilayersnapping](./assets/132580618682331461-multilayersnapping.png)
 
 Hold Ctrl+Alt while drawing or transforming objects to allow snapping to objects on all visible layers. This is particularly useful when drawing complex plans with multiple stages, as it allows hassle free snapping to base stage objects like road lanes and edges.
 
 ##### RapidPath Integration
 
-![RapidPath Integration](132580619575711370-rapidpath.png)
+![RapidPath Integration](./assets/132580619575711370-rapidpath.png)
 
 RapidPlan can now display plans that contain vehicle paths created with RapidPath, our swept path analysis tool. [Click here](https://invarion.com/rapidpath/) for more information on RapidPath.
 
 ##### Import New AutoCAD Files
 
-![Import New AutoCAD Files](132580619830610363-cadimport.png)
+![Import New AutoCAD Files](./assets/132580619830610363-cadimport.png)
 
 The CAD Import tool has been updated to support new formats, including DXF/DWG 2018 used in AutoCAD 2021.
 
 ##### Snap & Align To Geometry
 
-![Snap & Align To Geometry](132580619997884128-snapalign.png)
+![Snap & Align To Geometry](./assets/132580619997884128-snapalign.png)
 
 Snap points and align drawn segments not only at control points, but anywhere along a snap geometry.
 
 ##### Search For Plus Codes
 
-![Search For Plus Codes](132580620145211634-pluscodes.png)
+![Search For Plus Codes](./assets/132580620145211634-pluscodes.png)
 
 The search bar now supports Plus Codes, a geocoding scheme used by Google as an alternative to street addresses and GPS coordinates.
 
 ##### Circle/Cloud Shaped ZVB
 
-![Circle/Cloud Shaped ZVB](132580620227768300-zvb.png)
+![Circle/Cloud Shaped ZVB](./assets/132580620227768300-zvb.png)
 
 The Zoomed View Box can now be styled to present its content in an ellipse or cloud shaped box.
 
@@ -287,43 +287,43 @@ The Zoomed View Box can now be styled to present its content in an ellipse or cl
 
 ##### Plan Locations Map
 
-![Plan Locations Map](132418122261476566-welcome_tab_map.png)
+![Plan Locations Map](./assets/132418122261476566-welcome_tab_map.png)
 
 The Welcome Screen now includes a dynamic map control, presenting the locations of your traffic control plans. Browse plans by location, see a quick preview of their details and double-click to open. All recent plans are visible, as well as TCPs from folders you specify.
 
 ##### Improved Recent Plans
 
-![Improved Recent Plans](132418122467614683-recent_plans.png)
+![Improved Recent Plans](./assets/132418122467614683-recent_plans.png)
 
 The Recent Plans list can now display up to 50 items, highlights selected item on the map and allows pinning your favorite plans for instant access.
 
 ##### Show Street View
 
-![Show Street View](132418122568605100-street_view.png)
+![Show Street View](./assets/132418122568605100-street_view.png)
 
 Right-click on a map location and select Show Google Street View to see on-site photos in your web browser (subject to Street View image availability at the specific location).
 
 ##### Advanced Snapping
 
-![Advanced Snapping](132418122665339776-advanced_snapping.png)
+![Advanced Snapping](./assets/132418122665339776-advanced_snapping.png)
 
 Press the Alt key while snapping to a geometry to enable snappable guides for tangent and perpendicular lines as well as geometry midpoints.
 
 ##### Rotate Print Regions
 
-![Rotate Print Regions](132418122783332978-rotate_regions.png)
+![Rotate Print Regions](./assets/132418122783332978-rotate_regions.png)
 
 Individual print regions can now be rotated. This is handy when planning works on a long and windy road, where each page needs a different bearing.
 
 ##### Custom Sign Stands
 
-![Custom Sign Stands](132418122876977841-sign_stands.png)
+![Custom Sign Stands](./assets/132418122876977841-sign_stands.png)
 
 Sign stands now support custom icons and can be positioned, oriented and styled independently from actual signs. Multiple signs can be connected to one stand.
 
 ##### Search & Replace Signs
 
-![Search & Replace Signs](132418123005287517-search_signs.png)
+![Search & Replace Signs](./assets/132418123005287517-search_signs.png)
 
 Advanced sign search and replace tool allows quickly finding and updating signs, which is particularly useful when editing very large plans.
 
@@ -373,51 +373,51 @@ Advanced sign search and replace tool allows quickly finding and updating signs,
 
 ##### Plan Stages
 
-![Plan Stages](132265939730289308-stages.png)
+![Plan Stages](./assets/132265939730289308-stages.png)
 
 Several phases of works at one location can now be included in a single TCP, using the new Plan Stages feature. Each stage has its own set of layers and print regions, while the Base Stage is used for elements shared across all the other stages (for example the road network and permanent markings).
 
 ##### Auto Templates
 
-![Auto Templates](132265940039896867-auto_template.png)
+![Auto Templates](./assets/132265940039896867-auto_template.png)
 
 RapidPlan can now lay out required devices and signage for a selected set of simple typical jobs. Pick the location, specify worksite dimensions and let our algorithms do the rest.
 
 ##### Selection Preview
 
-![Selection Preview](132265940378251142-selection_preview.png)
+![Selection Preview](./assets/132265940378251142-selection_preview.png)
 
 The selection box will now highlight captured objects while you're dragging, letting you see what gets selected. A great way to improve precision especially on complex plans with many objects. And while we're at it, here's a quick guide to the available selection modes:
 
 Selection Modes
 
-![select new](132265972498216871-SelectNew.png) New selection (default)
+![select new](./assets/132265972498216871-SelectNew.png) New selection (default)
 
-![select add](132265972337855817-SelectAdd.png) Add to selection (hold Shift key)
+![select add](./assets/132265972337855817-SelectAdd.png) Add to selection (hold Shift key)
 
-![select subtract](132265972192419013-SelectSubtract.png) Remove from selection (hold Alt key)
+![select subtract](./assets/132265972192419013-SelectSubtract.png) Remove from selection (hold Alt key)
 
 Capture Modes
 
-![select contained](132265972642441432-SelectContained.png) Contained objects (default)
+![select contained](./assets/132265972642441432-SelectContained.png) Contained objects (default)
 
-![select intersecting](132265972767013513-SelectIntersecting.png) Intersecting objects (use right mouse button)
+![select intersecting](./assets/132265972767013513-SelectIntersecting.png) Intersecting objects (use right mouse button)
 
 ##### Spellcheck Improvements
 
-![Spellcheck Improvements](132265940280538350-spellcheck.png) 
+![Spellcheck Improvements](./assets/132265940280538350-spellcheck.png) 
 
 Right-click on an underlined word when editing text and quickly add it to the spellcheck dictionary, so it doesn't get highlighted in the future.
 
 ##### Inverted Crop
 
-![Inverted Crop](132265940480780884-inverted_crop.png)
+![Inverted Crop](./assets/132265940480780884-inverted_crop.png)
 
 Remove bits that obstruct the view underneath or create fancy cutout shapes using the new Inverted Crop option. This feature will be particularly useful if you ever import a CAD-style page frame as an image - you can then crop out the viewport bit to reveal the plan content.
 
 ##### Restore from Autosave
 
-![Restore from Autosave](132265940590028514-autosave.png)
+![Restore from Autosave](./assets/132265940590028514-autosave.png)
 
 Ever lost work because you accidentally closed a plan without saving it? Use File->Undo close tab to get out of trouble, or just open the plan again and - Rapid will check for the last autosaved version. The latest autosaved versions of all plans are preserved for 14 days and accessible via the Help -> Restore autosaved plans dialog.
 
@@ -477,43 +477,43 @@ Ever lost work because you accidentally closed a plan without saving it? Use Fil
 
 ##### Advanced Geometry Drawing
 
-![Advanced Geometry Drawing](132059304203892127-GeometrySnapping.png)
+![Advanced Geometry Drawing](./assets/132059304203892127-GeometrySnapping.png)
 
 Snap to an existing geometry when drawing an object and RapidPlan will automatically create control points to fit the desired curve. Use the Offset Geometry tool to further adjust object position. Drawing delineators, lane markings, work zones along road and lane edges becomes easier than ever. NOTE: use F3 to quickly toggle snapping on/off or right click the toolbar button to individually toggle snapping to points and/or geometries.
 
 ##### Snap to Bounds
 
-![Snap to Bounds](132059305107445714-BoundsSnapping.png)
+![Snap to Bounds](./assets/132059305107445714-BoundsSnapping.png)
 
 When moving or scaling objects and print regions, their bounds edges and centers snap to each other for quick and precise positioning. NOTE: use F3 to quickly toggle snapping on/off.
 
 ##### New Drawing Tools
 
-![New Drawing Tools](132059305208533892-Annotations.png)
+![New Drawing Tools](./assets/132059305208533892-Annotations.png)
 
 Create notes sections with the editable Text Table, use Cloud Shape and Number Stamper to quickly annotate your TCP contents.
 
 ##### Advanced Cropping
 
-![Advanced Cropping](132059305443002304-Crop.png)
+![Advanced Cropping](./assets/132059305443002304-Crop.png)
 
 Crop images and other objects to any desired shape, edit individual points and segments in existing crop geometries.
 
 ##### Improved CAD Import
 
-![Improved CAD Import](132059305737374821-CADImport.png)
+![Improved CAD Import](./assets/132059305737374821-CADImport.png)
 
 The redesigned CAD Import tool improves import quality and presents a live preview of what gets imported as you adjust the options.
 
 ##### Batch Export Improvements
 
-![Batch Export Improvements](132059307105965225-BatchExport.png)
+![Batch Export Improvements](./assets/132059307105965225-BatchExport.png)
 
 Plans and print regions can now be arranged by drag-dropping the items, then saved and restored as reusable export configurations.
 
 ##### NearMap Integration
 
-![NearMap Integration](132059307457589842-NearMap.png)
+![NearMap Integration](./assets/132059307457589842-NearMap.png)
 
 NearMap subscribers in USA, Australia and New Zealand can now access NearMap aerials as base map layer in RapidPlan. Requires a NearMap API key - please [read instructions for obtaining one](https://docs.nearmap.com/display/ND/API+Key+Authentication).
 
@@ -583,43 +583,43 @@ NearMap subscribers in USA, Australia and New Zealand can now access NearMap aer
 
 ##### Intersections Editor
 
-![Intersections Editor](131937616572323639-intersections.png)
+![Intersections Editor](./assets/131937616572323639-intersections.png)
 
 Create complex intersections with just a few mouse clicks. The intersection editor will assist you in adding corners, turn lanes, markings, crosswalks and lane symbols. Once created, an intersection remains fully adjustable and editable. 
 
 ##### Dimensions Input Panel
 
-![Dimensions Input Panel](131928843092790255-dimensions.png)
+![Dimensions Input Panel](./assets/131928843092790255-dimensions.png)
 
 Start typing at any time while drawing objects to specify precise distance, angle, offset, point or coordinates for the next point. Pixels or site distance units can be used (for plans drawn to scale).
 
 ##### Sign Stand Tool
 
-![Sign Stand Tool](131928843213222467-signstand.png)
+![Sign Stand Tool](./assets/131928843213222467-signstand.png)
 
 All sign devices can now display an adjustable stand icon to specify their exact position and orientation.
 
 ##### Road Width Handles
 
-![Road Width Handles](131928843272658571-roadhandles.png)
+![Road Width Handles](./assets/131928843272658571-roadhandles.png)
 
 Select a road and press Ctrl+H to display a set of handles that allow quick resizing of lanes, shoulders and sidewalks.
 
 ##### Print & Export Improvements
 
-![Print & Export Improvements](131928843386850772-printexport.png)
+![Print & Export Improvements](./assets/131928843386850772-printexport.png)
 
 Get more control over your output with the Print Current View tool, fixed output scale mode and preserving layers in exported PDFs.
 
 ##### Improved Location Search
 
-![Improved Location Search](131928843459234899-search.png)
+![Improved Location Search](./assets/131928843459234899-search.png)
 
 Searching for your job location in the New Plan Wizard is now more accurate and flexible. When your search query matches several locations, a selectable list is presented.
 
 ##### Export Device Coordinates
 
-![Export Device Coordinates](131928843515394997-coords.png)
+![Export Device Coordinates](./assets/131928843515394997-coords.png)
 
 The Manifest Export tool can now include location coordinates for signs and other devices, both when exporting to PDF and to machine readable formats which can be used to import the data to other traffic management systems.
 
@@ -665,43 +665,43 @@ The Manifest Export tool can now include location coordinates for signs and othe
 
 ##### Print Frames and In-Place Print Preview
 
-![Print Frames and In-Place Print Preview](131739807239039475-PrintFrames3.png)
+![Print Frames and In-Place Print Preview](./assets/131739807239039475-PrintFrames3.png)
 
 Frames allow drawing titleboxes and other plan annotations on a separate paper-space layer and reusing them for multiple plans and print regions. Combined with in-place print preview they provide full control over how TCP objects are positioned on printouts.
 
 ##### Text Variables
 
-![Text Variables](131739808162385718-TextVariables.png)
+![Text Variables](./assets/131739808162385718-TextVariables.png)
 
 Use Text Variables to create reusable templates and objects whose text gets auto-filled based on built-in or custom variable values. Custom variables can be defined for a single plan only, or application-wide. While editing text, type the '$' character to see a list of available variables.
 
 ##### Importing Georeferenced Images (NearMap / MapInfo Integration)
 
-![Importing Georeferenced Images (NearMap / MapInfo Integration)](131739808648316373-GeoImages.png)
+![Importing Georeferenced Images (NearMap / MapInfo Integration)](./assets/131739808648316373-GeoImages.png)
 
 Import and automatically position aerial imagery from external applications that use georeferenced images. This feature will enable you to import maps from applications like NearMap or MapInfo Pro. 
 
 ##### Zoomed View Box Tool
 
-![Zoomed View Box Tool](131739809018653251-ZoomedViewBox.png)
+![Zoomed View Box Tool](./assets/131739809018653251-ZoomedViewBox.png)
 
 The Zoomed View Box tool allows you to create insets presenting specific site areas at a higher level of detail. The tool is available in the Annotations category of the Tools palette.
 
 ##### Export Manifest Tool
 
-![Export Manifest Tool](131739808394353257-ExportManifest.png)
+![Export Manifest Tool](./assets/131739808394353257-ExportManifest.png)
 
 Create manifest documents based on one or more traffic control plans, then print or export to a range of formats: PDF, Text, CSV, XML and Json. Access the export tool by right-clicking on a Manifest Box, or via File -> Export -> Batch Export -> Export batch manifest...
 
 ##### Find Objects Listed in Legend/Manifest
 
-![Find Objects Listed in Legend/Manifest](131739808802909400-FindLegendObjects.png)
+![Find Objects Listed in Legend/Manifest](./assets/131739808802909400-FindLegendObjects.png)
 
 Legend and Manifest Boxes can now be used to trace entries back to the actual on-plan objects they represent.
 
 ##### New Base Map Providers [Aus only]
 
-![New Base Map Providers [Aus only]](131739809194929861-VicMaps.png)
+![New Base Map Providers [Aus only]](./assets/131739809194929861-VicMaps.png)
 
 New base map providers allow access to VIC, NSW and QLD state government services, containing detailed cartographic data and high-resolution imagery. In the provider selection dropdown, click More providers..., then select the providers you want to use - they will become visible in the dropdown. NOTE: the VicMap Basemaps services require a license, please contact State of Victoria, DELWP for details.
 
@@ -739,49 +739,49 @@ New base map providers allow access to VIC, NSW and QLD state government service
 
 ##### Control Point Snapping and Road Alignment
 
-![Control Point Snapping and Road Alignment](131595493896320900-snap-align.png)
+![Control Point Snapping and Road Alignment](./assets/131595493896320900-snap-align.png)
 
 Precisely connect objects with each other by snapping into existing control points. Hold the Ctrl key while point-snapping roads or other objects and their geometries will merge seamlessly.
 
 ##### Measurements Panel
 
-![Measurements Panel](131595506495006663-measurements.png)
+![Measurements Panel](./assets/131595506495006663-measurements.png)
 
 Press F8 to quickly measure distances, areas and angles on your plan. Measurements are precise, zoom-independent and can be saved as marker objects.
 
 ##### Base Map Bearing
 
-![Base Map Bearing](131595512505961998-bearing.png)
+![Base Map Bearing](./assets/131595512505961998-bearing.png)
 
 Base map bearing is now adjustable, so you can draw your plans at any orientation.
 
 ##### Selection Improvements
 
-![Selection Improvements](131595517421832433-selection.png)
+![Selection Improvements](./assets/131595517421832433-selection.png)
 
 The selection box has been optimized for extra flexibility when selecting multiple objects. Additionally, you can now preview and select objects across all layers by holding the Ctrl+Alt keys.
 
 ##### New Drawing Tools
 
-![New Drawing Tools](131596217986614948-tools.png)
+![New Drawing Tools](./assets/131596217986614948-tools.png)
 
 Use the Marked Path tool to illustrate vehicle movement direction and the Road Region tool to draw irregular asphalted regions like parking lots.
 
 ##### Road Ends
 
-![Road Ends](131596216101883358-road-ends.png)
+![Road Ends](./assets/131596216101883358-road-ends.png)
 
 Roads can now automatically draw Flat, Round or Cul-de-sac endings with a specified radius.
 
 ##### Improved PDF Compression
 
-![Improved PDF Compression](131596205367087433-pdf.png)
+![Improved PDF Compression](./assets/131596205367087433-pdf.png)
 
 Files produced by exporting your base map plans to PDF are now much smaller and can be easily distributed as email attachments.
 
 ##### Multi-Message Bookmarks
 
-![Multi-Message Bookmarks](131596207813089033-mms.png)
+![Multi-Message Bookmarks](./assets/131596207813089033-mms.png)
 
 The Multi Message Sign dialog loads faster, shows panel codes and lets you bookmark your most used panels for instant access.
 
@@ -839,57 +839,57 @@ The Multi Message Sign dialog loads faster, shows panel codes and lets you bookm
 
 ##### Integrated Base Maps
 
-![Integrated Base Maps](131460791504765237-IntegratedMapsShort.png)
+![Integrated Base Maps](./assets/131460791504765237-IntegratedMapsShort.png)
 
 RapidPlan can now display a dynamic base map preview on the plan drawing canvas, download aerial tiles as plan background, import road network data and display lat/lng coordinates of any point on the plan. All you need to do to enable these features is specify plan location and scale. You can toggle between maps provided by Bing, ArcGIS and Omniscale, but we're planning to add even more providers in future RapidPlan releases.
 
 ##### New Plan Wizard
 
-![New Plan Wizard](131460777682562447-NewPlanWizard.png)
+![New Plan Wizard](./assets/131460777682562447-NewPlanWizard.png)
 
 Use the New Plan Wizard to quickly specify all properties of a new plan you're creating. The wizard integrates the creation of four basic plan types: Blank canvas, Base map, From template and From PDF.
 
 ##### Unrestricted Canvas
 
-![Unrestricted Canvas](131460778029969993-UnrestrictedCanvas.png)
+![Unrestricted Canvas](./assets/131460778029969993-UnrestrictedCanvas.png)
 
 The plan drawing canvas is now fully unrestricted. Scroll to its edges and it'll expand automatically. Use print regions to indicate which parts of the canvas you want to include on printouts.
 TIP: the "Scroll to origin" button will help you quickly go back to diagram center.
 
 ##### Copying Object Styles
 
-![Copying Object Styles](131460778115456897-CopyObjectStyles.png)
+![Copying Object Styles](./assets/131460778115456897-CopyObjectStyles.png)
 
 After you copy an object to clipboard, select another object and use the Paste Style tool (Ctrl+Shift+V) to have all the properties of the original object automatically applied to it.
 TIP: use the Duplicate Style tool (Ctrl+Shift+D) to draw an object using the same style as your current selection.
 
 ##### Editing Text
 
-![Editing Text](131460779045204977-EditingText.png)
+![Editing Text](./assets/131460779045204977-EditingText.png)
 
 All objects containing text can now be easily edited on-canvas. Simply double click on the text you want to change and start typing.
 
 ##### Batch Print
 
-![Batch Print](131460779161267489-BatchPrint.png)
+![Batch Print](./assets/131460779161267489-BatchPrint.png)
 
 Batch Export tool is now accompanied by Batch Print - a dialog that lets you quickly print multiple plans. Both dialogs have a new clean design and allow selecting print regions you want included on the printout.
 
 ##### Performance Improvements
 
-![Performance Improvements](131460793367381357-PerformanceImprovements.png)
+![Performance Improvements](./assets/131460793367381357-PerformanceImprovements.png)
 
 RapidPlan has been redesigned to make the most out of your computer's capabilities. It is now quicker, more responsive, uses less memory and loads TCPs up to 10 times faster than before!
 
 ##### Distance Markers
 
-![Distance Markers](131460808545362765-DistanceMarkers.png)
+![Distance Markers](./assets/131460808545362765-DistanceMarkers.png)
 
 Auto Distance Markers have been merged into the corresponding Distance Marker tools, so each marker can now display site distance in the selected units (Default), or custom text - depending on its Marker Mode property value. Additionally, we've added a Combined Offset Distance Marker Tool, as well as new text alignment options for all marker types.
 
 ##### Plan Properties
 
-![Plan Properties](131460826185352505-PlanProperties.png)
+![Plan Properties](./assets/131460826185352505-PlanProperties.png)
 
 You can now specify job location coordinates for each traffic control plan you're drawing. Other than integrating base maps, in the future this will allow you to search your plans by location (show all plans in a selected area). Additionally, job start and end dates can be specified.
 
