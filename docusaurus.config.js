@@ -5,7 +5,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Welcome to the Invarion Help Centre',
+  title: 'Help Center',
   // tagline: "Dinosaurs are meh",
   url: 'https://invarion.github.io/',
   baseUrl: '/invarion-docs/',
@@ -137,7 +137,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Invarion Help Centre',
+            label: 'Invarion Help Center',
           },
           {
             position: 'left',
