@@ -1,4 +1,4 @@
-##Getting Started
+# Getting Started
 
 ### Logging into Invarion Cloud
 
@@ -14,10 +14,9 @@ To create your first plan click on **Create** button and choose **New swept path
 
 After you finish, you can find your plan in the **Plans** sections inside **Invarion Cloud**.
 
-### 2.3 My Account
+### My Account
 
 If you ever need to update your subscription, **[Log in here](https://invarion.com/)** and navigate to the **My Account** page.
 
 ![Invarion_account](./assets/Invarion_account.png)
 
-For further information on managing your Invarion account, please view the INSERT VIDEO OR MANUAL LINK

@@ -4,7 +4,7 @@ Invarion Cloud is an online application for storing all your plans and related d
 
 **Note:** Invarion Cloud has superseded our old storage application, the RapidPlan Cloud.
 
-### 3.1 Layout
+### Layout
 
 Invarion Cloud is a dynamic web-application that consists of four main elements:
 

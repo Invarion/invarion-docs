@@ -1,4 +1,4 @@
-#  RapidPath Online Workspace
+# RapidPath Online Workspace
 
 Before starting to create plans, we recommend getting to know your way around the workspace. It has been designed to be intuitive, easy to follow and to allow you the maximum available working space to create your traffic plan.
 
@@ -19,11 +19,11 @@ The plan author, comments and job work dates can be adjusted in Plan properties.
 
 The following sections steps through each of component of the workspace.
 
-## 4.1 Canvas area
+## Canvas area
 
 The Canvas area is where your swept path plan is created. When you open a new plan, a Google Maps (satellite view) of your worksite location is displayed on the canvas background. 
 
-## 4.2 Main Menu
+## Main Menu
 
 The Main menu contains a number of options to assist with plan creation. The image below shows the main tools of the RapidPlan Online menu.
 
