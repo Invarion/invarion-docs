@@ -14,10 +14,10 @@ In the Sign Editor you can:
  - Add Sign Codes 
  - Add Sign Sizes
 
-    ![](./assets/The_Sign_Editor_Palette.png)
-    ![](./assets/The_Sign_Editor_Palette.png)
-
-##### Opening a Sign into Sign Editor 
+![sign editor palette](./assets/The_Sign_Editor_Palette.png)
+    
+    
+## Opening a Sign into Sign Editor 
 
 To open a sign in the Sign Editor you have two options;
 
@@ -28,7 +28,7 @@ Once you have constructed your base sign in RapidPlan, select the sign on the ca
 
 ![Importing_Sign_From_Canvas_to_the_Sign_Editor](./assets/Importing_Sign_From_Canvas_to_the_Sign_Editor.png)
 
-##### Editing Sign Variations in Sign Editor
+## Editing Sign Variations in Sign Editor
 
 Now that there are two signs, your standard sign and the fax mode variation, you can edit them as separate signs.
 
@@ -38,7 +38,7 @@ To do this either click on the desired sign directly in Sign Editor which will t
 
 As you can see in [Resources/Quick_Edit_Sign_Variation_Option.png](#Resources/Quick_Edit_Sign_Variation_Option.png), the **Quick Edit** window is the same as discussed in other sections of RapidPlan, where you change the object's properties as usual. 
 
-##### Adding Sign Description, Codes and Sizes to your Sign
+### Adding Sign Description, Codes and Sizes to your Sign
 
 Adding a description for you sign, and/or codes and sign sizes is very easy in the Sign Editor.
 
@@ -52,7 +52,7 @@ Adding a description for you sign, and/or codes and sign sizes is very easy in t
 
     **Note**: You must save your sign (either to your computer or to the Signs Palette) in order to use all of its edited variations.
 
-##### Saving your Sign and its Variations
+### Saving your Sign and its Variations
 
 In the Sign Editor you can save your sign and variations to your computer by selecting the **Save As...** icon in the Sign Editor Palette or you can choose to **Save to Sign Library** where you can choose its location within the Sign Palette. For example, in the image below the sign is being saved to the **NSW** package under the **Custom** tab in the Signs Palette. All of the sign's variations will be saved here.
 

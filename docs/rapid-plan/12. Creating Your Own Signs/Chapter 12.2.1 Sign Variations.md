@@ -11,3 +11,13 @@ Similarly, when the **Sign designation** mode is enabled, and the signs on the p
 Put the variations together and you now have four signs to make one completely functional RapidPlan sign file.
 
 ![Sign_Variations](./assets/Sign_Variations.png)
+
+## You don't have to Build all four Variations
+
+You might choose to only create the base sign and ignore the black and white and code designation variations. That's fine - it just means that if you select either of those two modes, your sign will just stay the same.
+
+## Some Signs have more than four Variations
+
+Some of the RapidPlan signs have many more variations - usually because there are different configurations of signs in different sizes that we have included. An example is below. Note that for each of these color variations, there is a black and white equivalent.
+
+![Sign_Variations_in_Size](./assets/Sign_Variations_in_Size.png)
