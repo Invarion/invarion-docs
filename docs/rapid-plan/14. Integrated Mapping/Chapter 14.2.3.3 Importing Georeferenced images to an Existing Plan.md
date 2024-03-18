@@ -1,4 +1,4 @@
-## Importing to an existing plan
+## Importing Georeferenced images to an existing plan
 
 Once you have created a base map plan using the New Plan Wizard you can add additional georeferenced images to it by clicking **Tools** > **Import** > **Georeferenced images**. Select the files you want to import and they will be laid out on the plan automatically, adjusted to match the plan scale and bearing. Note that the files you're adding must cover areas adjacent to the plan location.
 
