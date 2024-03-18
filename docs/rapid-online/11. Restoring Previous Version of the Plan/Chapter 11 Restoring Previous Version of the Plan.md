@@ -10,3 +10,11 @@ To recover a previous version of the plan click on the plan's "Save Status" on t
 
 - If you restore a previous version of the plan, you will still have access to the later versions of the document. So, no risk is involved.
 - You can also [restore the previous version of the plan from the Invarion Cloud level](/docs/rapid-online/3.%20The%20Invarion%20Cloud/3.9%20Plan_s%20History.md).
+
+## Local Backup Management
+
+You may notice local backups along with the saved versions of your plans in your version history. These are local copies of your plan that is saved in your browser. It is used to restore your plan in case of a crash or another encountered problem. 
+
+The application is configured to keep 20 backups for each plan not older than 30 days.
+It runs a job periodically to keep the number of backups below 20 for opened plan.
+Each time you open any plan, the application deletes all backups that are older than 30 days even belonging to other plans.
