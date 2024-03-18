@@ -1,4 +1,4 @@
-### 13.5.1 The Send to Layer Function
+## The Send to Layer Function
 
 The Send to Layer function allows you to move objects directly from one layer to another. You can elect to move one or more objects at a time. The advantage of this method is that it doesn't move the location of the moved items on the page, so it appears on its new layer, in the same place.
 
