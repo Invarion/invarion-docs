@@ -15,6 +15,10 @@ This document contains short description of RapidOnline product monthly releases
 
 - Change rotation handles style and change cursor style for rotation handles.
 - Mouse wheel scroll over resize and rotation handles triggers zoom in and zoom out.
+- Change mouse cursor types to reflect object control points hover/dragging.
+- Add paste content type selector.
+- Lane marking tool dimensions fit roads lane markings.
+- Parking bay has 2 control points and Offset now instead of 3 control points.
 
 ## February 2024
 
