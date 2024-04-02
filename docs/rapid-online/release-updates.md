@@ -11,6 +11,16 @@ description: RapidOnline release notes
 
 This document contains short description of RapidOnline product monthly releases.
 
+## April 2024
+
+- Small rotation degree indicator is shown when an object is being rotated.
+- Star icon on the selection has appropriate cursor.
+- Bug fixes:
+  - Proper handling of right click on control point.
+  - Incorrect zooming in print preview dialog.
+  - Fix cursor type when dragging append control point handle.
+  - Plan export crashes when exporting more than 3-4 pages with Linz basemap.
+
 ## March 2024
 
 - Change rotation handles style and change cursor style for rotation handles.
