@@ -11,6 +11,25 @@ description: RapidOnline change log
 
 This document contains short description of RapidOnline product monthly releases.
 
+## April 2024
+
+- Small rotation degree indicator is shown when an object is being rotated.
+- Star icon on the selection has appropriate cursor.
+- Bug fixes:
+  - Proper handling of right click on control point.
+  - Incorrect zooming in print preview dialog.
+  - Fix cursor type when dragging append control point handle.
+  - Plan export crashes when exporting more than 3-4 pages with Linz basemap.
+
+## March 2024
+
+- Change rotation handles style and change cursor style for rotation handles.
+- Mouse wheel scroll over resize and rotation handles triggers zoom in and zoom out.
+- Change mouse cursor types to reflect object control points hover/dragging.
+- Add paste content type selector.
+- Lane marking tool dimensions fit roads lane markings.
+- Parking bay has 2 control points and Offset now instead of 3 control points.
+
 ## February 2024
 
 - Add Auto orientation mode of print regions.
