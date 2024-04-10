@@ -13,6 +13,12 @@ This document contains short description of RapidOnline product monthly releases
 
 ## April 2024
 
+- New object type - Road region.
+- Updated user interface for Print Dialog.
+- Object transformations applied to objects in the scratchpad are preserved when placing object on plan.
+- Filled bezier object type can be shown in Legend and Manifest.
+- Show correct values for Hatch Spacing and Thickness in the property grid for the objects with fill property.
+- Invarion Cloud: fix bug when uploading a plan when Shared With Me section is active causes this plan to show up in the section. (It's only UI problem, the actual plan location was correct).
 - Small rotation degree indicator is shown when an object is being rotated.
 - Star icon on the selection has appropriate cursor.
 - Bug fixes:
