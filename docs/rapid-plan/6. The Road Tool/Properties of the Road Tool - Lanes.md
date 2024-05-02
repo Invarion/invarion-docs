@@ -3,7 +3,7 @@
 sidebar_position: 6
 
 ---
-# Properties of the Road Tool - Lanes 
+# Properties of the Road Tool - Lanes
 
 In this section you can edit the number of lanes, lane width and lane markings (including width color and style).
 
@@ -11,9 +11,9 @@ In this section you can edit the number of lanes, lane width and lane markings (
 
 **To change a road's lane markings in properties:**
 
- - Select the road.
- - On the Lanes tab in the properties palette select Markings.
- - Change the width value, the color and/or style of the markings (Dashed, Solid, DashSolid, SolidDash, Double or None), dash and gap length.
+- Select the road.
+- On the Lanes tab in the properties palette select Markings.
+- Change the width value, the color and/or style of the markings (Dashed, Solid, DashSolid, SolidDash, Double or None), dash and gap length.
 
 Styles of Lane Markings for your roads:
 

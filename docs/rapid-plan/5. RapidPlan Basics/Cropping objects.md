@@ -15,7 +15,7 @@ This will then display a dialog box that allows you to change your crop mode. Yo
 
 ![Crop_box](./assets/Crop_box.png)
 
-Once the desired crop region has been added, click the green tick button in the dialog box to apply the cropping. 
+Once the desired crop region has been added, click the green tick button in the dialog box to apply the cropping.
 
 **Note:** The crop object size/shape can be adjusted at any time by moving it's green control points.
 

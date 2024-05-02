@@ -9,7 +9,7 @@ This section allows you to activate distance markers on the road. On the image b
 
 **To activate Distance Markers on a road:**
 
- - Select the road.
- - On the **Distance Markers** section of the properties palette click **False** in the **Show** section to change it to **True**.
+- Select the road.
+- On the **Distance Markers** section of the properties palette click **False** in the **Show** section to change it to **True**.
 
     ![Activated_Distance_Markers_on_a_road](./assets/Activated_Distance_Markers_on_a_road.png)

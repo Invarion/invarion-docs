@@ -5,7 +5,7 @@ sidebar_position: 7
 ---
 # The Scratch Pad
 
-The Scratch Pad is used to store objects that you commonly use to make them easily accessible. 
+The Scratch Pad is used to store objects that you commonly use to make them easily accessible.
 
 ![scratch pad](./assets/The_Scratch_Pad.jpg)
 

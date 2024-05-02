@@ -3,7 +3,7 @@
 sidebar_position: 18
 
 ---
-# Drawing along geometries 
+# Drawing along geometries
 
 Snap to an existing geometry when drawing an object and RapidPlan will automatically create control points to fit the desired curve.
 

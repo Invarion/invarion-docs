@@ -11,17 +11,17 @@ The Tools Palette contains most of the tools you will use to construct the featu
 
 You can hover your mouse over each Tool to reveal its contents. Continue reading for more information on what each tool icon contains.
 
- 1. **Roads** - This displays each of the tools you can use to construct your road way. 
+ 1. **Roads** - This displays each of the tools you can use to construct your road way.
 
     *The sections [The Road Tool](/docs/rapid-plan/The%20Road%20Tool/) and [Other Road Tools](/docs/rapid-plan/Other%20Road%20Tools/) covers this tool set.*
-    
+
     |                      Roads                       |                     |                                               |             |
     | :----------------------------------------------: | ------------------- | :-------------------------------------------: | ----------- |
     |      ![road icon](./assets/Road_icon.png)      | Road                |  ![turn lane icon](./assets/Turn_lane_icon.png)  | Turn lane   |
     |    ![ar road icon](./assets/Arc_road_icon.png)    | Arc road            | ![roundabout icon](./assets/Roundabout_icon.png)  | Roundabout  |
     |  ![road corner icon](./assets/Road_corner_icon.png)   | Road corner         | ![road region icon](./assets/Road_region_icon.png) | Road region |
     | ![intersection editor](./assets/Intersection_Editor.png) | Intersection Editor |                                               |             |
-    
+
  2. **Infrastructure** - This displays infrastructure you may need to construct your plan including train tracks, bicycle lanes, etc.
 
     *The section [Other Road Tools](/docs/rapid-plan/Other%20Road%20Tools/) covers this tool set.*
@@ -31,7 +31,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |![train tracks icon](./assets/Train_tracks_icon.png) | Train tracks|![crosswalk icon](./assets/Crosswalk_icon.png)      |Crosswalk      |
     |![island icon](./assets/Island_icon.png)       | Island      |![bicycle lane icon](./assets/Bicycle_lane_icon.png)   |Bicycle lane   |
     |![parking bay icon](./assets/Parking_bay_icon.png)  | Parking bay |![sidewalk icon](./assets/Sidewalk_icon.png)       |Sidewalk       |
-    
+
  3. **Devices** - This displays devices such as delineators, arrow board and lane status.
 
     *The section [The Marker Tools](/docs/rapid-plan/The%20Marker%20Tools/) covers this tool set*
@@ -60,7 +60,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |Zones                                                |                       |                                                           |                     |
     |:---------------------------------------------------:|-----------------------|:---------------------------------------------------------:|---------------------|
     |![work area icon](./assets/Work_area_icon.png)          | Work area             |![safety zone icon](./assets/Safety_zone_icon.png)              | Safety zone         |
-    
+
  6. **Annotations** - This includes necessary annotation features for your plan such as a scale marker and a legend box.
 
     *The section [The Marker Tools](/docs/rapid-plan/The%20Marker%20Tools/) covers this tool set*
@@ -72,7 +72,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |    ![titlebox icon](./assets/Titlebox_icon.png)     | Titlebox        |     ![number stamper](./assets/Number_Stamper.png)      | Number stamper |
     | ![zoomed view box icon](./assets/Zoomed_view_box_icon.png) | Zoomed view box |                                                      |                |
 
- 7. **Markers** - This displays distance markers, an area marker and an angle marker. 
+ 7. **Markers** - This displays distance markers, an area marker and an angle marker.
 
     *The section [The Marker Tools](/docs/rapid-plan/The%20Marker%20Tools/) covers this tool set.*
 
@@ -81,7 +81,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |![offset distance marker icon](./assets/Offset_distance_marker_icon.png)          | Distance marker       |![combined distance marker icon](./assets/Combined_distance_marker_icon.png)         | Combined distance marker       |
     |![offset distance marker icon](./assets/Offset_distance_marker_icon.png)   | Offset distance marker|![angle marker icon](./assets/Angle_marker_icon.png)                     | Angle marker                         |
     |![area marker icon](./assets/Area_marker_icon.png)              | Area marker           |![combined offset distance marker](./assets/Combined_offset_distance_marker_icon.png)  | Combined offset distance marker|
-    
+
  8. **Lines** - This displays various line shapes that can be used.
 
     *The section [The Basic Tools](/docs/rapid-plan/The%20Basic%20Tools/) covers this tool set*
@@ -118,8 +118,6 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
 
  11. **Image** - This allows you to open an image from your computer to your plan.
 
-
      |Image                                     |                       |
      |:----------------------------------------:|-----------------------|
      |![image](./assets/Image_icon.png)   | Import image          |
-

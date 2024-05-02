@@ -11,10 +11,10 @@ By default, each road is drawn with both a left and right edge line shoulder and
 
 In this section you can adjust the left/right edges (color, width), shoulders (width, color, shoulder edge) and sidewalks (width, color, offset).
 
-**To change Left Side (or Right Side) shoulder properties:** 
+**To change Left Side (or Right Side) shoulder properties:**
 
- - Select the road.
- - On the **Left Side/Right Side** section of the properties palette select **Shoulder** to adjust the width and color of the Left Shoulder (see the image below).
+- Select the road.
+- On the **Left Side/Right Side** section of the properties palette select **Shoulder** to adjust the width and color of the Left Shoulder (see the image below).
 
     **Note**: The Edges and Sidewalks can be adjusted in a similar way.
 
@@ -22,7 +22,7 @@ In this section you can adjust the left/right edges (color, width), shoulders (w
 
 **To turn a edge/shoulder/sidewalk on or off:**
 
- - Select the road.
- - On the Left Side/Right Side section use the check boxes to toggle the on/off state of the properties as shown below.
+- Select the road.
+- On the Left Side/Right Side section use the check boxes to toggle the on/off state of the properties as shown below.
 
     ![Shoulder_and_Sidewalk_turned_off](./assets/Shoulder_and_Sidewalk_turned_off.png)

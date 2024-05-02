@@ -13,13 +13,13 @@ Use the New Plan Wizard to quickly specify all properties of a new plan you're c
 
 **New Default Plan**
 
-This selection provides you with a default canvas. Default plan settings can be amended and saved in **Tools > Preferences**. 
+This selection provides you with a default canvas. Default plan settings can be amended and saved in **Tools > Preferences**.
 
 **Open Plan**
 
 Saved plans can be loaded with this selection.
 
-**Recent Plans** 
+**Recent Plans**
 
 Recently saved plans can be quickly accessed from here, hovering over each plan will highlight them on the Plan locations map.
 
