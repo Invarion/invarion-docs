@@ -1,4 +1,9 @@
-## Creating your Sign 
+---
+
+sidebar_position: 4
+
+---
+# Creating your Sign 
 You should now have a good understanding of what is inside a RapidPlan sign file, so now we can go ahead and make one.
 
 The basic steps for creating a sign are:

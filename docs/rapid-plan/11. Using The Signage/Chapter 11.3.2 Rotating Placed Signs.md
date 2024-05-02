@@ -1,4 +1,9 @@
-## Rotating Placed Signs
+---
+
+sidebar_position: 6
+
+---
+# Rotating Placed Signs
 
 As is the case for most RapidPlan items, once a sign is placed on the canvas, there are three ways to rotate it.
 

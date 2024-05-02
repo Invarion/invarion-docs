@@ -1,4 +1,9 @@
-## Hyperlink tool
+---
+
+sidebar_position: 18
+
+---
+# Hyperlink tool
 
 The Hyperlink text tool can be used on your plans to reference online resources and other files via clickable links on exported PDF documents.
 

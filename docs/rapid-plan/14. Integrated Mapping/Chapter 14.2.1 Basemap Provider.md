@@ -1,4 +1,9 @@
-## Base Map Provider
+---
+
+sidebar_position: 3
+
+---
+# Base Map Provider
 
 Eight base map providers are available to all RapidPlan users. These are:
 

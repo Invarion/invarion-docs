@@ -1,4 +1,9 @@
-## Image georeferencing tool
+---
+
+sidebar_position: 9
+
+---
+# Image georeferencing tool
 This tool can be used to georeference any map image imported into RapidPlan (from Google, etc). Specify the coordinates of the image by pairing them with locations on the live map, as shown in Figure 14.9 . This ensures the image is accurately positioned and scale set.
 
 To utilize this tool go to **Tools > Advanced tools > Georeference image files**. The best points to reference are road edges/crossings, buildings edges for your location/coordinates in the live map (this will need to match the imported image).

@@ -1,4 +1,9 @@
-## Setting the Sign Icons Size in the Palette
+---
+
+sidebar_position: 3
+
+---
+# Setting the Sign Icons Size in the Palette
 
 You can change the size of the signs in the palette. This is helpful when using a screen at very high resolution, or just for users who are having difficulty with the small icons. By default the sign icon size on the palette is set to medium. 
 

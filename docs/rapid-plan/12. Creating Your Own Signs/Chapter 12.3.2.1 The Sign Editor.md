@@ -1,4 +1,9 @@
-## The Sign Editor
+---
+
+sidebar_position: 7
+
+---
+# The Sign Editor
 
 To open the Sign Editor, select **View** and tick the **Sign Editor** box. The palette will then appear at the base of your screen.
 
@@ -36,7 +41,7 @@ To do this either click on the desired sign directly in Sign Editor which will t
 
 ![Quick_Edit_Sign_Variation_Option](./assets/Quick_Edit_Sign_Variation_Option.png)
 
-As you can see in [Resources/Quick_Edit_Sign_Variation_Option.png](#Resources/Quick_Edit_Sign_Variation_Option.png), the **Quick Edit** window is the same as discussed in other sections of RapidPlan, where you change the object's properties as usual. 
+As shown above, the **Quick Edit** window is the same as discussed in other sections of RapidPlan, where you change the object's properties as usual.
 
 ### Adding Sign Description, Codes and Sizes to your Sign
 

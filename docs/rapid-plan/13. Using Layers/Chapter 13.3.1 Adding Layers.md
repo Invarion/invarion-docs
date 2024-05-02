@@ -1,4 +1,9 @@
-## Adding Layers
+---
+
+sidebar_position: 4
+
+---
+# Adding Layers
 
 Adding a layer is as simple as clicking the **Add Layer** button on the toolbar.
 

@@ -1,5 +1,9 @@
+---
 
-## A Faster Way to Save Signs (Right Click > Save)
+sidebar_position: 8
+
+---
+# A Faster Way to Save Signs (Right Click > Save)
 
 RapidPlan has a much faster and easier way to save signs when you don't need to save and edit different variations.
 

@@ -1,4 +1,9 @@
-## Color Mode 
+---
+
+sidebar_position: 10
+
+---
+# Color Mode 
 
 You can select each separate layer to be in color mode or fax mode by clicking the **Toggle Layer Color** Mode button.
 

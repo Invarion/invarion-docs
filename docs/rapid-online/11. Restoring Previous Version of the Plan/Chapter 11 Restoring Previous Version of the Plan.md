@@ -1,3 +1,8 @@
+---
+
+sidebar_position: 1
+
+---
 # Restoring Previous Version of the Plan
 
 Anytime the plan autosaves a new recovery point is made. Thanks to this you can easily go back to any previous version of the plan undoing some unwanted changes made by yourself or other collaborators. It is like turning back the clock.
@@ -9,7 +14,7 @@ To recover a previous version of the plan click on the plan's "Save Status" on t
 **Notes:**
 
 - If you restore a previous version of the plan, you will still have access to the later versions of the document. So, no risk is involved.
-- You can also [restore the previous version of the plan from the Invarion Cloud level](/docs/rapid-online/3.%20The%20Invarion%20Cloud/3.9%20Plan_s%20History.md).
+- You can also [restore the previous version of the plan from the Invarion Cloud level](/docs/rapid-online/The%20Invarion%20Cloud/Plan_s%20History.md).
 
 ## Local Backup Management
 

@@ -1,4 +1,9 @@
-### Editing Signs from the Properties Palette
+---
+
+sidebar_position: 10
+
+---
+# Editing Signs from the Properties Palette
 
 When a sign is selected, look within the properties palette to edit any information you want. Within the Properties palette you can:
 

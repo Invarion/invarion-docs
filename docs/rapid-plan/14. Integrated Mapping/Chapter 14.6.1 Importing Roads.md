@@ -1,4 +1,9 @@
-## Importing Roads
+---
+
+sidebar_position: 14
+
+---
+# Importing Roads
 
 Importing roads onto integrated mapping creates a **road object** with properties that can be manipulated.
 
@@ -29,7 +34,7 @@ Once your road widths are adequate, you may need to make some manual adjustments
 
 2. You may need to adjust the roads by adding **road corners** or **turning lanes**, etc. Make sure to copy the **style** of the road to each road tool by copying the style from the main road, selecting the new object and using **CTRL + SHIFT +V** to paste the style.
 
-    *For more information of how to use Road tools, see [The Road Tool](/docs/rapid-plan/6.%20The%20Road%20Tool) and [Othr Road Tools](/docs/rapid-plan/7.%20Other%20Road%20Tools/).*
+    *For more information of how to use Road tools, see [The Road Tool](/docs/rapid-plan/The%20Road%20Tool) and [Othr Road Tools](/docs/rapid-plan/Other%20Road%20Tools/).*
 
     In the image below, the provider has been changed to the Omniscale, so you can see the road corners are the same style as the road.
 
@@ -39,13 +44,13 @@ Once your road widths are adequate, you may need to make some manual adjustments
 
 3. When you are satisfied with your roads, add other necessary features such as lane markings.
 
-    *For more information on how to use Lane Markers, see [Other Road Tools](/docs/rapid-plan/7.%20Other%20Road%20Tools/).*
+    *For more information on how to use Lane Markers, see [Other Road Tools](/docs/rapid-plan/Other%20Road%20Tools/).*
 
     ![Completed_Plan_Satellite_on_Show_(Left)_Completed_Plan_No_Satellite_(Right)](./assets/Completed_Plan_Satellite_on_Show_(Left)_Completed_Plan_No_Satellite_(Right).png)
 
 4. Once your base road layout is drawn up, you can print it, use the fax mode icon to convert it or start adding your traffic management information.
 
-### Importing road names and speed limits
+## Importing road names and speed limits
 
 After using the Roads Import tool, right-click on the imported roads and select "Import road data" as seen below.
 

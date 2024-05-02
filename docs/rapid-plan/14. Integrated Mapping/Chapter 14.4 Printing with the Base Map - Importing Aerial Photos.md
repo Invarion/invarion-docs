@@ -1,4 +1,9 @@
-## Printing with the Base Map - Importing Aerial Photos
+---
+
+sidebar_position: 10
+
+---
+# Printing with the Base Map - Importing Aerial Photos
 
 After you have completed your plan onto your base map, if you try to print you may notice that the base map is not printed with your plan. This is because the **base map preview** is not a part of the diagram. 
 

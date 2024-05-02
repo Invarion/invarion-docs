@@ -1,4 +1,9 @@
-## The Path Text Tool 
+---
+
+sidebar_position: 16
+
+---
+# The Path Text Tool 
 
 Just as the name implies, this tool allows you to create text fit to follow a path. It is used as a hybrid of a spline and text tool.
 

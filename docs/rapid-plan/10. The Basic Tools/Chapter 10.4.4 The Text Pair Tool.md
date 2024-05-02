@@ -1,4 +1,9 @@
-## The Text Pair Tool 
+---
+
+sidebar_position: 15
+
+---
+# The Text Pair Tool 
 
 The Text Pair tool operates similar to the regular text tool but with limited editing capabilities. For instance, you cannot set a background color with the text pair tool nor can you set your fonts to bold. This tool only provides a Label and a Value to be set thereby giving it it's name as a text pair.
 

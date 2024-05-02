@@ -1,4 +1,9 @@
-## The Cut/Paste Method of Changing Layers 
+---
+
+sidebar_position: 14
+
+---
+# The Cut/Paste Method of Changing Layers 
 This method of shifting between layers is to simply cut or copy the desired objects from one layer and paste them to another. This option is best if you want to duplicate items from one layer to the next.
 
 **To cut/copy and paste items to a new layer:**

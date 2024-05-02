@@ -1,4 +1,9 @@
-## Renaming Layers
+---
+
+sidebar_position: 11
+
+---
+# Renaming Layers
 
 Renaming layers is useful because it allows you to better organize your file around what part of the works your layer focuses on. For instance, you might rename layers as per the below table:
 

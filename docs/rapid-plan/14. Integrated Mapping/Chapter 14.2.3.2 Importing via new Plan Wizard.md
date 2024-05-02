@@ -1,4 +1,9 @@
-## Importing via New Plan Wizard
+---
+
+sidebar_position: 5
+
+---
+# Importing via New Plan Wizard
 
 In RapidPlan, go to **File** > **New Plan Wizard**. Select **Base map** as the plan type.
 

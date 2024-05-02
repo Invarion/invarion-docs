@@ -1,4 +1,9 @@
-## Creating Variations of your Sign 
+---
+
+sidebar_position: 6
+
+---
+# Creating Variations of your Sign 
 
 Creating variations for your custom sign is made very simple using the Sign Editor Palette in RapidPlan. 
 

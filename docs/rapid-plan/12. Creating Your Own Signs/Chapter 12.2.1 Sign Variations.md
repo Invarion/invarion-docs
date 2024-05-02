@@ -1,4 +1,9 @@
-## Sign Variations
+---
+
+sidebar_position: 3
+
+---
+# Sign Variations
 
 So what are "variations" and why are they important? 
 

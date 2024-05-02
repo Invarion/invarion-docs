@@ -1,4 +1,9 @@
-## Functions of the Layers 
+---
+
+sidebar_position: 3
+
+---
+# Functions of the Layers 
 
 There are 7 general layer functions that you will use;
 

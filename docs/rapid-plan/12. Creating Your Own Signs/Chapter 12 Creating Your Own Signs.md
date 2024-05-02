@@ -1,3 +1,8 @@
+---
+
+sidebar_position: 1
+
+---
 # Creating Your Own Signs
 
 *Complete freedom...*

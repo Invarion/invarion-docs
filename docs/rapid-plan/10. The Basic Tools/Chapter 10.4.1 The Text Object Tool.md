@@ -1,4 +1,9 @@
-## The Text Object Tool
+---
+
+sidebar_position: 12
+
+---
+# The Text Object Tool
 
 This tool creates an **object** out of text that can be manipulated like any other object.
 

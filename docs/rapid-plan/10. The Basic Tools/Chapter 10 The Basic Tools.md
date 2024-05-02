@@ -1,4 +1,9 @@
-## The Basic Tools
+---
+
+sidebar_position: 1
+
+---
+# The Basic Tools
 
 *The building blocks of RapidPlan...*
 

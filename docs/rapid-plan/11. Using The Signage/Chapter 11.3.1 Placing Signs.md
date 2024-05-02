@@ -1,4 +1,9 @@
-## Placing Signs
+---
+
+sidebar_position: 5
+
+---
+# Placing Signs
 
 Placing signs is simple. Once your sign is placed you can move, resize and rotate it.
 

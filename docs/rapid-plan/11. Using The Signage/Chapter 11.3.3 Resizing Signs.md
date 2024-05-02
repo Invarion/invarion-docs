@@ -1,4 +1,9 @@
-## Resizing Signs
+---
+
+sidebar_position: 7
+
+---
+# Resizing Signs
 
 Resizing signs in RapidPlan is no different to resizing any other object. Its achieved using the resize handles which appear when the sign is selected.
 

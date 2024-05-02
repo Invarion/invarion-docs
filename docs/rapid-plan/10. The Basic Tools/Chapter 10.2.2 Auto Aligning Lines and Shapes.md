@@ -1,5 +1,9 @@
+---
 
-## Auto Aligning Lines and Shapes
+sidebar_position: 4
+
+---
+# Auto Aligning Lines and Shapes
 
 To ease the creation of these items, there is a very useful auto align feature which allows you to keep the dimensions of your lines and shapes square.
 

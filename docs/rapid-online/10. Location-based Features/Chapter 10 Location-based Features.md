@@ -1,3 +1,8 @@
+---
+
+sidebar_position: 1
+
+---
 # Location-based Features
 
 RapidPlan Online has two basic location features:

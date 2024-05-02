@@ -1,4 +1,9 @@
-## Create a Base Sign
+---
+
+sidebar_position: 5
+
+---
+# Create a Base Sign
 
 There are two methods that you can use to create your base sign. You can either start from scratch with new basic shapes, or you can ungroup an existing sign and use that as a template.
 
@@ -17,7 +22,7 @@ If you want to start from scratch, there are a couple of guidelines you should a
  - **Font**: Whilst the font isn't critical, the size is. Try to keep your font to a minimum 8pt or above,
 bold setting (all the default signs use Arial).
 
-### Using Components from Other Signs
+## Using Components from Other Signs
 
 You aren't limited to just using the frame of other signs - if there is a graphic on any of the other signs in the package, you can use that too. Simply ungroup the sign and move the elements that you need onto your own new sign.
 

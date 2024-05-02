@@ -1,4 +1,9 @@
-## Moving a Section of Map to another Layer
+---
+
+sidebar_position: 12
+
+---
+# Moving a Section of Map to another Layer
 
 When on the **Aerial Photos** layer, you can import tiles of the photo for extra coverage.
 

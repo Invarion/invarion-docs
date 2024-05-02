@@ -1,4 +1,9 @@
-## Editing Existing Signs 
+---
+
+sidebar_position: 9
+
+---
+# Editing Existing Signs 
 
 You also have the option of editing the signs that are shipped with RapidPlan. Generally speaking, this isn't going to be necessary, but in some instances people do feel the need to make an alteration. 
 

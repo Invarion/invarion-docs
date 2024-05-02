@@ -1,4 +1,9 @@
-## The Lines Properties
+---
+
+sidebar_position: 6
+
+---
+# The Lines Properties
 
 The properties of the **Lines** are defined by setting the style of stroke used:
 

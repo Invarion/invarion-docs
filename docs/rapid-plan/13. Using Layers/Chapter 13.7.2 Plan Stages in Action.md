@@ -1,4 +1,9 @@
-## Plan stages in action
+---
+
+sidebar_position: 19
+
+---
+# Plan stages in action
 
 Below is an example of how a plan stages setup might look.
 

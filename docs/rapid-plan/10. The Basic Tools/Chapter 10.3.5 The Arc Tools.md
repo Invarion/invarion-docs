@@ -1,4 +1,9 @@
-## The Arc Tools 
+---
+
+sidebar_position: 10
+
+---
+# The Arc Tools 
 
 There are three arc-based tools in RapidPlan, the **Arc** tool, the **Pie Arc** tool and the **Road Arc** tool. All of these tools are created from a radius, making perfect curves.
 
