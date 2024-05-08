@@ -11,6 +11,16 @@ description: RapidOnline release notes
 
 This document contains short description of RapidOnline product monthly releases.
 
+## May 2024
+
+- Add indicator showing width and height scale during resize.
+- Fix issue where snapping and thus new object drawing fails sometimes.
+- Add new arrow features on every side of a selection box allowing for starting drawing new 'pointing' objects originated on one of the sides of selected object like
+  - arrow to the object,
+  - arrow from the object,
+  - call out box,
+  - etc.
+
 ## April 2024
 
 - New object type - Road region.
