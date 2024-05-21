@@ -13,6 +13,11 @@ This document contains short description of RapidOnline product monthly releases
 
 ## May 2024
 
+- Arrow button on the corners of selection box has new option to 'Record swept path'.
+- When performing drag actions like drawing selection box, rotating/resizing selection, entire interface blurs to provide more visible space.
+- Handles for adding new control points are located on the guide line.
+- New minimized mode in floating selection window.
+- Rich text dialog gains focus immediately after opening.
 - Add indicator showing width and height scale during resize.
 - Fix issue where snapping and thus new object drawing fails sometimes.
 - Add new arrow features on every side of a selection box allowing for starting drawing new 'pointing' objects originated on one of the sides of selected object like
