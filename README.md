@@ -10,7 +10,7 @@ Local machine should have the following tools installed:
 1. [Yarn](https://yarnpkg.com/getting-started/install)
 1. [Git tools](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 1. IDE (preferably [Visual Studio Code](https://code.visualstudio.com/download))
-  1. [Markdown link extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+    - [Markdown link extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
 ## Installation
 
