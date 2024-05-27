@@ -28,3 +28,11 @@
   --ifm-color-primary-lighter: #f3c340;
   --ifm-color-primary-lightest: #f6cf65;
 }
+
+:root {
+  --ifm-footer-background-color: #e6e6e6;
+}
+
+html[data-theme='dark'] footer {
+  background-color: black;
+}

@@ -11,6 +11,46 @@ description: RapidOnline change log
 
 This document contains short description of RapidOnline product monthly releases.
 
+## May 2024
+
+- Arrow button on the corners of selection box has new option to 'Record swept path'.
+- When performing drag actions like drawing selection box, rotating/resizing selection, entire interface blurs to provide more visible space.
+- Handles for adding new control points are located on the guide line.
+- New minimized mode in floating selection window.
+- Rich text dialog gains focus immediately after opening.
+- Add indicator showing width and height scale during resize.
+- Fix issue where snapping and thus new object drawing fails sometimes.
+- Add new arrow features on every side of a selection box allowing for starting drawing new 'pointing' objects originated on one of the sides of selected object like
+  - arrow to the object,
+  - arrow from the object,
+  - call out box,
+  - etc.
+
+## April 2024
+
+- New object type - Road region.
+- Updated user interface for Print Dialog.
+- Object transformations applied to objects in the scratchpad are preserved when placing object on plan.
+- Filled bezier object type can be shown in Legend and Manifest.
+- Show correct values for Hatch Spacing and Thickness in the property grid for the objects with fill property.
+- Invarion Cloud: fix bug when uploading a plan when Shared With Me section is active causes this plan to show up in the section. (It's only UI problem, the actual plan location was correct).
+- Small rotation degree indicator is shown when an object is being rotated.
+- Star icon on the selection has appropriate cursor.
+- Bug fixes:
+  - Proper handling of right click on control point.
+  - Incorrect zooming in print preview dialog.
+  - Fix cursor type when dragging append control point handle.
+  - Plan export crashes when exporting more than 3-4 pages with Linz basemap.
+
+## March 2024
+
+- Change rotation handles style and change cursor style for rotation handles.
+- Mouse wheel scroll over resize and rotation handles triggers zoom in and zoom out.
+- Change mouse cursor types to reflect object control points hover/dragging.
+- Add paste content type selector.
+- Lane marking tool dimensions fit roads lane markings.
+- Parking bay has 2 control points and Offset now instead of 3 control points.
+
 ## February 2024
 
 - Add Auto orientation mode of print regions.
