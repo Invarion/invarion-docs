@@ -5,18 +5,15 @@ sidebar_position: 1
 ---
 # Selecting objects and tools
 
-RapidPlan Online uses drag-and-drop technology. To select an object or tool, just click on it with the left mouse button, or tap for mobile devices. 
+RapidPlan Online uses drag-and-drop technology. To select an object or tool, just click on it with the left mouse button, or tap for mobile devices.
 
 **Tip:** If using a tool, once finished with your last control point, right click to finish using that tool.
 
 If you're selecting multiple objects on the canvas area, you can click on object and hold **SHIFT** key to preserve selected object or by pressing and holding left mouse button and then dragging mouse over objects that you want to select.
 
-To learn more about the select tool, please visit [Chapter 4](/docs/rapid-online/RapidPlan%20Online%20Workspace/Select%20tool.md).
+To learn more about the select tool, please visit [Chapter 4](/docs/rapid-online/RapidPlan Online Workspace/Select tool.md).
 
-
-**Table 5.1** explains the features available once an object is selected. 
-
-
+**Table 5.1** explains the features available once an object is selected.
 
 | Selected object                                         | Features                                                     |
 | ------------------------------------------------------- | ------------------------------------------------------------ |
