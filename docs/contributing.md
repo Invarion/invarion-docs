@@ -34,6 +34,37 @@ Having reasonably small goals would help to avoid merge conflicts, prevent the w
   - The file extension should be .md for Markdown files.
   - The document's id is determined by the file name. For example, if your file is named my-doc.md, the id of the document will be my-doc.
 
+## Metadata and sidebar configuration
+
+Each article and section may have metadata. Metadata is configured differently for articles and sections.
+
+### Metadata for articles
+
+Metadata for articles is defined at the beginning of the file in the following format:
+
+```markdown
+---
+sidebar_position: 2
+title: My Custom Title
+tags: ['tag1', 'tag2', 'tag3']
+---
+```
+
+Tags are used for SEO purposes, sidebar_position is used to define the order of the article in the sidebar.
+
+### Metadata for sections
+
+Each folder in the `docs` directory represents a section in the sidebar. The section metadata is defined in the `_category_.json` file in the following format:
+
+```json
+{
+  "label": "RapidPlan Online",
+  "position": 1
+}
+```
+
+Name of folder is used as a label, however, it can be overridden by the label property. Position is used to define the order of the section in the sidebar.
+
 ## Style guide
 
 The project uses Markdown lint to enforce a consistent style across the documentation. The rules are defined in the `.markdownlint-cli2.jsonc` file.
