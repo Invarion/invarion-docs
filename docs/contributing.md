@@ -25,6 +25,8 @@ Having reasonably small goals would help to avoid merge conflicts, prevent the w
 - Once the task is completed, push the changes to the remote repository by pressing on Push button.
 - Go to the [github repository page](https://github.com/Invarion/invarion-docs/pulls) and create a new pull request by pressing on the **New pull request** button and selecting your branch in the compare list.
 
+Example video of [the workflow](https://drive.google.com/file/d/1ecj_jVhb0tjvQ6zyMr5YCVN6Zrvwrtjw/view?usp=drive_link).
+
 ## Project structure
 
 - Follow standard recommendations from [docusaurus documentation](https://docusaurus.io/docs/next/create-doc).
