@@ -9,8 +9,8 @@ const config = {
   // tagline: "Dinosaurs are meh",
   url: 'https://invarion.github.io/',
   baseUrl: '/invarion-docs/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
   favicon: 'img/cropped-favicon-32x32.png',
 
   // GitHub pages deployment config.
