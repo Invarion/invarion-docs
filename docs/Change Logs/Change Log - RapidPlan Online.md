@@ -13,6 +13,9 @@ This document contains short description of RapidOnline product monthly releases
 
 ## May 2024
 
+- Bug fixes
+  - Locale settings are not correctly applied when saving in different browsers.
+  - Upload folders crashes when uploading a folder containing subfolders with plans while root folder has no any.
 - Arrow button on the corners of selection box has new option to 'Record swept path'.
 - When performing drag actions like drawing selection box, rotating/resizing selection, entire interface blurs to provide more visible space.
 - Handles for adding new control points are located on the guide line.
