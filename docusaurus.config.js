@@ -7,8 +7,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'Help Center',
   // tagline: "Dinosaurs are meh",
-  url: 'https://invarion.github.io/',
-  baseUrl: '/invarion-docs/',
+  url: 'https://help.invarion.com/',
+  baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
   favicon: 'img/cropped-favicon-32x32.png',
