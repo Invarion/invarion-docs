@@ -10,7 +10,7 @@ import { HomepageHeader } from '../components/HomepageHeader';
 
 export default function Home(): JSX.Element {
   return (
-    <Layout description="Help Venter for Invarion products.">
+    <Layout description="Help Center for Invarion products.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
