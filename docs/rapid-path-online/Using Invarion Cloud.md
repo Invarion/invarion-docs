@@ -20,11 +20,7 @@ Invarion Cloud is a dynamic web-application that consists of four main elements:
 | **Main View**       | Main view of the page showing selected folder or section.    |
 | **Offcanvas Panel** | Panel on the right side of the screen used for displaying details of selected plan or folder. |
 
-
-
 ![Invarion Cloud Layout](./assets/Invarion_Cloud_Layout%20(1).png)
-
-
 
 **Note:** Even though Invarion Cloud is a single page application, it stores your current folder location in your web browser search bar. Thanks to that, you can successfully create browser bookmarks for your favourite or commonly used sections.
 
@@ -42,15 +38,11 @@ When you first open the Invarion Cloud, the Home section is where you land. Here
 
 ![Home](./assets/Home%20(1).png)
 
-
-
-## Plans
+## Plans Section
 
 Plans is the main directory, containing all of your folders and files. Click on the arrow next to the plans to expand the folder tree and see your whole folder structure.
 
 ![Plans](./assets/Plans.png)
-
-
 
 Clicking on the folder will take you straight to that location. Your current location is also displayed on the top bar in the form of a path. Each element of the path is clickable:
 
@@ -59,17 +51,11 @@ Clicking on the folder will take you straight to that location. Your current loc
 
 ![Bread Crumbs](./assets/Current_Location.png)
 
-
-
-
 ## All Plans
 
 All Plans is a special section that shows all plans that you have access to. That includes plans shared with you by other users. This section doesn't show folders. Plans are displayed regardless of their containing folder.
 
 ![All Plans](./assets/All_Plans%20(1).png)
-
-
-
 
 **Tips:**
 
@@ -82,16 +68,11 @@ In this section, you can see all the plans that were shared with you by other Ra
 
 ![Shared With Me](./assets/Shared_With_Me%20(3).png)
 
-
-
-
 ## Trash
 
 Inside the Trash section you can find all your deleted plans and folders. Plans and folders in the trash will be automatically deleted after 30 days.
 
 ![Trash](./assets/Trash%20(1).png)
-
-
 
 You can restore the plan or a folder by choosing "Restore" option in the plan's or folder's context menu. If you want to clean up your trash manually, choose the "Delete forever" option from the same menu.
 
@@ -103,14 +84,11 @@ To create a new plan simply click on the "Create" button in the navigation menu 
 
 ![New_plan](./assets/New_plan.png)
 
-
-
 ### Opening Plans
 
 To open the plan click on it. This will open the panel with plan's details. Look for it on the right side of the screen. Inside the panel click on the "Open" button to open the plan in RapidPath Online.
 
 ![Open Plan](./assets/Openning_A_Plan.png)
-
 
 **Tip:** To open the plan in a separate tab or window, right click on "Open" and choose the desired option from the context menu.
 
@@ -128,7 +106,6 @@ You can see available actions for the plan by clicking on the "three dots" butto
 
 ![Plan Actions](./assets/Plan_Actions.png)
 
-
 Different actions you can do on plans:
 
 | Action        | Description                                                  |
@@ -139,8 +116,7 @@ Different actions you can do on plans:
 | **Move**      | Move plan to a different location.                           |
 | **History**   | Restore the previous version of the plan. Read more in chapter (see *Plan's History*) |
 | **Download**  | Download plan to your device.                                |
-| **Share**     | Opens window with sharing options for the plan. Read more in chapter [see *Sharing Plans*) |
-
+| **Share**     | Opens window with sharing options for the plan. Read more in chapter (see *Sharing Plans*) |
 
 ## Folders
 
@@ -152,8 +128,6 @@ To create a folder click on "+ Create" a button and choose the "New folder" opti
 
 ![Create New Folder](./assets/Creating_New_Folder.png)
 
-
-
 **Notes:**
 
 - You can change folder's name at any time using rename option in the folder's context menu on folder's details.
@@ -164,10 +138,6 @@ To create a folder click on "+ Create" a button and choose the "New folder" opti
 You can see available actions for the folder by clicking on the "three dots" button near its name. This will open folder's context menu with all options listed.
 
 ![Folder Actions](./assets/Folder_Actions.png)
-
-
-
-
 
 Different actions you can do on folders:
 
@@ -183,14 +153,7 @@ Plan's or folder's details can be shown in the hideable panel on the right side 
 
 ![Plan Details](./assets/Plan_Details.png)
 
-
-
-
-
-![Folder Details](./assets/Folder_Details.png
-
-
-
+![Folder Details](./assets/Folder_Details.png)
 
 | Plan's Details    |                                                              |
 | ----------------- | ------------------------------------------------------------ |
@@ -202,14 +165,10 @@ Plan's or folder's details can be shown in the hideable panel on the right side 
 | **Public access** | Shows whether the plan has enabled sharing via public link.  |
 | **Collaborators** | List of the other collaborators invited to the plan.         |
 
-
-
 | Folder's Details |                        |
 | ---------------- | ---------------------- |
 | **Created at**   | Creation time and date |
 | **Created by**   | Folder's owner         |
-
-
 
 Additionally, the details panel includes buttons for basic option such as "Open", "Move", "Share", "Delete" for plans, and "Move", "Rename", "Delete" for folders.
 
@@ -225,17 +184,11 @@ Invarion Cloud lets you view your plans in three different ways:
 | **Tile View**  | The tile view presents your plans as a series of thumbnail images. The tiles show a preview of the plan, for easy identification. Shared plans have special overlay icon that indicates that a plan has been shared. To sort in tile view click on "sort" button on the top bar and choose a desired sorting option. |
 | **Map**        | The map view displays your plans on a map. This can be useful when searching for a plan at a specific location, or for visualizing clusters of projects within a particular region. Plans displayed on the map will show depending on the folder you are currently in. To see all of your plans on the map, open map view while in the "All Plans" section. |
 
-
-
 ![Different Views](./assets/Different_Views.png)
-
-
 
 To change the view use the appropriate buttons on the top bar.
 
 ![View Toggler](./assets/Switching_The_View.png)
-
-
 
 You can change the view at any moment. It won't reset your current location or search results. The view you last selected will be saved in your browser as your default view. So next time you enter Invarion Cloud your preferred view will be shown.
 
@@ -255,9 +208,6 @@ Invited user will be notified about this fact in email, and the shared plan will
 
 ![Share Plan Dialogue](./assets/Adding_Users_To_The_Plan.png)
 
-
-
-
 List of things collaborators can do:
 
 - edit your plan,
@@ -273,10 +223,7 @@ List of things collaborators can't do:
 
 You can track the activity on your shared plan using the plan's details where the last modification date and person responsible for the change are listed. Collaborators are also listed in the plan's history where you can restore any previous version of the plan (see **Plan's History**).
 
-
 ![Plan's History](./assets/Collaborators_In_Plan_History.png)
-
-
 
 ### Sharing via Public Link with Anyone
 
@@ -286,10 +233,7 @@ To create a sharable link click on the "Share" option in the plan's context menu
 
 ![Create Public Link](./assets/Creating_Public_Link.png)
 
-
 ![Plan in Read Only Mode](./assets/Plan_In_Read_Only_Mode.png)
-
-
 
 ## Plan's History
 
@@ -297,9 +241,8 @@ Invarion Cloud keeps track of every modification made to the plan. Anytime the p
 
 ![Plan's History](./assets/Plan_History.png)
 
-
-
-To use recovery options select "History" from the plan's context menu. A new dialogue will appear listing all the possible recovery points for this plan. Select the one you are interested in and choose one of two options, "Restore this version" or "Create copy". The former restores the original plan to the selected previous version. The latter creates a new plan from information saved in the selected recovery point. Recovery points listed in the "History" dialogue are divided by date. Additionally to that each one has unique number, timestamp and user responsible for the modification made to the plan.
+To use recovery options select "History" from the plan's context menu. A new dialogue will appear listing all the possible recovery points for this plan. Select the one you are interested in and choose one of two options, "Restore this version" or "Create copy".
+The former restores the original plan to the selected previous version. The latter creates a new plan from information saved in the selected recovery point. Recovery points listed in the "History" dialogue are divided by date. Additionally to that each one has unique number, timestamp and user responsible for the modification made to the plan.
 
 **Note:** If you restore a previous version of the plan, you will still have access to the later versions of the document. So, no risk is involved.
 
@@ -311,12 +254,10 @@ To enter settings use the "Settings" button at the bottom of the navigation menu
 
 ![Settings](./assets/Settings%20(1).png)
 
-
 ## Logging Out and Contact
 
 To Log out of the Invarion Cloud click on the "your initials" button in the top-right corner of the screen and choose "Logout".
 
 ![Logout](./assets/Logging_Out.png)
-
 
 If you have any questions about Invarion Cloud, or you would like to see a particular feature added, please feel free to contact us. To open contact page click on the "your initials" button in the top-right corner of the screen and choose "Support".
