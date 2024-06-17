@@ -9,12 +9,10 @@ All delineator lines start by default as Cones. They can then be changed into th
 
 **To create a basic delineator line:**
 
- - Select the Delineator from the Markers tab in the Tools Palette;
- - Click once where you wish to start drawing (don't hold);
- - Click at each corner for your line, to drop a control point;
- - After you have placed the end point, right click to stop drawing;
- - Right click to clear the cursor.
+- Select the Delineator from the Markers tab in the Tools Palette;
+- Click once where you wish to start drawing (don't hold);
+- Click at each corner for your line, to drop a control point;
+- After you have placed the end point, right click to stop drawing;
+- Right click to clear the cursor.
 
-
-
-![ ](./assets/Drawing_with_Delineators.png)
+![Drawing with Delineators](./assets/Drawing_with_Delineators.png)

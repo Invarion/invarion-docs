@@ -57,6 +57,3 @@ The Tools palette contains most of the elements required to draw a plan. The too
 |      **Arc Pie**      | ![prim12](./Assets/prim12.png) | Creates an arc shape that can be filled with a custom color  |
 | **Rounded Rectangle** | ![prim13](./Assets/prim13.png) | Creates rectangle with rounded edges that can be filled with a custom color |
 |   **Insert Image**    | ![prim14](./Assets/prim14.png) | Insert an image file (jpeg, png, gif) to drop onto the canvas area |
-
-
-

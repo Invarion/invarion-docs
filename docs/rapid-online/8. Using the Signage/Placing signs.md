@@ -15,8 +15,6 @@ Placing signs is simple. Once your sign is placed you can move, resize and rotat
 
 - Click to drop the sign on the canvas.
 
+## Note
 
-
-### Note
-
-The layout of the Signs palette was discussed [here](/docs/rapid-online/RapidPlan%20Online%20Workspace/Signs%20palette.md). Please note this section details using the signing on your canvas area. 
+The layout of the Signs palette was discussed [here](/docs/rapid-online/RapidPlan%20Online%20Workspace/Signs%20palette.md). Please note this section details using the signing on your canvas area.
