@@ -3,9 +3,9 @@
 sidebar_position: 5
 
 ---
-# The Road Region tool 
+# The Road Region tool
 
-The Road Region tool is **free form** road tool which you can use to draw irregular paved surfaces, like parking lots. 
+The Road Region tool is **free form** road tool which you can use to draw irregular paved surfaces, like parking lots.
 
 **To create a road region:**
 

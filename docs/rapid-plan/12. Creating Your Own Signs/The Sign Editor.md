@@ -9,20 +9,19 @@ To open the Sign Editor, select **View** and tick the **Sign Editor** box. The p
 
 ![Opening_the_Sign_Editor_Palette](./assets/Opening_the_Sign_Editor_Palette.png)
 
-**How to use the Sign Editor** 
+## How to use the Sign Editor
 
 In the Sign Editor you can:
 
- - Produce and Save Sign Variations
- - Edit Sign Variations
- - Add a Sign Description
- - Add Sign Codes 
- - Add Sign Sizes
+- Produce and Save Sign Variations
+- Edit Sign Variations
+- Add a Sign Description
+- Add Sign Codes
+- Add Sign Sizes
 
 ![sign editor palette](./assets/The_Sign_Editor_Palette.png)
-    
-    
-## Opening a Sign into Sign Editor 
+
+## Opening a Sign into Sign Editor
 
 To open a sign in the Sign Editor you have two options;
 
@@ -47,11 +46,11 @@ As shown above, the **Quick Edit** window is the same as discussed in other sect
 
 Adding a description for you sign, and/or codes and sign sizes is very easy in the Sign Editor.
 
-**To Add a Designation Code to your Sign:** 
+**To Add a Designation Code to your Sign:**
 
- - Enter your desired code in the section below **Sign Codes**.
- - Select **Add**.
- - Once you have completed your sign, select **Save to Library** to save your sign and all its variations to the Sign Palette.
+- Enter your desired code in the section below **Sign Codes**.
+- Select **Add**.
+- Once you have completed your sign, select **Save to Library** to save your sign and all its variations to the Sign Palette.
 
     ![Adding_a_Code_to_your_Sign](./assets/Adding_a_Code_to_your_Sign.png)
 

@@ -5,7 +5,7 @@ sidebar_position: 5
 ---
 # Create a Base Sign
 
-There are two methods that you can use to create your base sign. You can either start from scratch with new basic shapes, or you can ungroup an existing sign and use that as a template.
+There are two methods that you can use to create your base sign. You can either start from scratch with new basic shapes, or you can un-group an existing sign and use that as a template.
 
 ## Starting by Editing another Sign
 
@@ -17,9 +17,9 @@ If your new sign is to be similar in appearance to an existing sign, or even if 
 
 If you want to start from scratch, there are a couple of guidelines you should adhere to:
 
- - **Sign frame**: You should ensure that the line stroke width for the frame of your sign is 1.5 pt or above. 
- - **Size**: Try and keep you signs roughly the same size as the original ones packaged with RapidPlan.
- - **Font**: Whilst the font isn't critical, the size is. Try to keep your font to a minimum 8pt or above,
+- **Sign frame**: You should ensure that the line stroke width for the frame of your sign is 1.5 pt or above.
+- **Size**: Try and keep you signs roughly the same size as the original ones packaged with RapidPlan.
+- **Font**: Whilst the font isn't critical, the size is. Try to keep your font to a minimum 8pt or above,
 bold setting (all the default signs use Arial).
 
 ## Using Components from Other Signs
