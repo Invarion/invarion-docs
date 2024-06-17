@@ -5,7 +5,7 @@ sidebar_position: 20
 ---
 # Flip, Alignment and Spacing Toolbars
 
-## Flip Toolbar 
+## Flip Toolbar
 
 The flip toolbar allows you to flip selected objects, signs, roads, etc., either vertically or horizontally. You can also rotate these objects after selecting them by hitting **CTRL + R** on your keyboard.
 
@@ -17,7 +17,7 @@ This toolbar allows you to align boundaries of selected objects, signs, roads, e
 
 ![The_Alignment_Toolbar](./assets/The_Alignment_Toolbar.png)
 
-##  Spacing Toolbar 
+## Spacing Toolbar
 
 The spacing toolbar allows you to distribute any selected objects horizontally or vertically. This toolbar only becomes visible when multiple objects (three and more) are selected and encapsulated.
 

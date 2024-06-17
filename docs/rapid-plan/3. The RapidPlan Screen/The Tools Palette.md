@@ -91,7 +91,6 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |![polyline](./assets/Polyline_icon.png)           | Polyline              |![spline](./assets/Spline_icon.png)                   | Spline              |
     |![bezier](./assets/Bezier_icon.png)             | Bezier                |![arrow](./assets/Arrow_icon.png)                      | Arc                 |
     |![arrow](./assets/Arrow_icon.png)              | Arrow                 |![marked path](./assets/Marked_path_icon.png)              | Marked path         |
-    :::
 
  9. **Shapes** - These simple shape tools allow you to create your own objects and signs for your plans.
 

@@ -9,9 +9,9 @@ Most of the RapidPlan objects can be resized by moving their control points. Mov
 
 **To resize with control points:**
 
- - Select the item you wish to resize.
- - Drag its control points until the object is the size and shape you
-   require. 
+- Select the item you wish to resize.
+- Drag its control points until the object is the size and shape you
+   require.
 
     ![Control_Point_resize](./assets/Control_Point_resize.png)
 

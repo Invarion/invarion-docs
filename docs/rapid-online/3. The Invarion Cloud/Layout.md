@@ -4,7 +4,9 @@ sidebar_position: 2
 
 ---
 # Layout
+
 ## Overview
+
 Invarion Cloud is a dynamic web-application that consists of for main elements:
 
 |Element|Description|
@@ -17,4 +19,3 @@ Invarion Cloud is a dynamic web-application that consists of for main elements:
 ![Layout](./assets/Invarion_Cloud_Layout.png)
 
 **Note:** Even though Invarion Cloud is a single page application, it stores your current folder location in your web browser search bar. Thanks to that, you can successfully create browser bookmarks for your favourite or commonly used sections.
-

@@ -13,7 +13,6 @@ Click on to the measurement tools button to bring up the toolbar - there are 6 d
 
 Each measurement tool just requires a click and then another click at desired point/s to find the measurement between different points.
 
-
 |Measurement Tools                                              |                                   |
 |:-------------------------------------------------------------:|-----------------------------------|
 |![Two_Points](./assets/Two_Points.png)                 | Measure distance between 2 points |
@@ -23,6 +22,4 @@ Each measurement tool just requires a click and then another click at desired po
 |![Any_Area](./assets/Any_Area.png)                   | Measure any area                  |
 |![Angle_Between_Two_Lines](./assets/Angle_Between_Two_Lines.png)    | Measure angle between two lines   |
 
-
 ![Distance_along_a_path_measurement](./assets/Distance_along_a_path_measurement.png)
-

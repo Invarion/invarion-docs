@@ -9,5 +9,5 @@ sidebar_position: 10
 
     ![Quick_Edit_screen](./assets/Quick_Edit_screen.png)
 
-1. Make any necessary adjustments to the settings.
-2. The Preview window will show you any adjustments you've made. Press Ok to complete your changes.
+1.Make any necessary adjustments to the settings.
+2.The Preview window will show you any adjustments you've made. Press Ok to complete your changes.

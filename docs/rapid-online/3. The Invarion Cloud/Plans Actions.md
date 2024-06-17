@@ -17,6 +17,6 @@ Different actions you can do on plans:
 |**Delete**|Move plan to trash.|
 |**Duplicate**|Create a copy of the plan. Duplicate will appear in the same location as the original plan.|
 |**Move**|Move plan to a different location.|
-|**History**|Restore the previous version of the plan. Read more in chapter [Plan's History](./Plan_s%20History.md)
+|**History**|Restore the previous version of the plan. Read more in chapter [Plan's History](./Plan_s%20History.md)|
 |**Download**|Download plan to your device.|
 |**Share**|Opens window with sharing options for the plan. Read more in chapter [Sharing Plans](./Sharing%20Plans.md)  |

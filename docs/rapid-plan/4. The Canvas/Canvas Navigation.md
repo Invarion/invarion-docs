@@ -17,13 +17,13 @@ If you become lost in your unrestricted canvas, you can simply click the **Scrol
 
 Scrolling used around the RapidPlan canvas is very simple, and there are two main ways to do so.
 
-### The Canvas-Shift Technique 
+### The Canvas-Shift Technique
 
-Holding down the **SPACE BAR**, then dragging on the canvas with the mouse will cause the canvas to move and follow the mouse. It is an extremely efficient way of moving around, because your mouse need not leave the canvas to action the scroll bars. 
+Holding down the **SPACE BAR**, then dragging on the canvas with the mouse will cause the canvas to move and follow the mouse. It is an extremely efficient way of moving around, because your mouse need not leave the canvas to action the scroll bars.
 
 ### The Scroll Bars
 
-Using the scroll bars like virtually all desktop publishing programs (and virtually all other Windows applications) RapidPlan has a set of scrollbars along the edge of the canvas allowing you to move up, down and across the canvas. This will be the primary way that you will move around in RapidPlan.
+Using the scroll bars like virtually all desktop publishing programs (and virtually all other Windows applications) RapidPlan has a set of scroll bars along the edge of the canvas allowing you to move up, down and across the canvas. This will be the primary way that you will move around in RapidPlan.
 
 ![Scroll_Bars](./assets/Scroll_Bars.png)
 
@@ -43,14 +43,13 @@ Using the scroll bars like virtually all desktop publishing programs (and virtua
 | ![Zoom_All_Objects](./assets/Zoom_All_Objects.png)     | **Adjust Zoom to see all Objects in Plan** - This feature zooms to a range that completely encompasses all of the elements on the plan, but no more. This feature is especially helpful if you lose your bearings on the unrestricted canvas   |
 | ![Zoom_Selected_Object](./assets/Zoom_Selected_Object.png) | **Adjust Zoom to see Selected Objects** - This feature is used to zoom in on a selected object                        |
 
-
-### *Note: 
+### *Note
 
 **Select Area to Zoom** to can be done by:
 
- - Selecting **Select Area to Zoom to** in the zoom toolbar.
- - Click and drag (hold down the mouse button) a box around the area that you wish to magnify.
- - The area that you encapsulate in your zoom region will be shown in full in your drawing window. 
+- Selecting **Select Area to Zoom to** in the zoom toolbar.
+- Click and drag (hold down the mouse button) a box around the area that you wish to magnify.
+- The area that you encapsulate in your zoom region will be shown in full in your drawing window.
 
     ![Zoom_Region](./assets/Zoom_Region.png)
 
@@ -59,4 +58,3 @@ Alternatively:
 - for this feature you can simply right-click on a selected area of the canvas and select **zoom to selection**.
 
     ![Right_Click_Zoom_Method](./assets/Right_Click_Zoom_Method.png)
-

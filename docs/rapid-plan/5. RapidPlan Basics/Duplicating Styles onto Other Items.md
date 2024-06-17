@@ -11,7 +11,7 @@ As shown in the image below, you can paste the style/properties of one item onto
 
 **To duplicate a style onto a different item:**
 
- - Select the item to duplicate style.
- - Press **CTRL + C**
- - Now select item to transfer the style onto it.
- - Press **CTRL + SHIFT + V**
+- Select the item to duplicate style.
+- Press **CTRL + C**
+- Now select item to transfer the style onto it.
+- Press **CTRL + SHIFT + V**

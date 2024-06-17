@@ -3,7 +3,7 @@
 sidebar_position: 29
 
 ---
-# Signs are just Groups too...
+# Signs are like groups
 
 Every sign in RapidPlan is made of a group of primitive objects - the most simple of which consist purely of a colored rectangle or square with text. These can be edited using the techniques shown above to create new signs.
 
