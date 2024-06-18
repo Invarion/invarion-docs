@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 17
+sidebar_position: 9
 
 ---
 # In-place print preview
