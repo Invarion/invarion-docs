@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 21
+sidebar_position: 7.1
 
 ---
 # Setting Custom Scale and Rotation Points
