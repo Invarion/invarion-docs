@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 11
+sidebar_position: 6.1
 
 ---
 # The Dimensions Input Panel
