@@ -1,9 +1,12 @@
 ---
 
-sidebar_position: 9
+sidebar_position: 3
 
 ---
-# The Lane Marker tool
+
+# Road Marking Tools
+
+## The Lane Marker tool
 
 The automatic lane markings on the road always perfectly follow the curve of the road. Sometimes you will need to create something different, so RapidPlan has a custom lane marker tool. In a lot of cases, you will use the Lane Marker tool in conjunction with the lane mask tool. The example below will show you how to combine the two.
 
@@ -31,3 +34,22 @@ You can change the lane marker to any of the standard lane styles (Dashed, Solid
 - Double click on the lane marking
 - On its properties screen, make any required alterations to the type and color of the line
 - Click Ok to accept the changes
+
+## The Flush Median Tool
+
+This tool works like any Polygon where you click to place each of its corners and can adjust the control points to get the shape you need.
+
+![A_Flush_Median_tool](./assets/A_Flush_Median_tool.png)
+
+## The Chevron Flush Median Tool
+
+This tool also works like a polygon, with the first click forming the tip of the chevron.
+
+**To place the chevron flush median tool:**
+
+- Select the Chevron Flush Median tool from the Markings tab in the Tools Palette
+- Your first click will be the top point of the shape (in the direction of the chevron)
+- Then click for all other consecutive points
+- Right click to finish
+
+    ![Chevron_Flush_Median_tool](./assets/Chevron_Flush_Median_tool.png)
