@@ -7,12 +7,11 @@ sidebar_position: 5
 
 The purpose of the Auto template tool is to semi-automate the process of creating a traffic plan.
 
-Auto templates are capable of laying out basic signage and work site devices at a selected works location. 
+Auto templates are capable of laying out basic signage and work site devices at a selected works location.
 
-This also includes parameters such as sign spacing and sign placing. These parameters are calculated based on road properties such as the road category and the marked speed. 
+This also includes parameters such as sign spacing and sign placing. These parameters are calculated based on road properties such as the road category and the marked speed.
 
-**Disclaimer:**
-
+*Disclaimer:*
 *The information presented in the auto templates is to be regarded as guidance, and should be altered, when necessary, to fit the conditions of a particular temporary traffic control zone*
 
 *Procedures for establishing temporary traffic controls depend on a number of conditions (road configuration, location of the work, work activity, duration of work, road user volumes, road vehicle mix, road user speeds) and can therefore vary. Selection of the most appropriate template, to use as a guide for a specific work zone, requires an understanding of each situation.*
@@ -41,7 +40,7 @@ This also includes parameters such as sign spacing and sign placing. These param
 
 ![Enter_Plan_Details](./assets/Enter_Plan_Details.png)
 
-- You will then be presented with your auto template on the canvas area. In the top left of your canvas area you will be presented with a dialogue box, this just confirms your widths and tapers. You can adjust them further, if required. 
+- You will then be presented with your auto template on the canvas area. In the top left of your canvas area you will be presented with a dialogue box, this just confirms your widths and tapers. You can adjust them further, if required.
 - Clicking the **Invert** button will switch your works to the opposite side of the road. **Reset** will set the parameters back to their defaults.
 - When all the information is correct, hit **Complete** and the final template is generated on the canvas area.
 

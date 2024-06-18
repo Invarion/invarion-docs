@@ -7,9 +7,9 @@ sidebar_position: 2
 
 The sign palette is the repository for each of the signs in RapidPlan. Aside from the signs themselves, the signs palette has three main components:
 
- - The Sign Library
- - The Sign Categories
- - Search Signs
+- The Sign Library
+- The Sign Categories
+- Search Signs
 
     ![Signs_Palette](./assets/Signs_Palette.png)
 
@@ -31,4 +31,3 @@ New version of RapidPlan allows you to search entire signs library by a keyword,
 ![Sign_search](./assets/Sign_search.png)
 
 **Note:** R1-1 is code for STOP sign in Australia, other countries codes may vary
-

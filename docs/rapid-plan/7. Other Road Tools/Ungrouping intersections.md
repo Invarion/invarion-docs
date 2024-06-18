@@ -3,8 +3,7 @@
 sidebar_position: 24
 
 ---
-# Ungrouping intersections   
-
+# Ungrouping intersections
 
 The intersection editor is designed to assist in drawing typical intersections. If any additional adjustments are required for more complex intersection layouts, an intersection can be ungrouped, allowing all its elements to be freely edited (ungrouped elements become regular plan objects, exposing adjustable control points and properties). To ungroup, simply select an intersection and hit Ctrl+U.
 

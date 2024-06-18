@@ -3,7 +3,7 @@
 sidebar_position: 5
 
 ---
-# Select with a Selection Box 
+# Select with a Selection Box
 
 The other way to select an object is by dragging a selection box around it. Simply click outside the bounds of your object, and drag the selection box out until it completely encompasses it. Release the mouse, and your object will be selected.
 

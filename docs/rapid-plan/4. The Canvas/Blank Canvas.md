@@ -5,7 +5,7 @@ sidebar_position: 2
 ---
 # Blank Canvas
 
-Selecting the **blank canvas** option will provide you with a plain canvas to draw your plan on. 
+Selecting the **blank canvas** option will provide you with a plain canvas to draw your plan on.
 
 **To create a Blank Canvas Plan:**
 

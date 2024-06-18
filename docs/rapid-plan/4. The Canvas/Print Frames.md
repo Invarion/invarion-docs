@@ -26,6 +26,7 @@ Once you're done editing the frame, you click one of the red X icons or press th
 
 ## Setting a default frame
 
-If you're using a single frame template for most of your TCP documents, you can make it the default frame, which means it will automatically be used when printing/exporting diagrams that don't specify their own frames. Save your frame as a .tcpf file, then go to **File** > **Print** > **Print Options** and click **Edit default print frame settings**. This expands a panel letting you browse for the pre-saved frame file. Check the **Use as default print frame** box and the frame contents should appear on the Print Preview. Click Save to close the options dialog.
+If you're using a single frame template for most of your TCP documents, you can make it the default frame, which means it will automatically be used when printing/exporting diagrams that don't specify their own frames. Save your frame as a .tcpf file, then go to **File** > **Print** > **Print Options** and click **Edit default print frame settings**. This expands a panel letting you browse for the pre-saved frame file.
+Check the **Use as default print frame** box and the frame contents should appear on the Print Preview. Click Save to close the options dialog.
 
 ![Setting_a_default_frame](./assets/Setting_a_default_frame.png)

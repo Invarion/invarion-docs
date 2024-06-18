@@ -22,8 +22,6 @@ These options include:
 - **Page margins:** Adjust the page margins.
 - **Print or export:** When ready to print, simply select the **Get PDF** button to download your plan as a .PDF file, or select **Get Image** to download the plan as a .PNG file.
 
-
-
 ## Printing and exporting plans
 
 Once the **Get PDF** button has been selected, you will be able to Print or Download your plan to PDF.

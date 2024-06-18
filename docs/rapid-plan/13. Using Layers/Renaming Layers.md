@@ -11,6 +11,6 @@ Renaming layers is useful because it allows you to better organize your file aro
 
 **To rename a layer in your plan:**
 
- - Double click on the desired layer from the Layer Selector (or Right click and select **Rename**). The name of the layer is automatically highlighted, ready for change.
- - Click inside the layer selector box and type in the new name for your layer.
- - Either press Enter or simply click back out onto the canvas. Your new name is saved.
+- Double click on the desired layer from the Layer Selector (or Right click and select **Rename**). The name of the layer is automatically highlighted, ready for change.
+- Click inside the layer selector box and type in the new name for your layer.
+- Either press Enter or simply click back out onto the canvas. Your new name is saved.

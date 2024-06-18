@@ -11,10 +11,10 @@ When this tool is selected, a **Multi Message Sign Wizard** box will appear wher
 
 **Multi Message sign placement:**
 
- - Select the **Multi Message Sign** tool from the Devices tab in the Tools Palette
- - Toggle through the size tabs to view the signs available in each size category and preview the placement of each sign in the preview pane on the right
- - Select the signs and placement you want to add to the message board
- - Click **Create** to update the marker
+- Select the **Multi Message Sign** tool from the Devices tab in the Tools Palette
+- Toggle through the size tabs to view the signs available in each size category and preview the placement of each sign in the preview pane on the right
+- Select the signs and placement you want to add to the message board
+- Click **Create** to update the marker
 
     ![Create_a_new_Multi_Message_Sign](./assets/Create_a_new_Multi_Message_Sign.png)
 
@@ -30,6 +30,6 @@ If there are some signs that you never use them, you can hide it from your signs
 
 ![MMS_hide_panel](./assets/MMS_hide_panel.png)
 
-To show hidden signs, click on **Show hidden** checkbox and you will see all the signs. Hidden signs will be grayed out. 
+To show hidden signs, click on **Show hidden** checkbox and you will see all the signs. Hidden signs will be grayed out.
 
 ![MMS_hidden_signs](./assets/MMS_hidden_signs.png)

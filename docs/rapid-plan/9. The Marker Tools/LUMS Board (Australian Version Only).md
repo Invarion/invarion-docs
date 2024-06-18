@@ -3,7 +3,8 @@
 sidebar_position: 9
 
 ---
-# LUMS Board (Australian Version Only) 
+# LUMS Board (Australian Version Only)
+
 This tool helps you create a Lanes Use Management System (LUMS) across a roadway on your plan. There are 10 different LUMS styles available for your plan.
 
 |Patterns                               |           |                                                   |               |
@@ -14,12 +15,11 @@ This tool helps you create a Lanes Use Management System (LUMS) across a roadway
 |![Exit_left_LUMS_table](./assets/Exit_left_LUMS_table.png)  | Exit left |![Exit_right_LUMS_table](./assets/Exit_right_LUMS_table.png) | Exit right    |
 |![Cross_LUMS_table](./assets/Cross_LUMS_table.png)      | Cross     |![Blank_LUMS_table](./assets/Blank_LUMS_table.png)      | Blank         |
 
-## Creating an LUMS Board 
+## Creating an LUMS Board
 
- - Select the **LUMS Board** tool in the Devices tab in the Tools Palette.
- - Click once to place an LUMS Board the first lane, continue this for each lane.
- - Once all of your LUMS Boards are set, you can select each one and change its style in the Properties Palette under the **Style** tab and the **Icon** drop down menu.
- - Right click to finish
+- Select the **LUMS Board** tool in the Devices tab in the Tools Palette.
+- Click once to place an LUMS Board the first lane, continue this for each lane.
+- Once all of your LUMS Boards are set, you can select each one and change its style in the Properties Palette under the **Style** tab and the **Icon** drop down menu.
+- Right click to finish
 
     ![LUMS_Board_Properties_Palette](./assets/LUMS_Board_Properties_Palette.png)
-

@@ -8,7 +8,7 @@ sidebar_position: 2
 ## Logging into Invarion Cloud
 
 To start using **RapidPath Online**, first log into your **Invarion Cloud** account. **[Log in here](https://cloud.invarion.com)** using the credentials you created when signing up for a subscription.
- 
+
 ![Log_in_to_the_Invarion_Cloud](./assets/Log_in_to_the_Invarion_Cloud.png)
 
 ## Creating your first plan
@@ -24,4 +24,3 @@ After you finish, you can find your plan in the **Plans** sections inside **Inva
 If you ever need to update your subscription, **[Log in here](https://invarion.com/)** and navigate to the **My Account** page.
 
 ![Invarion_account](./assets/Invarion_account.png)
-

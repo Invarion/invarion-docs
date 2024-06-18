@@ -9,12 +9,12 @@ In [The Canvas](/docs/rapid-plan/The%20Canvas/) we covered how to start a new pl
 
 **To access the integrated mapping feature:**
 
- - Select the **New Plan Wizard** on the Welcome screen.
- - In **step 1** select a **Base Map** plan.
- - In **step 2** you can specify a plan scale or leave it as the default scale.
- - Now specify a job location. You can search location by street address or longitudinal and latitudinal coordinates.
- - The red cross in the center of the map points to the job location, scroll the map as necessary to the desired location.
- - Once the scale and location are set, select **Create Plan** at the top.
+- Select the **New Plan Wizard** on the Welcome screen.
+- In **step 1** select a **Base Map** plan.
+- In **step 2** you can specify a plan scale or leave it as the default scale.
+- Now specify a job location. You can search location by street address or longitudinal and latitudinal coordinates.
+- The red cross in the center of the map points to the job location, scroll the map as necessary to the desired location.
+- Once the scale and location are set, select **Create Plan** at the top.
 
     ![Searching_for_Job_Location](./assets/Searching_for_Job_Location.png)
 

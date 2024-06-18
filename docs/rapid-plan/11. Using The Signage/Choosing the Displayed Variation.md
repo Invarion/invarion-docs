@@ -9,9 +9,9 @@ Because there are often multiple versions of the same sign, you need to tell Rap
 
 **To set a different variation of a selected sign:**
 
- - Select the sign and go to the Properties Palette.
+- Select the sign and go to the Properties Palette.
 
- - Make changes to sign variations as necessary. I will change the sign to allow Fax Mode (no color) and to show it's sign code as follows.
+- Make changes to sign variations as necessary. I will change the sign to allow Fax Mode (no color) and to show it's sign code as follows.
 
 ![Changing_a_Signs_Properties](./assets/Changing_a_Signs_Properties.png)
 

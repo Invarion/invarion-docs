@@ -9,7 +9,8 @@ Invarion Cloud keeps track of every modification made to the plan. Anytime the p
 
 ![Plan's History](./assets/Plan_History.png)
 
-To use recovery options select "History" from the plan's context menu. A new dialogue will appear listing all the possible recovery points for this plan. Select the one you are interested in and choose one of two options, "Restore this version" or "Create copy". The former restores the original plan to the selected previous version. The latter creates a new plan from information saved in the selected recovery point. Recovery points listed in the "History" dialogue are divided by date. Additionally to that each one has unique number, timestamp and user responsible for the modification made to the plan.
+To use recovery options select "History" from the plan's context menu. A new dialogue will appear listing all the possible recovery points for this plan. Select the one you are interested in and choose one of two options, "Restore this version" or "Create copy". The former restores the original plan to the selected previous version. The latter creates a new plan from information saved in the selected recovery point. Recovery points listed in the "History" dialogue are divided by date.
+In addition to that each one has unique number, timestamp and user responsible for the modification made to the plan.
 
 **Note:** If you restore a previous version of the plan, you will still have access to the later versions of the document. So, no risk is involved.
 

@@ -5,7 +5,7 @@ sidebar_position: 2
 ---
 # Invarion Launcher Client Intro Screen
 
-Once downloaded, you can login to the Launcher using the username and password provided by Invarion. 
+Once downloaded, you can login to the Launcher using the username and password provided by Invarion.
 
 If it's the first time a user is logging in, you will be presented with the below instructions in the Invarion Launcher.
 
@@ -17,15 +17,15 @@ Clicking on Sign In will direct the user to a browser window to enter the userna
 
 ![browser log in](./assets/Browser_log_in.png)
 
-Once the user has logged into the Launcher client, the applications assigned to that user will display. Clicking 'Open' will launch that specific application. 
+Once the user has logged into the Launcher client, the applications assigned to that user will display. Clicking 'Open' will launch that specific application.
 
-If an update is required, the Launcher will automatically download and apply this prior to launching the application. 
+If an update is required, the Launcher will automatically download and apply this prior to launching the application.
 
 To manually check for any updates, simply click the refresh icon in the top left of the Launcher window.
 
 ![launcher client](./assets/Launcher_client.png)
 
-To check which version of RapidPlan you are using, simply click the drop-down arrow. 
+To check which version of RapidPlan you are using, simply click the drop-down arrow.
 
 This will detail the current RapidPlan version you are using, signage packages and any applicable add-ons for your user profile.
 
@@ -39,6 +39,6 @@ If you have both RapidPlan & RapidPath, you can specify which application will l
 
 ![launcher settings](./assets/Launcher_settings.png)
 
-The 'Show advanced settings' button contains features that our support team will advise you to access, should you encounter any technical issues. 
+The 'Show advanced settings' button contains features that our support team will advise you to access, should you encounter any technical issues.
 
 We advise only to access these settings in those circumstances.

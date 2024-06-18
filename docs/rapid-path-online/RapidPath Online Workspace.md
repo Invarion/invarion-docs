@@ -26,7 +26,7 @@ The following sections steps through each of component of the workspace.
 
 ## Canvas area
 
-The Canvas area is where your swept path plan is created. When you open a new plan, a Google Maps (satellite view) of your worksite location is displayed on the canvas background. 
+The Canvas area is where your swept path plan is created. When you open a new plan, a Google Maps (satellite view) of your worksite location is displayed on the canvas background.
 
 ## Main Menu
 
@@ -123,14 +123,12 @@ The Tools palette contains most of the elements required to annotate a swept pat
 
 ### Vehicles palette
 
-The Vehicles palette is the repository for each of the vehicles in RapidPath Online. 
+The Vehicles palette is the repository for each of the vehicles in RapidPath Online.
 
 There are 2 components, **Vehicle libraries** and **Vehicle selection**.
 
 - Your license will come with the standardized vehicles package for your region, you can choose to add more vehicle libraries to your license via your [Account portal](https://accounts.invarion.com/manage/my-company)
 - You can select a vehicle by left-clicking and then left-clicking to position it on the canvas area.
-
-
 
 ![Vehicle_palette](./assets/Vehicle_palette.png)
 

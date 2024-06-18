@@ -5,7 +5,8 @@ sidebar_position: 18
 ---
 # Anchoring print frame objects
 
-Anchoring objects to frame edges can be used to ensure they're always positioned the same way with respect to the page border, regardless of the current page size and orientation. This makes your frames more flexible as they'll automatically adjust to any printout dimensions. To anchor an object, select it and double-click on one of the 8 anchor points represented by blue triangles. This will automatically move the object towards the anchor point. If you prefer to create the anchor without moving the object, hold the **CTRL** while double-clicking. In either case, the object's offset from the anchor point will be preserved when the page size changes. 
+Anchoring objects to frame edges can be used to ensure they're always positioned the same way with respect to the page border, regardless of the current page size and orientation. This makes your frames more flexible as they'll automatically adjust to any printout dimensions. To anchor an object, select it and double-click on one of the 8 anchor points represented by blue triangles.
+This will automatically move the object towards the anchor point. If you prefer to create the anchor without moving the object, hold the **CTRL** while double-clicking. In either case, the object's offset from the anchor point will be preserved when the page size changes.
 
 ![Double_click_to_anchor.png](./assets/Double_click_to_anchor.png)
 

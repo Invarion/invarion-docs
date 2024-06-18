@@ -11,7 +11,7 @@ There are three ways of importing your roads;
 
  1. Import **all roads in Print Region** by right clicking on the print region printer icon and selecting **Import Roads**.
  2. Select a custom area via **Tools** > **Import** > **Road Layout** to import **all roads in the custom area**.
- 3. Select **individual roads** by right clicking on the road and selecting **Import Roads**. 
+ 3. Select **individual roads** by right clicking on the road and selecting **Import Roads**.
 
 ![Imported_Roads](./assets/Imported_Roads.jpg)
 
@@ -32,7 +32,7 @@ Once your road widths are adequate, you may need to make some manual adjustments
 
     ![Changing_Road_Opacity_to_see_Satellite_Image_Below](./assets/Changing_Road_Opacity_to_see_Satellite_Image_Below.jpg)
 
-2. You may need to adjust the roads by adding **road corners** or **turning lanes**, etc. Make sure to copy the **style** of the road to each road tool by copying the style from the main road, selecting the new object and using **CTRL + SHIFT +V** to paste the style.
+2.You may need to adjust the roads by adding **road corners** or **turning lanes**, etc. Make sure to copy the **style** of the road to each road tool by copying the style from the main road, selecting the new object and using **CTRL + SHIFT +V** to paste the style.
 
     *For more information of how to use Road tools, see [The Road Tool](/docs/rapid-plan/The%20Road%20Tool) and [Othr Road Tools](/docs/rapid-plan/Other%20Road%20Tools/).*
 
@@ -42,13 +42,13 @@ Once your road widths are adequate, you may need to make some manual adjustments
 
     **Note:** The Road Corners were placed with the satellite provider to trace the exact shape.
 
-3. When you are satisfied with your roads, add other necessary features such as lane markings.
+3.When you are satisfied with your roads, add other necessary features such as lane markings.
 
     *For more information on how to use Lane Markers, see [Other Road Tools](/docs/rapid-plan/Other%20Road%20Tools/).*
 
     ![Completed_Plan_Satellite_on_Show_(Left)_Completed_Plan_No_Satellite_(Right)](./assets/Completed_Plan_Satellite_on_Show_(Left)_Completed_Plan_No_Satellite_(Right).png)
 
-4. Once your base road layout is drawn up, you can print it, use the fax mode icon to convert it or start adding your traffic management information.
+4.Once your base road layout is drawn up, you can print it, use the fax mode icon to convert it or start adding your traffic management information.
 
 ## Importing road names and speed limits
 

@@ -3,7 +3,7 @@
 sidebar_position: 12
 
 ---
-# Properties palette 
+# Properties palette
 
 The Properties palette displays all the information pertaining to any selected signs, tools, markers or objects. This is where you can change fonts, colors, lane markers, etc - of a selected object.
 

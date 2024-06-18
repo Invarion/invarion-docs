@@ -3,7 +3,7 @@
 sidebar_position: 23
 
 ---
-# Distance Markers 
+# Distance Markers
 
 There are six distance markers used for indicating spatial information on your plan, the Distance Marker, the Combined Distance Marker, the Offset Distance Marker, the Angle Marker, the Area Marker and the Combined Offset Distance Marker.
 
@@ -15,9 +15,9 @@ Irrespective of which distance marker you are using, the technique for creating 
 
 **To place a Distance Marker:**
 
- - Select the **Distance Marker** tool from the Marker tab in the Tools Palette.
- - Click once to start drawing the distance marker, click a second time to mark the end point.
- - Right click to finish
+- Select the **Distance Marker** tool from the Marker tab in the Tools Palette.
+- Click once to start drawing the distance marker, click a second time to mark the end point.
+- Right click to finish
 
 **Note**: It is helpful to hold **SHIFT** whilst drawing the distance marker to keep it straight.
 

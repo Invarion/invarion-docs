@@ -16,7 +16,7 @@ The options will vary based on the object that is selected, but the main options
 * Add to Scratchpad
 * Convert to sign
 * Add/Remove a control point
-* Arrange (bring object forward, send backward, etc.) 
+* Arrange (bring object forward, send backward, etc.)
 * Flip (flip an object horizontally or vertically)
 * Invert selection
 

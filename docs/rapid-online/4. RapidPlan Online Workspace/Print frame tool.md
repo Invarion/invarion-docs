@@ -32,5 +32,4 @@ To add information to the titleblock, make sure nothing is selected on the canva
 
 ![Plan Variables](./Assets/Plan_Variables.png)
 
-You can then Print or Export your plan via the Print dialogue. Printing or Exporting is covered in [Chapter 9](#printing-dialogue).
-
+You can then Print or Export your plan via the Print dialogue. Printing or Exporting is covered [here](/docs/rapid-online/9.%20Printing%20and%20Exporting/#printing-dialogue).

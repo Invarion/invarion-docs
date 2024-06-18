@@ -3,13 +3,11 @@
 sidebar_position: 3
 
 ---
-# Main Menu 
+# Main Menu
 
 The Main menu contains a number of options to assist plan creation. The image below shows the main tools of the RapidPlan Online menu.
 
 ![Main Menu](./Assets/Main_Menu.png)
-
-
 
 **Table 4.1** describes the function of each option in the Main menu.
 

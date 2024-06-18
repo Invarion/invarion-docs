@@ -27,11 +27,10 @@ To access the Context menu tap the object and the menu will appear.
 
 ## Panning
 
-If you want to pan, use a single finger, hold and drag across the canvas area. 
+If you want to pan, use a single finger, hold and drag across the canvas area.
 
 ## Zooming
 
 To **zoom in**, pinch inwards on the canvas area.
 
 To **zoom out**, pinch outwards on the canvas area.
-

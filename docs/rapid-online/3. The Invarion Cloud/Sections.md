@@ -4,6 +4,7 @@ sidebar_position: 3
 
 ---
 # Sections
+
 ## Home
 
 When you first open the Invarion Cloud, the Home section is where you land. Here you can see your recently created/modified plans but also plans that have been shared to you recently. Home is divided into three parts:

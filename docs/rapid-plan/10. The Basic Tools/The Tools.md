@@ -13,8 +13,4 @@ To see broken down listings of each class of tool, please visit [The Tools Palet
 |----------------------------------|------------------------------------|----------------------------------|----------------------------------------|
 | ![Lines](./assets/Lines.png)         | ![Shapes](./assets/Shapes.png)          | ![Text](./assets/Text.png)          | ![Image](./assets/Image.png)               |
 
-
 **Note:** The Arrow, Text Arrow and Callbox are all covered in the marker tools sections ([part 1](/docs/rapid-plan/The%20Marker%20Tools/The%20Six%20Distance%20Markers%20(pt1).md) and [part 2](/docs/rapid-plan/The%20Marker%20Tools/The%20Six%20Distance%20Markers%20(pt2).md)).
-
-
-
