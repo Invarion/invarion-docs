@@ -18,7 +18,7 @@ TODO: images withing tables are not supported in Markdown. Refactor this
 1.Select the Road tool from the Road Tools tab and draw an east west road. Change it to four lanes
 2.With the Road tool already in use, draw a north south road that intersects the 4-lane road and change it to a 3-lane road as shown.
 
-    ![Crossroad_Intersection_step_1_and_2](./assets/Crossroad_Intersection_step_1_and_2.png)
+![Crossroad_Intersection_step_1_and_2](./assets/Crossroad_Intersection_step_1_and_2.png)
 
 ## Set the Lane Markings
 
@@ -27,11 +27,11 @@ TODO: images withing tables are not supported in Markdown. Refactor this
 5.Using the **Lane Mask** tool from the Markings tab, mask out each of the lines through the intersection.
 6.As we will need to completely change the road markings on the southbound approach, mask them out as well.
 
-    ![Crossroad Intersection steps 3, 4, 5 and 6](./assets/Crossroad_Intersection_steps_3_4_5_and_6.png)
+![Crossroad Intersection steps 3, 4, 5 and 6](./assets/Crossroad_Intersection_steps_3_4_5_and_6.png)
 
 7.Using the **Lane Marker** tool, draw two new lane markings to replace the ones masked out on the southern approach. They will be drawn as type solid color yellow by default. Double click on them and change their type so that they appear as  below.
 
-    ![Crossroad_Intersection_step_7](./assets/Crossroad_Intersection_step_7.png)
+![Crossroad_Intersection_step_7](./assets/Crossroad_Intersection_step_7.png)
 
 ## Adding the Stop Bar and Turning Arrows
 
@@ -40,4 +40,4 @@ TODO: images withing tables are not supported in Markdown. Refactor this
 10.Duplicate your modified arrow. Drag the duplicate onto the other side of the intersection as shown.
 11.Now select a Left turn arrow and place it in both required places. Make sure you flip it accordingly.
 
-    ![Crossroads Intersection steps 8, 9, 10 and 11](./assets/Crossroads_Intersection_steps_8_9_10_and_11.png)
+![Crossroads Intersection steps 8, 9, 10 and 11](./assets/Crossroads_Intersection_steps_8_9_10_and_11.png)

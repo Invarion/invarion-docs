@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 19
+sidebar_position: 12
 
 ---
 # Number stamper

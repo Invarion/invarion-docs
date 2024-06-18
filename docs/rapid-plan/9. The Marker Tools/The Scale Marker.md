@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 15
+sidebar_position: 9
 
 ---
 # The Scale Marker
@@ -13,4 +13,4 @@ This tool is handy for advising viewers of the plan that there is a scale set. Y
 - Click once anywhere on your plan to place the marker.
 - Edit the values for the marker within the Properties Palette.
 
-    ![Scale_Marker_and_Properties_Palette](./assets/Scale_Marker_and_Properties_Palette.png
+    ![Scale_Marker_and_Properties_Palette](./assets/Scale_Marker_and_Properties_Palette.png)

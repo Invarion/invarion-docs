@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 13
+sidebar_position: 7
 
 ---
 # The Work Area and Safety Zone Tools

@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 16
+sidebar_position: 10
 
 ---
 # The Legend Box

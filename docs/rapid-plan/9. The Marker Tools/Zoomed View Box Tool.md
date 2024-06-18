@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 22
+sidebar_position: 14
 
 ---
 # Zoomed View Box Tool
