@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 10
+sidebar_position: 3
 
 ---
 # Printing with the Base Map - Importing Aerial Photos

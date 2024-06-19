@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 14
+sidebar_position: 6
 
 ---
 # Importing Roads
@@ -30,23 +30,23 @@ Once your road widths are adequate, you may need to make some manual adjustments
 
  1. First, adjust the road layer **opacity** in the layers list to see the satellite image through the road object. This will make transferring lane markings much easier.
 
-    ![Changing_Road_Opacity_to_see_Satellite_Image_Below](./assets/Changing_Road_Opacity_to_see_Satellite_Image_Below.jpg)
+![Changing_Road_Opacity_to_see_Satellite_Image_Below](./assets/Changing_Road_Opacity_to_see_Satellite_Image_Below.jpg)
 
 2.You may need to adjust the roads by adding **road corners** or **turning lanes**, etc. Make sure to copy the **style** of the road to each road tool by copying the style from the main road, selecting the new object and using **CTRL + SHIFT +V** to paste the style.
 
-    *For more information of how to use Road tools, see [The Road Tool](/docs/rapid-plan/The%20Road%20Tool) and [Othr Road Tools](/docs/rapid-plan/Other%20Road%20Tools/).*
+ *For more information of how to use Road tools, see [The Road Tool](/docs/rapid-plan/The%20Road%20Tool) and [Othr Road Tools](/docs/rapid-plan/Other%20Road%20Tools/).*
 
-    In the image below, the provider has been changed to the Omniscale, so you can see the road corners are the same style as the road.
+ In the image below, the provider has been changed to the Omniscale, so you can see the road corners are the same style as the road.
 
-    ![Road_Corners_have_been_Added_and_the_Road_Style_Transferred](./assets/Road_Corners_have_been_Added_and_the_Road_Style_Transferred.png)
+![Road_Corners_have_been_Added_and_the_Road_Style_Transferred](./assets/Road_Corners_have_been_Added_and_the_Road_Style_Transferred.png)
 
-    **Note:** The Road Corners were placed with the satellite provider to trace the exact shape.
+ **Note:** The Road Corners were placed with the satellite provider to trace the exact shape.
 
 3.When you are satisfied with your roads, add other necessary features such as lane markings.
 
-    *For more information on how to use Lane Markers, see [Other Road Tools](/docs/rapid-plan/Other%20Road%20Tools/).*
+ *For more information on how to use Lane Markers, see [Other Road Tools](/docs/rapid-plan/Other%20Road%20Tools/).*
 
-    ![Completed_Plan_Satellite_on_Show_(Left)_Completed_Plan_No_Satellite_(Right)](./assets/Completed_Plan_Satellite_on_Show_(Left)_Completed_Plan_No_Satellite_(Right).png)
+![Completed_Plan_Satellite_on_Show_(Left)*Completed_Plan_No_Satellite*(Right)](./assets/Completed_Plan_Satellite_on_Show_(Left)_Completed_Plan_No_Satellite_(Right).png)
 
 4.Once your base road layout is drawn up, you can print it, use the fax mode icon to convert it or start adding your traffic management information.
 

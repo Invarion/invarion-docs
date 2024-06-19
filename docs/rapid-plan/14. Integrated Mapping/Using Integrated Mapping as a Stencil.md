@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 13
+sidebar_position: 5
 
 ---
 # Using Integrated Mapping as a Stencil
