@@ -1,9 +1,9 @@
 ---
 
-sidebar_position: 9
+sidebar_position: 4
 
 ---
-# Choosing the Displayed Variation
+# Choosing the Displayed Variation of a Sign
 
 Because there are often multiple versions of the same sign, you need to tell RapidPlan which version you want to use on your plan if the default variation is not suitable (by default, the standard sign with no code will be displayed). Changing the variation is easy.
 

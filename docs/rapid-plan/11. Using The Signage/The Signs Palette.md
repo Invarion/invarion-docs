@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 2
+sidebar_position: 1
 
 ---
 # The Signs Palette
@@ -11,7 +11,7 @@ The sign palette is the repository for each of the signs in RapidPlan. Aside fro
 - The Sign Categories
 - Search Signs
 
-    ![Signs_Palette](./assets/Signs_Palette.png)
+![Signs_Palette](./assets/Signs_Palette.png)
 
 ## Sign Library
 
@@ -31,3 +31,14 @@ New version of RapidPlan allows you to search entire signs library by a keyword,
 ![Sign_search](./assets/Sign_search.png)
 
 **Note:** R1-1 is code for STOP sign in Australia, other countries codes may vary
+
+## Setting the Sign Icons Size in the Palette
+
+You can change the size of the signs in the palette. This is helpful when using a screen at very high resolution, or just for users who are having difficulty with the small icons. By default the sign icon size on the palette is set to medium.
+
+**To change the signs icon size:**
+
+- Click on the bar at the base of the Signs palette to make options appear.
+- The size bar will pop up enabling you to select a different size (see below).
+
+![Icon_Size_Bar](./assets/Icon_Size_Bar.png)
