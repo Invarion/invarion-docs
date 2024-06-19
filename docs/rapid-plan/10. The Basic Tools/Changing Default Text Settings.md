@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 14
+sidebar_position: 5
 
 ---
 # Changing Default Text Settings

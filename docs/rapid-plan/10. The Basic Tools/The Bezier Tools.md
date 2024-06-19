@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 9
+sidebar_position: 3
 
 ---
 # The Bezier Tools
