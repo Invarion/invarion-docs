@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 15
+sidebar_position: 3
 
 ---
 # Multi-layer snapping
