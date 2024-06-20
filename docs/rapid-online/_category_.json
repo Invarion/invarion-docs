@@ -2,7 +2,6 @@
   "label": "Rapid Online",
   "position": 2,
   "link": {
-    "type": "generated-index",
-    "description": "The documentation about Rapid Online."
+    "type": "generated-index"
   }
 }
