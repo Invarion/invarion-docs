@@ -32,6 +32,8 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          // homePageId:
+          //   'rapid-plan/Getting Started/System requirements and Downloading the Progam',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -54,15 +56,15 @@ const config = {
       },
       {
         to: '/rapid-path/Introduction',
-        text: 'RapidPath',
+        text: 'RapidPath - WIP',
       },
       {
         to: '/rapid-online/Getting%20Started/Getting%20Started',
-        text: 'RapidPlan Online',
+        text: 'RapidPlan Online - WIP',
       },
       {
         to: '/rapid-path-online/Welcome',
-        text: 'RapidPath Online',
+        text: 'RapidPath Online - WIP',
       },
     ],
     faqsLinks: [
@@ -155,21 +157,21 @@ const config = {
                 docId:
                   'rapid-plan/Getting Started/System requirements and Downloading the Progam',
               },
-              {
-                type: 'doc',
-                label: 'RapidPath',
-                docId: 'rapid-path/Introduction',
-              },
-              {
-                type: 'doc',
-                label: 'RapidPlan Online',
-                docId: 'rapid-online/Getting Started/Getting Started',
-              },
-              {
-                type: 'doc',
-                label: 'RapidPath Online',
-                docId: 'rapid-path-online/Welcome',
-              },
+              // {
+              //   type: 'doc',
+              //   label: 'RapidPath',
+              //   docId: 'rapid-path/Introduction',
+              // },
+              // {
+              //   type: 'doc',
+              //   label: 'RapidPlan Online',
+              //   docId: 'rapid-online/Getting Started/Getting Started',
+              // },
+              // {
+              //   type: 'doc',
+              //   label: 'RapidPath Online',
+              //   docId: 'rapid-path-online/Welcome',
+              // },
               // ... more items
             ],
           },

@@ -1,8 +1,8 @@
 ---
-
 sidebar_position: 1
-
+slug: /
 ---
+
 # System requirements and Downloading the Progam
 
 Before downloading the software, please ensure your machine complies with the minimum specifications recommended for running RapidPlan.
