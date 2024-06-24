@@ -152,10 +152,8 @@ const config = {
             position: 'left',
             items: [
               {
-                type: 'doc',
                 label: 'RapidPlan',
-                docId:
-                  'rapid-plan/getting-started/System requirements and Downloading the Progam',
+                to: 'category/getting-started',
               },
               // {
               //   type: 'doc',
