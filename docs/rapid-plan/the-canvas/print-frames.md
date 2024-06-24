@@ -7,10 +7,10 @@ sidebar_position: 8
 
 ## Typical usage scenarios
 
-- Reusing standard TCP annotations - if your TCPs need to have a similar titlebox layout (company logo, job details, planner signature, permit number), you can extract these annotations into a print frame and reuse the frame for different TCPs, only adjusting the necessary details.
-- Adjusting annotations to page size - print frames automatically adjust to the current print page size and can auto-rotate their content to ensure annotations are printed in the same position regardless of whether you're printing in portrait or landscape orientation.
-- Aligning annotations with page edges - when the proportions of your print region don't exactly match the proportions of the page printable area, you're often left with additional margins between the page border and the content that's scaled to fit inside. Anchoring annotations to frame edges ensured they're aligned with printout borders.
-- Preventing annotations from obscuring other print regions - when drawing plans with multiple overlapping print regions, extracting annotations to print frames prevents them from obscuring contents of other regions.
+- **Reusing standard TCP annotations** - if your TCPs need to have a similar titlebox layout (company logo, job details, planner signature, permit number), you can extract these annotations into a print frame and reuse the frame for different TCPs, only adjusting the necessary details.
+- **Adjusting annotations to page size** - print frames automatically adjust to the current print page size and can auto-rotate their content to ensure annotations are printed in the same position regardless of whether you're printing in portrait or landscape orientation.
+- **Aligning annotations with page edges** - when the proportions of your print region don't exactly match the proportions of the page printable area, you're often left with additional margins between the page border and the content that's scaled to fit inside. Anchoring annotations to frame edges ensured they're aligned with printout borders.
+- **Preventing annotations from obscuring other print regions** - when drawing plans with multiple overlapping print regions, extracting annotations to print frames prevents them from obscuring contents of other regions.
 
 ## Creating print frames
 

@@ -3,7 +3,7 @@
 sidebar_position: 5
 
 ---
-# What is in a sign?
+# What is in a Sign?
 
 We won't bother going into too much detail about the composition of a sign here - that's what the next chapter is for. However, it does help to know a little bit about how the signs are built as it will give you an understanding of what they can do.
 

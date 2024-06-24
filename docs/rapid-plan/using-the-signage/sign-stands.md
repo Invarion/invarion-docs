@@ -3,7 +3,7 @@
 sidebar_position: 3
 
 ---
-# Sign stands
+# Sign Stands
 
 All sign devices can display an adjustable stand icon to specify their exact position and orientation.
 

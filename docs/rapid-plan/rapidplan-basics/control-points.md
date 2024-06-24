@@ -47,7 +47,7 @@ This feature will help you to create a neat and straight-lined work area.
 
 ### Advanced snapping
 
-For additional snapping options, press the Alt key while snapping to a geometry to enable guides for tangent and perpendicular lines as well as geometry midpoints.
+For additional snapping options, press the **Alt** key while snapping to a geometry to enable guides for tangent and perpendicular lines as well as geometry midpoints.
 
 ![Advanced_snapping](./assets/Advanced_snapping.png)
 
@@ -57,11 +57,11 @@ Snap to an existing geometry when drawing an object and RapidPlan will automatic
 
 This is useful when needing to draw delineation devices or a work area along a curved geometry.
 
-To being drawing along a geometry, simply left click your device along the red geometry where you want the device to begin. The tool will then follow the curve you draw out, as seen in Figure 5.11 below.
+To being drawing along a geometry, simply left click your device along the red geometry where you want the device to begin. The tool will then follow the curve you draw out.
 
 ![Geometry_snapping](./assets/Geometry_snapping.png)
 
-While drawing an object you can snap its segments to different geometries as well. This can be done by snapping points to existing geometries and tracing the drawing along it, as seen in Figure 5.12 below.
+While drawing an object you can snap its segments to different geometries as well. This can be done by snapping points to existing geometries and tracing the drawing along it.
 
 ![Geometry_lines](./assets/Geometry_lines.png)
 
@@ -69,11 +69,11 @@ While drawing an object you can snap its segments to different geometries as wel
 
 Use the Offset Geometry tool to further adjust the position of an object.
 
-To utilize the offset tool, simply complete your drawing along the geometry, once completed, right click and select 'Offset geometry' in the right click menu displayed (shown below).
+To utilize the offset tool, simply complete your drawing along the geometry, once completed, right click and select 'Offset geometry' in the right click menu displayed.
 
 ![Offset_geometry](./assets/Offset_geometry.png)
 
-Simply click and drag to your desired offset, or type your desired offset value in the offset dialogue box, as shown below.
+Simply click and drag to your desired offset, or type your desired offset value in the offset dialogue box.
 
 ![Create_offset](./assets/Create_offset.png)
 

@@ -3,7 +3,7 @@
 sidebar_position: 6
 
 ---
-# Text variables
+# Text Variables
 
 New feature in RapidPlan is **Text Variables** tool. The Text Variables can be used to create reusable templates and objects where text can be auto-filled based on **built-in** or **custom variable** values. Custom variables can be defined for a single plan only, or application-wide. To open the list of variables go to **Tools** > **Text Variables**.
 

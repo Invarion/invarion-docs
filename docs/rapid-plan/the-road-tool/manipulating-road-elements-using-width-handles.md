@@ -3,7 +3,7 @@
 sidebar_position: 3
 
 ---
-# Manipulating Road Elements using Width Handles
+# Manipulating Road Elements Using Width Handles
 
 There will be times when you need to adjust road, sidewalk or shoulder widths. Rather than going to the road properties you can adjust them on the road itself.
 
