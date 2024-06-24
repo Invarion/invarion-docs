@@ -15,4 +15,4 @@ Because there are often multiple versions of the same sign, you need to tell Rap
 
 ![Changing_a_Signs_Properties](./assets/Changing_a_Signs_Properties.png)
 
-**Note**: To change the variations to all your signs within the plan, simply use the Toolbar and click on Toggle Color/Fax mode or Sign Designation as explained [Special Canvas Modes](/docs/rapid-plan/The%20Canvas/Special%20Canvas%20Modes%20Fax%20Mode%20and%20Sign%20Designation%20Mode.md) of this User Manual. This option will save you lots of time if all the signs are to be changed
+**Note**: To change the variations to all your signs within the plan, simply use the Toolbar and click on Toggle Color/Fax mode or Sign Designation as explained [Special Canvas Modes](/docs/rapid-plan/the-canvas/special-canvas-modes-fax-mode-and-sign-designation-mode.md) of this User Manual. This option will save you lots of time if all the signs are to be changed

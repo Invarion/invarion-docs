@@ -9,7 +9,7 @@ sidebar_position: 2
 
 Placing signs is simple. Once your sign is placed you can move, resize and rotate it.
 
-### To place a sign
+### To place a Sign
 
 - Select the desired sign from the **Sign Palette** by clicking on it.
 - Float the sign out onto the canvas with the mouse. (You don't have to hold the mouse button
@@ -17,7 +17,7 @@ while you drag your sign.)
 - If you want to rotate your sign 90 degrees; use **CTRL + R**.
 - Click to drop the sign on the canvas.
 
-## Rotating Placed Signs
+## Rotating placed Signs
 
 As is the case for most RapidPlan items, once a sign is placed on the canvas, there are three ways to rotate it.
 
@@ -30,7 +30,7 @@ right-click Rotate option, or ****CTRL + R****.
 - Select the placed sign
 - Press ****CTRL + R**** repeatedly to rotate the sign 90 degrees clockwise
 
-### To Rotate by set angle
+### To rotate by set angle
 
 - Right click on the sign to reveal the context menu.
 - Click on **Transform** >  **90 degrees**, **180 degrees**, **270 degrees** or **Rotate by custom value**
@@ -56,4 +56,4 @@ The sign is resized by simply dragging out the resize handles. However, there is
 
 In the example below, we start with a regular sign, then resize it twice without holding shift. The final resized sign did make use of the shift key, ensuring it is kept in proportion.
 
-![Only_the_one_on_the_far_right_was_resized_whilst_holding_the_shift_key,_keeping_it_in_proportion](./assets/Only_the_one_on_the_far_right_was_resized_whilst_holding_the_shift_key_keeping_it_in_proportion.png)
+![Only_the_one_on_the_far_right_was_resized_whilst_holding_the_shift_key,_keeping_it_in_proportion](./assets/Only_the_one_on_the_far_right_was_resized_whilst_holding_the_shift_key,_keeping_it_in_proportion.png)

@@ -10,7 +10,7 @@ Contribution to this project may come in different forms: writing a new article,
 
 ## Before you begin
 
-Define the goal of your task. It should be clear what you want to achieve. The rule of thumb that the task should be small enough to be completed in between half a day and two days but big enough to be meaningful and provide value for the readers of the Help Centre. E.g. "write an article about new feature in Rapid Plan", "split one large article into smaller ones", "fix typos", "update obsolete screenshots in **one** article".
+Define the goal of your task. It should be clear what you want to achieve. The rule of thumb that the task should be small enough to be completed in between half a day and two days but big enough to be meaningful and provide value for the readers of the Help Centre. E.g. "write an article about new feature in RapidPlan", "split one large article into smaller ones", "fix typos", "update obsolete screenshots in **one** article".
 
 Having reasonably small goals would help to avoid merge conflicts, prevent the writer from slipping into wrong direction, fail fast and what's the most important - making review process possible because the reviewer can only work with the changes that are small enough to be reviewed in a reasonable time.
 
