@@ -4,7 +4,7 @@ sidebar_position: 2
 
 ---
 
-# Changing the user of a license
+# Changing the User of a License
 
 Licenses can be reassigned to new users, or in the case of multi-machine licenses additional users can be added to the list of assigned users. This task can be completed by any user in the account with administrative permissions - for details on how they can do so please visit our ***Account Managment*** section.
 
