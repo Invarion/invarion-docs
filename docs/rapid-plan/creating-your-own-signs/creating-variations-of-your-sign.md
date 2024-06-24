@@ -71,7 +71,7 @@ In the Sign Editor you can save your sign and variations to your computer by sel
 
 **Note**: Toggle Fax and Sign Codes modes from the Options toolbar to see your completed sign with all the variations we've created.
 
-## A Faster Way to Save Signs (Right Click > Save)
+## A faster way to Save Signs (Right Click > Save)
 
 RapidPlan has a much faster and easier way to save signs when you don't need to save and edit different variations.
 

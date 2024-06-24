@@ -15,7 +15,7 @@ Of all the tools in RapidPlan, the Road has by far the most power and flexibilit
 
 All of the above settings are accessed through the road properties screen. You can access the properties screen by double clicking on the road you need to change from the Quick Edit mode or from the Properties palette.
 
-## Alter geometry and color
+## Alter Geometry and Color
 
 The Road section of the road's properties allows you to adjust the color, the road geometry (Spline, Line or Bezier) and auto merge preferences.
 

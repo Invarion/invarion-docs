@@ -18,7 +18,7 @@ In the image below, Road A is the original road. Road B has had the 2nd and 3rd 
 
 ![Road_Control_Points](./assets/Road_Control_Points.png)
 
-## Adding and Removing Control Points
+## Adding and removing Control Points
 
 There will almost certainly be circumstances where you need to add or remove a control point from a road to fine tune its shape.
 

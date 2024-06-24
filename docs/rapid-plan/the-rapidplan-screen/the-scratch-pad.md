@@ -21,7 +21,7 @@ Once you are finished in the reorder screen, click OK done to finish.
 
 ![re-order](./assets/Scratchpad%20reorder.PNG)
 
-## Folder management
+## Scratchpad Folder management
 
 Folders can be added in the scratchpad by clicking the **plus icon** in the top right. Folders can be renamed or deleted by right clicking on them.
 

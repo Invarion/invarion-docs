@@ -8,7 +8,7 @@ sidebar_position: 1
 Before you can manipulate the properties of your objects (such as the size, shape, position or rotation) you must first tell RapidPlan which item or items you want to change. You do this, by selecting your desired object(s). Sometimes you will need to select only one object,
 as would be the case when you want to change the size of a single sign. On other occasions you will need to select multiple items, like when you need to move and group objects at the same time. The two cases are handled slightly differently.
 
-## Selecting Single Objects
+## Selecting single Objects
 
 There are two ways to select a single item in RapidPlan:
 
@@ -21,7 +21,7 @@ Simply click once on your desired object and it will become selected. You will n
 
 ![Selected_sign](./assets/Selected_sign.png)
 
-## Selecting objects on different layers
+## Selecting Objects on different Layers
 
 If you are working across multiple layers, you can switch between different objects on the fly by holding down the **CTRL + ALT** keys and clicking on desired objects in a different layer. This will switch to the layer on which the object is on, as shown below.
 
@@ -37,7 +37,7 @@ The other way to select an object is by dragging a selection box around it. Simp
 
 ![Dragging_Selection_box_with_right_mouse_button](./assets/Dragging_Selection_box_with_right_mouse_button.png)
 
-## Selection preview
+## Selection Preview
 
 Any objects that have been highlighted in the selection box will be highlighted in green, indicating what you have selected.
 
@@ -59,7 +59,7 @@ The below are the available selection modes when selecting objects:
 
 ![Capture2](./assets/Capture2.png) Intersecting objects (use right mouse button)
 
-## Selecting Multiple Objects
+## Selecting multiple Objects
 
 Selecting multiple objects is useful when you want to move, duplicate, cut or copy more than one element on a plan. You will also need to select multiple objects if you wish to group a collection of items together.
 

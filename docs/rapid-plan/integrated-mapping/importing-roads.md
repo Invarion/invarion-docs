@@ -15,7 +15,7 @@ There are three ways of importing your roads;
 
 ![Imported_Roads](./assets/Imported_Roads.jpg)
 
-## Matching the Width of Imported Roads
+## Matching the width of Imported Roads
 
 As you have a set scale, you can accurately measure the width of the satellite road with a **distance marker** tool and adjust the road object properties accordingly.
 To make this easier, lower the opacity of the layer your roads are on.
@@ -50,7 +50,7 @@ Once your road widths are adequate, you may need to make some manual adjustments
 
 4.Once your base road layout is drawn up, you can print it, use the fax mode icon to convert it or start adding your traffic management information.
 
-## Importing road names and speed limits
+## Importing Road Names and Speed Limits
 
 After using the Roads Import tool, right-click on the imported roads and select "Import road data" as seen below.
 

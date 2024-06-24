@@ -1,4 +1,4 @@
-# Change Log -  RapidPlan
+# Change Log
 
 ## RapidPlan 3.10
 

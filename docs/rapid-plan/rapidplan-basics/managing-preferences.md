@@ -35,7 +35,7 @@ Here primarily you can manage the appearance of your of your [Canvas Area](/docs
 
 ### Appearance
 
-Appearance is where you can engage 'Night Light' to whatevery degree you prefer - increased red tones to reduce eye strain and to reduce intrusion on circadian rhthym with white light.
+Appearance is where you can engage '**Night Light**' to whatever degree you prefer - increased red tones to reduce eye strain and to reduce intrusion on circadian rhythm with white light.
 
 You can also Invert Colors here.
 

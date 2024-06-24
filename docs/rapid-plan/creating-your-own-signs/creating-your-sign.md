@@ -22,7 +22,7 @@ For the next section of the chapter, we will continue on in a tutorial style fas
 
 There are two methods that you can use to create your base sign. You can either start from scratch with new basic shapes, or you can un-group an existing sign and use that as a template.
 
-### Starting by Editing another Sign
+### Starting by editing another Sign
 
 If your new sign is to be similar in appearance to an existing sign, or even if just the sign face is to be the same, it probably makes sense to use the existing sign as a base. Drop it onto the canvas, ungroup it and delete any unwanted elements.
 
@@ -37,7 +37,7 @@ If you want to start from scratch, there are a couple of guidelines you should a
 - **Font**: Whilst the font isn't critical, the size is. Try to keep your font to a minimum 8pt or above,
 bold setting (all the default signs use Arial).
 
-### Using Components from Other Signs
+### Using components from other Signs
 
 You aren't limited to just using the frame of other signs - if there is a graphic on any of the other signs in the package, you can use that too. Simply ungroup the sign and move the elements that you need onto your own new sign.
 

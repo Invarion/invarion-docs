@@ -61,7 +61,7 @@ The '**Show advanced settings**' button contains features that our support team 
 
 We advise only to access these settings in those circumstances.
 
-## Minimum Computer Specifications
+## Minimum computer specifications
 
 Before downloading the software, please ensure your machine complies with the minimum specifications recommended for running RapidPlan.
 

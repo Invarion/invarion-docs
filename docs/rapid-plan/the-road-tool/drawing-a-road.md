@@ -11,11 +11,11 @@ The road has a number of different parts. It is well worth familiarizing yoursel
 
 ![Road_components](./assets/Road_components.png)
 
-## Basic Drawing Techniques
+## Basic drawing techniques
 
 Drawing using the road tool is very simple. As you move the mouse after you have clicked to start drawing, the roadway will "snake" behind the cursor. Each time you click the mouse on the canvas, a new turning point for the road is placed. The turning point is represented by a control point.
 
-### To Draw a Road
+### To draw a Road
 
 - Select the **Road** from the Tools palette.
 - Move your mouse to the canvas and click once to start drawing your road.
@@ -23,11 +23,11 @@ Drawing using the road tool is very simple. As you move the mouse after you have
 - When you have placed your final point, right click to stop drawing.
 - If you don't want to draw another road, right click again to drop the road tool.
 
-### Keeping Sections Straight
+### Keeping Sections straight
 
 A simple trick allows you to draw perfectly straight roads. By holding **SHIFT**, RapidPlan will make sure that each control point is placed in a perfectly straight line.
 
-### Setting the Number of Lanes on the Carriageway
+### Setting the number of Lanes on the Carriageway
 
 There are two simple ways to add and remove lanes to roadways:
 

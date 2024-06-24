@@ -13,7 +13,7 @@ To move the sign stand again, just select the stand then left click the blue con
 
 ![sign stand tool](./assets/Sign_stand_tool.png)
 
-## Sign stand customization
+## Sign Stand customization
 
 Sign stands can be customized by adjusting style options in the Properties palette.
 
@@ -23,7 +23,7 @@ You can also create your own custom object to use as a sign stand, as seen below
 
 ![customized sign stand](./assets/Customize_sign_stand.png)
 
-### Create a custom sign stand
+### Create a custom Sign Stand
 
 To add a custom object to your sign stand list, simply create the object using any of the primitive/shape tools available in RapidPlan.
 
@@ -33,7 +33,7 @@ The new object will then be saved to your Symbol list for use as a sign stand.
 
 ![Custom_sign_stand](./assets/Custom_sign_stand.png)
 
-## Sign stand connector
+## Sign Stand Connector
 
 All sign stand connections can display arrows for better identification on your plan.
 

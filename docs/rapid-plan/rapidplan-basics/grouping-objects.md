@@ -11,7 +11,7 @@ One of the most important techniques to master is grouping. By grouping objects 
 
 There are two ways to group objects
 
- 1.Using the Grouping Toolbar:
+ **Using the Grouping Toolbar:**
 
 - **Select All** - selects all of the objects on your plan
 - **Group** - groups your selected objects together
@@ -21,7 +21,7 @@ There are two ways to group objects
 
     **Note**: The individual bounding boxes and move handles are replaced by just one for the entire group.
 
-2.Using your mouse or keyboard:
+**Using your mouse or keyboard:**
 
 - Select the objects you want to group together (by pressing **SHIFT** and selecting each desired object individually or by dragging your mouse encompassing all of the desired objects).
 - Right click and select **Group objects** from context menu
@@ -36,8 +36,8 @@ There are two ways to group objects
 
 **Note:** Grouped objects can edited without ungrouping. Double click on the group item to launch the quick edit box - you will then have the option to change the properties of a particular object in the group.
 
-## Signs are like groups
+## Signs are like Groups
 
 Every sign in RapidPlan is made of a group of primitive objects - the most simple of which consist purely of a colored rectangle or square with text. These can be edited using the techniques shown above to create new signs.
 
-*See [Chapter 12]#chapter-12-creating-your-own-signs for more information on modifying and creating your own signs.*
+For more details, see [Creating Your Own Signs](/rapid-plan/creating-your-own-signs/).

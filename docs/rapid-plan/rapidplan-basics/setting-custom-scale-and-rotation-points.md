@@ -7,7 +7,7 @@ sidebar_position: 7.1
 
 [Resizing](./resizing-objects.md) and [rotating](./rotating-objects.md) objects can be enhanced by changing the point they scale from or rotate around.
 
-## Changing the scale point
+## Changing the Scale Point
 
 - Right click on an object > Transform > Scale.
 - Select either Scale from Center, or Select Scale Point.
@@ -17,7 +17,7 @@ Wherever that point is in relation to the object will remain constant while resi
 
 Note that the point will disengage if you deselect the object and select it again.
 
-## Changing the rotation point
+## Changing the Rotation Point
 
 - Similarly, right click on an object > Transform > Rotate.
 - Click Select Rotation Point.

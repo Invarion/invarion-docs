@@ -17,7 +17,7 @@ Callout boxes have two control points - one to position the head and one for the
 
 To view an object's control points you must select it. Once you have selected an object, you can move its control points around to change the shape and of the object.
 
-## Keeping Control Points Straight
+## Keeping Control Points straight
 
 Irrespective of what item you are drawing or altering, you can keep your control points in a perfectly straight line by holding down the **SHIFT** key as you are drawing. The same applies if you are moving an existing control point.
 
@@ -45,13 +45,13 @@ This feature will help you to create a neat and straight-lined work area.
 
 ![Snap_along_geometry](./assets/Snap_along_geometry.png)
 
-### Advanced snapping
+### Advanced Snapping
 
 For additional snapping options, press the **Alt** key while snapping to a geometry to enable guides for tangent and perpendicular lines as well as geometry midpoints.
 
 ![Advanced_snapping](./assets/Advanced_snapping.png)
 
-## Drawing along geometries
+## Drawing along Geometries
 
 Snap to an existing geometry when drawing an object and RapidPlan will automatically create control points to fit the desired curve.
 
@@ -65,7 +65,7 @@ While drawing an object you can snap its segments to different geometries as wel
 
 ![Geometry_lines](./assets/Geometry_lines.png)
 
-## Offsetting the geometry
+## Offsetting the Geometry
 
 Use the Offset Geometry tool to further adjust the position of an object.
 
