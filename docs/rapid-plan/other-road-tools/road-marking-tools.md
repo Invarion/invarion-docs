@@ -12,7 +12,7 @@ The automatic lane markings on the road always perfectly follow the curve of the
 
 In this example we will replace the current dash lane marker with the solid double line lane marker.
 
-Firstly, we need to remove part of the existing lines. We do this with the lane mask tool (see [The Lane Mask tool](./The%20Lane%20Marker%20tool.md)).
+Firstly, we need to remove part of the existing lines. We do this with the lane mask tool (see [The Lane Mask tool](./the-lane-marker-tool.md)).
 
 Next we select the lane marker tool and draw in the edge merge the line.
 
@@ -27,7 +27,7 @@ Next we select the lane marker tool and draw in the edge merge the line.
 
     ![Using_a_Lane_Marker](./assets/Using_a_Lane_Marker.png)
 
-You can change the lane marker to any of the standard lane styles (Dashed, Solid, SolidDash, DashSolid and Double) or change its color by accessing its properties screen. You can also set Lane Marker Defaults the same way you set the Road Defaults as specified in section [Setting a Default Road Style](/docs/rapid-plan/The%20Road%20Tool/Setting%20a%20Default%20Road%20Style.md).
+You can change the lane marker to any of the standard lane styles (Dashed, Solid, SolidDash, DashSolid and Double) or change its color by accessing its properties screen. You can also set Lane Marker Defaults the same way you set the Road Defaults as specified in section [Setting a Default Road Style](/docs/rapid-plan/the-road-tool/setting-a-default-road-style.md).
 
 **To change the properties of a lane marking:**
 
