@@ -31,7 +31,9 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          // sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: require.resolve('./sidebars.js'),
+          // homePageId:
+          //   'rapid-plan/Getting Started/System requirements and Downloading the Progam',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -49,20 +51,20 @@ const config = {
   customFields: {
     gettingStartedLinks: [
       {
-        to: '/category/rapid-plan',
+        to: '/rapid-plan/getting-started/System%20requirements%20and%20Downloading%20the%20Progam',
         text: 'RapidPlan',
       },
       {
-        to: '/category/rapid-online',
-        text: 'RapidPath',
+        to: '/rapid-path/Introduction',
+        text: 'RapidPath - WIP',
       },
       {
-        to: '/category/rapid-path',
-        text: 'RapidPlan Online',
+        to: '/rapid-online/Getting%20Started/Getting%20Started',
+        text: 'RapidPlan Online - WIP',
       },
       {
-        to: 'https://invarion.com/intl/products/rapidpath-online/',
-        text: 'RapidPath Online',
+        to: '/rapid-path-online/Welcome',
+        text: 'RapidPath Online - WIP',
       },
     ],
     faqsLinks: [
@@ -133,16 +135,45 @@ const config = {
           href: 'https://invarion.com/',
         },
         items: [
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Invarion Help Center',
+          // },
           {
-            type: 'doc',
-            docId: 'intro',
             position: 'left',
             label: 'Invarion Help Center',
+            to: '/',
           },
           {
+            type: 'dropdown',
+            label: 'Product',
             position: 'left',
-            label: 'Home',
-            to: '/',
+            items: [
+              {
+                type: 'doc',
+                label: 'RapidPlan',
+                docId:
+                  'rapid-plan/getting-started/System requirements and Downloading the Progam',
+              },
+              // {
+              //   type: 'doc',
+              //   label: 'RapidPath',
+              //   docId: 'rapid-path/Introduction',
+              // },
+              // {
+              //   type: 'doc',
+              //   label: 'RapidPlan Online',
+              //   docId: 'rapid-online/Getting Started/Getting Started',
+              // },
+              // {
+              //   type: 'doc',
+              //   label: 'RapidPath Online',
+              //   docId: 'rapid-path-online/Welcome',
+              // },
+              // ... more items
+            ],
           },
           {
             position: 'right',
