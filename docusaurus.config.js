@@ -51,7 +51,7 @@ const config = {
   customFields: {
     gettingStartedLinks: [
       {
-        to: '/rapid-plan/Getting%20Started/System%20requirements%20and%20Downloading%20the%20Progam',
+        to: '/rapid-plan/getting-started/System%20requirements%20and%20Downloading%20the%20Progam',
         text: 'RapidPlan',
       },
       {
@@ -155,7 +155,7 @@ const config = {
                 type: 'doc',
                 label: 'RapidPlan',
                 docId:
-                  'rapid-plan/Getting Started/System requirements and Downloading the Progam',
+                  'rapid-plan/getting-started/System requirements and Downloading the Progam',
               },
               // {
               //   type: 'doc',
