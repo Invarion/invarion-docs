@@ -76,7 +76,7 @@ There are two components of a Bezier curve:
 
     ![Bezier_with_its_Control_Points_and_Curve_Handles](./assets/Bezier_with_its_Control_Points_and_Curve_Handles.png)
 
-For full details on how to use the bezier tool, see [this page](./The%20Bezier%20Tools.md)
+For full details on how to use the bezier tool, see [this page](./the-bezier-tools.md)
 
 ## The Arc Tools
 
