@@ -31,12 +31,12 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          // sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
           //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          routeBasePath: '/',
+          routeBasePath: 'docs',
         },
         blog: false,
         theme: {
@@ -45,7 +45,50 @@ const config = {
       }),
     ],
   ],
-  plugins: [require.resolve('docusaurus-lunr-search')],
+  plugins: [
+    require.resolve('docusaurus-lunr-search'),
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'rapid-plan',
+        path: 'rapid-plan',
+        routeBasePath: 'rapid-plan',
+        // sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'rapid-online',
+        path: 'rapid-online',
+        routeBasePath: 'rapid-online',
+        // sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'rapid-path',
+        path: 'rapid-path',
+        routeBasePath: 'rapid-path',
+        // sidebarPath: require.resolve('./sidebars.js'),
+
+        // ... other options
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'rapid-path-online',
+        path: 'rapid-path-online',
+        routeBasePath: 'rapid-path-online',
+        // sidebarPath: require.resolve('./sidebars.js'),
+
+        // ... other options
+      },
+    ],
+  ],
   customFields: {
     gettingStartedLinks: [
       {
@@ -132,62 +175,87 @@ const config = {
           srcDark: 'img/logo-dark.svg',
           href: 'https://invarion.com/',
         },
+
         items: [
+          //   // {
+          //   //   type: 'doc',
+          //   //   docId: 'intro',
+          //   //   position: 'left',
+          //   //   label: 'Invarion Help Center',
+          //   // },
+          //   {
+          //     position: 'left',
+          //     label: 'Invarion Help Center',
+          //     to: '/',
+          //   },
           // {
-          //   type: 'doc',
-          //   docId: 'intro',
+          //   type: 'dropdown',
+          //   label: 'Product',
           //   position: 'left',
-          //   label: 'Invarion Help Center',
+          //   items: [
+          //     {
+          //       // type: 'doc',
+          //       label: 'RapidPlan',
+          //       to: 'Getting Started/System requirements and Downloading the Progam',
+          //     },
+          //     {
+          //       type: 'doc',
+          //       label: 'RapidPath',
+          //       docId: 'Introduction',
+          //     },
+          //     {
+          //       type: 'doc',
+          //       label: 'RapidPlan Online',
+          //       docId: 'Getting Started/Getting Started',
+          //     },
+          //     {
+          //       type: 'doc',
+          //       label: 'RapidPath Online',
+          //       docId: 'Welcome',
+          //     },
+          //     // ... more items
+          //   ],
           // },
+          // {
+          //   position: 'right',
+          //   label: 'Get in touch',
+          //   to: 'https://invarion.com/contact/',
+          // },
+          // {
+          //   position: 'right',
+          //   label: 'Technical Support',
+          //   to: 'https://invarion.com/support/ ',
+          // },
+          // {
+          //   position: 'right',
+          //   label: 'Pricing and Purchasing',
+          //   to: 'https://invarion.com/pricing/',
+          // },
+
           {
+            to: '/rapid-plan/Getting Started/System requirements and Downloading the Progam',
+            label: 'RapidPlan',
             position: 'left',
-            label: 'Invarion Help Center',
-            to: '/',
+            activeBaseRegex: `/rapid-plan/`,
           },
           {
-            type: 'dropdown',
-            label: 'Product',
+            to: '/rapid-online/Getting Started/Getting Started', // ./docs-api/Intro.md
+            label: 'RapidOnline',
             position: 'left',
-            items: [
-              {
-                type: 'doc',
-                label: 'RapidPlan',
-                docId:
-                  'rapid-plan/Getting Started/System requirements and Downloading the Progam',
-              },
-              {
-                type: 'doc',
-                label: 'RapidPath',
-                docId: 'rapid-path/Introduction',
-              },
-              {
-                type: 'doc',
-                label: 'RapidPlan Online',
-                docId: 'rapid-online/Getting Started/Getting Started',
-              },
-              {
-                type: 'doc',
-                label: 'RapidPath Online',
-                docId: 'rapid-path-online/Welcome',
-              },
-              // ... more items
-            ],
+            activeBaseRegex: `/rapid-online/`,
           },
           {
-            position: 'right',
-            label: 'Get in touch',
-            to: 'https://invarion.com/contact/',
+            to: '/rapid-path/Introduction', // ./docs-api/Intro.md
+            label: 'RapidPath',
+            position: 'left',
+            activeBaseRegex: `/rapid-online/`,
           },
-          {
-            position: 'right',
-            label: 'Technical Support',
-            to: 'https://invarion.com/support/ ',
-          },
-          {
-            position: 'right',
-            label: 'Pricing and Purchasing',
-            to: 'https://invarion.com/pricing/',
-          },
+          // {
+          //   to: '/docs-system/Introducao', // ./docs-system/Intro.md
+          //   label: 'My System',
+          //   position: 'left',
+          //   activeBaseRegex: `/docs-system/`,
+          // },
         ],
       },
       footer: {
@@ -298,3 +366,6 @@ const config = {
 };
 
 module.exports = config;
+
+//http://localhost:3000/rapid-plan/2.%20Getting%20Started/System%20requirements%20and%20Downloading%20the%20Progam.md
+//http://localhost:3000/rapid-plan/Getting%20Started/System%20requirements%20and%20Downloading%20the%20Progam
