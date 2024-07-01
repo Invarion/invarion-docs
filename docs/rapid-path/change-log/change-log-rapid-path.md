@@ -78,7 +78,7 @@ A dockable panel listing all Print Regions on the current plan allows accessing,
 
 Right click on any location while drawing a base map plan and use the location coordinates to look it up in a number of external services including Google Maps and Street View.
 
-#### More Changes
+### More Changes
 
 **Templates in Recent Plans** - The "Recent Plans" list includes TCT templates, providing quick access to the templates you use most frequently.
 
@@ -154,7 +154,7 @@ The search bar now supports Plus Codes, a geocoding scheme used by Google as an 
 
 The Zoomed View Box can now be styled to present its content in an ellipse or cloud shaped box.
 
-#### More changes
+### More changes
 
 **New LINZ Basemaps** - RapidPath users in New Zealand will now benefit from the new LINZ Aerial Imagery Basemap service.
 
@@ -236,7 +236,7 @@ Sign stands now support custom icons and can be positioned, oriented and styled 
 
 Advanced sign search and replace tool allows quickly finding and updating signs, which is particularly useful when editing very large plans.
 
-#### More changes
+### More changes
 
  **Convert to sign** - the Save Sign dialog now allows automatical replacement of the original object with the newly created sign.
 
@@ -310,7 +310,7 @@ Remove bits that obstruct the view underneath or create fancy cutout shapes usin
 
 Ever lost work because you accidentally closed a plan without saving it? Use File->Undo close tab to get out of trouble, or just open the plan again and - Rapid will check for the last autosaved version. The latest autosaved versions of all plans are preserved for 14 days and accessible via the Help -> Restore autosaved plans dialog.
 
-#### More changes
+### More changes
 
 **Distance Marker breakline** - when not drawing to scale, use the Breakline property of Distance Marker to indicate where the marker symbolically represents a larger on-site distance.
 
@@ -380,7 +380,7 @@ Plans and print regions can now be arranged by drag-dropping the items, then sav
 
 NearMap subscribers in USA, Australia and New Zealand can now access NearMap aerials as base map layer in RapidPath. Requires a NearMap API key - please [read instructions for obtaining one](https://docs.nearmap.com/display/ND/API+Key+Authentication).
 
-#### More changes
+### More changes
 
  **Custom Hatch Fills** - use Primitive objects (Lines and Shapes) to draw a hatch segment, right-click and select Save->As Custom Hatch... To use the saved hatch, select an object with a configurable background, set Properties->Style->Fill->Style to Custom Hatch, then select your saved hatch below.
 
@@ -456,7 +456,7 @@ Searching for your job location in the New Plan Wizard is now more accurate and 
 
 The Manifest Export tool can now include location coordinates for signs and other devices, both when exporting to PDF and to machine readable formats which can be used to import the data to other traffic management systems.
 
-#### More changes
+### More changes
 
  **Double-click to repeat last tool -** double-click on a blank space on the drawing canvas to repeat the last operation (e.g. draw another text object)
 
@@ -520,7 +520,7 @@ Legend and Manifest Boxes can now be used to trace entries back to the actual on
 
 New base map providers allow access to VIC, NSW and QLD state government services, containing detailed cartographic data and high-resolution imagery. In the provider selection dropdown, click More providers..., then select the providers you want to use - they will become visible in the dropdown. NOTE: the VicMap Basemaps services require a license, please contact State of Victoria, DELWP for details.
 
-#### More changes
+### More changes
 
  **Editing text in groups and signs** - double-click on any text object that's part of a group or sign to edit it in-place.
 
@@ -586,7 +586,7 @@ Files produced by exporting your base map plans to PDF are now much smaller and 
 
 The Multi Message Sign dialog loads faster, shows panel codes and lets you bookmark your most used panels for instant access.
 
-#### More changes
+### More changes
 
 **Scale/Rotate By...** - precisely transform your objects by typing in scale factors and rotation angles.
 
@@ -670,7 +670,7 @@ Auto Distance Markers have been merged into the corresponding Distance Marker to
 
 You can now specify job location coordinates for each traffic control plan you're drawing. Other than integrating base maps, in the future this will allow you to search your plans by location (show all plans in a selected area). Additionally, job start and end dates can be specified.
 
-#### More changes
+### More changes
 
  **Custom spellchecker dictionary** - add words and phrases you often use so that SpellCheck knows they're valid.
 

@@ -29,25 +29,41 @@ If you want to only edit the "Lock to Lock" parameter you can select the vehicle
 
 ![Vehicle's properties inside the Object Properties window](./images/Vehicle_object_and_its_properties.png)
 
-## Drawing a Vehicle Path
+## Creating a Vehicle Path
 
-To start drawing a Vehicle Path select the vehicle on your plan and click on the arrow in front of it. Arrow indicates the forward movement direction of the vehicle. You can also click on the vehicle with the right mouse button and choose "Vehicle" sub-menu and "Draw Path" option.
+To start drawing a Vehicle Path select the vehicle on your plan and click on the arrow in front of it to begin driving forward, or the smaller rear arrow to reverse. You can also click on the vehicle with the right mouse button and choose "Vehicle" sub-menu and "Draw Path" option.
 
 ![Selected Vehicle object with the arrow that indicates forward movement direction](./images/Selected_Vehicle_object_with_the_arrow_that_indicates_forward_movement_direction.png)
 
-When in "Draw Path" mode a special window called "Section details" will appear with settings for:
+Once you have begun to draw a path two things will appear:
+
+- A **Predicted Movement Area Cloud** - Displayed for your reference, displaying how tight an arch the vehicle can turn in, given the constraints that have been applied.
+- The **Section Details interface** - Details below.
+
+### The Section Details interface
+
+When in the process of drawing a path, a special window called **Section Details** will appear with settings for:
 
 - **Speed** - Vehicle speed.
 - **Friction** - Lateral friction factor dependent on the vehicle speed and calculated according to the chosen standard. To set a custom value disable speed and friction dependency by clicking on the link/unlink toggle button on the left and enter the desired value in the field.
 - **Turn on Stop** - Turning this option on ("True") allows the vehicle to make a stop and turn the front wheels between different sections (at control points) of the Vehicle Path.
 
-and info such as:
+Information such as:
 
 - **Min radius** - Minimum turning radius (centerline) of the vehicle at the given speed and friction.
 - **Max angle** - Maximum turn angle of the vehicle at the given speed and friction.
 - **Max speed** - Maximum speed for the vehicle taking into account standard guidelines, given speed, friction and current turn radius.
 
+As well as settings for altering the appearance of the **Predicted Movement Area Cloud**:
+
+- **Show** - Whether the Predicted Movement Area Cloud is visible while drawing.
+- **Outline Color** - Alter the outline of the Cloud.
+- **Color** - Alter the fill color of the Cloud.
+- **Opacity** - Alter the opacity of the fill color of the Cloud.
+
 ![Sections details window](./images/Sections_details_window.png)
+
+## Drawing the Vehicle Path
 
 After setting the speed, friction and "Turn on Stop" option you can start drawing the path. To do this, indicate the points on the canvas area by clicking the left mouse button. These points are called "Control Points" and can be adjusted later. Each point creates another section of the Vehicle Path.
 Each section can have different parameters such as speed, friction and turn on stop setting.
@@ -55,7 +71,7 @@ You can adjust section parameters before making each point to create a path that
 
 ![Drawing a vehicle path](./images/Drawing_a_vehicle_path.png)
 
-You can only create a path within the maneuverability capabilities of the current vehicle at given parameters such as speed, friction, lock to lock time, etc. Observing a real-time preview of the vehicle and turn angle indicator during drawing will help you make the desired path. The turn angle indicator will turn red when the maximum turn angle is reached.
+You can only create a path within the maneuverability capabilities of the current vehicle at given parameters such as speed, friction, lock to lock time, etc, as shown by the **Predicted Movement Area Cloud**. You'll also note the turn angle indicator will turn red when the maximum turn angle is reached.
 
 ![Angle indicator when drawing the path](./images/Angle_indicator_when_drawing_the_path.png)
 
@@ -64,19 +80,13 @@ Once the Vehicle Path is finished it turns into a separate object that can be fr
 
 ![Finished vehicle path](./images/Finished_vehicle_path.png)
 
-## Evaluating a Path
+### Evaluating a Path
 
-In order to obtain Sweep Envelope (the result of the analysis), the Vehicle Path needs to be evaluated. To evaluate a path, select it with the right mouse button, choose "Vehicle Path" sub-menu and then "Evaluate" option. You can also use the "Evaluate" button inside the Vehicle Path's properties in the Object Properties window. To do so, search for "Swept path" group and "Show" property.
+Once you are happy with the layout of your path, you can review how it fits through the area you are designing in by carefully reviewing if the **Path Envelope** stays within the given bounds.
 
-![Evaluate button in the context menu and Object Properties window](./images/Evaluate_button_in_the_context_menu_and_Object_Properties_window.png)
+![Evaluation progress bar and sweep envelope](./images/Path-envelope.jpg)
 
-Note that the evaluation process can take a while for particularly long paths. You can track the green progress bar that goes along the path during the calculation.
-
-![Evaluation progress bar and sweep envelope](./images/Evaluation_progress_bar_and_sweep_envelope.png)
-
-Making changes to the already evaluated path will cause the existing Sweep Envelope (now obsolete) to disappear, requiring the path to be re-evaluated. Sweep Envelopes are not saved to the plan's file but are visible in the print and export upon evaluation. You can evaluate all the Vehicle Paths in the active diagram by clicking the right mouse button anywhere on the canvas area and choosing the "Evaluate Paths" option.
-
-Sweep Envelope can be styled using Vehicle Path's properties in the Object Properties window.
+If you need more information - such as whether the vehicle's tires track within certain spaces, whether an amount of **clearance** needs to be added, or other things - you can edit the style of the path before evaluating again.
 
 ## Clearance Envelope
 
