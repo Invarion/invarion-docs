@@ -1,9 +1,9 @@
 ---
 
-sidebar_position: 4
+sidebar_position: 3
 
 ---
-# Using Vehicle Library
+# Using the Vehicle Library
 
 To open the RapidPath Vehicle Library you need to select the Vehicle tool from the Tools Palette.
 
