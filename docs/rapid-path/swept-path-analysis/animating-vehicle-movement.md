@@ -36,7 +36,7 @@ To set a recording region, click the file icon, located between the **Play** and
 Then, like drawing a rectangle, click the two far corners of where you would like the recording region to be located on the canvas.
 Once placed the corners can be relocated using control points, and if preferred you can click the **Set Recording Region** icon again to replace the region you have drawn.
 
-## Exporting the Vehicle Animation
+## Exporting the vehicle animation
 
 Once playback speed, start and end points, and a preferable recording region have been set, you are ready to export.
 
