@@ -1,11 +1,11 @@
 ---
 
-sidebar_position: 6
+sidebar_position: 4
 
 ---
 # Preparing Swept Path Analysis
 
-## Adding Vehicle to the Plan
+## Adding a vehicle to the plan
 
 The first step in creating the Swept Path Analysis is adding a vehicle to your plan. To do this, open the Vehicle Library by selecting the Vehicle tool from the Tools Palette. In the Vehicle Library window, choose the standard and vehicle you are interested in and click the "Add" button at the bottom of the window. Now place the vehicle onto your plan with the left mouse button.
 
@@ -19,7 +19,7 @@ Vehicles in RapidPath can be positioned and rotated just like any other object. 
 
 When clicking on a vehicle you can check its most important parameters inside the Object Properties window.
 
-## Editing an Existing Vehicle
+## Editing an existing vehicle
 
 To edit the existing vehicle double click on it with the left mouse button. The Edit Vehicle window will appear. Here you can change all the parameters and save them to the vehicle object on your plan. You can also use the same window to replace the current vehicle with another one.
 
@@ -29,7 +29,7 @@ If you want to only edit the "Lock to Lock" parameter you can select the vehicle
 
 ![Vehicle's properties inside the Object Properties window](./images/Vehicle_object_and_its_properties.png)
 
-## Creating a Vehicle Path
+## Creating a vehicle path
 
 To start drawing a Vehicle Path select the vehicle on your plan and click on the arrow in front of it to begin driving forward, or the smaller rear arrow to reverse. You can also click on the vehicle with the right mouse button and choose "Vehicle" sub-menu and "Draw Path" option.
 
@@ -63,11 +63,12 @@ As well as settings for altering the appearance of the **Predicted Movement Area
 
 ![Sections details window](./images/Sections_details_window.png)
 
-## Drawing the Vehicle Path
+## Drawing the vehicle path
 
 After setting the speed, friction and "Turn on Stop" option you can start drawing the path. To do this, indicate the points on the canvas area by clicking the left mouse button. These points are called "Control Points" and can be adjusted later. Each point creates another section of the Vehicle Path.
 Each section can have different parameters such as speed, friction and turn on stop setting.
-You can adjust section parameters before making each point to create a path that consists of sections with different speeds, friction and other parameters. Alternatively, the section parameters can be adjusted after drawing the path.
+You can adjust section parameters before making each point to create a path that consists of sections with different speeds, friction and other parameters.
+Alternatively, the section parameters can be adjusted after drawing the path. To do so, select the whole path, then while holding **ctrl**, click the section you would like to alter to select it. Once a sepecific section of the path is selected, changes made in the **section details** dialog box will apply to that section specifically.
 
 ![Drawing a vehicle path](./images/Drawing_a_vehicle_path.png)
 
@@ -80,35 +81,7 @@ Once the Vehicle Path is finished it turns into a separate object that can be fr
 
 ![Finished vehicle path](./images/Finished_vehicle_path.png)
 
-### Evaluating a Path
-
-Once you are happy with the layout of your path, you can review how it fits through the area you are designing in by carefully reviewing if the **Path Envelope** stays within the given bounds.
-
-![Evaluation progress bar and sweep envelope](./images/Path-envelope.jpg)
-
-If you need more information - such as whether the vehicle's tires track within certain spaces, whether an amount of **clearance** needs to be added, or other things - you can edit the style of the path before evaluating again.
-
-## Clearance Envelope
-
-Clearance Envelope will allow you to add offset to the Sweep Envelope to accommodate for driver error or real world situations. It can only be displayed on the evaluated Vehicle Path. To turn on Clearance Envelope go to the "Clearance" section in path's properties and change "Show" property to "Filled" or "Outline". You can edit the clearance envelope offset distances in the "Clearance" section of the path's properties.
-Making changes to the clearance offset will require re-evaluation of the path.
-
-![Clearance Envelope and its offset settings in the Object Properties window](./images/Clearance_Envelope_and_its_offset_settings_in_the_Object_Properties_window.png)
-
-## Styling Vehicle Path, Sweep Envelope and Clearance
-
-Vehicle Path, Sweep Envelope and Clearance can be styled in many different ways using Vehicle Path's properties in the Object Properties window. Aside from visual customization, you can also:
-
-- Add wheel paths separately for front and rear wheels;
-- Add speed information to path sections;
-- Show/hide directional arrows that indicate the start of each path section; and
-- Show/hide vehicles along the path.
-
-![Overview of extra options in vehicle path's properties](./images/Extra_styling_options_for_vehicle_path_-_1.png)
-
-![Overview of extra options in vehicle path's properties](./images/Extra_styling_options_for_vehicle_path_-_2.png)
-
-## Editing a Vehicle Path
+## Editing a vehicle path
 
 After the Vehicle Path is finished you can edit and adjust it using these methods:
 
@@ -123,7 +96,17 @@ You can also remove the control point by clicking on it with the right mouse but
 
 ![Continuing the path option in the context menu](./images/Continuing_the_path_option_in_the_context_menu.png)
 
-## Adding Additional Vehicles to the Path
+## Evaluating a path
+
+Once you are happy with the layout of your path, you can review how it fits through the area you are designing in by carefully reviewing if the **Path Envelope** stays within the bounds of the space you have chosen in the background.
+
+![Evaluation progress bar and sweep envelope](./images/Path-envelope.jpg)
+
+If you need more information - such as whether the vehicle's tires track within certain spaces, whether an amount of **clearance** beyond the vehicle's swept path needs to be added, or other things - you can edit the style of the path in **Properties** before evaluating again.
+
+Changes to a swept path's **Properties** are discussed in the [next section](./swept-path-analysis-properties.md)
+
+## Adding additional vehicles to the path
 
 You can add additional vehicle objects to the path to:
 
@@ -136,21 +119,3 @@ To add additional vehicles to the path, click on it with the right mouse button 
 ![Additional vehicles added to the existing vehicle path](./images/Additional_vehicles_added_to_the_existing_vehicle_path.png)
 
 ![Swept path analysis with different route variant](./images/Swept_path_analysis_with_different_route_variant.png)
-
-## Adding Vehicle Profile to the Plan
-
-It is always a good idea to add the description of the vehicle used for the Swept Path Analysis to your document. You can easily do this by clicking with the right mouse button on the vehicle or Vehicle Path and choosing "Add profile" from the appropriate sub-menu ("Vehicle" or "Vehicle path").
-
-![Vehicle profile option in the context menu](./images/Vehicle_profile_option_in_the_context_menu.png)
-
-The Vehicle Profile displays the:
-
-- Vehicle's name;
-- Vehicle's side view with the most important dimensions; and
-- Vehicle's properties crucial for the Swept Path Analysis.
-
-![Vehicle profile added to the plan](./images/Vehicle_profile_added_to_the_plan.png)
-
-You can ungroup the vehicle profile, then edit and style its parts - just like you would any other RapidPlan objects.
-
-![Styled vehicle profile](./images/Styled_vehicle_profile.png)
