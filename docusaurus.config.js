@@ -152,9 +152,34 @@ const config = {
             position: 'left',
             items: [
               {
+                type: 'doc',
                 label: 'RapidPlan',
-                to: 'category/getting-started',
+                docId: 'rapid-plan/getting-started/the-invarion-launcher',
               },
+              {
+                type: 'doc',
+                label: 'RapidPath',
+                docId:
+                  'rapid-path/getting-started/system-requirements-and-downloading-the-program',
+              },
+              {
+                type: 'doc',
+                label: 'RapidPlan Online',
+                docId: 'rapid-online/Getting Started/Getting Started',
+              },
+              {
+                type: 'doc',
+                label: 'RapidPath Online',
+                docId: 'rapid-path-online/Welcome',
+              },
+              // {
+              //   label: 'RapidPlan',
+              //   to: 'category/getting-started',
+              // },
+              // {
+              //   label: 'RapidPath',
+              //   to: 'category/rapid-path',
+              // },
               // {
               //   type: 'doc',
               //   label: 'RapidPath',
