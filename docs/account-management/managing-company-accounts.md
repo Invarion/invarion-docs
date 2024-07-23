@@ -14,6 +14,8 @@ Once you have logged in to your account, you will be taken to the My Account pag
 - Your company name
 - And a list of your account Administrators.
 
+![home screen](./assets/home-screen-account-management.jpg)
+
 ## Access types
 
 If you have standard access, you can view the licenses and add-ons linked to your profile.

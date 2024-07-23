@@ -7,6 +7,8 @@ sidebar_position: 1
 
 To access your account, head to the Invarion website and click "Account", as shown here.
 
+![accounts section](./assets/accounts-section.jpg)
+
 If you are a new customer - sign up for a new account.
 
 If you are an existing customer, login using your existing username and password.
