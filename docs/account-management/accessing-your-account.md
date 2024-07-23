@@ -3,9 +3,9 @@
 sidebar_position: 1
 
 ---
-# Accessing your account
+# Accessing Your Account
 
-To access your account, head to the Invarion website and click ‘’Account’’, as shown here.
+To access your account, head to the Invarion website and click "Account", as shown here.
 
 If you are a new customer - sign up for a new account.
 
