@@ -3,7 +3,7 @@
 sidebar_position: 1
 
 ---
-# Using mobile devices
+# Using Mobile Devices
 
 RapidPlan Online can be used on any mobile device that has an web browser. The application will simply adjust the screen to fit, based on the device you are using.
 

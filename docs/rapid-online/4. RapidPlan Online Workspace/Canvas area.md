@@ -9,14 +9,15 @@ The Canvas area is where your traffic plan is created. When you open a new plan,
 
 Another feature of the canvas area is the **Canvas button**, highlighted the image below.
 
-![The_Canvas_Button.png](./Assets/The_canvas_button.png)
+![The Canvas Area](./Assets/RO%20manual%20image%20updates.jpg)
 
-The Canvas button allows you to simply toggle between the [Select Tool](./Select%20tool.md) and [Pan/zoom](./Pan%20or%20Zoom%20tool.md) tools. This button can also has a **confirm action** function, which is particularly useful for tablet users. When using most tools, a check will appear on the canvas button. Select it confirm an object creation/change on your plan and finish using the currently selected tool.
+## Navigating the Canvas area
 
-**Quick tip:** While using the Select tool, hold down the Spacebar key (if you're using a desktop), then left mouse click and drag to pan across the canvas area.
+### Using a mouse and keyboard
 
-|         Canvas button selection         |      Function      |
-| :-------------------------------------: | :----------------: |
-| ![selection3](./Assets/selection3.png) |  **Select tool**   |
-| ![selection2](./Assets/selection2.png) | **Pan/zoom tool**  |
-| ![selection1](./Assets/selection1.png) | **Confirm action** |
+**To pan**: Hold Spacebar while your mouse is over the Canvas area, and then move your mouse to pan.
+
+**To zoom in or out**: Simple use your Mouse Wheel while the Mouse is over the Canvas area.
+Notice that you will zoom in or out towards/away from wherever the Mouse is located on the Canvas area. This can be a quick way to not only zoom but also navigate across the mapped area.
+
+**For details on navigating the Canvas area using Mobile Devices**, please visit the [mobile devices](/rapid-online/12.%20using-mobile-devices/using-mobile-devices.md) section.
