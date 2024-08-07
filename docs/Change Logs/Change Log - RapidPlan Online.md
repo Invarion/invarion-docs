@@ -11,6 +11,14 @@ description: RapidOnline change log
 
 This document contains short description of RapidOnline product monthly releases.
 
+## August 2024
+
+- New feature: comments. One can add comments to the plan and reply to existing comments. Comments are shown in the side panel, they can be placed on the canvas too. Comments are saved in the cloud and are available for all users who have access to the plan.
+- Bug fixes:
+  - It was possible to add control points to the object that has fixed number of control points, like insert a control point to the text box.
+  - Pasted rich text object had watermark in the end of the text.
+  - Inserting a text object and changing its text did not save the changes.
+
 ## May 2024
 
 - Bug fixes
