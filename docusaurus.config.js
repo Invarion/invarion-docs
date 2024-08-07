@@ -51,20 +51,20 @@ const config = {
   customFields: {
     gettingStartedLinks: [
       {
-        to: '/rapid-plan/getting-started/System%20requirements%20and%20Downloading%20the%20Progam',
+        to: '/rapid-plan/getting-started/the-invarion-launcher',
         text: 'RapidPlan',
       },
       {
-        to: '/rapid-path/Introduction',
-        text: 'RapidPath - WIP',
+        to: '/rapid-path/getting-started/system-requirements-and-downloading-the-program',
+        text: 'RapidPath',
       },
       {
         to: '/rapid-online/Getting%20Started/Getting%20Started',
-        text: 'RapidPlan Online - WIP',
+        text: 'RapidPlan Online',
       },
       {
         to: '/rapid-path-online/Welcome',
-        text: 'RapidPath Online - WIP',
+        text: 'RapidPath Online',
       },
     ],
     faqsLinks: [
@@ -171,6 +171,11 @@ const config = {
                 type: 'doc',
                 label: 'RapidPath Online',
                 docId: 'rapid-path-online/Welcome',
+              },
+              {
+                type: 'doc',
+                label: 'Account Management',
+                docId: 'account-management/accessing-your-account',
               },
               // {
               //   label: 'RapidPlan',
