@@ -36,3 +36,6 @@
 html[data-theme='dark'] footer {
   background-color: black;
 }
+.text-black{
+  color: black
+}
