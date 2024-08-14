@@ -5,18 +5,16 @@ import { IconProp } from '@fortawesome/fontawesome-svg-core';
 
 export interface HomepageLinkProps {
   to: string;
-  icon?: IconProp;
   text: string;
   color?: string;
 }
 
 export interface HomepageLinkListProps {
   links: HomepageLinkProps[];
-
   color?: string;
 }
 
-export const LinkWithIcon = ({ to, icon, text, color }: HomepageLinkProps) => {
+export const LinkWithIcon = ({ to, text, color }: HomepageLinkProps) => {
   return (
     <li style={{ marginBottom: 10 }}>
       <Link to={to}>
@@ -39,7 +37,6 @@ export const LinksList: React.FC<HomepageLinkListProps> = ({
           key={idx}
           to={linkProps.to}
           text={linkProps.text}
-          icon={linkProps.icon}
           color={color}
         />
       ))}

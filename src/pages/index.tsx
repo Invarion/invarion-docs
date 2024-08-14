@@ -5,7 +5,6 @@ import HomepageFeatures from '../components/HomepageFeatures';
 
 import { Divider } from '../components/Divider';
 import { PopularDocsLinks } from '../components/PopularDocsLinks';
-import WhatsNewSection from '../components/WhatsNew';
 import { HomepageHeader } from '../components/HomepageHeader';
 
 export default function Home(): JSX.Element {
@@ -16,8 +15,6 @@ export default function Home(): JSX.Element {
         <HomepageFeatures />
         <Divider />
         <PopularDocsLinks />
-        <Divider />
-        <WhatsNewSection />
       </main>
     </Layout>
   );
