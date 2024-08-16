@@ -11,8 +11,6 @@ The image below shows a road object. Each control point has been added via a mou
 
 ![Control Points](./assets/Control_Points.png)
 
-To add a control point to an existing object, simply right click on any point on the object to view the context menu. Selecting the **Add CP** option will add a control point at that point of an object.
-
-Similarly, if you want to remove a control point, right click on the control point and select **Remove CP** from the context menu.
-
-![Add Control Point](./assets/Add_Control_Point.png)
+**To add a control point to an existing object:** You will see white dots with a blue outline between each control point - clicking and dragging any of these will create and place a new control point.
+**To remove a control point:** Right click the control point and click *Remove Control Point*.
+**To remove the last control point placed or continue placing control points where you left off:** While the object is selected, you'll find buttons for each of these controls in the [**Context Menu**](/rapid-online/5.%20RapidPlan%20Online%20Basics/Context%20menu.md).
