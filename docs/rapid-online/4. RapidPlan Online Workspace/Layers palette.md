@@ -14,7 +14,7 @@ While it is named the Layers Palette in light of its core and original use case,
 
 ## Print Regions
 
-Print regions are used to select an area or areas of your plan that will eventually be exported as a pdf or image. In this section of the Layers Palette we are able to create new Print Regions, as well as managing ones and export them as needed.
+Print Regions are used to select an area or areas of your plan that will eventually be exported as a pdf or image. In this section of the Layers Palette we are able to create new Print Regions, as well as managing ones and export them as needed.
 
 In the top row of buttons in the Print Regions section of the Layers Pallette:
 
@@ -41,6 +41,12 @@ There is also the 3 Dots Icon, which opens a drop down menu with the following b
 |Hide layer  |![layers4](./Assets/layers4.jpg) |This icon toggles the visibility of the layer.  |
 |Layer settings  |![layers5](./Assets/layers5.jpg) | The 'More Options' icon allows you to rename the layer, adjust its opacity or delete that layer. |
 
+Once you have created a Print Region using the plus icon in the Print Regions sub-menu, it will appear on the plan. Its proportions can be manipulated using its control points, and it can be moved by clicking and dragging the Print Region's name in its bottom left corner.
+
+Note that the red box represents the boundaries of the Print Region, this is content that you require to be in your eventual export. The blue box is the Print Preview, it shows what else will be captured on the final plan page. The blue print Preview Box is based on your chosen page size and orientation, selected in your [Print Options](/rapid-online/9.%20Printing%20and%20Exporting/printing-and-exporting.md).
+
+**Note:** You might choose to populate the space in between the red Print Region and the blue Print Frame with your title box and accompanying annotation.
+
 ## Basemap
 
 The Basemap sub-menu allows you to adjust the characteristics of your Basemap.
@@ -57,79 +63,3 @@ The Basemap sub-menu allows you to adjust the characteristics of your Basemap.
 | Map Type  |![basemap4](./Assets/basemap4.jpg)  | Change between different map types (road, satellite, hybrid, etc.). |
 | Opacity slide bar  |![basemap5](./Assets/basemap5.jpg)  | Change basemap opacity, you can make it a little transparent so the drawn objects stand out more. |
 | Bearing slide bar |![basemap6](./Assets/basemap6.jpg)  | Alters the bearing of the plan, rotating it. |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-There will be a lot of cases where you will need to create more than one plan for a job, such as when you have different stages of works. That's why RapidPlan Online enables you to place multiple layers on your plan.
-
-Layers will, more importantly, help you keep things organized in your plan. You can have a separate layer for roads, signs and other plan objects. Layers will improve your workflow and allow for easier changes on a more complex plan.
-
-By default, every plan starts with only one layer, the Background.
-
-Layers palette is divided in two three sections:
-
-- "Print Frames" for managing print frames,
-- "Layers" for managing layers, and
-- "Basemap" for basemap settings.
-
-For more about "Print Frames" visit [Print frame tool](./Print%20frame%20tool.md).
-
-![Layers Palette](./Assets/Layers_Palette.png)
-
-Elements in "Layers" section and their functions:
-
-- **Add new layer** - Creates a new layer, which is then visible in the layers list.
-  
-- **Flatten layers** - Brings all of your current layers, and their objects, into a single layer.
-  
-- **Move layer** - Dragging this icon allows you to adjust the sequence of the layers in the list. This determines order in which layers are drawn on the plan.
-  
-- **Hide layer** - This icon toggles the visibility of the layer.
-  
-- **Layer settings** - The 'More Options' icon allows you to rename the layer, adjust its opacity or delete that layer.
-
-Adjust basemap to your needs in "Basemap" section of Layers palette.
-
-![Basemap Settings](./Assets/Basemap_Settings.png)
-
-Elements in "Basemap" section and their functions:
-
-- **Basemap Toggler** - Turn basemap on and off.
-  
-- **Map Provider** - Change map provider (Google, Mapbox).
-  
-- **Map Type** - Change between different map types (road, satellite, hybrid, etc.).
-  
-- **Opacity** - Change basemap opacity, you can make it a little transparent so the drawn objects stand out more.

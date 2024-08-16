@@ -3,12 +3,22 @@
 sidebar_position: 11
 
 ---
-# Scratchpad palette
+# Scratchpad Palette
 
-The Scratchpad is used to store signs or custom objects that you commonly use to make them easily accessible.
+The Scratchpad is used to store any object that you commonly use or have manually created. This way they are easily accessible and don't need to be created again.
 
-To add an object to your Scratchpad, just right click the object on your canvas area (or tap and hold on a mobile device), then select "Add to scratchpad" from the menu. The object will then be added to your Scratchpad.
+To add an object to your Scratchpad, just select the object in the Canvas Area to bring up the context menu next to it. Then select "Add to Scratchpad" from the menu. The object will then be added to your Scratchpad.
 
 ![Add To Scratchpad](./Assets/Add_To_Scratchpad.png)
 
-All objects added to your scratchpad are saved to your account, making them available to use on any new plans you create. To remove an object from your scratchpad, simply right click on the item and select "Delete item".
+All objects added to your scratchpad are saved to your account, making them available to use on any new plans you create.
+
+## Managing items in your Scratchpad
+
+Items added to the Scratchpad will be placed in the 'Page' (similar to a folder) that is currently open.
+Adding labelled Pages to your Scratchpad is valuable to categorise and organise your objects.
+
+Initially your Scratchpad will have one page. If you would like to **add a new Page**: Simply click the 3 dots button in the palette's heading bar, and click "Add New Page".
+Note that Pages can also be **Renamed** or **Deleted** your current page from this menu.
+
+Right clicking on an item in your Scratchpad will allow you to **remove** it from your Scratchpad, or **move it to another Page**.

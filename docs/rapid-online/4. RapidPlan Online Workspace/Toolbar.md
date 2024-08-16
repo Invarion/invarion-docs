@@ -5,12 +5,12 @@ sidebar_position: 7
 ---
 # Toolbar
 
-The Toolbar, located in the top right corner of the workspace, contains a number of button available for quick access. Each button is described in Table 4.2
+The Toolbar, located in the top right corner of the RapidPlan Online workspace, contains a small number of buttons available for quick access.
 
-| Label                 |                Button                 | Description                                                  |
+![toolbar](./Assets/toolbar.jpg)
+
+| Feature name                 |                Button                 | Description                                                  |
 | --------------------- | :-----------------------------------: | ------------------------------------------------------------ |
-| **Print**             | ![toolbar1](./Assets/toolbar1.png) | Open the printing dialogue to print or export a plan.        |
-| **Location features** | ![toolbar2](./Assets/toolbar2.png) | Location-based features, including: Go to location and Toggle location marker. |
-| **Map view**          | ![toolbar4](./Assets/toolbar4.png)| Toggle between different map views, including: Satellite, Road, Hybrid and Terrain. |
-| **Tools**             | ![toolbar5](./Assets/toolbar5.png) | Show/hide the Tools palette.                                 |
-| **Operations**        | ![toolbar6](./Assets/toolbar6.png) | Show/hide the Operations palette.                            |
+| **Go to Plan Origin**             | ![toolbar01](./Assets/toolbar01.jpg) | Return to the initial location where the plan was started.       |
+| **Toggle Geolocation** | ![toolbar02](./Assets/toolbar02.jpg) | Once enabled, this button will move the map to your location. |
+| **Print**          | ![toolbar03](./Assets/toolbar03.jpg)| Open the printing dialogue to print or export a plan. |
