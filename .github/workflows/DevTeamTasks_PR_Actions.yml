@@ -6,6 +6,8 @@ on:
     
   pull_request_review:
     types: [submitted, dismissed]
+    
+  create:
 
 jobs:
   call_pr_actions:
@@ -24,5 +26,6 @@ jobs:
       review_user: ${{ github.event.review.user.login }}
       review_state: ${{ github.event.review.state }}
       review_body: ${{ github.event.review.body }}
+      branch_ref: ${{ github.event.ref }}
     secrets:
       ACCESS_TOKEN: ${{ secrets.ORG_PROJECTS_PAT }}  

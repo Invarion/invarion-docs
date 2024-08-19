@@ -9,3 +9,7 @@
 .no-padding {
   padding: 0px !important
 }
+
+.logo {
+  transform: scale(0.75);
+}
