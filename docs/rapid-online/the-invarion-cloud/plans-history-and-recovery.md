@@ -1,9 +1,9 @@
 ---
 
-sidebar_position: 17
+sidebar_position: 9
 
 ---
-# Plan's History
+# Plan's History and Recovery
 
 Invarion Cloud keeps track of every modification made to the plan. Anytime the plan autosaves a new recovery point is made. Thanks to this you can easily go back to any previous version of the plan undoing some unwanted changes made by yourself or other collaborators. It is like turning back the clock.
 

@@ -1,9 +1,9 @@
 ---
 
-sidebar_position: 11
+sidebar_position: 8
 
 ---
-# Details Panel
+# Off-Canvas Panel
 
 Plan's or folder's details can be shown in the hideable panel on the right side of the screen. To see them click on a plan that interests you or open the folder. If you already are inside the folder which the details you want to see, click on the folder's name in the top bar.
 
@@ -26,6 +26,6 @@ Plan's or folder's details can be shown in the hideable panel on the right side 
 |**Created at**|Creation time and date|
 |**Created by**|Folder's owner|
 
-Additionally, the details panel includes buttons for basic option such as "Open", "Move", "Share", "Delete" for plans, and  "Move", "Rename", "Delete" for folders.
+Additionally, the Off-Canvas panel includes buttons for basic option such as "Open", "Move", "Share", "Delete" for plans, and  "Move", "Rename", "Delete" for folders.
 
 **Tip:** Click on plan's or folder's name to rename this plan or folder.

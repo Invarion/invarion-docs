@@ -5,7 +5,7 @@ sidebar_position: 14
 ---
 # Layers Palette
 
-While it is named the Layers Palette in light of its core and original use case, the Layers Palette has now expanded in function to include 3 sub-menus: 
+While it is named the Layers Palette in light of its core and original use case, the Layers Palette has now expanded in function to include 3 sub-menus:
 **Print Regions** for managing print regions,
 **Layers** for managing layers, and
 **Basemap** for basemap settings.

@@ -1,9 +1,9 @@
 ---
 
-sidebar_position: 3
+sidebar_position: 2
 
 ---
-# Sections
+# The Navigation Menu
 
 ## Home
 
