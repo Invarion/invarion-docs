@@ -15,11 +15,14 @@ export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row" style={{ justifyContent: 'space-around' }}>
+        <div
+          className="row"
+          style={{ justifyContent: 'space-around', marginTop: 70 }}
+        >
           {docsLinks.map((link, index) => {
             return (
               <Link to={link.to} key={index}>
-                <img src={productIcons[index]} />
+                <img src={productIcons[index]} className={styles.logo} />
               </Link>
             );
           })}

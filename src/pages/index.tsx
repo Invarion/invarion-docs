@@ -3,7 +3,6 @@ import React from 'react';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '../components/HomepageFeatures';
 
-import { Divider } from '../components/Divider';
 import { PopularDocsLinks } from '../components/PopularDocsLinks';
 import { HomepageHeader } from '../components/HomepageHeader';
 
@@ -13,7 +12,6 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
-        <Divider />
         <PopularDocsLinks />
       </main>
     </Layout>
