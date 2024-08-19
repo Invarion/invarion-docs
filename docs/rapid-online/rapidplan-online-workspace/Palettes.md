@@ -9,15 +9,15 @@ The Palettes are located on the left and right of the Canvas Area. Whole toolbar
 
 On the left side you'll find Palettes that includes everything that can be placed, imported and designed on your plan:
 
-- [**The Tools Palette**](./Tools%20palette.md)
-- [**Scratchpad:**](./Scratchpad%20palette.md)
-- [**Signs:**](./Signs%20palette.md)
+- [**The Tools Palette**](./tools-palette.md)
+- [**Scratchpad:**](./scratchpad-palette.md)
+- [**Signs:**](./signs-palette.md)
 
 On the right, Palettes alter an object or your plan:
 
-- [**Properties**](./Properties%20palette.md)
-- [**History**](./History%20palette.md)
-- [**Layers**](./Layers%20palette.md)
+- [**Properties**](./properties-palette.md)
+- [**History**](./history-palette.md)
+- [**Layers**](./layers-palette.md)
 
 The following sections describe the functions of each palette in detail.
 
