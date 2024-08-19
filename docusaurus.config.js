@@ -156,7 +156,7 @@ const config = {
               {
                 type: 'doc',
                 label: 'RapidPlan Online',
-                docId: 'rapid-online/Getting Started/Getting Started',
+                docId: 'rapid-online/getting-started/getting-started',
               },
               {
                 type: 'doc',
