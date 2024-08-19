@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 10
+sidebar_position: 6
 
 ---
 # Arrow Board Tool
@@ -15,7 +15,7 @@ There are six different Arrow Board patterns available, as shown below.
 | ![warning table](./assets/Warning_table.png) | Warning | ![cautionary table](./assets/Cautionary_table.png) | Cautionary |
 | ![chevron table](./assets/Chevron_table.png) | Chevron | ![diamonds table](./assets/Diamonds_table.png)   | Diamonds   |
 
-**Placing an Arrow Board**:
+## Placing an Arrow Board
 
 - Select the Arrow Board from the Devices tab in the Tools Palette;
 
@@ -23,6 +23,6 @@ There are six different Arrow Board patterns available, as shown below.
 
 - Rotate it as necessary.
 
-   **Note:** by default the Arrow board appears as a Right flash. If you require a Left flash, use the context menu to flip the object.
+   **Note:** by default the Arrow board appears as a right flash. If you require a left flash, use the context menu to flip the object.
 
 ![Arrow Board Tool](./assets/Arrow_Board_Tool.png)
