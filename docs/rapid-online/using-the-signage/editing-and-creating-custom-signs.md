@@ -7,7 +7,7 @@ sidebar_position: 2
 
 All signs are made up of basic objects (text, shapes, etc). Not only does this make it easy to adjust the speed on a sign, for instance, it also makes each sign object completely customizable.
 
-To edit a  sign, simply select it on your Canvas Area, then select **Ungroup** in the [Context Menu](/rapid-online/rapidplan-online-basics/control-points.md). This will separate the sign into it's basic objects.
+To edit a  sign, simply select it on your Canvas Area, then select **Un-group** in the [Context Menu](/rapid-online/rapidplan-online-basics/control-points.md). This will separate the sign into it's basic objects.
 
 **Note**: Some signs with multiple objects may require more than one un-group.
 

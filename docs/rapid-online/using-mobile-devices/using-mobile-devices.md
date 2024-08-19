@@ -19,7 +19,7 @@ Tap on to your canvas area to begin using the selected tool. Each tap on the can
 
 To select an object, simply **tap** on the object.
 
-To select multiple objects, simply **tapand drag** across the objects you wish to select, creating a [selection box](/docs/rapid-online/rapidplan-online-workspace/select-tool.md).
+To select multiple objects, simply **tap and drag** across the objects you wish to select, creating a [selection box](/docs/rapid-online/rapidplan-online-workspace/select-tool.md).
 
 To access the [Context Menu](/docs/rapid-online/rapidplan-online-basics/context-menu.md), tap and hold on the selected object/s, then the menu will appear.
 
