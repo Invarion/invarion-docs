@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 # Printing and Exporting
 
-The areas you print in your plan is dictated by the location of your [Print Regions](/rapid-online/4.%20RapidPlan%20Online%20Workspace/Layers%20palette.md). When your plan is ready for Printing or Exporting, simply select the **Print** option in the Main Menu, or click the printer icon (![print icon](./assets/printicon.png)) in the toolbar. Once selected, the following print dialogue window opens, containing several options to customize your document.
+The areas you print in your plan is dictated by the location of your [Print Regions](/rapid-online/rapidplan-online-workspace/layers-palette.md). When your plan is ready for Printing or Exporting, simply select the **Print** option in the Main Menu, or click the printer icon (![print icon](./assets/printicon.png)) in the toolbar. Once selected, the following print dialogue window opens, containing several options to customize your document.
 
 ![Printing Dialogue](./assets/Printing_Dialogue.png)
 
@@ -17,7 +17,7 @@ These options include:
 
 * **View horizontally:** The view horizontally button adjusts the view of the plan for different screen sizes. For example, a laptop screen is quite often smaller - this button adjusts the view so that you can view the plan appropriately on your screen.
 
-* **Print frame:** Select a [print frame](/docs/rapid-online/RapidPlan%20Online%20Workspace/Print%20frame%20tool.md) from this box. You can select multiple print frames for multi-page print.
+* **Print frame:** Select a [print frame](/docs/rapid-online/rapidplan-online-workspace/print-frame-tool.md) from this box. You can select multiple print frames for multi-page print.
 
 * **Template:** Here you can select a template for your desired page size. Templates include generic title blocks where plan information can be added.
 
