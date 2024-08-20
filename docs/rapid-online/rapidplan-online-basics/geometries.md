@@ -17,7 +17,8 @@ Simply the shortest path between two points - straight.
 
 Spline applies a curve based on the **Tension** value you input in the object's **Properties**.
 
--**Tension** values can be any value less than 1.
+**Tension** values can be any value less than 1:
+
 - A lower value will apply less smoothing - making the line more direct and less curved.
 - A higher value will smooth the path more - creating more curvature.
 
