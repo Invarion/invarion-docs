@@ -20,4 +20,4 @@ To create your first plan, from the Invarion Cloud click the **Create** button a
 ![Creating First Plan](./assets/Creating_First_Plan.png)
 
 Later, you can find your plan in the **Plans** sections inside **Invarion Cloud**.
-More details on using the Invarion Cloud can be found in the [Invarion Cloud](/docs/rapid-online/the-invarion-cloud/) section.
+More details on using the Invarion Cloud can be found in the [Invarion Cloud](/docs/rapid-path-online/the-invarion-cloud/) section.
