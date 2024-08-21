@@ -5,7 +5,7 @@ sidebar_position: 10
 ---
 # Settings
 
-To enter settings use the **Settings** button at the bottom of the navigation menu. From here you can visit your account page to change your password or edit your billing details. You can also change your default plan settings such as author and company name, your website or upload a company logo. This information will be used to populate the title block when used in RapidPlan Online.
+To enter settings use the **Settings** button at the bottom of the navigation menu. From here you can visit your account page to change your password or edit your billing details. You can also change your default plan settings such as author and company name, your website or upload a company logo. This information will be used to populate the title block when used in RapidPath Online.
 
 ![Settings](./assets/Settings.png)
 

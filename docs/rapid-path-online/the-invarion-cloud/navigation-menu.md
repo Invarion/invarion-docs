@@ -28,7 +28,7 @@ All Plans is an special section that shows all plans that you have access to. Th
 
 ## Shared with Me
 
-In this section you can see all the plans that were shared with you by other RapidPlan Online users.
+In this section you can see all the plans that were shared with you by other RapidPath Online users.
 
 ![Shared With Me](./assets/Shared_With_Me.png)
 

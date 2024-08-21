@@ -5,7 +5,7 @@ sidebar_position: 2
 ---
 # Control Points
 
-Almost every element in RapidPlan Online has at least one control point. A control point (represented by a small red circle) is a handle that allows you to alter the shape of an object.  
+Almost every element in RapidPath Online has at least one control point. A control point (represented by a small red circle) is a handle that allows you to alter the shape of an object.  
 
 The image below shows a road object. Each control point has been added via a mouse click, when drawing out the object. Clicking and dragging a control point will move it, adjusting the layout of the road.
 

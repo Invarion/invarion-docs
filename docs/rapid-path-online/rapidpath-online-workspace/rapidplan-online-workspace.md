@@ -3,11 +3,11 @@
 sidebar_position: 1
 
 ---
-# RapidPlan Online Workspace
+# RapidPath Online Workspace
 
 Before starting to create plans, we recommend getting to know your way around the workspace. It has been designed to be intuitive, easy to follow and to allow you the maximum available working space to create your traffic plan.
 
-There are four main components of the RapidPlan Online workspace:
+There are four main components of the RapidPath Online workspace:
 
 - [Canvas area](./canvas-area.md)
 - [Main menu](./main-menu.md)
@@ -16,7 +16,7 @@ There are four main components of the RapidPlan Online workspace:
 
 These workspace components are highlighted in the image below.
 
-![RapidPlan Online Workspace](./Assets/RapidPlan_Online_Workspace.png)
+![RapidPath Online Workspace](./Assets/RapidPlan_Online_Workspace.png)
 
 To name your plan, simply click where it mentions **No Title**, highlighted in the image below. Once renamed the plan will autosave.
 ![The Canvas Button](./Assets/The_canvas_button.png)
