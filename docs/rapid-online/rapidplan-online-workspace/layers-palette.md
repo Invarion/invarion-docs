@@ -53,7 +53,7 @@ The Basemap sub-menu allows you to adjust the characteristics of your Basemap.
 
 ![basemap](./Assets/basemap.jpg)
 
-**Elements in "Basemap" section and their functions:**
+**Elements in **Basemap** section and their functions:**
 
 | **Function** | **Symbol** | **Details**|
 | :------------------ | :----------------- |:---------------|

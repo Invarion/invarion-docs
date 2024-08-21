@@ -9,7 +9,7 @@ Folders help you keep your files organized and separate inside your Invarion sto
 
 ## Creating new folders
 
-To create a folder click on "+ Create" a button and choose the "New folder" option. A window will appear with input for the new folder's name. Enter the desired name for the folder and click "Ok". New folder will appear in your current location, and you will be taken straight into it.
+To create a folder click on ****+ Create**** a button and choose the **New folder ** option. A window will appear with input for the new folder's name. Enter the desired name for the folder and click **Ok**. **New folder** will appear in your current location, and you will be taken straight into it.
 
 ![Create New Folder](./assets/Creating_New_Folder.png)
 
@@ -20,7 +20,7 @@ To create a folder click on "+ Create" a button and choose the "New folder" opti
 
 ## Folders actions
 
-You can see available actions for the folder by clicking on the "three dots" button near its name. This will open folder's context menu with all options listed.
+You can see available actions for the folder by clicking on the ****three dots**** button near its name. This will open folder's context menu with all options listed.
 
 ![Folder Actions](./assets/Folder_Actions.png)
 

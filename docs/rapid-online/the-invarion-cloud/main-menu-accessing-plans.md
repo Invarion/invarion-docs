@@ -39,8 +39,8 @@ Depending on the current view, plans can be represented in the Main Menu as rows
 |View|Description|
 | ----------- | ----------- |
 | **Table View**      | The Table view presents all of your plans in a table. The table shows the document name, the date it was created, last modified and the editor's name. You can also see if a plan is public, private and or has been shared with a collaborator. You can sort your plans by clicking on column's heading to order by plan's name, creation date or last modified date. |
-| **Tile View**   | The tile view presents your plans as a series of thumbnail images. The tiles show a preview of the plan, for easy identification. Shared plans have special overlay icon that indicates that a plan has been shared. To sort in tile view click on "sort" button on the top bar and choose a desired sorting option. |
-| **Map**   | The map view displays your plans on a map. This can be useful when searching for a plan at a specific location, or for visualizing clusters of projects within a particular region. Plans displayed on the map will show depending on the folder you are currently in. To see all of your plans on the map, open map view while in the "All Plans" section. |
+| **Tile View**   | The tile view presents your plans as a series of thumbnail images. The tiles show a preview of the plan, for easy identification. Shared plans have special overlay icon that indicates that a plan has been shared. To sort in tile view click on **sort** button on the top bar and choose a desired sorting option. |
+| **Map**   | The map view displays your plans on a map. This can be useful when searching for a plan at a specific location, or for visualizing clusters of projects within a particular region. Plans displayed on the map will show depending on the folder you are currently in. To see all of your plans on the map, open map view while in the **All Plans** section. |
 
 ![Different Views](./assets/Different_Views.png)
 
@@ -54,4 +54,4 @@ You can change the view at any moment. It won't reset your current location or s
 
 In the top right corner of the page in the [Top Bar](./invarion-cloud-and-its-layout.md) you will find search input for searching your plans or folders.
 
-Searching will search in the current location (folder). If you want to search in all of your plans, switch to the "Home" or "All Plans" section.
+Searching will search in the current location (folder). If you want to search in all of your plans, switch to the **Home** or **All Plans** section.

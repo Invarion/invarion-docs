@@ -18,7 +18,7 @@ These workspace components are highlighted in the image below.
 
 ![RapidPlan Online Workspace](./Assets/RapidPlan_Online_Workspace.png)
 
-To name your plan, simply click where it mentions "No Title", highlighted in the image below. Once renamed the plan will autosave.
+To name your plan, simply click where it mentions **No Title**, highlighted in the image below. Once renamed the plan will autosave.
 ![The Canvas Button](./Assets/The_canvas_button.png)
 
 The plan author, comments and job work dates can be adjusted in Plan properties.

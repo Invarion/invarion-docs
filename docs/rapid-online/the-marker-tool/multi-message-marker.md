@@ -34,4 +34,4 @@ To list multi-message sign in the manifest select the multi-message sign you wan
   
 - **Panels & Frame** - Same as above. But, additionally to the signs, the manifest will also list the multi-message frame.
 
-Choose desirable option in multi-message sign's properties, this setting is called "Manifest entries".
+Choose desirable option in multi-message sign's properties, this setting is called **Manifest entries**.

@@ -26,6 +26,6 @@ Plan's or folder's details can be shown in the hideable panel on the right side 
 |**Created at**|Creation time and date|
 |**Created by**|Folder's owner|
 
-Additionally, the Off-Canvas panel includes buttons for basic option such as "Open", "Move", "Share", "Delete" for plans, and  "Move", "Rename", "Delete" for folders.
+Additionally, the Off-Canvas panel includes buttons for basic option such as **Open**, **Move**, **Share**, **Delete** for plans, and  **Move**, **Rename**, **Delete** for folders.
 
 **Tip:** Click on plan's or folder's name to rename this plan or folder.

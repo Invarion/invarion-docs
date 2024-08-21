@@ -38,4 +38,4 @@ Inside the Trash section you can find all your deleted plans and folders. Plans 
 
 ![Trash](./assets/Trash.png)
 
-You can restore the plan or a folder by choosing "Restore" option in the plan's or folder's context menu. If you want to clean up your trash manually, choose the "Delete forever" option from the same menu.
+You can restore the plan or a folder by choosing **Restore** option in the plan's or folder's context menu. If you want to clean up your trash manually, choose the **Delete forever** option from the same menu.
