@@ -1,9 +1,9 @@
 ---
 
-sidebar_position: 6
+sidebar_position: 1
 
 ---
-# Preparing Swept Path Analysis
+# Preparing Swept Path Analysis'
 
 ## Adding Vehicle to the Plan
 

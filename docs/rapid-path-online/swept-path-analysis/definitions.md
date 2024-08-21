@@ -1,11 +1,11 @@
 ---
 
-sidebar_position: 5
+sidebar_position: 2
 
 ---
 # Definitions
 
-| Term                          | Definition                                                   |
+| **Term**                          | **Definition**                                                   |
 | ----------------------------- | ------------------------------------------------------------ |
 | Vehicle                       | The chosen object from the Vehicle Library. It can't be resized, its size is automatically adjusted to the scale of the base map. |
 | Vehicle Path                  | Steering path for the vehicle. The path consists of user control points that reflect subsequent vehicle positions during the manoeuvre. The path consists of sections that can have different parameters such as speed, friction and turn on stop setting (on/off) within a single path. |
