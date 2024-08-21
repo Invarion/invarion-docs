@@ -15,7 +15,7 @@ Using the road tool is very simple. As you move the mouse after you have clicked
 - When you have placed your final point, right click to stop drawing.
 - If you don't want to draw another road, right click again to drop the road tool.
 
-**Tip:** A simple shortcut allows you to draw perfectly straight roads. By holding **Shift**, the tool will make sure that each control point is placed in a perfectly straight line. Move the move left or right, and the straight section of road will 'jump' in 15 degree increments.
+**Tip:** A simple shortcut allows you to draw perfectly straight roads. By holding **shift**, the tool will make sure that each control point is placed in a perfectly straight line. Move the move left or right, and the straight section of road will 'jump' in 15 degree increments.
 
 ## Components of a road
 

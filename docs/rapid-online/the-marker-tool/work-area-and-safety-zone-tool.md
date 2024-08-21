@@ -18,4 +18,4 @@ An example work zone is shown below.
 
 ![Work Zone Tool](./assets/Work_Zone_Tool.png)
 
-**Note** that holding **shift** will lock the span between two Control Points to 15 degree increments, allowing for perfectly horizontal, vertical or angled lines.
+**Note** that holding **shift** will lock the span between two control points to 15 degree increments, allowing for perfectly horizontal, vertical or angled lines.

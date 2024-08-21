@@ -15,4 +15,4 @@ The image below shows a road object. Each control point has been added via a mou
 **To remove a control point:** Right click the control point and click *Remove Control Point*.
 **To remove the last control point placed or continue placing control points where you left off:** While the object is selected, you'll find buttons for each of these controls in the [**Context Menu**](/rapid-online/rapidplan-online-basics/context-menu.md).
 
-For details on how objects curve or move between Control Points, see the [Geometries](./geometries.md) section.
+For details on how objects curve or move between control points, see the [Geometries](./geometries.md) section.

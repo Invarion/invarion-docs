@@ -19,7 +19,7 @@ The direction you drag the mouse creates a different colored window.
 
 ### Selection Boxes
 
-As described above, selection boxes are created by clicking and dragging your mouse across an area of the Canvas.
+As described above, **selection boxes** are created by clicking and dragging your mouse across an area of the Canvas.
 
 There are two types of selection box, which you use will depend on the direction you click and drag:
 

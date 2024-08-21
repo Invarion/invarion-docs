@@ -16,7 +16,7 @@ The options will vary based on the object that is selected, but the main options
 * **Group Selection list:** Allows you to see what items are selected, and allows you to deselect items using the 'X' button.
 * **Maximise:** Show a larger version of the **Context Menu**.
 * **Continue Drawing:** Place more control points, starting from where you had previously completed drawing the object.
-* **Remove last CP:** Remove the last Control Point placed.
+* **Remove last CP:** Remove the last control points placed.
 * **Copy:** Copy the object (it can be pasted using **Right Click** > **Paste**).
 * **Cut:** Like **Copy** but removing the original object.
 * **Delete:** Delete the item.
@@ -31,4 +31,4 @@ The options will vary based on the object that is selected, but the main options
 * **Group:** Group the items.
 * **Align:** Perfectly align the selected items, either vertically or horizontally.
 
-**Note:** Is the Context Menu in your way? Hold the **Shift** key to hide it.
+**Note:** Is the Context Menu in your way? Hold the **shift** key to hide it.
