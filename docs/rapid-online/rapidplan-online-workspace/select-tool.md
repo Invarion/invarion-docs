@@ -3,15 +3,28 @@
 sidebar_position: 4
 
 ---
-# Select Tool
+# Selecting Objects
 
-When drawing on the canvas area, your mouse can perform a number of functions. It can select objects, pan across the workspace and zoom in and out (using a mouse wheel). RapidPlan Online offers two options for alternating between these functions - canvas button, tool selection in the main menu.
+Selecting objects allows you to see and make changes to that object/s' [Properties](./properties-palette.md), its [Context Menu](/docs/rapid-online/rapidplan-online-basics/context-menu.md), as well as being basis by which to move and transform that object.
 
-The Select tool is principally used to drag and drop objects onto the canvas area. It also has a special drag-select function, used when selecting multiple objects. Clicking (tap and hold on mobile devices) and dragging your mouse creates a selection window. The direction you drag the mouse creates a different colored window.
+The direction you drag the mouse creates a different colored window.
 
-If you drag to the right, the window is purple. This selects objects that are completely within the purple window.
+## Methods of selection
 
-If you drag to the left, the window is green. This selects all objects touching the green window.
+**Single objects** can be selected by simply clicking on them.
+
+**Multiple objects** can be selected by holding **shift** while clicking each object required. Clicking an already selected item while holding **shift** will have the effect of removing that item from selection.
+
+**Multiple objects** can also be selected by clicking and dragging your mouse across an area of the Canvas, creating a **Selection Box**.
+
+### Selection Boxes
+
+As described above, selection boxes are created by clicking and dragging your mouse across an area of the Canvas.
+
+There are two types of selection box, which you use will depend on the direction you click and drag:
+
+- If you drag to the *right*: The window is **purple**. This will only select objects that are *completely within* the selection box.
+- If you drag to the *left*: The window is **green**. This will select all objects that are *touching* the selection box.
 
 | ![Purple 1](./Assets/purple1.png) | Drag right (Purple)   | ![Purple 2](./Assets/purple2.png) | Object selection     |
 | ------------------------------------ | --------------------- | ------------------------------------ | -------------------- |
