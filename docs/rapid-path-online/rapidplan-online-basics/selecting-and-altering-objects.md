@@ -23,7 +23,7 @@ The direction you drag the mouse creates a different colored window.
 
 As described above, **selection boxes** are created by clicking and dragging your mouse across an area of the Canvas.
 
-There are two types of selection box, which you use will depend on the direction you click and drag:
+There are two types of **selection box**, which you use will depend on the direction you click and drag:
 
 - **If you drag to the *right***: The window is **purple**. This will only select objects that are *completely within* the selection box.
 - **If you drag to the *left***: The window is **green**. This will select all objects that are *touching* the selection box.
