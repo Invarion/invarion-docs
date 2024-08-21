@@ -9,7 +9,7 @@ The areas you print in your plan is dictated by the location of your [Print Regi
 
 ![Printing Dialogue](./assets/Printing_Dialogue.png)
 
-These options include:
+## Printing options
 
 * **Plan preview:** The preview of your plan in the center shows how your plan will print out. In this preview window you can adjust the plan to fit the page size, by simply clicking and moving the map around, or by simply scrolling up and down to zoom in and out on the map area.
 
@@ -17,11 +17,7 @@ These options include:
 
 * **View horizontally:** The view horizontally button adjusts the view of the plan for different screen sizes. For example, a laptop screen is quite often smaller - this button adjusts the view so that you can view the plan appropriately on your screen.
 
-* **Print frame:** Select a [print frame](/docs/rapid-online/rapidplan-online-workspace/print-frame-tool.md) from this box. You can select multiple print frames for multi-page print.
-
 * **Template:** Here you can select a template for your desired page size. Templates include generic title blocks where plan information can be added.
-
-* **Plan variables for template:** Add and edit the information in the title block.
 
 * **Page size and orientation:** Change the page size and orientation to suit your printout. When selected you will also need to make sure, if you have added a template, that it matches the page size/orientation you have chosen.
 
@@ -36,11 +32,3 @@ Once the **Get PDF** button has been selected, you will be able to Print or Down
 ![Print Output](./assets/Print_Output.png)
 
 As shown in the image above, clicking the **Download PDF** button will allow you to save your plan as a PDF file. This will then open your default PDF application and show you a preview of your downloaded plan. Clicking **Print plan** will open your default printer dialogue.
-
-## Multi-Page Export/Print
-
-To export or print multiple pages at once you need to create a print frame for each page. Then, select them in the print dialogue. The order of print frames depends on the sequence in which the print frames were added to the plan. It can be changed in the "Print Frames" section of the layers palette or in the print dialogue itself.
-
-When using multi-page print, template and page options apply to all pages. Options associated with the first print frame in order will be passed to the other pages.
-
-![Multi-Page Print](./assets/Multi-Page_Print.png)

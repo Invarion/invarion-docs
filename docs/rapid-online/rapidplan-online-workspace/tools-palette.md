@@ -49,7 +49,7 @@ The Tools palette contains most of the elements required to draw a plan. The too
 |   **Filled Spline**   | ![prim4](./Assets/prim4.png)  | Creates a curved line that can be connected and filled with a custom color |
 |      **Bezier**       | ![prim5](./Assets/prim5.png)  | Create a curved line with greater precision using control points and curve handles |
 |   **Filled Bezier**   | ![prim6](./Assets/prim6.png)  | Create a curved line with greater precision using control points and curve handles. Fill with custom colors |
-|    **Text object**    | ![prim7](./Assets/prim7.png)  | Creates an **object** out of text that can be manipulated like any other object |
+|    **Text object**    | ![prim7](./Assets/prim7.png)  | Creates an object out of text that can be manipulated like any other object |
 |     **Text box**      | ![prim8](./Assets/prim8.png)  |          Creates a box that can be filled with text          |
 |     **Rectangle**     | ![prim9](./Assets/prim9.png)  |     Draw rectangular shapes and fill with custom colors      |
 |      **Ellipse**      | ![prim10](./Assets/prim10.png) |      Draw elliptical shapes and fill with custom colors      |

@@ -5,7 +5,7 @@ sidebar_position: 3
 ---
 # Creating Intersections
 
-The real power of RapidPlan Online lies in its ability to quickly create intersections. They are formed by "adding" new roads to existing ones. RapidPlan Online will automatically remove edge lines, shoulders, and sidewalks to blend at the intersecting point where a road is overlapping another road.
+The real power of RapidPlan Online lies in its ability to quickly create intersections. They are formed by **adding** new roads to existing ones. RapidPlan Online will automatically remove edge lines, shoulders, and sidewalks to blend at the intersecting point where a road is overlapping another road.
 
 **To form an intersection:**
 
