@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ## Selecting
 
-Selecting objects allows you to see and make changes to that object/s' [Properties](/docs/rapid-online/rapidplan-online-workspace/properties-palette.md), its [Context Menu](/docs/rapid-online/rapidplan-online-basics/context-menu.md), as well as being basis by which to move and transform that object.
+Selecting objects allows you to see and make changes to that object/s' [Properties](/docs/rapid-path-online/rapidpath-online-workspace/properties-palette.md), its [Context Menu](/docs/rapid-path-online/rapidpath-online-basics/context-menu.md), as well as being basis by which to move and transform that object.
 
 The direction you drag the mouse creates a different colored window.
 

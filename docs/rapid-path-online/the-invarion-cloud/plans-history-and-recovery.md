@@ -42,4 +42,4 @@ If you restore a previous version of the plan, you will still have access to the
 
 ### Note on Local Backups
 
-Upon reopening your plan, if RapidPlan Online notices that there is a Local Backup with further edits than the most recently saved version in Invarion Cloud, you will be asked if you would like to restore the plan from your local backups. You can click on the status icon to view saved versions of your plan and restore a previous version.
+Upon reopening your plan, if RapidPath Online notices that there is a Local Backup with further edits than the most recently saved version in Invarion Cloud, you will be asked if you would like to restore the plan from your local backups. You can click on the status icon to view saved versions of your plan and restore a previous version.

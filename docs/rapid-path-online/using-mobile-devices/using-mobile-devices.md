@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 # Using Mobile Devices
 
-RapidPlan Online can be used on any mobile device that has an web browser. The application will simply adjust the screen to fit, based on the device you are using.
+RapidPath Online can be used on any mobile device that has an web browser. The application will simply adjust the screen to fit, based on the device you are using.
 
 ## Creating objects
 
@@ -19,9 +19,9 @@ Tap on to your canvas area to begin using the selected tool. Each tap on the can
 
 To select an object, simply **tap** on the object.
 
-To select multiple objects, simply **tap and drag** across the objects you wish to select, creating a [selection box](/docs/rapid-online/rapidplan-online-workspace/select-tool.md).
+To select multiple objects, simply **tap and drag** across the objects you wish to select, creating a [selection box](/docs/rapid-path-online/rapidpath-online-workspace/select-tool.md).
 
-To access the [Context Menu](/docs/rapid-online/rapidplan-online-basics/context-menu.md), tap and hold on the selected object/s, then the menu will appear.
+To access the [Context Menu](/docs/rapid-path-online/rapidpath-online-basics/context-menu.md), tap and hold on the selected object/s, then the menu will appear.
 
 ## Panning
 

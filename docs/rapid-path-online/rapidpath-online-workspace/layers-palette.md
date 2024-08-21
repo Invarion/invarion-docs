@@ -24,7 +24,7 @@ In the top row of buttons in the Print Regions section of the Layers Pallette:
 There is also the 3 Dots Icon, which opens a drop down menu with the following buttons:
 
 - **Fit All To Page Size**: Fit the Print Region (blue rectangle) to the Page Preview (red rectangle).
-- **Turn Off Page Preview**: Shows only the Blue Print Region, removing the external red Page Preview rectangle that matches the selected page size in your [print settings](/rapid-online/printing-and-exporting/).
+- **Turn Off Page Preview**: Shows only the Blue Print Region, removing the external red Page Preview rectangle that matches the selected page size in your [print settings](/rapid-path-online/printing-and-exporting/).
 - **Hide Print Regions**: Hide Print Regions so that you can work on design without distraction.
 - **Orientation**: Change the orientation of the Page Preview.
 - **Page Size**: Change the Page size of your Page Preview.
@@ -43,7 +43,7 @@ There is also the 3 Dots Icon, which opens a drop down menu with the following b
 
 Once you have created a Print Region using the plus icon in the Print Regions sub-menu, it will appear on the plan. Its proportions can be manipulated using its control points, and it can be moved by clicking and dragging the Print Region's name in its bottom left corner.
 
-Note that the red box represents the boundaries of the Print Region, this is content that you require to be in your eventual export. The blue box is the Print Preview, it shows what else will be captured on the final plan page. The blue print Preview Box is based on your chosen page size and orientation, selected in your [Print Options](/rapid-online/printing-and-exporting/printing-and-exporting.md).
+Note that the red box represents the boundaries of the Print Region, this is content that you require to be in your eventual export. The blue box is the Print Preview, it shows what else will be captured on the final plan page. The blue print Preview Box is based on your chosen page size and orientation, selected in your [Print Options](/rapid-path-online/printing-and-exporting/printing-and-exporting.md).
 
 **Note:** You might choose to populate the space in between the red Print Region and the blue Print Frame with your title box and accompanying annotation.
 
