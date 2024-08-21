@@ -28,9 +28,9 @@ There are two types of **selection box**, which you use will depend on the direc
 - **If you drag to the *right***: The window is **purple**. This will only select objects that are *completely within* the selection box.
 - **If you drag to the *left***: The window is **green**. This will select all objects that are *touching* the selection box.
 
-| ![Purple 1](./Assets/purple1.png) | Drag right (Purple)   | ![Purple 2](./Assets/purple2.png) | Object selection     |
+| ![Purple 1](./assets/purple1.png) | Drag right (Purple)   | ![Purple 2](./assets/purple2.png) | Object selection     |
 | ------------------------------------ | --------------------- | ------------------------------------ | -------------------- |
-| ![Green 1](./Assets/green1.png)  | **Drag left (green)** | ![Green 2](./Assets/green2.png)  | **Object selection** |
+| ![Green 1](./assets/green1.png)  | **Drag left (green)** | ![Green 2](./assets/green2.png)  | **Object selection** |
 
 ## Altering Objects
 
