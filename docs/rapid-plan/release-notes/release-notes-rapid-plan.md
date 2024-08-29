@@ -1,4 +1,4 @@
-# Change Log
+# Release Notes
 
 ## RapidPlan 3.10
 
@@ -22,7 +22,7 @@ Automatically apply scale and rotate transformations required to fit objects to 
 
 Using the newly added "Select scale/rotate point" options, you can now scale or rotate selected objects around a specific point, provides a CAD-like experience for greater drawing precision and control over your plans.
 
-### Performance and Memory Usage Improvements
+### Performance and memory usage improvements
 
 ![perf small](./assets/133288014545860473-perf_small.png)
 
@@ -78,7 +78,7 @@ A dockable panel listing all Print Regions on the current plan allows accessing,
 
 Right click on any location while drawing a base map plan and use the location coordinates to look it up in a number of external services including Google Maps and Street View.
 
-#### More Changes
+#### More changes
 
 **Templates in Recent Plans** - The "Recent Plans" list includes TCT templates, providing quick access to the templates you use most frequently.
 
@@ -114,7 +114,7 @@ The Launcher is the new distribution channel for desktop versions of RapidPlan, 
 
 Use the Hyperlink text tool on your plans to reference online resources and other files via clickable links on exported PDF documents.
 
-### Performance and Stability
+### Performance and stability
 
 ![performance and stability](./assets/132779950452095920-PerformanceImprovements.png)
 
@@ -124,31 +124,31 @@ The underlying platform used by RapidPlan was updated to improve performance and
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RXNz1CwSoec?si=VAj7OIE_bvyEDFkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Multi-layer Snapping
+### Multi-Layer Snapping
 
 ![multilayersnapping](./assets/132580618682331461-multilayersnapping.png)
 
 Hold Ctrl+Alt while drawing or transforming objects to allow snapping to objects on all visible layers. This is particularly useful when drawing complex plans with multiple stages, as it allows hassle free snapping to base stage objects like road lanes and edges.
 
-### Import New AutoCAD Files
+### Import new AutoCAD files
 
 ![Import New AutoCAD Files](./assets/132580619830610363-cadimport.png)
 
 The CAD Import tool has been updated to support new formats, including DXF/DWG 2018 used in AutoCAD 2021.
 
-### Snap & Align To Geometry
+### Snap & Align to Geometry
 
 ![Snap & Align To Geometry](./assets/132580619997884128-snapalign.png)
 
 Snap points and align drawn segments not only at control points, but anywhere along a snap geometry.
 
-### Search For Plus Codes
+### Search for Plus Codes
 
 ![Search For Plus Codes](./assets/132580620145211634-pluscodes.png)
 
 The search bar now supports Plus Codes, a geocoding scheme used by Google as an alternative to street addresses and GPS coordinates.
 
-### Circle/Cloud Shaped ZVB
+### Circle/Cloud shaped Zoomed View Box
 
 ![Circle/Cloud Shaped ZVB](./assets/132580620227768300-zvb.png)
 
@@ -238,7 +238,7 @@ Advanced sign search and replace tool allows quickly finding and updating signs,
 
 #### More changes
 
- **Convert to sign** - the Save Sign dialog now allows automatical replacement of the original object with the newly created sign.
+ **Convert to sign** - the Save Sign dialog now allows automatic replacement of the original object with the newly created sign.
 
 **Create sign group** - group multiple sing panels (e.g. main + complementary) into a single sign group that can be attached to sign stand(s) while still preserving individual panel codes in the manifest.
 
@@ -292,7 +292,7 @@ Capture Modes
 
 ![select intersecting](./assets/132265972767013513-SelectIntersecting.png) Intersecting objects (use right mouse button)
 
-### Spellcheck Improvements
+### Spellcheck improvements
 
 ![Spellcheck Improvements](./assets/132265940280538350-spellcheck.png)
 
@@ -312,11 +312,11 @@ Ever lost work because you accidentally closed a plan without saving it? Use Fil
 
 #### More changes
 
-**Distance Marker breakline** - when not drawing to scale, use the Breakline property of Distance Marker to indicate where the marker symbolically represents a larger on-site distance.
+**Distance Marker Breakline** - when not drawing to scale, use the Breakline property of Distance Marker to indicate where the marker symbolically represents a larger on-site distance.
 
 **Print/export all regions** - other than the existing option to export active view, the right-clicking on the diagram canvas now also allows printing/exporting all print regions on the diagram via the Batch Export dialog.
 
-**Toggle text alignment** - use Ctrl+Alt+C to quickly toggle between the available text alignment modes in all selected text objects.
+**Toggle Text Alignment** - use Ctrl+Alt+C to quickly toggle between the available text alignment modes in all selected text objects.
 
 **Quick load print frame file** - if you've saved your standard Print Frame to a file, you will now be able to apply it to new plans quicker. Right-click on the print frame icon and select Create print frame -> From file...
 
@@ -350,7 +350,7 @@ Snap to an existing geometry when drawing an object and RapidPlan will automatic
 
 When moving or scaling objects and print regions, their bounds edges and centers snap to each other for quick and precise positioning. NOTE: use F3 to quickly toggle snapping on/off.
 
-### New Drawing Tools
+### New drawing tools
 
 ![New Drawing Tools](./assets/132059305208533892-Annotations.png)
 
@@ -368,13 +368,13 @@ Crop images and other objects to any desired shape, edit individual points and s
 
 The redesigned CAD Import tool improves import quality and presents a live preview of what gets imported as you adjust the options.
 
-### Batch Export Improvements
+### Batch Export improvements
 
 ![Batch Export Improvements](./assets/132059307105965225-BatchExport.png)
 
 Plans and print regions can now be arranged by drag-dropping the items, then saved and restored as reusable export configurations.
 
-### NearMap Integration
+### NearMap integration
 
 ![NearMap Integration](./assets/132059307457589842-NearMap.png)
 
@@ -556,13 +556,13 @@ Press F8 to quickly measure distances, areas and angles on your plan. Measuremen
 
 Base map bearing is now adjustable, so you can draw your plans at any orientation.
 
-### Selection Improvements
+### Selection improvements
 
 ![Selection Improvements](./assets/131595517421832433-selection.png)
 
 The selection box has been optimized for extra flexibility when selecting multiple objects. Additionally, you can now preview and select objects across all layers by holding the Ctrl+Alt keys.
 
-### New Drawing Tools
+### New drawing tools
 
 ![New Drawing Tools](./assets/131596217986614948-tools.png)
 
@@ -652,7 +652,7 @@ All objects containing text can now be easily edited on-canvas. Simply double cl
 
 Batch Export tool is now accompanied by Batch Print - a dialog that lets you quickly print multiple plans. Both dialogs have a new clean design and allow selecting print regions you want included on the printout.
 
-### Performance Improvements
+### Performance improvements
 
 ![Performance Improvements](./assets/131460793367381357-PerformanceImprovements.png)
 
