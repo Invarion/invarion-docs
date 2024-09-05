@@ -2,30 +2,52 @@
 
 ## August 2024
 
-### Comments
+### Commenting
 
-One can add comments to the plan and reply to existing comments.
-A Comments palette is shown in the side panel where comments can be placed. Viewers can also create a comment on the Canvas Area by right clicking. Comments are saved in the cloud and are available for all users who have access to the plan.
+One can now add comments to a plan and reply to existing comments.
+A Comments Palette is shown in the side panel where comments can be placed. Viewers can also create a comment on the Canvas Area by right clicking. Comments are saved in the cloud and are available for all users who have access to the plan.
 
 ### Bug fixes
 
 - It was possible to add control points to the object that has fixed number of control points, like insert a control point to the text box.
-- Pasted rich text object had watermark in the end of the text.
+- Pasted rich text objects had watermark in the end of the text.
 - Inserting a text object and changing its text did not save the changes.
 
 ## May 2024
 
+### Width and height displayed on objects during resizing
+
+Width and height displayed on objects during resizing.
+
+### Hiding context menu when resizing
+
+When performing drag actions like drawing selection box, rotating/resizing selection, the context menu turns opaque and blurs to provide more visible space.
+
+### Potential control point handles
+
+Blue markers between control points are now visible that can be clicked and dragged to easily create new control points.
+
+### New minimized mode for Context Menu
+
+Context menu is now by default displayed in slimmer format below an object, allowing more of the Canvas Area to be displayed.
+
+If preferred the full version of the Context Menu can be returned with a 'maximise' toggle button in the menu.
+
+### Pointer attachment arrows added to objects
+
+Add new arrow features on every side of selection boxes that can be clicked to create a 'pointer' object. 
+
+Pointer objects include arrows, callout boxes, measurements from that object, and arrow text objects.
+
+### Faster Rich Text loading
+
+Rich text dialog box now loads immediately when opened.
+
 ### Bug fixes
 
 - Locale settings are now correctly applied when saving in different browsers.
-- Fixed upload folder crashes when uploading a folder containing subfolders with plans while root folder has none.
-- When performing drag actions like drawing selection box, rotating/resizing selection, entire interface now blurs to provide more visible space.
-- Handles for adding new control points are located on the guide line.
-- New minimized mode in floating selection window.
-- Rich text dialog gains focus immediately after opening.
-- Add indicator showing width and height scale during resize.
-- Fix issue where snapping and thus new object drawing fails sometimes.
-- Add new arrow features on every side of a selection box allowing for starting drawing new 'pointing' objects originated on one of the sides of selected object like
+- Fixed upload folder crash resolved when uploading a folder containing subfolders with plans while root folder has none.
+- Fix issue where snapping new object drawing fails sometimes.
   - Arrow to the object,
   - Arrow from the object,
   - Call out box,
@@ -39,41 +61,56 @@ A Comments palette is shown in the side panel where comments can be placed. View
 
 Creates an area of road, often used as the basis for parking lots or for non-uniform drivable areas.
 
-### Updated Printing user interface
+### Updated printing user interface
+
+### Degree of rotation now displayed when rotating object
+
+Small rotation degree indicator is shown when an object is being rotated.
 
 ### More changes
 
 - Object transformations applied to objects in the Scratchpad are now preserved when placing object on plan
 - Filled Bezier object type can be shown in Legend and Manifest.
+- Star icon on the selection has appropriate cursor.
 
 ### Bug fixes
 
 - Correct values now shown for Hatch Spacing and Thickness in the property grid for the objects with fill property.
 - Invarion Cloud: fix bug when uploading a plan when Shared With Me section is active causes this plan to show up in the section. (It's only UI problem, the actual plan location was correct).
-- Small rotation degree indicator is shown when an object is being rotated.
-- Star icon on the selection has appropriate cursor.
 - Proper handling of right click on control point.
-- Incorrect zooming in print preview dialog.
+- Resolved incorrect zooming in print preview dialog.
 - Fix cursor type when dragging append control point handle.
-- Plan export crashes when exporting more than 3-4 pages with Linz basemap.
+- Resolved plan export crashes when exporting more than 3-4 pages with Linz basemap.
 
 ## March 2024
 
-### Change rotation handles style and change cursor style for rotation handles
+### Rotation handles updated
 
-### Mouse wheel scroll over resize and rotation handles triggers zoom in and zoom out
+Change rotation handles style and change cursor style for rotation handles.
 
-### Change mouse cursor types to reflect object control points hover/dragging
+### Mouse wheel zooming improved
 
-### Added 'paste content' type selector
+Mouse wheel scroll over resize and rotation handles triggers zoom in and zoom out.
+
+### Adaptive mouse cursor
+
+Change mouse cursor types to reflect object control points hover/dragging.
+
+### Paste content selector
+
+Added 'paste content' type selector.
 
 ### Lane marking tool dimensions fit roads' lane markings
 
-### Parking bay has 2 control points and Offset now instead of 3 control points
+### Parking bay control points updated
+
+Parking bay has 2 control points and Offset now instead of 3 control points.
 
 ## February 2024
 
-### Add Auto Orientation mode of Print Regions
+### Simplified Print Regions
+
+Added Auto Orientation mode of Print Regions.
 
 ### Add configurable date formats for different locales other than US (e.g. CA, NZ, AU, GB)
 
