@@ -1,12 +1,3 @@
----
-keywords:
-  - docs
-  - rapidonline
-  - new features
-  - release notes
-description: RapidOnline change log
----
-
 # Release Notes
 
 ## August 2024
