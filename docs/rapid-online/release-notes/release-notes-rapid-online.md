@@ -112,23 +112,26 @@ Parking bay has 2 control points and Offset now instead of 3 control points.
 
 Added Auto Orientation mode of Print Regions.
 
-### Add configurable date formats for different locales other than US (e.g. CA, NZ, AU, GB)
+### Date format options added
 
-### Different cursor types are shown on resize handles displaying different action states
+Added configurable date formats for different locales other than US (e.g. CA, NZ, AU, GB).
 
-### Bug fixes
+### Updated cursors
+
+Different cursor types are shown on resize handles displaying different action states
 
 ### New tool: 'Number Stamp'
 
 ### New tool: 'Combined Offset Distance Marker'
 
+### Bug fixes
+
 - Fixed when selecting multiple signs the property panel shows incorrect value for ``Code``.
 - Fix problem when objects are snapped to Print Regions even if they are invisible.
-- Bug fixes:
-  - Exported plan does not respect updates in Print dialog
-  - When right clicking when context menu has already been opened opens native browser context menu;
-  - Scratchpad preview is broken on mobile devices.
-  - Code property of sign works incorrectly when selecting multiple signs.
+- Exported plan does now respect updates in Print dialog.
+- Right clicking when context menu has been opened now opens RapidPlan Online menu rather than native browser context menu.
+- Scratchpad preview issue on mobile devices resolved.
+- Code property of sign issue when selecting multiple signs resolved.
 - Job Start/Job End dates can be emptied. New plan start with empty start and end job dates.
 - QR Code creating modal has a button which allows to create public link to the plan and use it as QR Code value.
 
