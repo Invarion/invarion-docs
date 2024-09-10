@@ -290,68 +290,137 @@ One can now resize the size of the box, thus having a multi-column layout.
 
 ## July 2023
 
-- Default paper size in print dialog is selected based on the user license country.
-- New feature: Object Styles: one can save object style properties as style for later reuse, in addition any saved style can be saved as default for new objects of given type.
+### Default paper sizes based on user's country
+
+Default paper size in print dialog is selected based on the user license country.
+
+### New feature: Object Styles
+
+One can now save object style properties as style for later reuse, in addition any saved style can be saved as default for new objects of given type.
 
 ## June 2023
 
-- New feature: Sign codes. One can show sign codes on the canvas. It can be enabled globally per plan or individually per sign.
+### ew feature: Sign Codes
+
+One can show sign codes on the canvas. It can be enabled globally, per plan or individually per sign.
 
 ## May 2023
 
-- Progress dialog when engine is booting. Engine booting may take substantial time on mobile devices, now there's an indication that application is not frozen but does actual work.
-- New feature: adjust plan location. It's possible now to move basemap origin for existing plan. The option is available in main menu.
-- Bug fixes:
-  - Small portion of the bottom screen was not touchable on mobile devices.
-  - For some objects 'contains' mode selection (from left to right) picked the object anyway even if only part of the object was selected.
-- Add links to video tutorials.
-- Read-only mode for the users without Rapid Online / Rapid Path Online subscription.
+### Progress dialog displayed when engine is booting
+
+Engine booting progress bar displayed to visualise load progress.
+
+### New feature: Adjust Plan Location
+
+It's possible now to move basemap origin for existing plan. The option is available in main menu.
+
+### Read-only mode for those without Rapid Online / Rapid Path Online subscriptions
+
+People who receive a shareable link can now view a read online verions of the plan, allowing the plan to be viewed without needing to export a version.
+
+### Bug fixes
+
+- Small portion of the bottom screen was previously not touchable on mobile devices.
+- Object selection boxes pulled from left to right (selecting objects that are entirely within the selection box) had previously selected objects even if only part of the object was selected.
+- Added links to video tutorials.
 
 ## April 2023
 
-- Small bug fixes:
-  - Lane mask sometimes is dislocated on the export.
-  - Preview images are not being generated sometimes.
+### - New capability for road tool: Add Road Ends
+
+Road ends of different types can now be added in a road's properties, includingnd flat ends, round ends or cul-de-sac.
+
+### New tool: VMS Board
+
+Allows you to draw VMS boards on the plan. The tool is integrated with Sign Stand tool.
+
+### Bug fixes
+
+- Lane mask occasional dislocated in exports resolved.
+- Preview images were not being generated sometimes.
 - Improve stability for mobile devices (application could not open plan)
-- New capabilities for road tool, one can assign end types - none, flat, round or cul-de-sac.
-- New tool: 'VMS Board' - allows you to draw VMS boards on the plan. The tool is integrated with Sign Stand tool.
 - Fix critical bug when units of measure of distance markers are saved incorrectly.
 - Progress bar shows exact percentage of the plan loading progress.
 
 ## March 2023
 
-- New tool: 'Marked path' - allows you to draw a path with markings on it.
-- Change application title.
-- Update manual links in the application menu to point to different manuals for RapidOnline and RapidPath Online.
-- Improve progress bar on application startup.
-- RapidPath Online - increase maximum speed limit to 120 km/h.
-- Bug fixes:
-  - Sign stand looses connection after refresh
-  - UI glitches when focusing sign search input field
-  - Delineator drawing style resets after refresh.
-- New feature: 'Edit text' - allows you to edit text inside groups and signs without ungrouping them.
-- Drag and drop support for adding images to the plan.
+### New tool: Marked Path
+
+Allows you to draw an arrowed path to indicate the direction of travel of something.
+
+### Change application title
+
+### Update manual links
+
+Update manual links in the application menu to point to different manuals for RapidOnline and RapidPath Online.
+
+### Improved progress bar on application startup.
+
+### RapidPath Online - increased maximum speed limit to 120 km/h.
+
+### New feature: Edit text
+
+ Allows you to edit text inside groups and signs without ungrouping them.
+
+ ### Drag and drop support for adding images to a plan
+
+ Images can now be dragged and dropped into plans.
+
+### Bug fixes
+
+- Sign stand no longer loses connection after plan is refreshed.
+- UI glitches when focusing sign search input field resolved.
+- Delineator drawing style no longer resets after refresh.
+
 
 ## February 2023
 
-- Performance improvements.
-- New tool: 'Path text' - allows you to add text along a path.
-- New tool: 'Bicycle lane'.
-- Selection floating window hides beyond panels when you click somewhere outside of the canvas and goes on top of panels
+### Performance improvements
+
+### New tool: Path Text
+
+Allows you to add text along a given path.
+
+### New tool: Bicycle Lane
+
+Create a bicycle lane.
+
+### Hiding floating selection windows
+
+Selection floating window hides beyond panels when you click somewhere outside of the canvas and goes on top of panels
 when you click on the canvas.
-- New tool: 'Callout box'.
-- Delineator tool may no longer have zero spacing. Entering zero value causes application to crash.
+
+### New tool: Callout Box
+
+Creates a callout box or speech bubble.
+
+### Significantly reduced size of the application
+
+### New tool: Arrow Text
+
+Add text with an arrow pointing to a specific location on the map.
+
+### Improve user experience on iPhones
+
+- Implemented 'Add To Home Screen' functionality for mobile devices
+
+- Added 'Home' page which opens when you open RapidOnline from Home screen of mobile device.
+
+- Focus on input fields on iPhones no longer triggers zooming in.
+
+- Added +/- buttons into Transform -> Custom panel input fields for touch devices so that one can change the value without using virtual keyboard.
+
+### Add completely new UI layout for narrow screens 
+
+i.e. narrower than 1024px (e.g. mobile phones).
+
+### Buttons for showing/hiding tool columns moved to the side of each panel respectively.
+
+### Bug fixes
+
+- Delineator tool bug caused by zero value in Spacing has been resolved.
 - Fix the bug when centering plan after loading using 'Zoom to objects' when total bounds of the plan are near zero causes
 the application to crash.
-- Significantly reduced size of the application.
-- Improve user experience on iPhones: focus on input fields do not trigger zooming in.
-- New tool: 'Arrow Text' - allows you to add text with arrow pointing to a specific location on the map.
-- Implement 'Add To Home Screen' functionality for mobile devices.
-  - Add 'Home' page which opens when you open RapidOnline from Home screen of mobile device.
-- Add +/- buttons into Transform -> Custom panel input fields for touch devices
-so that one can change the value without using virtual keyboard.
-- Add completely new UI layout for narrow screens i.e. narrower than 1024px (e.g. mobile phones).
-- Buttons for showing/hiding tool columns moved to the side of each panel respectively.
 
 ## January 2023
 
