@@ -10,7 +10,7 @@ A Comments Palette is shown in the side panel where comments can be placed. View
 ### Bug fixes
 
 - It was possible to add control points to the object that has fixed number of control points, like insert a control point to the text box.
-- Pasted rich text objects had watermark in the end of the text.
+- Pasted Rich Text objects had watermark in the end of the text.
 - Inserting a text object and changing its text did not save the changes.
 
 ## May 2024
@@ -41,7 +41,7 @@ Pointer objects include arrows, callout boxes, measurements from that object, an
 
 ### Faster Rich Text loading
 
-Rich text dialog box now loads immediately when opened.
+Rich Text dialog box now loads immediately when opened.
 
 ### Bug fixes
 
@@ -184,9 +184,9 @@ The Title Block Gallery contains a collection of title blocks available to use. 
 
 It allows you to snap objects to each other and to the geometries which other objects are made of. It's possible to enable/disable snapping in the top right tool panel by clicking on 'Magnet' button. Swept path snapping and snapping on touch devices are not supported yet.
 
-### New tool: Rich text
+### New tool: Rich Text
 
-Full support of rich text in the rich text editing interface.
+Full support of Rich Text in the Rich Text editing interface.
 
 In addition pasting from other sources (e.g. MS Word, Excel, Google Spreadsheets) is supported.
 
@@ -248,7 +248,7 @@ All objects have opacity property now. It's possible to make objects semi-transp
 
 ### Add option for moving objects to another layer
 
-### Bug fixes:
+### Bug fixes
 
 - Styles options for Signs are disabled because signs do not support styles.
 - Fix styling of revisions panel.
@@ -260,9 +260,9 @@ All objects have opacity property now. It's possible to make objects semi-transp
 
 Create a path of delineators with an offset safety area alongside it.
 
-### Added collapsible panels in the properties palette
+### Added collapsible panels in the Properties palette
 
-Clicking the small arrow in the sub-headings of an object's properties will open/close to allow for a more economical use of space.
+Clicking the small arrow in the sub-headings of an object's Properties will open/close to allow for a more economical use of space.
 
 ### Added reverse arrows option for all types of distance markers
 
@@ -296,7 +296,7 @@ Default paper size in print dialog is selected based on the user license country
 
 ### New feature: Object Styles
 
-One can now save object style properties as style for later reuse, in addition any saved style can be saved as default for new objects of given type.
+One can now save object style Properties as style for later reuse, in addition any saved style can be saved as default for new objects of given type.
 
 ## June 2023
 
@@ -328,7 +328,7 @@ People who receive a shareable link can now view a read online verions of the pl
 
 ### - New capability for road tool: Add Road Ends
 
-Road ends of different types can now be added in a road's properties, includingnd flat ends, round ends or cul-de-sac.
+Road ends of different types can now be added in a road's Properties, includingnd flat ends, round ends or cul-de-sac.
 
 ### New tool: VMS Board
 
@@ -355,8 +355,6 @@ Allows you to draw an arrowed path to indicate the direction of travel of someth
 Update manual links in the application menu to point to different manuals for RapidOnline and RapidPath Online.
 
 ### Improved progress bar on application startup.
-
-### RapidPath Online - increased maximum speed limit to 120 km/h.
 
 ### New feature: Edit text
 

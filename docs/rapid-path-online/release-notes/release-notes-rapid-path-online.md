@@ -15,10 +15,6 @@ A Comments Palette is shown in the side panel where comments can be placed. View
 
 ## May 2024
 
-### Width and height displayed on objects during resizing
-
-Width and height displayed on objects during resizing.
-
 ### Hiding context menu when resizing
 
 When performing drag actions like drawing selection box, rotating/resizing selection, the context menu turns opaque and blurs to provide more visible space.
@@ -56,10 +52,6 @@ Rich text dialog box now loads immediately when opened.
 ### Arrow button on the corners of selection box has new option to 'Record swept path'
 
 ## April 2024
-
-### New object type - Road region
-
-Creates an area of road, often used as the basis for parking lots or for non-uniform drivable areas.
 
 ### Updated printing user interface
 
@@ -99,12 +91,6 @@ Change mouse cursor types to reflect object control points hover/dragging.
 ### Paste content selector
 
 Added 'paste content' type selector.
-
-### Lane marking tool dimensions fit roads' lane markings
-
-### Parking bay control points updated
-
-Parking bay has 2 control points and Offset now instead of 3 control points.
 
 ## February 2024
 
@@ -146,7 +132,7 @@ QR Code creation modal has a button which allows to create public link to the pl
 
 ### Snapping is now available on touch screen devices
 
-### Add control point indicator when starting drawing polyline-like objects (roads, paths, etc.) 
+### Add control point indicator when starting drawing polyline-like objects
 
 It now clearly indicates that you are placing control points.
 
@@ -216,12 +202,6 @@ If something goes wrong during exporting a plan, the user can now share the asso
 
 ### Introduce new print service
 
-### New tool: Lane Status Sign 
-
-Addition of lane status sign tool (only for Australia).
-
-### Styles are now allowed for signs and sign stands
-
 ### Optimize bundle size
 
 Startup bundle is 20% smaller.
@@ -248,7 +228,7 @@ All objects have opacity property now. It's possible to make objects semi-transp
 
 ### Add option for moving objects to another layer
 
-### Bug fixes:
+### Bug fixes
 
 - Styles options for Signs are disabled because signs do not support styles.
 - Fix styling of revisions panel.
@@ -256,13 +236,9 @@ All objects have opacity property now. It's possible to make objects semi-transp
 
 ## August 2023
 
-### New tool: Buffered Delineator
+### Added collapsible panels in the Properties palette
 
-Create a path of delineators with an offset safety area alongside it.
-
-### Added collapsible panels in the properties palette
-
-Clicking the small arrow in the sub-headings of an object's properties will open/close to allow for a more economical use of space.
+Clicking the small arrow in the sub-headings of an object's Properties will open/close to allow for a more economical use of space.
 
 ### Added reverse arrows option for all types of distance markers
 
@@ -296,13 +272,9 @@ Default paper size in print dialog is selected based on the user license country
 
 ### New feature: Object Styles
 
-One can now save object style properties as style for later reuse, in addition any saved style can be saved as default for new objects of given type.
+One can now save object style Properties as style for later reuse, in addition any saved style can be saved as default for new objects of given type.
 
 ## June 2023
-
-### ew feature: Sign Codes
-
-One can show sign codes on the canvas. It can be enabled globally, per plan or individually per sign.
 
 ## May 2023
 
@@ -326,14 +298,6 @@ People who receive a shareable link can now view a read online verions of the pl
 
 ## April 2023
 
-### - New capability for road tool: Add Road Ends
-
-Road ends of different types can now be added in a road's properties, includingnd flat ends, round ends or cul-de-sac.
-
-### New tool: VMS Board
-
-Allows you to draw VMS boards on the plan. The tool is integrated with Sign Stand tool.
-
 ### Bug fixes
 
 - Lane mask occasional dislocated in exports resolved.
@@ -356,7 +320,7 @@ Update manual links in the application menu to point to different manuals for Ra
 
 ### Improved progress bar on application startup.
 
-### RapidPath Online - increased maximum speed limit to 120 km/h.
+### Increased maximum speed limit to 120 km/h.
 
 ### New feature: Edit text
 
@@ -368,7 +332,6 @@ Update manual links in the application menu to point to different manuals for Ra
 
 ### Bug fixes
 
-- Sign stand no longer loses connection after plan is refreshed.
 - UI glitches when focusing sign search input field resolved.
 - Delineator drawing style no longer resets after refresh.
 
@@ -379,10 +342,6 @@ Update manual links in the application menu to point to different manuals for Ra
 ### New tool: Path Text
 
 Allows you to add text along a given path.
-
-### New tool: Bicycle Lane
-
-Create a bicycle lane.
 
 ### Hiding floating selection windows
 
@@ -417,7 +376,6 @@ i.e. narrower than 1024px (e.g. mobile phones).
 
 ### Bug fixes
 
-- Delineator tool bug caused by zero value in Spacing has been resolved.
 - Fix the bug when centering plan after loading using 'Zoom to objects' when total bounds of the plan are near zero causes
 the application to crash.
 
@@ -428,15 +386,6 @@ the application to crash.
 - Significantly improved reliability;
 - Added local backups of unsaved changes;
 - Add ability to restore unsaved changes from local backup.
-
-
-### Change in default behavior of Work Zone and Delineator
-
-Work Zone and Delineator are now shown in legend by default.
-
-### New tool: Roundabout
-
-Create a roundabout for a road.
 
 ### New tool: Scale Marker
 
