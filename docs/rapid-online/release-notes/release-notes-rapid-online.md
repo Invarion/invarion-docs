@@ -120,84 +120,173 @@ Added configurable date formats for different locales other than US (e.g. CA, NZ
 
 Different cursor types are shown on resize handles displaying different action states
 
-### New tool: 'Number Stamp'
+### New tool: Number Stamp
 
-### New tool: 'Combined Offset Distance Marker'
+Easily stamp a sequential series of numbers on your plan as reference points.
+
+### New tool: Combined Offset Distance Marker
+
+Measure distances with offset values to avoid crowding your work area.
+
+### Create QR code for your plan
+
+QR Code creation modal has a button which allows to create public link to the plan and use it as QR Code value.
 
 ### Bug fixes
 
 - Fixed when selecting multiple signs the property panel shows incorrect value for ``Code``.
 - Fix problem when objects are snapped to Print Regions even if they are invisible.
-- Exported plan does now respect updates in Print dialog.
+- Exported plans now respect updates in Print dialog.
 - Right clicking when context menu has been opened now opens RapidPlan Online menu rather than native browser context menu.
 - Scratchpad preview issue on mobile devices resolved.
 - Code property of sign issue when selecting multiple signs resolved.
 - Job Start/Job End dates can be emptied. New plan start with empty start and end job dates.
-- QR Code creating modal has a button which allows to create public link to the plan and use it as QR Code value.
 
 ## January 2024
 
-- Snapping is now available on touch devices.
-- Add indicator when starting drawing polyline-like objects (roads, paths, etc.) so that it's clearly visible that you're placing control points.
-- Uploading entire folder with plans in Invarion Cloud.
-- One can manage public link directly in side panel in Invarion Cloud.
-- Add new tool: 'QR Code'.
-- Quick access for different actions for Print Regions directly from Print Regions panel:
-  1. 'Fit to page' - fits the region to the page size;
-  1. 'Fit all to page' - fits all regions to the page size;
-  1. Change page size and orientation.
-- New feature: 'Title block gallery'. It contains the old title block as first element along with new provided by Invarion. One can modify those title blocks to suit one's needs and save them to scratchpad for later use.
+### Snapping is now available on touch screen devices
+
+### Add control point indicator when starting drawing polyline-like objects (roads, paths, etc.) 
+
+It now clearly indicates that you are placing control points.
+
+### Folder uploading
+
+Upload an entire folder of plans into the Invarion Cloud.
+
+### Plan sharing link management improvement
+
+One can manage a plan's public link directly in its side panel menu in the Invarion Cloud.
+
+### New tool: QR Code
+
+Easily create a QR code on your plan. Place it in the canvas area and type in the URL/link you need the code to link to.
+
+### Print Regions quick access options
+
+New quick access buttons for the following functions featured in the Print Regions panel:
+  - **Fit to page** - fits the region to the page size;
+  -  **Fit all to page** - fits all regions to the page size;
+  -  **Change page size and orientation**
+
+### New tool: Title block gallery
+
+The Title Block Gallery contains a collection of title blocks available to use. Each with fillable fields, prefilled with text variables that will auto-fill with plan data.
+
+### Bug fixes
+
 - Fix bug when last used print settings are not saved.
 
 ## December 2023
 
-- Imported images have cap on the size of 2500x2500 pixels. If image is larger than that, it will be scaled down to fit the limit.
-- Improve performance when selecting large objects.
-- New feature: 'Snapping'. It allows you to snap objects to each other and to the geometries which other objects are made of. It's possible to enable/disable snapping in the top right tool panel by clicking on 'Magnet' button. Swept path snapping and snapping on touch devices are not supported yet.
-- New tool: 'Rich text'. Full support of rich text. In addition pasting from other sources (e.g. MS Word, Excel, Google Spreadsheets) is supported.
-- Page border is shown in print preview.
+### New feature: Snapping
+
+It allows you to snap objects to each other and to the geometries which other objects are made of. It's possible to enable/disable snapping in the top right tool panel by clicking on 'Magnet' button. Swept path snapping and snapping on touch devices are not supported yet.
+
+### New tool: Rich text
+
+Full support of rich text in the rich text editing interface.
+
+In addition pasting from other sources (e.g. MS Word, Excel, Google Spreadsheets) is supported.
+
+### Improve performance when selecting large objects.
+
+### Bug fixes
+
+- **Image importing issue resolved** - Imported images now cap in size at 2500x2500 pixels. If image is larger than that, it will be scaled down to fit the limit.
+- **Page border in printing preview** - Page border is shown in print preview.
 - Minor UI fixes.
 
 ## November 2023
 
-- UI improvements in the print dialog. Now it's possible to select multiple pages and reorder them at once.
-- Fix issue where some old plans cannot be opened.
-- If something goes wrong during exporting a plan, the user can share plan for investigation immediately.
+### Reordering pages in print dialog
+
+The order of pages can now be clicked to alter their order in the export.
+
+### Error report and share functionality
+
+If something goes wrong during exporting a plan, the user can now share the associated plan for investigation.
+
+### Bug Fixes
+
+- Fixed issue where some old plans cannot be opened.
 
 ## October 2023
 
-- Introduce new print service.
-- Multi message sign tools now is shown only in Australia (because it's only used in Australia).
-- New tool: Lane Status Sign (only for Australia).
-- Styles are now allowed for signs and sign stands.
+### Introduce new print service
+
+### New tool: Lane Status Sign 
+
+Addition of lane status sign tool (only for Australia).
+
+### Styles are now allowed for signs and sign stands
+
+### Optimize bundle size
+
+Startup bundle is 20% smaller.
+
+
+### New feature: Open Street View
+
+Click Open Street view to view Google Street View in a new tab.
+
+### Bug fixes
+
 - Fix bug when incorrect map type is selected during switching between map providers.
-- Optimize bundle size. Startup bundle is 20% smaller.
-- Add new option in right click menu: 'Open street view'. It opens Google Street View in a new tab.
+- Multi message sign tools now is shown only in Australia (because it's only used in Australia).
 - Fix `Shared with me` section when Map view is selected in Invarion Cloud.
 - Fix bug when location search panel works incorrectly when user changes plan location multiple times.
 - Add confirmation dialog when user tries to create a style with the same name as existing style.
 
 ## September 2023
 
-- All objects have opacity property now. It's possible to make objects semi-transparent.
-- Add the preview of selection state.
-- Add option for moving objects to another layer.
-- Bug fixes:
+### Opacity property now available for all objects
+
+All objects have opacity property now. It's possible to make objects semi-transparent.
+
+### Add the preview of selection state
+
+### Add option for moving objects to another layer
+
+### Bug fixes:
+
   - Styles options for Signs are disabled because signs do not support styles.
   - Fix styling of revisions panel.
   - Improve stability of the application on iPhone.
 
 ## August 2023
 
-- New tool: Buffered delineator
-- Add collapsible panels in the property grid
-- Add reverse arrows style for all types of distance markers
-- One can apply style to many objects in the selection if those objects are of the same type
-- Add interactive onboarding tutorial for new users. Old users also can see it through main menu of RapidOnline
-- Android devices have 'Download PDF' button instead of preview in print dialog
-- Legend and manifest got 'Custom dimensions' mode where one can resize the size of the box thus having a multi-column layout
-- Add ``wepb`` support for image primitives and Title boxes
-- Fix bug when *Text Outline* property was not applied properly to text objects
+### New tool: Buffered Delineator
+
+Create a path of delineators with an offset safety area alongside it.
+
+### Added collapsible panels in the properties palette
+
+Clicking the small arrow in the sub-headings of an object's properties will open/close to allow for a more economical use of space.
+
+### Added reverse arrows option for all types of distance markers
+
+### Setting styles of multiple objects
+
+One can now apply style to many objects in the selection if those objects are of the same type.
+
+### Interactive onboarding tutorial for new users
+
+An interactive onboarding tutorial has been added for new users. 
+
+Pre-existing users also can see it through the main menu of RapidPlan Online.
+
+### Android devices have 'Download PDF' button instead of preview in print dialog
+
+### 'Custom dimensions' mode added to Legend and Manifest
+
+One can now resize the size of the box, thus having a multi-column layout.
+
+### Added ``wepb`` support for image Primitives and Title Boxes
+
+### Bug fixes
+
+- **Text Outline** property is now applied properly to text objects.
 
 ## July 2023
 
