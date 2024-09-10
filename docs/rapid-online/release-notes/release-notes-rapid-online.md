@@ -47,10 +47,10 @@ Rich text dialog box now loads immediately when opened.
 
 - Locale settings are now correctly applied when saving in different browsers.
 - Fixed upload folder crash resolved when uploading a folder containing subfolders with plans while root folder has none.
-- Fix issue where snapping new object drawing fails sometimes.
-  - Arrow to the object,
-  - Arrow from the object,
-  - Call out box,
+- Fix issue where snapping new object drawing fails sometimes:
+  - Arrow to the object;
+  - Arrow from the object;
+  - Call out box;
   - Etc.
 
 ### Arrow button on the corners of selection box has new option to 'Record swept path'
@@ -165,9 +165,10 @@ Easily create a QR code on your plan. Place it in the canvas area and type in th
 ### Print Regions quick access options
 
 New quick access buttons for the following functions featured in the Print Regions panel:
-  - **Fit to page** - fits the region to the page size;
-  -  **Fit all to page** - fits all regions to the page size;
-  -  **Change page size and orientation**
+
+- **Fit to page** - fits the region to the page size;
+-  **Fit all to page** - fits all regions to the page size;
+-  **Change page size and orientation**.
 
 ### New tool: Title block gallery
 
@@ -225,7 +226,6 @@ Addition of lane status sign tool (only for Australia).
 
 Startup bundle is 20% smaller.
 
-
 ### New feature: Open Street View
 
 Click Open Street view to view Google Street View in a new tab.
@@ -250,9 +250,9 @@ All objects have opacity property now. It's possible to make objects semi-transp
 
 ### Bug fixes:
 
-  - Styles options for Signs are disabled because signs do not support styles.
-  - Fix styling of revisions panel.
-  - Improve stability of the application on iPhone.
+- Styles options for Signs are disabled because signs do not support styles.
+- Fix styling of revisions panel.
+- Improve stability of the application on iPhone.
 
 ## August 2023
 
@@ -372,7 +372,6 @@ Update manual links in the application menu to point to different manuals for Ra
 - UI glitches when focusing sign search input field resolved.
 - Delineator drawing style no longer resets after refresh.
 
-
 ## February 2023
 
 ### Performance improvements
@@ -424,39 +423,74 @@ the application to crash.
 
 ## January 2023
 
-- Fix behavior of 'Fit vertically' and 'Fit horizontally' buttons in the print preview dialog.
-- Complete rework of live save functionality:
-  - Significantly improved reliability;
-  - Add local backups of unsaved changes;
-  - Add ability to restore unsaved changes from local backup;
-  - Application no longer crashes when you try to save a plan and rename it at the same time.
-- Change in default behavior of Work Zone and Delineator: they are shown in legend by default.
-- New tools added:
-  - Roundabout
-  - Scale marker
-- Fine grained zoom control: allows for precise zoom configuration in the print preview dialog.
+### Complete rework of live save functionality
+
+- Significantly improved reliability;
+- Added local backups of unsaved changes;
+- Add ability to restore unsaved changes from local backup.
+
+
+### Change in default behavior of Work Zone and Delineator
+
+Work Zone and Delineator are now shown in legend by default.
+
+### New tool: Roundabout
+
+Create a roundabout for a road.
+
+### New tool: Scale Marker
+
+Create a scale marker for your plan exports.
+
+### Fine grained zoom control
+
+Allows for precise zoom configuration in the print preview dialog.
+
 It also shows proper page scale and allows for setting scale 100%. If you export a plan with scale 100%,
-the printed plan will have correct dimensions. E.g. 1 unit of metric Scale Marker will be exactly 1 cm on the paper.
-- Linz basemap provider (only for NZ users).
+the printed plan will have correct dimensions (e.g. 1 unit of metric Scale Marker will be exactly 1 cm on the paper).
+
+###  Linz basemap provider implemented (only for NZ users).
+
+Linz map is a New Zealand specific mapping provider that has been implemented.
+
+### Bug fixes
+
+- Application no longer crashes when you try to save a plan and rename it at the same time.
+- Fix behavior of 'Fit vertically' and 'Fit horizontally' buttons in the print preview dialog.
 
 ## December 2022
 
-- Add option to show/hide coordinates on the map.
-- Custom plan scale allows you to set any scale outside of the pop-up list.
-- Improve example objects showing plan scale.
+### Show/hide coordinates on the map
+
+Added option to show/hide coordinates on the map.
+
+### Custom plan scale
+
+Set your plan to any scale of your choosing.
+
+Example objects shown during the setting of a plan's scale have also been improved.
 
 ## November 2022
 
-- Scratchpad tabs: ability to create custom tabs under scratchpad.
-- Improve print region preview, added page preview.
+### Scratchpad tabs
+
+Scratchpad objects can now be organised within labelled tabs.
+
+### Improved print region preview
+
+Added page preview.
 
 ## October 2022
 
-- Paste improvements:
-  - Add support for pasting plain text as text object from clipboard.
-  - Add support for pasting images as raster.
+### Paste improvements
+
+- Add support for pasting plain text as text object from clipboard.
+- Add support for pasting images as raster.
 
 ## September 2022
 
-- Map bearing: Ability to rotate the map which allows you to draw better looking plans.
+### Map bearing
+
+Ability to rotate the map which allows you to draw better looking plans.
+
 North arrow object and north arrow within title block are automatically rotated to match the map bearing.
