@@ -120,7 +120,6 @@ QR Code creation modal has a button which allows to create public link to the pl
 
 ### Bug fixes
 
-- Fixed when selecting multiple signs the property panel shows incorrect value for ``Code``.
 - Fix problem when objects are snapped to Print Regions even if they are invisible.
 - Exported plans now respect updates in Print dialog.
 - Right clicking when context menu has been opened now opens RapidPath Online menu rather than native browser context menu.
@@ -180,8 +179,8 @@ In addition pasting from other sources (e.g. MS Word, Excel, Google Spreadsheets
 
 ### Bug fixes
 
-- **Image importing issue resolved** - Imported images now cap in size at 2500x2500 pixels. If image is larger than that, it will be scaled down to fit the limit.
-- **Page border in printing preview** - Page border is shown in print preview.
+- Image importing issue resolved- Imported images now cap in size at 2500x2500 pixels. If image is larger than that, it will be scaled down to fit the limit.
+- Page border in printing preview - Page border is shown in print preview.
 - Minor UI fixes.
 
 ## November 2023
@@ -213,7 +212,6 @@ Click Open Street view to view Google Street View in a new tab.
 ### Bug fixes
 
 - Fix bug when incorrect map type is selected during switching between map providers.
-- Multi message sign tools now is shown only in Australia (because it's only used in Australia).
 - Fix `Shared with me` section when Map view is selected in Invarion Cloud.
 - Fix bug when location search panel works incorrectly when user changes plan location multiple times.
 - Add confirmation dialog when user tries to create a style with the same name as existing style.
@@ -230,7 +228,6 @@ All objects have opacity property now. It's possible to make objects semi-transp
 
 ### Bug fixes
 
-- Styles options for Signs are disabled because signs do not support styles.
 - Fix styling of revisions panel.
 - Improve stability of the application on iPhone.
 
@@ -300,7 +297,6 @@ People who receive a shareable link can now view a read online verions of the pl
 
 ### Bug fixes
 
-- Lane mask occasional dislocated in exports resolved.
 - Preview images were not being generated sometimes.
 - Improve stability for mobile devices (application could not open plan)
 - Fix critical bug when units of measure of distance markers are saved incorrectly.
@@ -333,7 +329,6 @@ Update manual links in the application menu to point to different manuals for Ra
 ### Bug fixes
 
 - UI glitches when focusing sign search input field resolved.
-- Delineator drawing style no longer resets after refresh.
 
 ## February 2023
 
@@ -361,11 +356,8 @@ Add text with an arrow pointing to a specific location on the map.
 ### Improve user experience on iPhones
 
 - Implemented 'Add To Home Screen' functionality for mobile devices
-
 - Added 'Home' page which opens when you open RapidOnline from Home screen of mobile device.
-
 - Focus on input fields on iPhones no longer triggers zooming in.
-
 - Added +/- buttons into Transform -> Custom panel input fields for touch devices so that one can change the value without using virtual keyboard.
 
 ### Add completely new UI layout for narrow screens 

@@ -400,11 +400,8 @@ Add text with an arrow pointing to a specific location on the map.
 ### Improve user experience on iPhones
 
 - Implemented 'Add To Home Screen' functionality for mobile devices
-
 - Added 'Home' page which opens when you open RapidOnline from Home screen of mobile device.
-
 - Focus on input fields on iPhones no longer triggers zooming in.
-
 - Added +/- buttons into Transform -> Custom panel input fields for touch devices so that one can change the value without using virtual keyboard.
 
 ### Add completely new UI layout for narrow screens 
