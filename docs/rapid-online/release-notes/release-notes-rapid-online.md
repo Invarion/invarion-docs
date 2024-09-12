@@ -1,5 +1,15 @@
 # Release Notes
 
+## September 2024
+
+- New user interface for the signs panel.
+- New option 'Auto adjust objects' allows to pin objects in place when changing map bearing.
+- When changing map bearing, the map rotates around the center of the screen not the origin of a plan.
+
+### Bug fixes
+
+- Point snapping does not work.
+
 ## August 2024
 
 ### Commenting
