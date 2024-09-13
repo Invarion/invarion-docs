@@ -1,5 +1,25 @@
 # Release Notes
 
+## September 2024
+
+### Signs Palette Interface update
+
+The Signs Palette interface has been improved, a large, easy to use screen can now be opened in the center area of the work area.
+
+### New feature: Automated Object Adjustment
+
+The Auto Adjust Objects tool in the Layers palette pins objects in place when rotating the map bearing - keeping their location in comparison to the mapping static.
+
+This can be toggled so that the mapping rotates independent of plan objects if preferred.
+
+### Changed map rotatation point
+
+When changing map bearing the map now rotates around the center of the screen, rather than the origin of a plan.
+
+### Bug fixes
+
+- Issue with point snapping (snapping to the intersect point between two objects) has been resolved.
+
 ## August 2024
 
 ### Commenting
