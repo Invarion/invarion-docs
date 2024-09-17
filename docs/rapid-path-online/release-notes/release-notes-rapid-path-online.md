@@ -1,5 +1,15 @@
 # Release Notes
 
+## September 2024
+
+### Changed map rotatation point
+
+When changing map bearing the map now rotates around the center of the screen, rather than the origin of a plan.
+
+### Bug fixes
+
+- Issue with point snapping (snapping to the intersect point between two objects) has been resolved.
+
 ## August 2024
 
 ### Commenting
@@ -312,7 +322,7 @@ Allows you to draw an arrowed path to indicate the direction of travel of someth
 
 ### Update manual links
 
-Update manual links in the application menu to point to different manuals for RapidOnline and RapidPath Online.
+Update manual links in the application menu to point to different manuals for RapidPlan Online and RapidPath Online.
 
 ### Improved progress bar on application startup.
 
@@ -356,7 +366,7 @@ Add text with an arrow pointing to a specific location on the map.
 ### Improve user experience on iPhones
 
 - Implemented 'Add To Home Screen' functionality for mobile devices
-- Added 'Home' page which opens when you open RapidOnline from Home screen of mobile device.
+- Added 'Home' page which opens when you open RapidPath Online from Home screen of mobile device.
 - Focus on input fields on iPhones no longer triggers zooming in.
 - Added +/- buttons into Transform -> Custom panel input fields for touch devices so that one can change the value without using virtual keyboard.
 

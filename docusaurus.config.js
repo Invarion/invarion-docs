@@ -44,12 +44,12 @@ const config = {
   customFields: {
     gettingStartedLinks: [
       {
-        to: '/rapid-online/The%20Invarion%20Cloud/The%20Invarion%20Cloud',
+        to: '/rapid-plan-online/the-invarion-cloud/invarion-cloud-and-its-layout',
         text: 'Using the Invarion Cloud',
       },
       {
-        to: '/rapid-online/RapidPlan%20Online%20Workspace/RapidPlan%20Online%20Workspace',
-        text: 'The RapidPlan Workspace',
+        to: '/rapid-plan-online/rapid-plan-online-workspace/rapid-plan-online-workspace',
+        text: 'The RapidPlan Online Workspace',
       },
       {
         to: '/rapid-plan/integrated-mapping/accessing-integrated-mapping',
@@ -76,7 +76,7 @@ const config = {
         text: 'RP',
       },
       {
-        to: '/rapid-online/Getting%20Started/Getting%20Started',
+        to: '/rapid-plan-online/getting-started/getting-started',
         text: 'RO',
       },
 
@@ -102,12 +102,20 @@ const config = {
     ],
     whatsNewLinks: [
       {
-        to: '/Change%20Logs/Change Log -  RapidPlan & RapidPath',
-        text: 'RapidPlan & RapidPath',
+        to: '/rapid-plan/release-notes/release-notes-rapid-plan',
+        text: 'RapidPlan',
       },
       {
-        to: '/Change%20Logs/Change Log - RapidPlan Online',
+        to: '/rapid-path/release-notes/release-notes-rapid-path',
+        text: 'RapidPath',
+      },
+      {
+        to: '/rapid-plan-online/release-notes/release-notes-rapid-plan-online',
         text: 'RapidPlan Online',
+      },
+      {
+        to: '/rapid-path-online/release-notes/release-notes-rapid-path-online',
+        text: 'RapidPath Online',
       },
     ],
   },
@@ -156,7 +164,7 @@ const config = {
               {
                 type: 'doc',
                 label: 'RapidPlan Online',
-                docId: 'rapid-online/getting-started/getting-started',
+                docId: 'rapid-plan-online/getting-started/getting-started',
               },
               {
                 type: 'doc',
