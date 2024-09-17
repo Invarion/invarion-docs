@@ -1,5 +1,15 @@
 # Release Notes
 
+## September 2024
+
+### Changed map rotatation point
+
+When changing map bearing the map now rotates around the center of the screen, rather than the origin of a plan.
+
+### Bug fixes
+
+- Issue with point snapping (snapping to the intersect point between two objects) has been resolved.
+
 ## August 2024
 
 ### Commenting
