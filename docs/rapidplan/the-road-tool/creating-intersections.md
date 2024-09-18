@@ -17,4 +17,4 @@ The real power of RapidPlan lies in its ability to quickly create intersections.
 
 Once the added road is in place, it can be modified like any other.
 
-*See [this section](/docs/rapid-plan/advanced-intersections/) for Advanced Intersections.*
+*See [this section](/docs/rapidplan/advanced-intersections/) for Advanced Intersections.*

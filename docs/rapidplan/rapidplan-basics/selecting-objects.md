@@ -13,7 +13,7 @@ as would be the case when you want to change the size of a single sign. On other
 There are two ways to select a single item in RapidPlan:
 
 - By clicking on it.
-- By dragging a selection box around it (this can also be used for selecting multiple items as specified at the end of the previous [chapter](/docs/rapid-plan/the-canvas/blank-canvas.md).
+- By dragging a selection box around it (this can also be used for selecting multiple items as specified at the end of the previous [chapter](/docs/rapidplan/the-canvas/blank-canvas.md).
 
 ## Select by Clicking
 

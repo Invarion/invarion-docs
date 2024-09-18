@@ -26,7 +26,7 @@ If you need this tool again for your next point, simply click 'D' again and repe
 
 If you decide against using the distance tool once the red circle has already been engaged, click **Esc** to cancel.
 
-**Note:** If the point you are currently drawing a line from is [snapped](/docs/rapid-plan/rapidpath-basics/control-point-snapping.md) to a geometric object or line, the distance plugged into to the Distance tool will automatically measure along the object or line selected if desired.
+**Note:** If the point you are currently drawing a line from is [snapped](/docs/rapidplan/rapidpath-basics/control-point-snapping.md) to a geometric object or line, the distance plugged into to the Distance tool will automatically measure along the object or line selected if desired.
 
  ![Using_the_dimension_input_panel](./assets/Using_the_dimension_input_panel.png)
 

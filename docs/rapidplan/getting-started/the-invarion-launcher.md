@@ -18,7 +18,7 @@ When you are ready, **please use the link below to download the .exe installer f
 - Admin access is not required for this install. **We highly recommend installing on individual user profiles**.
 - **The Invarion Launcher will install Microsoft's Visual C++ runtime onto your machine**. This is required to operate Google Maps.
 - Please contact our [Support team](https://invarion.com/au/support/) if an .msi install is required or if you have difficulty with installation.
-- If RapidPlan is required on a **Apple computer**, please see [this page](/rapid-plan/faqs/can-i-run-rapidplan-on-a-mac.md) for information.
+- If RapidPlan is required on a **Apple computer**, please see [this page](/rapidplan/faqs/can-i-run-rapidplan-on-a-mac.md) for information.
 
 For **whitelist, firewall and proxy setup information**, please visit [this page](https://rapidplan.com/pages/firewall-and-proxy-setup).
 

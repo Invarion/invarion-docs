@@ -40,4 +40,4 @@ There are two ways to group objects
 
 Every sign in RapidPlan is made of a group of primitive objects - the most simple of which consist purely of a colored rectangle or square with text. These can be edited using the techniques shown above to create new signs.
 
-For more details, see [Creating Your Own Signs](/rapid-plan/creating-your-own-signs/).
+For more details, see [Creating Your Own Signs](/rapidplan/creating-your-own-signs/).

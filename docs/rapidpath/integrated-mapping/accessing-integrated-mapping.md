@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 # Accessing Integrated Mapping
 
-In [The Canvas](/docs/rapid-plan/the-canvas/) we covered how to start a new plan from different plan types, so in this section we will focus on aspects only relevant to integrated mapping.
+In [The Canvas](/docs/rapidplan/the-canvas/) we covered how to start a new plan from different plan types, so in this section we will focus on aspects only relevant to integrated mapping.
 
 ## To access the integrated mapping feature
 

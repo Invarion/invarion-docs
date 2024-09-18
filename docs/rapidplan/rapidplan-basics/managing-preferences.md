@@ -26,11 +26,11 @@ Here you can change settings related to units of measurement, export compression
 
 ### Diagram Editor
 
-Here primarily you can manage the appearance of your of your [Canvas Area](/docs/rapid-plan/the-canvas/):
+Here primarily you can manage the appearance of your of your [Canvas Area](/docs/rapidplan/the-canvas/):
 
 - **Show Rulers**: Show measurements around the edges of the canvas area for references.
-- **Show Grid**: Show dotted gridding over your plan in the canvas area, with settings for grid spacing and whether you would like objects to [snap](/docs/rapid-plan/rapidplan-basics/control-point-snapping.md) to the grid lines.
--**Show Origin**: Control whether a red cross will be visible on screen that indicates the original center point of your plan, based on the coordinates/address given when initalising using the [New Plan Wizard](/docs/rapid-plan/integrated-mapping/accessing-integrated-mapping.md).
+- **Show Grid**: Show dotted gridding over your plan in the canvas area, with settings for grid spacing and whether you would like objects to [snap](/docs/rapidplan/rapidplan-basics/control-point-snapping.md) to the grid lines.
+-**Show Origin**: Control whether a red cross will be visible on screen that indicates the original center point of your plan, based on the coordinates/address given when initalising using the [New Plan Wizard](/docs/rapidplan/integrated-mapping/accessing-integrated-mapping.md).
 -**Object Tooltips**: Allow or disable whether tool tips appera for objects.
 
 ### Appearance
@@ -51,7 +51,7 @@ The Defaults section manages the default settings of four object categories.
 
 Change settings of your plan when it is first opened:
 
--**Author**: Autofill the Author field in the  [New Plan Wizard](/docs/rapid-plan/integrated-mapping/accessing-integrated-mapping.md) with your name.
+-**Author**: Autofill the Author field in the  [New Plan Wizard](/docs/rapidplan/integrated-mapping/accessing-integrated-mapping.md) with your name.
 -**Basemap Provider**: The initial basemap provider when you open a mapped plan.
 
 -**Aerial Import Provider**: By default this is set to 'Use Current Plan Provider', meaning imported aerial photos will be from the same basemap provider visible in the background.

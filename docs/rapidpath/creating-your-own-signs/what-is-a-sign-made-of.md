@@ -11,7 +11,7 @@ A couple of examples illustrate how the primitives are used:
 
 ![The_Basic_Elements_of_Sign_Making](./assets/The_Basic_Elements_of_Sign_Making.png)
 
-If you aren't familiar with these base objects and how they work, see [The Basic Tools](/docs/rapid-plan/the-basic-tools/the-basic-tools.md). It will be considered assumed knowledge for this chapter.
+If you aren't familiar with these base objects and how they work, see [The Basic Tools](/docs/rapidplan/the-basic-tools/the-basic-tools.md). It will be considered assumed knowledge for this chapter.
 
 **Every sign in RapidPath has its own file on the computer and stored in each file is the sign, plus all of its variations.**
 

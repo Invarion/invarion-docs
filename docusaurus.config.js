@@ -44,15 +44,15 @@ const config = {
   customFields: {
     gettingStartedLinks: [
       {
-        to: '/rapid-plan-online/the-invarion-cloud/invarion-cloud-and-its-layout',
+        to: '/rapidplan-online/the-invarion-cloud/invarion-cloud-and-its-layout',
         text: 'Using the Invarion Cloud',
       },
       {
-        to: '/rapid-plan-online/rapid-plan-online-workspace/rapid-plan-online-workspace',
+        to: '/rapidplan-online/rapidplan-online-workspace/rapidplan-online-workspace',
         text: 'The RapidPlan Online Workspace',
       },
       {
-        to: '/rapid-plan/integrated-mapping/accessing-integrated-mapping',
+        to: '/rapidplan/integrated-mapping/accessing-integrated-mapping',
         text: 'Accessing Integrated Mapping',
       },
     ],
@@ -72,11 +72,11 @@ const config = {
     ],
     docsLinks: [
       {
-        to: 'rapid-plan/getting-started/the-invarion-launcher',
+        to: 'rapidplan/getting-started/the-invarion-launcher',
         text: 'RP',
       },
       {
-        to: '/rapid-plan-online/getting-started/getting-started',
+        to: '/rapidplan-online/getting-started/getting-started',
         text: 'RO',
       },
 
@@ -102,7 +102,7 @@ const config = {
     ],
     whatsNewLinks: [
       {
-        to: '/rapid-plan/release-notes/release-notes-rapid-plan',
+        to: '/rapidplan/release-notes/release-notes-rapidplan',
         text: 'RapidPlan',
       },
       {
@@ -110,7 +110,7 @@ const config = {
         text: 'RapidPath',
       },
       {
-        to: '/rapid-plan-online/release-notes/release-notes-rapid-plan-online',
+        to: '/rapidplan-online/release-notes/release-notes-rapidplan-online',
         text: 'RapidPlan Online',
       },
       {
@@ -153,7 +153,7 @@ const config = {
               {
                 type: 'doc',
                 label: 'RapidPlan',
-                docId: 'rapid-plan/getting-started/the-invarion-launcher',
+                docId: 'rapidplan/getting-started/the-invarion-launcher',
               },
               {
                 type: 'doc',
@@ -164,7 +164,7 @@ const config = {
               {
                 type: 'doc',
                 label: 'RapidPlan Online',
-                docId: 'rapid-plan-online/getting-started/getting-started',
+                docId: 'rapidplan-online/getting-started/getting-started',
               },
               {
                 type: 'doc',
