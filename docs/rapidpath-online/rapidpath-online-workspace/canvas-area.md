@@ -21,4 +21,4 @@ The same effect can also be achieved by holding **spacebar** down and dragging t
 **To zoom in or out**: Simple use your mouse's **scroll wheel** while the mouse is over the Canvas Area.
 Notice that you will zoom in or out towards/away from wherever the mouse is located on the Canvas Area. This can be a quick way to not only zoom but also navigate across the mapped area.
 
-**For details on navigating the Canvas area using Mobile Devices**, please visit the [Mobile Devices](/rapid-path-online/using-mobile-devices/using-mobile-devices.md) section.
+**For details on navigating the Canvas area using Mobile Devices**, please visit the [Mobile Devices](/rapidpath-online/using-mobile-devices/using-mobile-devices.md) section.

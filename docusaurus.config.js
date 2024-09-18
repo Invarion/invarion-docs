@@ -81,10 +81,10 @@ const config = {
       },
 
       {
-        to: '/rapid-path/getting-started/system-requirements-and-downloading-the-program',
+        to: '/rapidpath/getting-started/system-requirements-and-downloading-the-program',
         text: 'RA',
       },
-      { to: 'rapid-path-online/Welcome', text: 'RAO' },
+      { to: 'rapidpath-online/Welcome', text: 'RAO' },
     ],
     accountManagementLinks: [
       {
@@ -106,7 +106,7 @@ const config = {
         text: 'RapidPlan',
       },
       {
-        to: '/rapid-path/release-notes/release-notes-rapid-path',
+        to: '/rapidpath/release-notes/release-notes-rapidpath',
         text: 'RapidPath',
       },
       {
@@ -114,7 +114,7 @@ const config = {
         text: 'RapidPlan Online',
       },
       {
-        to: '/rapid-path-online/release-notes/release-notes-rapid-path-online',
+        to: '/rapidpath-online/release-notes/release-notes-rapidpath-online',
         text: 'RapidPath Online',
       },
     ],
@@ -159,7 +159,7 @@ const config = {
                 type: 'doc',
                 label: 'RapidPath',
                 docId:
-                  'rapid-path/getting-started/system-requirements-and-downloading-the-program',
+                  'rapidpath/getting-started/system-requirements-and-downloading-the-program',
               },
               {
                 type: 'doc',
@@ -169,7 +169,7 @@ const config = {
               {
                 type: 'doc',
                 label: 'RapidPath Online',
-                docId: 'rapid-path-online/Welcome',
+                docId: 'rapidpath-online/Welcome',
               },
               {
                 type: 'doc',

@@ -18,4 +18,4 @@ There are three states of the saving process:
 Panning across the map or changing plan location will not trigger the autosave function. You must draw or place an object on the canvas area to initial the autosave.
 
 **Note** that by clicking on this icon you can learn details of the last saved version of your plan, how long it has been since a local backup has been created, as well as how many versions of the plan have been saved locally.
-You will also find a link to view the history of your [saved versions](/rapid-path-online/restoring-previous-version-of-the-plan/).
+You will also find a link to view the history of your [saved versions](/rapidpath-online/restoring-previous-version-of-the-plan/).

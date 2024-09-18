@@ -20,9 +20,9 @@ The options will vary based on the object that is selected, but the main options
 * **Copy:** Copy the object (it can be pasted using **Right Click** > **Paste**).
 * **Cut:** Like **Copy** but removing the original object.
 * **Delete:** Delete the item.
-* **Arrange:** Move the item backward or forward in comparison to other objects on the same [layer](/rapid-path-online/rapidpath-online-workspace/layers-palette.md).
+* **Arrange:** Move the item backward or forward in comparison to other objects on the same [layer](/rapidpath-online/rapidpath-online-workspace/layers-palette.md).
 * **Transform:** Flip, rotate, or transform an object or group of objects.
-* **Add to Scratchpad:** Add the object to your [Scratchpad](/rapid-path-online/rapidpath-online-workspace/scratchpad-palette.md).
+* **Add to Scratchpad:** Add the object to your [Scratchpad](/rapidpath-online/rapidpath-online-workspace/scratchpad-palette.md).
 * **Convert to Sign:** Convert the item to a sign.
 * **Style:** Save the **Properties** of the object to your **Styles**, that can then be **Applied** to an object of the same type in the future - using the same **Style** button in the **Context Menu**.
 

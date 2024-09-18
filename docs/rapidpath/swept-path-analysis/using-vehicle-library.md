@@ -15,7 +15,7 @@ Use the buttons at the top left to choose the vehicle package (country standard,
 
 ![Vehicle Library Window](./images/Vehicle_Library_Window.png)
 
-All of these parameters can be modified when editing already placed vehicles. Read more about it in the [Adding Vehicle to The Plan and Editing and Existing Vehicle](/docs/rapid-path/Preparing-Swept-Path-Analysis.md) topics on the next page.
+All of these parameters can be modified when editing already placed vehicles. Read more about it in the [Adding Vehicle to The Plan and Editing and Existing Vehicle](/docs/rapidpath/Preparing-Swept-Path-Analysis.md) topics on the next page.
 
 **Note**: Changes made to the vehicle will not be saved to the Vehicle Library.
 

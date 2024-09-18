@@ -20,4 +20,4 @@ Alternatively, if you would like to create a new sign for your traffic control p
 
 **Note:** After saving your sign it will be available within the Custom tab in the signs palette.
 
-You can also refer to the [creating your own signs](/rapid-path/creating-your-own-signs/) section of the RapidPath help center.
+You can also refer to the [creating your own signs](/rapidpath/creating-your-own-signs/) section of the RapidPath help center.
