@@ -19,7 +19,7 @@ Having reasonably small goals would help to avoid merge conflicts, prevent the w
 - Switch to the `master` branch by running `git checkout master` or via IDE ![switch to master](./contributing-assets/switch-to-master.gif).
 - Don't forget to pull latest changes from the remote repository by running `git pull master` or via IDE ![pull changes](./contributing-assets/pull.gif).
 - Create a new branch by running `git checkout <branch-name>` or via IDE ![create branch](./contributing-assets/branching.gif)
-  - branch name should be descriptive and reflect the goal of the task, written in kebab-case, e.g. `update-obsolete-screenshots-in-rapid-plan-article`, `explore-vehicle-library`.
+  - branch name should be descriptive and reflect the goal of the task, written in kebab-case, e.g. `update-obsolete-screenshots-in-rapidplan-article`, `explore-vehicle-library`.
 - Start adjusting the content
 - Once some progress is done that is worth fixation, commit the changes using commit button in the **Source Control** tab with message describing what was done. Remember that the task may (and often should) consist of multiple commits.
 - Once the task is completed, push the changes to the remote repository by pressing on Push button.
@@ -30,7 +30,7 @@ Example video of [the workflow](https://drive.google.com/file/d/1ecj_jVhb0tjvQ6z
 ## Project structure
 
 - Follow standard recommendations from [docusaurus documentation](https://docusaurus.io/docs/next/create-doc).
-- Name files and folders in kebab-case, e.g. `new-feature-in-rapid-plan.md`, `vehicle-library`. No numbering is needed.
+- Name files and folders in kebab-case, e.g. `new-feature-in-rapidplan.md`, `vehicle-library`. No numbering is needed.
   - File names are usually in lowercase.
   - Words are separated by hyphens (-).
   - The file extension should be .md for Markdown files.

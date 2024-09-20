@@ -44,15 +44,15 @@ const config = {
   customFields: {
     gettingStartedLinks: [
       {
-        to: '/rapid-plan-online/the-invarion-cloud/invarion-cloud-and-its-layout',
+        to: '/rapidplan-online/the-invarion-cloud/invarion-cloud-and-its-layout',
         text: 'Using the Invarion Cloud',
       },
       {
-        to: '/rapid-plan-online/rapid-plan-online-workspace/rapid-plan-online-workspace',
+        to: '/rapidplan-online/rapidplan-online-workspace/rapidplan-online-workspace',
         text: 'The RapidPlan Online Workspace',
       },
       {
-        to: '/rapid-plan/integrated-mapping/accessing-integrated-mapping',
+        to: '/rapidplan/integrated-mapping/accessing-integrated-mapping',
         text: 'Accessing Integrated Mapping',
       },
     ],
@@ -72,19 +72,19 @@ const config = {
     ],
     docsLinks: [
       {
-        to: 'rapid-plan/getting-started/the-invarion-launcher',
+        to: 'rapidplan/getting-started/the-invarion-launcher',
         text: 'RP',
       },
       {
-        to: '/rapid-plan-online/getting-started/getting-started',
+        to: '/rapidplan-online/getting-started/getting-started',
         text: 'RO',
       },
 
       {
-        to: '/rapid-path/getting-started/system-requirements-and-downloading-the-program',
+        to: '/rapidpath/getting-started/system-requirements-and-downloading-the-program',
         text: 'RA',
       },
-      { to: 'rapid-path-online/Welcome', text: 'RAO' },
+      { to: 'rapidpath-online/Welcome', text: 'RAO' },
     ],
     accountManagementLinks: [
       {
@@ -102,19 +102,19 @@ const config = {
     ],
     whatsNewLinks: [
       {
-        to: '/rapid-plan/release-notes/release-notes-rapid-plan',
+        to: '/rapidplan/release-notes/release-notes-rapidplan',
         text: 'RapidPlan',
       },
       {
-        to: '/rapid-path/release-notes/release-notes-rapid-path',
+        to: '/rapidpath/release-notes/release-notes-rapidpath',
         text: 'RapidPath',
       },
       {
-        to: '/rapid-plan-online/release-notes/release-notes-rapid-plan-online',
+        to: '/rapidplan-online/release-notes/release-notes-rapidplan-online',
         text: 'RapidPlan Online',
       },
       {
-        to: '/rapid-path-online/release-notes/release-notes-rapid-path-online',
+        to: '/rapidpath-online/release-notes/release-notes-rapidpath-online',
         text: 'RapidPath Online',
       },
     ],
@@ -153,23 +153,23 @@ const config = {
               {
                 type: 'doc',
                 label: 'RapidPlan',
-                docId: 'rapid-plan/getting-started/the-invarion-launcher',
+                docId: 'rapidplan/getting-started/the-invarion-launcher',
               },
               {
                 type: 'doc',
                 label: 'RapidPath',
                 docId:
-                  'rapid-path/getting-started/system-requirements-and-downloading-the-program',
+                  'rapidpath/getting-started/system-requirements-and-downloading-the-program',
               },
               {
                 type: 'doc',
                 label: 'RapidPlan Online',
-                docId: 'rapid-plan-online/getting-started/getting-started',
+                docId: 'rapidplan-online/getting-started/getting-started',
               },
               {
                 type: 'doc',
                 label: 'RapidPath Online',
-                docId: 'rapid-path-online/Welcome',
+                docId: 'rapidpath-online/Welcome',
               },
               {
                 type: 'doc',
