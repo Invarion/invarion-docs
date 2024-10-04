@@ -1,5 +1,16 @@
 # Release Notes
 
+## October 2024
+
+### New feature: Highlight object on hover
+
+When hovering over an object, it will be highlighted with a border.
+
+### Bug fixes
+
+- InvarionCloud: D'n'D of folders does not work in the right panel.
+- InvarionCloud: Create new plan while locating in the folder creates a plan in the root folder.
+
 ## September 2024
 
 ### Signs Palette Interface update
