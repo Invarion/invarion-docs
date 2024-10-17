@@ -48,7 +48,7 @@ const config = {
         text: 'Using the Invarion Cloud',
       },
       {
-        to: '/rapidplan-online/rapidplan-online-workspace/rapidplan-online-workspace',
+        to: '/rapidplan-online/rapidplan-online-workspace',
         text: 'The RapidPlan Online Workspace',
       },
       {
@@ -76,7 +76,7 @@ const config = {
         text: 'RP',
       },
       {
-        to: '/rapidplan-online/getting-started/getting-started',
+        to: '/rapidplan-online/getting-started',
         text: 'RO',
       },
 
