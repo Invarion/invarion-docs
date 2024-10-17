@@ -44,6 +44,10 @@ const config = {
   customFields: {
     gettingStartedLinks: [
       {
+        to: '/rapidplan/getting-started/the-invarion-launcher',
+        text: 'Downloading the Invarion Launcher',
+      },
+      {
         to: '/rapidplan-online/the-invarion-cloud/invarion-cloud-and-its-layout',
         text: 'Using the Invarion Cloud',
       },
@@ -79,7 +83,6 @@ const config = {
         to: '/rapidplan-online/getting-started',
         text: 'RO',
       },
-
       {
         to: '/rapidpath/getting-started/system-requirements-and-downloading-the-program',
         text: 'RA',
@@ -99,23 +102,27 @@ const config = {
         to: '/account-management/buying-a-subscription',
         text: 'Purchasing New Licenses',
       },
+      {
+        to: '/account-management/updating-your-billing-information',
+        text: 'Updating Your Billing Information',
+      },
     ],
     whatsNewLinks: [
       {
         to: '/rapidplan/release-notes/release-notes-rapidplan',
-        text: 'RapidPlan',
-      },
-      {
-        to: '/rapidpath/release-notes/release-notes-rapidpath',
-        text: 'RapidPath',
+        text: 'Release Notes - RapidPlan',
       },
       {
         to: '/rapidplan-online/release-notes/release-notes-rapidplan-online',
-        text: 'RapidPlan Online',
+        text: 'Release Notes - RapidPlan Online',
+      },
+      {
+        to: '/rapidpath/release-notes/release-notes-rapidpath',
+        text: 'Release Notes - RapidPath',
       },
       {
         to: '/rapidpath-online/release-notes/release-notes-rapidpath-online',
-        text: 'RapidPath Online',
+        text: 'Release Notes - RapidPath Online',
       },
     ],
   },
