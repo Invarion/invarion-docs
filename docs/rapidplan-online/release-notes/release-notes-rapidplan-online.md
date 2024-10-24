@@ -2,6 +2,10 @@
 
 ## October 2024
 
+### New feature: Tips and Tricks screen
+
+RapidPlan Online or RapidPath Online shows a Tips and Tricks screen upon loading a plan. This screen provides demonstrations of different tools and features available in the application.
+
 ### New feature: Highlight object on hover
 
 When hovering over an object, it will be highlighted with a border.
