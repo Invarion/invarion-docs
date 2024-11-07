@@ -3,7 +3,7 @@
 sidebar_position: 1
 
 ---
-# The Components of the Welcome Screen
+# The Welcome Screen
 
 ![components](./assets/Components_of_the_Welcome_screen.png)
 

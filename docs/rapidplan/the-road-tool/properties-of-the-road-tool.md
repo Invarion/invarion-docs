@@ -74,7 +74,7 @@ In this section you can adjust the left/right edges (color, width), shoulders (w
 
     ![Shoulder_and_Sidewalk_turned_off](./assets/Shoulder_and_Sidewalk_turned_off.png)
 
-## Properties of the Road Tool - Distance Markers
+## Distance Markers
 
 This section allows you to activate distance markers on the road. On the image below, you can see the distance markers have been set to **True** and are visible on the road, also font color changed to black.
 
