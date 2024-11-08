@@ -54,4 +54,4 @@ Switching Fax mode on and off is simple. Just click on the Toggle Color/Fax mode
 
 You can create and edit fax mode versions of your own signs and objects. This can be done by selecting **View** > **Sign Editor**.
 
-*See [Creating Your Own Signs](/docs/rapidplan/creating-your-own-signs/creating-your-own-signs.md) for more information on Making Your own Signs.*
+*See [Creating Your Own Signs](/docs/rapidpath/creating-your-own-signs/creating-your-own-signs.md) for more information on Making Your own Signs.*

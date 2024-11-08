@@ -27,7 +27,7 @@ Next we select the lane marker tool and draw in the edge merge the line.
 
     ![Using_a_Lane_Marker](./assets/Using_a_Lane_Marker.png)
 
-You can change the lane marker to any of the standard lane styles (Dashed, Solid, SolidDash, DashSolid and Double) or change its color by accessing its properties screen. You can also set Lane Marker Defaults the same way you set the Road Defaults as specified in section [Setting a Default Road Style](/docs/rapidplan/the-road-tool/setting-a-default-road-style.md).
+You can change the lane marker to any of the standard lane styles (Dashed, Solid, SolidDash, DashSolid and Double) or change its color by accessing its properties screen. You can also set Lane Marker Defaults the same way you set the Road Defaults as specified in section [Setting a Default Road Style](/docs/rapidpath/the-road-tool/setting-a-default-road-style.md).
 
 **To change the properties of a lane marking:**
 
