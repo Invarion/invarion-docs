@@ -101,3 +101,7 @@ There you can also choose the manifest value as **Default** or **Dimensions** an
     ![Custom_Entry_name_and_Manifest_value](./assets/Custom_Entry_name_and_Manifest_value.png)
 
     **Note that this function is in the properties of all objects in RapidPath**
+
+# Saving the Properties of your road for future use - Styles
+
+If you foresee needing the type of road you have created again in the future, learn how to save properties as a **Style** in [this section](/docs/rapidpath/rapidpath-basics/object-properties-and-styles.md).

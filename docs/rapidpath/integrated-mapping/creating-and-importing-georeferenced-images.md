@@ -15,7 +15,7 @@ To import georeferenced images to a plan:
 
 The image will be placed on your plan, matching the bearing, scale, latitude and longitude it was saved in.
 
-Note a separate 'Georeferenced Images' layer will be created in the [Layers Palette](/docs/rapidplan/using-layers/).
+Note a separate 'Georeferenced Images' layer will be created in the [Layers Palette](/docs/rapidpath/using-layers/).
 The image saved here will remain at the bottom of the layers order, just above imported aerial imagery, and can not be edited.
 
 Note that the files you're adding must cover areas adjacent to the plan location.
@@ -62,8 +62,8 @@ To export an image as a georeferenced image:
 
 ### Placement of an Image for Georeferencing
 
-The most effective way to place your image is using the [Fit To](/docs/rapidplan/integrated-mapping/the-fit-to-tool.md) tool, see this page for more information.
-If you would rather manually resize, rotate and fit an image to background mapping, it is advisable to lower the opacity of the layer you are working in, using the slide bar on the [Layers Palette](/docs/rapidplan/using-layers/). This pass-through vision allows easier matching of landmarks between the image and the background mapping.
+The most effective way to place your image is using the [Fit To](/docs/rapidpath/integrated-mapping/the-fit-to-tool.md) tool, see this page for more information.
+If you would rather manually resize, rotate and fit an image to background mapping, it is advisable to lower the opacity of the layer you are working in, using the slide bar on the [Layers Palette](/docs/rapidpath/using-layers/). This pass-through vision allows easier matching of landmarks between the image and the background mapping.
 
 Note that in order for georeferencing to be accurate, it is best to match the imported image to integrated mapping, or to mapping that has been correctly georeferenced itself.
 
