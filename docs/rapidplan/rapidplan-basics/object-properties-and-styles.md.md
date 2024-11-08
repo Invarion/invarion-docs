@@ -58,7 +58,8 @@ Once you have a altered the properties of an object on the Canvas Area, with the
 
 The **Styles Dialog Window** pictured below is used for saving new styles, and updating/managing existing ones.
 
-It can be vertically into two sections:
+![styles dialog window](./assets/styles-dialog.png)
+It can be vertically divided into two sections:
 
 **The left side** displays the object type to which the styles we are viewing belong to, labelled *'Pick an object'*. And below, labelled *'Pick a style to edit'*, it lists the subsequent styles of the chosen object.
 
@@ -66,16 +67,16 @@ It can be vertically into two sections:
 
 ### Applying an existing style
 
-**To apply a style to an existing object:** With the object selected, click the button on the left in the Styles section at th bottom of the Properties menu. A list of all styles for that object will appear, and you can simply click the style you need.
+**To apply a style to an existing object:** With the object selected, in the Properties palette click the button on the left in the Styles section. A list of all styles for that object will appear, and you can simply click the style you need.
 
 **To select a style that you'll use to create a new object:** Find the object you plan to create in the Tools Palette (hover over the category of object and find the object in the drop down menu), right-click the object and find the preferred style under the 'Use Style' heading. Select this, and then then begin placing the control points of your object as you normally would.
 
 ### Altering and managing existing styles
 
-Altering and managing existing styles is done through the **Object Styles dialog window**. This can be opened by clicking Tools > Object Styles.
+As above, altering and managing existing styles is done through the **Object Styles dialog window**. This can be opened by clicking Tools > Object Styles, or the styles of a chosen tool can be accessed quickly by right-clicking on the tool > clicking '*Edit [tool name] styles*'.
 
 As explained in the **'Setting a Style'** section, the Object Styles dialog window has a section on the left for finding the object, and then the style of that object that you wish to manage on the left.
 
 Once the style is found, you can change it's details and/or properties before saving it. 
 
-USing the buttons next to the **Save** button, a style can also be **deleted** using the red cross icon, **copied** to create a matching style that can then be altered, or **added to [Scratchpad](/docs/rapidplan/the-rapidplan-screen/the-scratch-pad.md)**.
+Using the buttons next to the **Save** button, a style can also be **deleted** using the red cross icon, **copied** to create a matching style that can then be altered, or **added to [Scratchpad](/docs/rapidplan/the-rapidplan-screen/the-scratch-pad.md)**.
