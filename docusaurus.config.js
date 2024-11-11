@@ -44,7 +44,7 @@ const config = {
   customFields: {
     gettingStartedLinks: [
       {
-        to: '/rapidplan/getting-started/the-invarion-launcher',
+        to: '/rapidplan/installing-and-adminstration/the-invarion-launcher',
         text: 'Downloading the Invarion Launcher',
       },
       {
@@ -76,7 +76,7 @@ const config = {
     ],
     docsLinks: [
       {
-        to: 'rapidplan/getting-started/the-invarion-launcher',
+        to: 'rapidplan/installing-and-adminstration/the-invarion-launcher',
         text: 'RP',
       },
       {
@@ -84,7 +84,7 @@ const config = {
         text: 'RO',
       },
       {
-        to: '/rapidpath/getting-started/system-requirements-and-downloading-the-program',
+        to: '/rapidpath/installing-and-adminstration/system-requirements-and-downloading-the-program',
         text: 'RA',
       },
       { to: 'rapidpath-online/Welcome', text: 'RAO' },
@@ -160,18 +160,18 @@ const config = {
               {
                 type: 'doc',
                 label: 'RapidPlan',
-                docId: 'rapidplan/getting-started/the-invarion-launcher',
+                docId: 'rapidplan/installing-and-adminstration/the-invarion-launcher',
               },
               {
                 type: 'doc',
                 label: 'RapidPath',
                 docId:
-                  'rapidpath/getting-started/system-requirements-and-downloading-the-program',
+                  'rapidpath/installing-and-adminstration/system-requirements-and-downloading-the-program',
               },
               {
                 type: 'doc',
                 label: 'RapidPlan Online',
-                docId: 'rapidplan-online/getting-started/getting-started',
+                docId: 'rapidplan-online/installing-and-adminstration/getting-started',
               },
               {
                 type: 'doc',
