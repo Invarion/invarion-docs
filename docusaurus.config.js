@@ -171,7 +171,7 @@ const config = {
               {
                 type: 'doc',
                 label: 'RapidPlan Online',
-                docId: 'rapidplan-online/installing-and-adminstration/getting-started',
+                docId: 'rapidplan-online/getting-started/getting-started',
               },
               {
                 type: 'doc',
