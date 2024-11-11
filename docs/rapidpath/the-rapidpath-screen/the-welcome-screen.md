@@ -5,11 +5,13 @@ sidebar_position: 1
 ---
 # The Welcome Screen
 
+When you open RapidPath, you will land on the welcome screen:
+
 ![components](./assets/Components_of_the_Welcome_screen.png)
 
 ## New Plan Wizard
 
-Use the New Plan Wizard to quickly specify all properties of a new plan you're creating. The wizard integrates the creation of five basic plan types: **Blank canvas**, **Base map**, **Static template**, **From PDF**, and **Auto template.**
+Use the New Plan Wizard in the top-left to start a plan.  specify all properties of a new plan you're creating. The wizard integrates the creation of five basic plan types: **Blank canvas**, **Base map**, **Static template**, **From PDF**, and **Auto template.**
 
 ## New Default Plan
 
