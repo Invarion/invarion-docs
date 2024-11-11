@@ -7,7 +7,7 @@ sidebar_position: 2
 
 Term |Definition
 --- | ---
-Vehicle | The chosen object from the Vehicle Library. Can be freely placed on the plan and rotated like any other object in RapidPlan. It can't be resized, its size is automatically adjusted to the scale of the current canvas area.
+Vehicle | The chosen object from the Vehicle Library. Can be freely placed on the plan and rotated like any other object in RapidPath. It can't be resized, its size is automatically adjusted to the scale of the current canvas area.
 Vehicle Path | Steering path for the vehicle. The path consists of user control points that reflect subsequent vehicle positions during the manoeuvre. The path consists of sections that can have different parameters such as speed, friction and turn on stop setting (on/off) within a single path.
 Vehicle Profile | An object that can be placed onto the document to represent the vehicle used in Swept Path Analysis. Vehicle profile consists of vehicle's name, basic properties, and side diagram with key dimensions.
 Path Section | These are the sections between the user control points of the Vehicle Path. You can select and edit a Path Section by selecting the whole path and then clicking on a section that interests you with the left mouse button while holding the "Ctrl" key. Each segment has properties such as speed, friction and turn on stop setting (on/off).

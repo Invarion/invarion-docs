@@ -78,3 +78,18 @@ Simply click and drag to your desired offset, or type your desired offset value 
 ![Create_offset](./assets/Create_offset.png)
 
 Once the offset has been created, right click to save your changes.
+
+### Offset settings
+
+In the offset dialog box you'll find two buttons on the right:
+
+- **Round Corners:** If set to True, this smooths curves in the offset object as it is extrapolated out further.
+- **Object Offset Copy:** If set to True, this the creation of an offset object will copy the original object, rather than replace it.
+
+## Tangent Points (Bezier Geometry)
+
+Tangent Points visible only when Bezier Geometry is engaged. They are used to create a smoothed curvature of the line object/edge of an object either side of the control point. 
+
+There can be up to two Tangent Points per control point, and appear blue with a line between each of them and the red control point.
+
+For details on how to use Bezier Geometry/Tangent Points, please see the [Geometry section](\docs\rapidplan) [looks like we need a geometry section]
