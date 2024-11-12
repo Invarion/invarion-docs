@@ -44,7 +44,7 @@ const config = {
   customFields: {
     gettingStartedLinks: [
       {
-        to: '/rapidplan/rapidplan\installation-preferences-and-adminstration\the-invarion-launcher',
+        to: '/rapidplan/rapidplan/installation-preferences-and-adminstration/the-invarion-launcher',
         text: 'Downloading the Invarion Launcher',
       },
       {
@@ -76,7 +76,7 @@ const config = {
     ],
     docsLinks: [
       {
-        to: 'rapidplan\the-welcome-screen-and-starting-a-plan\the-welcome-screen',
+        to: 'rapidplan/the-welcome-screen-and-starting-a-plan/the-welcome-screen',
         text: 'RP',
       },
       {
@@ -84,7 +84,7 @@ const config = {
         text: 'RO',
       },
       {
-        to: '/rapidpath\the-welcome-screen-and-starting-a-plan\the-welcome-screen',
+        to: '/rapidpath/the-welcome-screen-and-starting-a-plan/the-welcome-screen',
         text: 'RA',
       },
       { to: 'rapidpath-online/Welcome', text: 'RAO' },
@@ -160,13 +160,13 @@ const config = {
               {
                 type: 'doc',
                 label: 'RapidPlan',
-                docId: 'rapidplan\the-welcome-screen-and-starting-a-plan\the-welcome-screen',
+                docId: 'rapidplan/the-welcome-screen-and-starting-a-plan/the-welcome-screen',
               },
               {
                 type: 'doc',
                 label: 'RapidPath',
                 docId:
-                  'rapidpath\the-welcome-screen-and-starting-a-plan\the-welcome-screen',
+                  'rapidpath/the-welcome-screen-and-starting-a-plan/the-welcome-screen',
               },
               {
                 type: 'doc',
