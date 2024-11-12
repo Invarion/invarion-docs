@@ -1,6 +1,6 @@
 {
-  "label": "Rapid Path",
-  "position": 3,
+  "label": "Workspace & Palettes Overview",
+  "position": 3.5,
   "link": {
     "type": "generated-index"
   }
