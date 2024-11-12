@@ -3,13 +3,13 @@
 sidebar_position: 1
 
 ---
-# Your Workspace
+# The Workspace & Palettes
 
-## For the purpose of this explanation we will be using the **New Default Plan** in the following section
+For the purpose of this explanation we will be using the **New Default Plan** in the following section
 
-Before you get started with RapidPath, you should probably get to know your way around the main screen. It has been designed to be intuitive, easy to follow and to allow you the maximum available working space to create your traffic plan.
+Before you get started with RapidPlan, you should probably get to know your way around the main screen. It has been designed to be intuitive, easy to follow and to allow you the maximum available working space to create your traffic plan.
 
-There are three main components of the RapidPath workspace:
+There are three main components of the RapidPlan workspace:
 
 - The Toolbar
 - The Palettes
@@ -21,7 +21,7 @@ Organizing your workspace is simple as each of the items that sit on the canvas 
 
 ## The Canvas
 
-The canvas is the section of the screen where you will actually create your traffic plan. The RapidPath canvas is both versatile and powerful, and it has many features which will assist you in your plan creation. We have dedicated the entire next section to the canvas and its features.
+The canvas is the section of the screen where you will actually create your traffic plan. The RapidPlan canvas is both versatile and powerful, and it has many features which will assist you in your plan creation. We have dedicated the entire next section to the canvas and its features.
 
 ## The Toolbar
 
