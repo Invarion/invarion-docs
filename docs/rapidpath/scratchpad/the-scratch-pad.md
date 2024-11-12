@@ -7,7 +7,7 @@ sidebar_position: 3
 
 The Scratch Pad is used to store objects that you commonly use to make them easily accessible.
 
-![scratch pad](./assets/scratchpag-eg.png)
+![scratch pad](./assets/scratchpad-eg.png)
 
 To place an object in the scratch pad palette, select the object then right click and select **Add to Scratchpad**.
 
