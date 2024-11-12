@@ -3,7 +3,7 @@
 sidebar_position: 3
 
 ---
-# Changing and resetting password
+# Changing and Resetting Password
 
 ## Changing Your Password
 

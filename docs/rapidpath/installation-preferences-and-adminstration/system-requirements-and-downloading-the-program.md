@@ -3,7 +3,7 @@
 sidebar_position: 1
 
 ---
-# System requirements and Downloading the Progam
+# System Requirements and Downloading the Program
 
 Before downloading the software, please ensure your machine complies with the minimum specifications recommended for running RapidPath.
 

@@ -3,7 +3,7 @@
 sidebar_position: 2
 
 ---
-# Invarion Launcher Client Intro Screen
+# Invarion Launcher Client Screen
 
 Once downloaded, you can login to the Launcher using the username and password provided by Invarion.
 
