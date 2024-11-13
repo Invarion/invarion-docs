@@ -1,5 +1,15 @@
 # Release Notes
 
+## November 2024
+
+Improve user experience for print regions:
+
+- Different part of print regions have different cursor types reflecting the action that can be performed.
+- Active print region is highlighted with a green border.
+- Active print region has a button for quick actions like 'print', 'fit to page', 'delete'.
+
+Improve user experience for sign stand handle. It has proper cursor type now depending on the action that can be performed.
+
 ## October 2024
 
 ### New feature: Tips and Tricks screen
