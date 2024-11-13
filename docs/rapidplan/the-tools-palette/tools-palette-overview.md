@@ -3,7 +3,7 @@
 sidebar_position: 1
 
 ---
-# The Tools Palette Overview
+# Tools Palette Overview
 
 The Tools Palette contains most of the tools you will use to construct the features of your plan.
 
