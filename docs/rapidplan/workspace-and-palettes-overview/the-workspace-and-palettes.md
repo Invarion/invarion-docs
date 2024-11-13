@@ -36,14 +36,15 @@ When hovered over with your mouse the palettes become visible, you then have the
 
 ![pin unpin](./assets/Pin_-_Unpin.png)
 
-## The Signs Palette
+### The Signs Palette
 
 This palette contains road signs you will need to create your traffic guidance scheme. It also carries an array of street furniture and vehicular plant which you can use as part of your site plan. The signs are listed by state allowing you to set the region you are working in. Depending on which countries sign pack you have installed, you may have multiple regions to choose from (for instance in both the United States and Australia, there are various State signage packs available to choose from
 as well as the national signage). The button on the top left of the palette allows you to select your state displaying the relevant signs that you are likely to need. The other two buttons allow you to search signs by category or using a search bar.
 
 ![signs](./assets/Signs.png)
 
-## The Properties Palette
+Further details can be found [here](/docs/rapidplan/the-signs-palette/)
+### The Properties Palette
 
 The Properties palette displays all the information pertaining to any selected signs, tools, markers or objects that is currently selected. This is where you can change fonts, colors, lane markers, etc. of the selected feature.
 If no object is selected on [the canvas](./the-canvas.md) at the time, the Properties Palette will display information about the plan itself.
@@ -54,12 +55,28 @@ You can also double-click an item from your plan to display the property paramet
 
 ![properties options](./assets/The_Properties_Options.png)
 
-## The Tools Palette
+Further details can be found [here](/docs/rapidplan/object-properties-and-transformations/object-properties-and-styles.md.md)
+
+### The Tools Palette
 
 The Tools Palette contains most of the tools you will use to construct the features of your plan.
 For further details on the Tools Palette see [the next page](./the-tools-palette.md).
 
-## The Scratch Pad
+Further details can be found [here](/docs/rapidplan/the-tools-palette/)
+
+### The Scratch Pad
 
 The Scratch Pad is used to store objects that you commonly use to make them easily accessible.
 For full details on the Scratch Pad please see [this page](./the-scratch-pad.md).
+
+Further details can be found [here](/docs/rapidplan/scratchpad/the-scratch-pad.md)
+
+## The Canvas
+
+The Canvas area is the central area in which plans are created.
+
+For details on how to navigate, manage and export the canvas area, click [here](/docs/rapidplan/the-canvas-area/).
+
+For details on how to manipulate objects on the canvas, click [here](/docs/rapidplan/object-properties-and-transformations/).
+
+Or for information on importing mapping to the canvas area, click [here](/docs/rapidplan/integrated-mapping/).
