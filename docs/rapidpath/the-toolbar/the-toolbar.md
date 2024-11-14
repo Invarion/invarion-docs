@@ -44,7 +44,7 @@ The toolbar features three sections.
 
 ![section 3](./assets/toolbar-bottom.jpg)
 
-This section has more icons, so we'll partition it in two:
+This section is larger, so we'll partition it in two:
 
 ### Left Side
 

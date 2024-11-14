@@ -3,7 +3,7 @@
 sidebar_position: 5
 
 ---
-# Control Points
+# Control Points and Snapping
 
 Almost every element in RapidPath has at least one control point. A control point is a handle that allows you to alter the shape of an object. They appear in RapidPath as small red circles. Control points do different things to different kinds of objects, and different objects have different numbers of control points.
 
