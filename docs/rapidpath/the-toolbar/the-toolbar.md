@@ -31,10 +31,10 @@ The toolbar features three sections.
 |![open plan](./assets/open.jpg)|**Open Plan**|Open a Plan.      |
 |![new cloud plan](./assets/new-cloud-plan.jpg)|**New Cloud Plan** |Create a new *default* plan that is stored in the cloud, bypassing Plan Details and New Plan Wizard.|
 |![browse cloud](./assets/browse-invarion-cloud.jpg)|**Browse Invarion Cloud**|Opens a tab to browse the Invarion Cloud.                             |
-|![save](./assets/save.jpg)|**Save Current Plan**|Save current plan normally; <br /> Pop-out options on hover to Save As, or Save All Plans.                             |
-|![print](./assets/print-active-plan.jpg)|**Print Active Plan**|Print the active plan;<br /> Pop-out options on hover to Print Preview the active print region, or to review Print Options.      |
-|![export to pdf](./assets/export-to-pdf.jpg)|**Export to PDF** |Export the active print region to PDF;<br /> Pop-out or hover to reveal pop-out option to Export as Image.|
-|![close plan](./assets/close-plan.jpg)|**Close Active Plan**|Close the Active Plan;<br /> Pop-out option to Close All Plans.                                                |
+|![save](./assets/save.jpg)|**Save Current Plan**|Save current plan normally; <br /> *On mouse hover:* Save As and Save All Plans.                             |
+|![print](./assets/print-active-plan.jpg)|**Print Active Plan**|Print the active plan;<br /> *On mouse hover:* Print Preview the active print region and review Print Options.      |
+|![export to pdf](./assets/export-to-pdf.jpg)|**Export to PDF** |Export the active print region to PDF;<br /> *On mouse hover:* Export as Image.|
+|![close plan](./assets/close-plan.jpg)|**Close Active Plan**|Close the Active Plan;<br /> *On mouse hover:* Close All Plans.                                                |
 |![toggle snapping](./assets/snapping.jpg)|**Toggle Snapping Points**|Switch the function that snaps nearby objects together when moving/manipulating them on or off.                 |
 |![toggle print regions](./assets/toggle-print-region-visibility.jpg)|**Toggle Print Region Visibility**|Toggle whether print regions are visible on the Canvas Area while creating a plan.                    |
 |![preferences](./assets/preferences.jpg)|**Preferences**|Open a tab in which your settings and preferences can be altered.                                        |
@@ -76,8 +76,8 @@ This section has more icons, so we'll partition it in two:
 |![ungroup](./assets/ungroup.jpg) |**Ungroup**   |Ungroup a selected grouped object.  |
 |![rotate](./assets/rotate.jpg) |**Rotate**   |Rotate a selected object/s 90° clockwise.  |
 |![delete](./assets/delete.jpg) |**Delete**   |Delete a selected object.  |
-|![flip](./assets/flip.jpg) |**Flip**   |Flip selected object/s horizontally.<br /> Pop-out option: **Flip Selected Object Vertically**.  |
-|![align](./assets/align.jpg) |**Align**   |Align selected objects, horizontally or vertically. <br />(pop-out options on hover for different alignments).  |
+|![flip](./assets/flip.jpg) |**Flip**   |Flip selected object/s horizontally.<br /> *On mouse hover:* Flip Selected Object Vertically.  |
+|![align](./assets/align.jpg) |**Align**   |Align selected objects, horizontally or vertically. <br />*On mouse hover:* Options for various alignments.  |
 |![button](./assets/mystery-button.jpg) |**This button**   |Something, presumably.  |
 |![undo](./assets/undo.jpg) |**Undo**   |Undoes your last action.  |
 |![redo](./assets/redo.jpg) |**Redo**   |Redo a change made using undo.  |
