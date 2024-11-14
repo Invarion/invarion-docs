@@ -53,7 +53,7 @@ This section has more icons, so we'll partition it in two:
 | Icon |Function      |  Description|
 |------|----------|-----------------|
 |![toggle base map](./assets/toggle-base-map.jpg) |**Toggle Base Map Visibility**   |Toggle whether the base map is visibile on *mapped plans*.  |
-|![zoom slidebar](./assets/zoom-slider.jpg) |**Zoom slide bar**   |Used to increase/decrease zoom.  |
+|![zoom slidebar](./assets/zoom-slider.jpg)|**Zoom slide bar**   |Used to increase/decrease zoom.  |
 |![magnifying glass](./assets/zoom-controls.jpg) |**Magnifying glass**   |Includes several zoom-related options on mouse hover:<br /> - Reset Zoom: Resets zoom to 100%.<br />- Zoom In/Zoom Out: 20% increments.<br />- Select An Area to Zoom To: Click the function then draw a selection box on plan to zoom to that area.<br />- Adjust Zoom to Active Print Region: Moves your view to the active print region.<br />- Adjust Zoom to See All Objects on Plan.<br />- Adjust Zoom to See Selected Objects.   |
 |![scroll to origin](./assets/plan-origin.jpg) |**Scroll to Plan Origin**   |Scroll to the coordinates that were set as the plan location during setup in the New Plan Wizard.  |
 |![measurement tools](./assets/measurement.jpg) |**Measurement Tools**   |Open the measurement tools dialog box - a precise set of measurement tools that can be converted to marker measurement tools if saved.  |
