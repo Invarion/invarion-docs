@@ -104,4 +104,4 @@ There you can also choose the manifest value as **Default** or **Dimensions** an
 
 # Saving the Properties of your road for future use - Styles
 
-If you foresee needing the type of road you have created again in the future, learn how to save properties as a **Style** in [this section](/docs/rapidplan/rapidplan-basics/object-properties-and-styles.md).
+If you foresee needing the type of road you have created again in the future, learn how to save properties as a **Style** in [this section](/docs/rapidplan/object-properties-and-transformations/object-properties-and-styles.md.md).
