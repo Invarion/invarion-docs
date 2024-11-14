@@ -78,7 +78,7 @@ This section is larger, so we'll partition it in two:
 |![delete](./assets/delete.jpg) |**Delete**   |Delete a selected object.  |
 |![flip](./assets/flip.jpg) |**Flip**   |Flip selected object/s horizontally.<br /> *On mouse hover:* Flip Selected Object Vertically.  |
 |![align](./assets/align.jpg) |**Align**   |Align selected objects, horizontally or vertically. <br />*On mouse hover:* Options for various alignments.  |
-|![button](./assets/mystery-button.jpg) |**This button**   |Something, presumably.  |
+|![distribute](./assets/distribute.jpg.jpg) |**Distribute**   |Distrutes selected objects an equal distance apart from each other in a given space, either horizontally or vertically.<br />(Must have at least 3 objects selected) |
 |![undo](./assets/undo.jpg) |**Undo**   |Undoes your last action.  |
 |![redo](./assets/redo.jpg) |**Redo**   |Redo a change made using undo.  |
 |![copy](./assets/copy.jpg) |**Copy**   |Copy the selected object/text.  |

@@ -5,7 +5,7 @@ sidebar_position: 5
 ---
 # Control Points and Snapping
 
-Almost every element in RapidPlan has at least one control point. A control point is a handle that allows you to alter the shape of an object. They appear in RapidPlan as small red circles. Control points do different things to different kinds of objects, and different objects have different numbers of control points.
+Almost every element in RapidPath has at least one control point. A control point is a handle that allows you to alter the shape of an object. They appear in RapidPath as small red circles. Control points do different things to different kinds of objects, and different objects have different numbers of control points.
 
 The control points along the road enable you to adjust its shape.
 
@@ -51,9 +51,9 @@ For additional snapping options, press the **Alt** key while snapping to a geome
 
 ![Advanced_snapping](./assets/Advanced_snapping.png)
 
-## Drawing along Geometries
+### Drawing along Geometries
 
-Snap to an existing geometry when drawing an object and RapidPlan will automatically create control points to fit the desired curve.
+Snap to an existing geometry when drawing an object and RapidPath will automatically create control points to fit the desired curve.
 
 This is useful when needing to draw delineation devices or a work area along a curved geometry.
 
@@ -64,6 +64,16 @@ To being drawing along a geometry, simply left click your device along the red g
 While drawing an object you can snap its segments to different geometries as well. This can be done by snapping points to existing geometries and tracing the drawing along it.
 
 ![Geometry_lines](./assets/Geometry_lines.png)
+
+### Snapping to bounds selection
+
+When moving or scaling objects and print regions, their bounds edges and centers snap to each other for quick and precise positioning.
+
+This can be particularly useful when trying to align objects to Print region borders or when creating custom signs (see the image below).
+
+The bound edges or centers will be indicated by a red dotted line.
+
+![Snap_to_bounds](./assets/Snap_to_bounds.png)
 
 ## Offsetting the Geometry
 
@@ -92,4 +102,4 @@ Tangent Points visible only when Bezier Geometry is engaged. They are used to cr
 
 There can be up to two Tangent Points per control point, and appear blue with a line between each of them and the red control point.
 
-For details on how to use Bezier Geometry/Tangent Points, please see the [Geometry section](\docs\rapidplan) [looks like we need a geometry section]
+For details on how to use Bezier Geometry/Tangent Points, please see the [Geometry section](\docs\rapidpath) [looks like we need a geometry section]
