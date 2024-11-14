@@ -15,7 +15,7 @@ The other very important purpose of these basic tools is to allow you to create 
 
 There are 20 different basic tools you can use. The majority are classed as either lines, or shapes. The Text and Image tools operate differently to all the others.
 
-To see broken down listings of each class of tool, please visit [The Tools Palette](/docs/rapidplan/the-rapidplan-screen/the-tools-palette.md) page.
+To see broken down listings of each class of tool, please visit [The Tools Palette](/docs/RapidPlan/the-rapidplan-screen/the-tools-palette.md) page.
 
 |The **Lines tools**|The **Shapes tools**|The **Text tools**  |The **Image import tool**|
 |----------------------------------|------------------------------------|----------------------------------|----------------------------------------|
