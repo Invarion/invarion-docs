@@ -26,19 +26,19 @@ The toolbar features three sections.
 
 | Icon |Function      |  Description|
 |------|----------|-----------------|
-||**New Plan Wizard**|Opens the New Plan Wizard to create another plan.                             |
-||**New Default Plan**|Creates a new plan, bypassing the Plan Details and New Plan Wizard - creating a new plan based on your system preferences.                                                |
-||**Open Plan**|Open a Plan.      |
-||**New Cloud Plan** |Create a new *default* plan that is stored in the cloud, bypassing Plan Details and New Plan Wizard.|
-||**Browse Invarion Cloud**|Opens a tab to browse the Invarion Cloud.                             |
-||**Save Current Plan**|Save current plan normally; <br /> Pop-out options on hover to Save As, or Save All Plans.                             |
-||**Print Active Plan**|Print the active plan;<br /> Pop-out options on hover to Print Preview the active print region, or to review Print Options.      |
-||**Export to PDF** |Export the active print region to PDF;<br /> Pop-out or hover to reveal pop-out option to Export as Image.|
-||**Close Active Plan**|Close the Active Plan;<br /> Pop-out option to Close All Plans.                                                |
-||**Toggle Snapping Points**|Switch the function that snaps nearby objects together when moving/manipulating them on or off.                 |
-||**Toggle Print Region Visibility**|Toggle whether print regions are visible on the Canvas Area while creating a plan.                    |
-||**Preferences**|Open a tab in which your settings and preferences can be altered.                                        |
-||**Exit RapidPath**|Exit/close RapidPath.                                                |
+|![new plan wizard](./assets/new-plan-wizard.jpg)|**New Plan Wizard**|Opens the New Plan Wizard to create another plan.                             |
+|![new default plan](./assets/new-default-plan.jpg)|**New Default Plan**|Creates a new plan, bypassing the Plan Details and New Plan Wizard - creating a new plan based on your system preferences.                                                |
+|![open plan](./assets/open.jpg)|**Open Plan**|Open a Plan.      |
+|![new cloud plan](./assets/new-cloud-plan.jpg)|**New Cloud Plan** |Create a new *default* plan that is stored in the cloud, bypassing Plan Details and New Plan Wizard.|
+|![browse cloud](./assets/browse-invarion-cloud.jpg)|**Browse Invarion Cloud**|Opens a tab to browse the Invarion Cloud.                             |
+|![save](./assets/save.jpg)|**Save Current Plan**|Save current plan normally; <br /> Pop-out options on hover to Save As, or Save All Plans.                             |
+|![print](./assets/print-active-plan.jpg)|**Print Active Plan**|Print the active plan;<br /> Pop-out options on hover to Print Preview the active print region, or to review Print Options.      |
+|![export to pdf](./assets/export-to-pdf.jpg)|**Export to PDF** |Export the active print region to PDF;<br /> Pop-out or hover to reveal pop-out option to Export as Image.|
+|![close plan](./assets/close-plan.jpg)|**Close Active Plan**|Close the Active Plan;<br /> Pop-out option to Close All Plans.                                                |
+|![toggle snapping](./assets/snapping.jpg)|**Toggle Snapping Points**|Switch the function that snaps nearby objects together when moving/manipulating them on or off.                 |
+|![toggle print regions](./assets/toggle-print-region-visibility.jpg)|**Toggle Print Region Visibility**|Toggle whether print regions are visible on the Canvas Area while creating a plan.                    |
+|![preferences](./assets/preferences.jpg)|**Preferences**|Open a tab in which your settings and preferences can be altered.                                        |
+|![exit](./assets/exit.jpg)|**Exit RapidPath**|Exit/close RapidPath.                                                |
 
 ## Section 3
 
@@ -52,18 +52,18 @@ This section has more icons, so we'll partition it in two:
 
 | Icon |Function      |  Description|
 |------|----------|-----------------|
-| |**Toggle Base Map Visibility**   |Toggle whether the base map is visibile on *mapped plans*.  |
-| |**Zoom slide bar**   |Used to increase/decrease zoom.  |
-| |**Magnifying glass**   |Includes several zoom-related options on mouse hover:<br /> - Reset Zoom: Resets zoom to 100%.<br />- Zoom In/Zoom Out: 20% increments.<br />- Select An Area to Zoom To: Click the function then draw a selection box on plan to zoom to that area.<br />- Adjust Zoom to Active Print Region: Moves your view to the active print region.<br />- Adjust Zoom to See All Objects on Plan.<br />- Adjust Zoom to See Selected Objects.   |
-| |**Scroll to Plan Origin**   |Scroll to the coordinates that were set as the plan location during setup in the New Plan Wizard.  |
-| |**Measurement Tools**   |Open the measurement tools dialog box - a precise set of measurement tools that can be converted to marker measurement tools if saved.  |
-| |**Find and Replace Signs**   |Used to Find or Find and Replace Signs.  |
-| |**Toggle Colour/Fax mode**   |Toggle between full colour or fax mode for clearer black/white printing/faxing.  |
-| |**Toggle Sign Codes**   |Toggle whether the code of a sign place on the canvas has a text below it stating its code.  |
-| |**Add Legend Box**   |Add a legend to your plan.  |
-| |**Add a Manifest Box**   |Add a manifest to your plan.  |
-| |**Edit Plan Print Frame**   |Add or edit a print frame for your plan.  |
-| |**Add Print Region**   |Add a print region to your plan  |
+|![toggle base map](./assets/toggle-base-map.jpg) |**Toggle Base Map Visibility**   |Toggle whether the base map is visibile on *mapped plans*.  |
+|![zoom slidebar](./assets/zoom-slider.jpg) |**Zoom slide bar**   |Used to increase/decrease zoom.  |
+|![magnifying glass](./assets/zoom-controls.jpg) |**Magnifying glass**   |Includes several zoom-related options on mouse hover:<br /> - Reset Zoom: Resets zoom to 100%.<br />- Zoom In/Zoom Out: 20% increments.<br />- Select An Area to Zoom To: Click the function then draw a selection box on plan to zoom to that area.<br />- Adjust Zoom to Active Print Region: Moves your view to the active print region.<br />- Adjust Zoom to See All Objects on Plan.<br />- Adjust Zoom to See Selected Objects.   |
+|![scroll to origin](./assets/plan-origin.jpg) |**Scroll to Plan Origin**   |Scroll to the coordinates that were set as the plan location during setup in the New Plan Wizard.  |
+|![measurement tools](./assets/measurement.jpg) |**Measurement Tools**   |Open the measurement tools dialog box - a precise set of measurement tools that can be converted to marker measurement tools if saved.  |
+|![find and replace signs](./assets/find-and-replace.jpg) |**Find and Replace Signs**   |Used to Find or Find and Replace Signs.  |
+|![toggle fax mode](./assets/fax-mode.jpg) |**Toggle Colour/Fax mode**   |Toggle between full colour or fax mode for clearer black/white printing/faxing.  |
+|![sign codes](./assets/sign-codes.jpg) |**Toggle Sign Codes**   |Toggle whether the code of a sign place on the canvas has a text below it stating its code.  |
+|![add legend](./assets/legend.jpg) |**Add Legend Box**   |Add a legend to your plan.  |
+|![add legend](./assets/manifest.jpg) |**Add a Manifest Box**   |Add a manifest to your plan.  |
+|![print frame](./assets/edit-print-frame.jpg) |**Edit Plan Print Frame**   |Add or edit a print frame for your plan.  |
+|![add print region](./assets/print-region.jpg) |**Add Print Region**   |Add a print region to your plan  |
 
 ### Right Side
 
@@ -71,16 +71,16 @@ This section has more icons, so we'll partition it in two:
 
 | Icon |Function      |  Description|
 |------|----------|-----------------|
-| |**Select All**   |Select all objects in the canvas area.  |
-| |**Group**   |Group selected objects.  |
-| |**Ungroup**   |Ungroup a selected grouped object.  |
-| |**Rotate**   |Rotate a selected object/s 90° clockwise.  |
-| |**Delete**   |Delete a selected object.  |
-| |**Flip**   |Flip selected object/s horizontally.<br /> Pop-out option: **Flip Selected Object Vertically**.  |
-| |**Align**   |Align selected objects, horizontally or vertically. <br />(pop-out options on hover for different alignments).  |
-| |**This button**   |Something, presumably.  |
-| |**Undo**   |Undoes your last action.  |
-| |**Redo**   |Redo a change made using undo.  |
-| |**Copy**   |Copy the selected object/text.  |
-| |**Cut**   |Cut the selected object/text.  |
-| |**Paste**   |Paste from your clipboard to the canvas.  |
+|![select all](./assets/select-all.jpg) |**Select All**   |Select all objects in the canvas area.  |
+|![group](./assets/group.jpg) |**Group**   |Group selected objects.  |
+|![ungroup](./assets/ungroup.jpg) |**Ungroup**   |Ungroup a selected grouped object.  |
+|![rotate](./assets/rotate.jpg) |**Rotate**   |Rotate a selected object/s 90° clockwise.  |
+|![delete](./assets/delete.jpg) |**Delete**   |Delete a selected object.  |
+|![flip](./assets/flip.jpg) |**Flip**   |Flip selected object/s horizontally.<br /> Pop-out option: **Flip Selected Object Vertically**.  |
+|![align](./assets/align.jpg) |**Align**   |Align selected objects, horizontally or vertically. <br />(pop-out options on hover for different alignments).  |
+|![button](./assets/mystery-button.jpg) |**This button**   |Something, presumably.  |
+|![undo](./assets/undo.jpg) |**Undo**   |Undoes your last action.  |
+|![redo](./assets/redo.jpg) |**Redo**   |Redo a change made using undo.  |
+|![copy](./assets/copy.jpg) |**Copy**   |Copy the selected object/text.  |
+|![cut](./assets/cut.jpg) |**Cut**   |Cut the selected object/text.  |
+|![past](./assets/paste.jpg) |**Paste**   |Paste from your clipboard to the canvas.  |
