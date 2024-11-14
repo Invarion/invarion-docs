@@ -55,3 +55,7 @@ Click on the canvas area to type in the text you wish to have as your clickable 
 When the plan is exported to PDF, the reader will be directed to the web page or document when the hyperlink is clicked.
 
 ![Hyperlink_tool](./assets/Hyperlink_tool.png)
+
+## Rich Text Editor
+
+The Rich Text Editor
