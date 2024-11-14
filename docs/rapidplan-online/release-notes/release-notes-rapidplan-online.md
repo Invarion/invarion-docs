@@ -8,6 +8,10 @@
 - The active print region is now highlighted with a green border.
 - When selected, active print regions now have a button in the top-right for quick actions like 'print', 'fit to page' and 'delete'.
 
+### Unresolved threads badge
+
+- A badge now appears next to the 'Comments' button in the side panel when there are unresolved threads in the plan.
+
 ### User experience improvement - Sign Stands:
 
 - Varied indicative cursors for different transform/movement functions related to the sign stand handle. 
