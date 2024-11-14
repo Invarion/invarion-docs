@@ -2,13 +2,15 @@
 
 ## November 2024
 
-Improve user experience for print regions:
+### User experience improvements - Print Regions
 
-- Different part of print regions have different cursor types reflecting the action that can be performed.
-- Active print region is highlighted with a green border.
-- Active print region has a button for quick actions like 'print', 'fit to page', 'delete'.
+- Different mouse cursors now appear when hovering over different parts of Print Regions, to reflect the actions that can be performed.
+- The active print region is now highlighted with a green border.
+- When selected, active print regions now have a button in the top-right for quick actions like 'print', 'fit to page' and 'delete'.
 
-Improve user experience for sign stand handle. It has proper cursor type now depending on the action that can be performed.
+### User experience improvement - Sign Stands:
+
+- Varied indicative cursors for different transform/movement functions related to the sign stand handle. 
 
 ## October 2024
 
@@ -20,10 +22,13 @@ RapidPlan Online or RapidPath Online shows a Tips and Tricks screen upon loading
 
 When hovering over an object, it will be highlighted with a border.
 
-### Bug fixes
+### New feature: Drag and drop plans between files
 
-- InvarionCloud: D'n'D of folders does not work in the right panel.
-- InvarionCloud: Create new plan while locating in the folder creates a plan in the root folder.
+Plans in the Invarion Cloud can now be clicked and dragged into a different folder (found in the left panel).
+
+### Bug fixe
+
+- Plans created while a certain folder is open in the Invarion Cloud will now be initially stored in the open folder.
 
 ## September 2024
 
