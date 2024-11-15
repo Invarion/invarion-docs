@@ -7,7 +7,7 @@ sidebar_position: 5
 
 By default RapidPath will create Arial 14pt text. This can be changed through the RapidPath Preferences screen or from within the Properties palette.
 
-## To set a new Default Font through the Preferences Screen
+## To Set a New Default Font Through the Preferences Screen
 
 - From the main menu Select **Tools** > **Preferences**.
 - Select the **Defaults** tab (see below).
@@ -17,7 +17,7 @@ By default RapidPath will create Arial 14pt text. This can be changed through th
 
     ![Font_Default_Preferences](./assets/Font_Default_Preferences.png)
 
-## To set a new Default Font through the Properties Palette
+## To Set a New Default Font Through the Properties Palette
 
 - Select the **Text Object** tool from the Text tab.
 - Click on the canvas and enter you text in the allocated area.

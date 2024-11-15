@@ -7,7 +7,7 @@ sidebar_position: 2
 
 Georeferenced aerial imagery is, as the name suggests, paired with data that indicates exactly where the imagery is located. These are stored in compressed zip files, and when imported will be placed in the correct location in a RapidPath plan automatically.
 
-## Importing Georeferenced images in RapidPath
+## Importing Georeferenced Images in RapidPath
 
 To import georeferenced images to a plan:
 
@@ -17,7 +17,7 @@ To import georeferenced images to a plan:
 
 The image will be placed on your plan, matching the bearing, scale, latitude and longitude it was saved in.
 
-Note a separate 'Georeferenced Images' layer will be created in the [Layers Palette](/docs/rapidpath/using-layers/).
+Note a separate 'Georeferenced Images' layer will be created in the [Layers Palette](/docs/rapidpath/using-layers/using-layers.md).
 The image saved here will remain at the bottom of the layers order, just above imported aerial imagery, and can not be edited.
 
 Note that the files you're adding must cover areas adjacent to the plan location.
@@ -67,6 +67,6 @@ In MapInfo Pro, navigate to the area you want to export and click **Output** > *
 
 ![Exporting_from_MapInfo_Pro](./assets/Exporting_from_MapInfo_Pro.jpg)
 
-## Creating Georeferenced images in RapidPath
+## Creating Georeferenced Images in RapidPath
 
-For information about creating Georeferenced Images in RapidPath, please see our [Exporting](/docs/rapidpath/exporting-plans/) section.
+For information about creating Georeferenced Images in RapidPath, please see our [Exporting](/docs/rapidpath/exporting-plans/printing-plans.md) section.

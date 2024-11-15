@@ -3,7 +3,7 @@
 sidebar_position: 12
 
 ---
-# Number stamper
+# Number Stamper
 
 Use the number stamper to quickly annotate objects on your traffic control plan.
 

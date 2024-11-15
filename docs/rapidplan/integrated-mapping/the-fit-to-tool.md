@@ -3,7 +3,7 @@
 sidebar_position: 7
 
 ---
-# The 'Fit To' tool
+# The 'Fit To' Tool
 
 The Fit Objects (or Fit To) tool is the fastest way to align an imported image or object with background mapping or another imported object.
 

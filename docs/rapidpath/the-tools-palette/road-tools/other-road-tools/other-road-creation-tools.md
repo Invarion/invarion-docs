@@ -68,7 +68,7 @@ This tool allows you to easily create road corners for your roads. It is control
 
 ![The_Road_Corner_Tool](./assets/The_Road_Corner_Tool.png)
 
-## The Road Region tool
+## The Road Region Tool
 
 The Road Region tool is **free form** road tool which you can use to draw irregular paved surfaces, like parking lots.
 

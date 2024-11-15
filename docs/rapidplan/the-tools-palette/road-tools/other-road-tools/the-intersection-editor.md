@@ -7,7 +7,7 @@ sidebar_position: 6
 
 The Intersections Editor tool can be used to create complex intersections with just a few mouse clicks. The editor will assist you in adding corners, turn lanes, markings, crosswalks and lane symbols, automatically aligning them with underlying roads. Once created, an intersection remains fully adjustable and editable, or it can be ungrouped for custom adjustments of the individual elements.
 
-## Creating and editing intersections
+## Creating and Editing Intersections
 
 The Intersection tool is available from the Tools palette, in the Roads category. After selecting the tool, the first click positions the center of the intersection, then subsequent clicks add roads to the intersection. Once you've placed 3 or more roads, right-click to finish drawing, right-click again to release the tool, then click on the intersection to select it (TIP: alternatively, double-click when placing the last road - this will finish the drawing and select your object in one go).  
 
@@ -15,7 +15,7 @@ When an intersection object is selected, Control Points are available to adjust 
 
  ![Selecting_intersection_tool](./assets/Selecting_intersection_tool.png)
 
-## Adding and selecting intersection elements
+## Adding and Selecting Intersection Elements
 
 Note the 4 icons at the top of the Intersection Editor panel - these can be used to switch between the available editor modes:
 
@@ -35,7 +35,7 @@ Once an intersection element is added, it appears on the elements list in its ca
 
  ![Selecting_intersection_elements](./assets/Selecting_intersection_elements.png)
 
-## Editing element and positioning styles
+## Editing Element and Positioning Styles
 
 When an element is selected, it displays a draggable Offset point. You can drag the point to position the element along the road it was added to (Offset = 0 represents the position at which the road meets the other roads forming the intersection). For Turn Lanes, the point allows adjusting the lane length, and for Road Corners - the corner radius. Some elements (Lane Markers, Flush Medians) present two points - for adjusting the Offset and the Length of the element.
 
@@ -50,7 +50,7 @@ but for some other road layouts it'll be important to understand the difference 
 
  ![Line_orientation](./assets/Line_orientation.png)
 
-## Ungrouping intersections
+## Ungrouping Intersections
 
 The intersection editor is designed to assist in drawing typical intersections. If any additional adjustments are required for more complex intersection layouts, an intersection can be ungrouped, allowing all its elements to be freely edited (ungrouped elements become regular plan objects, exposing adjustable control points and properties). To ungroup, simply select an intersection and hit Ctrl+U.
 
@@ -58,7 +58,7 @@ Sometimes, instead of ungrouping the whole object, you might want to detach a sp
 
 ![Ungrouping_intersections](./assets/Ungrouping_intersections.png)
 
-## Connecting incoming roads
+## Connecting Incoming Roads
 
 The intersection object exposes control points at the end of each of its roads. These points can be snapped to when drawing a road object or adjusting control points of an existing road. Holding down the Ctrl key while snapping to intersection enables automatic road alignment - RapidPlan will automatically adjust the shape of the road so that it seamlessly merges with the intersection object.
 

@@ -9,9 +9,9 @@ Several phases of works at one location can now be included in a single traffic 
 
 Each plan stage has its own set of layers and print regions, while the base layer is used for elements shared across all the other stages (e.g., road network, permanent markings).
 
-## Setting up Plan Stages
+## Setting Up Plan Stages
 
-Selecting the **Enable Plan Stages** button will activate Plan stages on the layer you currently have selected.
+Selecting the **Enable plan stages** button will activate Plan stages on the layer you currently have selected.
 
 ![Enable_Plan_Stages](./assets/Enable_Plan_Stages.png)
 
@@ -23,7 +23,7 @@ The **Base** layers are where all of the permanent road objects, signs and marki
 
 **Select stage** allows you change between your different stages. **Add/remove stage** allows you to create new stages with the click of a button. It also remove stages, if necessary. **Edit stage properties** allows you to name the stage and attach specific comments to it.
 
-## Plan Stages in action
+## Plan Stages in Action
 
 Below is an example of how a plan stages setup might look.
 

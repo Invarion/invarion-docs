@@ -17,4 +17,4 @@ The real power of RapidPath lies in its ability to quickly create intersections.
 
 Once the added road is in place, it can be modified like any other.
 
-*See [this section](/docs/rapidpath/advanced-intersections/) for Advanced Intersections.*
+*See [this section](/docs/rapidpath/the-tools-palette/road-tools/advanced-intersections/what-this-section-covers.md) for Advanced Intersections.*
