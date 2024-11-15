@@ -9,7 +9,7 @@ RapidPlan automatically places any imported aerial photos to an **Aerial Photos*
 
 ![The_Aerial_Photos_Layer](./assets/The_Aerial_Photos_Layer.jpg)
 
-## Moving a section of Map to another Layer
+## Moving a Section Of the Map to Another Layer
 
 When on the **Aerial Photos** layer, you can import tiles of the photo for extra coverage.
 

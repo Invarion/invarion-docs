@@ -15,7 +15,7 @@ There are three ways of importing your roads;
 
 ![Imported_Roads](./assets/Imported_Roads.jpg)
 
-## Matching the width of Imported Roads
+## Matching the Width of Imported Roads
 
 As you have a set scale, you can accurately measure the width of the satellite road with a **distance marker** tool and adjust the road object properties accordingly.
 To make this easier, lower the opacity of the layer your roads are on.
@@ -34,7 +34,7 @@ Once your road widths are adequate, you may need to make some manual adjustments
 
 2.You may need to adjust the roads by adding **road corners** or **turning lanes**, etc. Make sure to copy the **style** of the road to each road tool by copying the style from the main road, selecting the new object and using **CTRL + SHIFT +V** to paste the style.
 
- *For more information of how to use Road tools, see [The Road Tool](/docs/rapidplan/the-road-tool) and [Othr Road Tools](/docs/rapidplan/other-road-tools/).*
+ *For more information of how to use Road tools, see [The Road Tool](/docs/rapidplan/the-tools-palette/road-tools/the-road-tool/drawing-a-road.md) and [Other Road Tools](/docs/rapidplan/the-tools-palette/road-tools/other-road-tools/other-road-creation-tools.md).*
 
  In the image below, the provider has been changed to the Omniscale, so you can see the road corners are the same style as the road.
 
@@ -43,8 +43,6 @@ Once your road widths are adequate, you may need to make some manual adjustments
  **Note:** The Road Corners were placed with the satellite provider to trace the exact shape.
 
 3.When you are satisfied with your roads, add other necessary features such as lane markings.
-
- *For more information on how to use Lane Markers, see [Other Road Tools](/docs/rapidplan/other-road-tools/).*
 
 ![Completed_Plan_Satellite_on_Show_(Left)*Completed_Plan_No_Satellite*(Right)](./assets/Completed_Plan_Satellite_on_Show_(Left)_Completed_Plan_No_Satellite_(Right).png)
 
