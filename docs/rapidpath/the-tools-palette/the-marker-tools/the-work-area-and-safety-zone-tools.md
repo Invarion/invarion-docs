@@ -9,7 +9,7 @@ There are many reasons why it's important to show exactly where the work is to b
 
 The other important feature of a work site is the indication of a safety or buffer zone between the end of the transitional or taper area and the commencement of the works. It's a good habit to include a safety zone on your plans because it will remind your site staff that they should leave sufficient room should a wayward vehicle run into the site.
 
-## Creating a Work Area and Safety Zone on a plan
+## Creating a Work Area and Safety Zone on a Plan
 
 Both tools are simple polygons that are drawn on the plan. Aside from the way they look they both behave identically.
 

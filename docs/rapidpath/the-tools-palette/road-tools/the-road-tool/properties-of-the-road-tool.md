@@ -15,7 +15,7 @@ Of all the tools in RapidPath, the Road has by far the most power and flexibilit
 
 All of the above settings are accessed through the road properties screen. You can access the properties screen by double clicking on the road you need to change from the Quick Edit mode or from the Properties palette.
 
-## Alter geometry and color
+## Alter Geometry and Color
 
 The Road section of the road's properties allows you to adjust the color, the road geometry (Spline, Line or Bezier) and auto merge preferences.
 
@@ -102,6 +102,6 @@ There you can also choose the manifest value as **Default** or **Dimensions** an
 
     **Note that this function is in the properties of all objects in RapidPath**
 
-# Saving the Properties of your road for future use - Styles
+# Saving the Properties of Your Road for Future Use - Styles
 
 If you foresee needing the type of road you have created again in the future, learn how to save properties as a **Style** in [this section](/docs/rapidpath/object-properties-and-transformations/object-properties-and-styles.md).
