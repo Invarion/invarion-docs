@@ -1,5 +1,16 @@
 # Release Notes
 
+## RapidPath 4.0 (pre-release)
+
+*NOTE: RapidPath 4.0 is currently available as pre-release for customers on the Weekly updates channel. It will be officially released in the upcoming weeks. Integration with Invarion Cloud will be gradually made available for users based on their company size and region.*
+
+### Invarion Cloud Integration
+
+RapidPath 4.0 is integrated with Invarion Cloud, allowing users to:
+* Store their traffic management plans on the Invarion Cloud instead of local files
+* Use Invarion Cloud's collaboration features: share plans with other users, add comments.
+* Users who have licenses for RapidPath and RapidPathOnline will be able to open the same plans in both applications.
+
 ## RapidPath 3.11
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HRZIudmRyEU?si=jqoV6G_qYx1pC86a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
