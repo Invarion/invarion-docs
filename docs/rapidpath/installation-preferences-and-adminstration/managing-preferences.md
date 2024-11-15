@@ -37,7 +37,9 @@ Here primarily you can manage the appearance of your of your [Canvas Area](/docs
 
 Appearance is where you can engage '**Night Light**' to whatever degree you prefer - increased red tones to reduce eye strain and to reduce intrusion on circadian rhythm with white light.
 
-You can also Invert Colors here.
+You can also Invert Colors in the toggle option below night light.
+
+![night light](./assets/night-light.jpg)
 
 ### Reset Settings
 
