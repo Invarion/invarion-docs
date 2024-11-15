@@ -5,6 +5,14 @@ sidebar_position: 10
 ---
 # Printing  Plans
 
+## Arrangements Prior to Printing
+
+Before printing, a [Print Region/s](/docs/rapidplan/the-canvas-area/print-regions.md) will need to be in place.
+
+You will likely want to include annotations (titleboxes, legends etc.) in your exports. It is often beneficial to organise these within a [Print Frame](/docs/rapidplan/the-canvas-area/print-frames.md), which can be reused in perpetuity for printing.
+
+## Printing Plans
+
 The importance of the page guide is at it's greatest when printing, because on unrestricted canvas plans there are different printing options available to you.
 
 You can access the Print Options by clicking on **File** > **Print** > **Print Options**. The Print Options box will open similar to the one below.
