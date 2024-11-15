@@ -160,13 +160,13 @@ const config = {
               {
                 type: 'doc',
                 label: 'RapidPlan',
-                docId: '/rapidplan/the-home-screen-and-starting-a-plan/the-home-screen',
+                docId: 'rapidplan/the-home-screen-and-starting-a-plan/the-home-screen',
               },
               {
                 type: 'doc',
                 label: 'RapidPath',
                 docId:
-                  '/rapidpath/the-home-screen-and-starting-a-plan/the-home-screen',
+                  'rapidpath/the-home-screen-and-starting-a-plan/the-home-screen',
               },
               {
                 type: 'doc',
