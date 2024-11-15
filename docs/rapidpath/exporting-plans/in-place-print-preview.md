@@ -3,7 +3,7 @@
 sidebar_position: 2
 
 ---
-# In-place print preview
+# In-Place Print Preview
 
 **File** > **Print** > **Print Preview** is one way of checking how your frame fits together with your plan content on the printout page, but RapidPath is also able to overlay the print preview directly over the plan you're editing. To enable the in-place print preview, double click the icon located in the bottom right corner of the print region or right click on the print region icon and select **In-place print preview**.
 
