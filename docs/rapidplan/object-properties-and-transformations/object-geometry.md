@@ -3,6 +3,8 @@
 sidebar_position: 3.1
 
 ---
+# Object Geometry
+
 ## Object Geometry Types
 
 Many objects will include Geometry in the Properties that can be altered. Geometry dictates the shape of the path the object takes between two points, altering its shape.
@@ -21,7 +23,7 @@ Spline Geometry smooths the path between control points.
 
 ![spline geometry](./assets/geometry-spline.png)
 
-Note that the degree to which the path is smoothed when using Spline is governed by the **Tension** value (pictured below). The value can be set to *any number less than 1*; a lower value will be less smoothed, while a higher value will be more smooth.
+Note that the degree to which the path is smoothed when using Spline is governed by the **Tension** value (pictured below). The value can be set to *any number less than 1*; a lower value will be more direct, while a higher value will be more smooth.
 
 ![tension value](./assets/geometry-spline-tension.png)
 

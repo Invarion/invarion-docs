@@ -9,7 +9,7 @@ sidebar_position: 8
 
 Of course there will be times when you will need to move a placed object  on the RapidPlan canvas. This is accomplished using the move handle.
 
-### Moving one or more Objects on the Plan
+### Moving one or more objects on the plan
 
 - Select the item or items that you wish to move.
 - Click and drag your selected object (if you have more than one object selected, you can use any of the move handles that are showing).
