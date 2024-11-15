@@ -3,7 +3,7 @@
 sidebar_position: 2
 
 ---
-# Creating Georeferenced images in RapidPath
+# Creating Georeferenced Images in RapidPath
 
 Any Print Region or image placed or imported on a RapidPath plan that has a basemap can be exported as a georeferenced image.
 
