@@ -102,4 +102,4 @@ Tangent Points visible only when Bezier Geometry is engaged. They are used to cr
 
 There can be up to two Tangent Points per control point, and appear blue with a line between each of them and the red control point.
 
-For details on how to use Bezier Geometry/Tangent Points, please see the [Geometry section](\docs\rapidpath) [looks like we need a geometry section]
+For full details on how to use Bezier Geometry/Tangent Points, please see the [Properties](/docs/rapidplan/object-properties-and-transformations/object-geometry.md) section.

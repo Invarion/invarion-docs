@@ -15,12 +15,11 @@ The available properties will vary from object to object. The table below contai
 
 |Object                                                                            | Tools type |Example properties                                                                           |
 |----------------------------------------------------------------------------------|------------|---------------------------------------------------------------------------------------------|
-| Ellipse, Rectangle, Polygon, Rounded rectangle, Filled Bezier, Filled spline  | Shapes     | **Stroke** - width, color, style, cap  **Fill** - opacity, color, style  **Tension**|
-| Delineator tool                                                                  | Devices    | **Positioning** - spacing, alignment, geometry style  **Delineators** - type, size      |
-| Road tool                                                                        | Roads      | **Measurements** - units  **Road** - auto merge, color, geometry style  **Lanes** - count, width, markings  **Lane Markings** - width, color, style, dash and gap lengths  **Shoulders** - show left, show right, left shoulder width, right shoulder width  **Side-walks** - show left, show right, left width, right width, left offset, right offset  **Distance Markers** - spacing, show         |
+| Ellipse, Rectangle,<br /> Polygon, Rounded rectangle,<br /> Filled Bezier, Filled spline  | Shapes     | **Stroke** - width, color, style, cap.  <br />**Fill** - opacity, color, style.  <br />**Tension**|
+| Delineator tool                                                                  | Devices    | **Positioning** - spacing, alignment, geometry style.  <br />**Delineators** - type, size      |
+| Road tool                                                                        | Roads      | **Measurements** - units.  <br />**Road** - auto merge, color, geometry style  <br />**Lanes** - count, width, markings.  <br />**Lane Markings** - width, color, style, dash and gap lengths.  <br />**Shoulders** - show left, show right, left shoulder width, right shoulder width.  <br />**Side-walks** - show left, show right, left width, right width, left offset, right offset.  <br />**Distance Markers** - spacing, show         |
 
-Each object is drawn with it's default properties set, but you will undoubtedly want to frequently change an object's properties. Fortunately, this is very simple. Default preferences can be changed by clicking on
-**Tools** > **Preferences**.
+Each object is drawn with it's default properties set, but you will likely encounter the need to change an object's properties. Fortunately, this is very simple. Default preferences can be changed by clicking **Tools** > **Preferences**.
 
 ## View or Edit an Object's Properties
 

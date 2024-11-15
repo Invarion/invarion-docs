@@ -78,3 +78,11 @@ Simply click and drag to your desired offset, or type your desired offset value 
 ![Create_offset](./assets/Create_offset.png)
 
 Once the offset has been created, right click to save your changes.
+
+## Tangent Points (Bezier Geometry)
+
+Tangent Points visible only when Bezier Geometry is engaged. They are used to create a smoothed curvature of the line object/edge of an object either side of the control point. 
+
+There can be up to two Tangent Points per control point, and appear blue with a line between each of them and the red control point.
+
+For full details on how to use Bezier Geometry/Tangent Points, please see the [Properties](/docs/rapidpath/object-properties-and-transformations/object-geometry.md) section.
