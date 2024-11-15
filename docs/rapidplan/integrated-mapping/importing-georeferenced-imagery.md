@@ -3,9 +3,11 @@
 sidebar_position: 2
 
 ---
-# Creating and Importing Georeferenced Images
+# Importing Georeferenced Imagery
 
-## Importing Georeferenced images in RapidPlan
+Georeferenced aerial imagery is, as the name suggests, paired with data that indicates exactly where the imagery is located. These are stored in compressed zip files, and when imported will be placed in the correct location in a RapidPath plan automatically.
+
+## Importing Georeferenced images in RapidPath
 
 To import georeferenced images to a plan:
 
@@ -15,7 +17,7 @@ To import georeferenced images to a plan:
 
 The image will be placed on your plan, matching the bearing, scale, latitude and longitude it was saved in.
 
-Note a separate 'Georeferenced Images' layer will be created in the [Layers Palette](/docs/rapidplan/using-layers/).
+Note a separate 'Georeferenced Images' layer will be created in the [Layers Palette](/docs/rapidpath/using-layers/).
 The image saved here will remain at the bottom of the layers order, just above imported aerial imagery, and can not be edited.
 
 Note that the files you're adding must cover areas adjacent to the plan location.
@@ -24,7 +26,7 @@ You can also import georeferenced images to blank canvas plans. If such plans do
 
 ## Importing via New Plan Wizard
 
-In RapidPlan, go to **File** > **New Plan Wizard**. Select **Base map** as the plan type.
+In RapidPath, go to **File** > **New Plan Wizard**. Select **Base map** as the plan type.
 
 ![Importing_via_New_Plan_Wizard](./assets/Importing_via_New_Plan_Wizard.jpg)
 
@@ -36,7 +38,7 @@ Once you've selected the files, scroll up and click the **Next** button. In the 
 
 ![Georeferenced_Image](./assets/Georeferenced_Image.png)
 
-### Editing Imported Georeferenced images
+### Editing imported georeferenced images
 
 If you do want to edit or change the order of the georeferenced image:
 
@@ -45,37 +47,26 @@ If you do want to edit or change the order of the georeferenced image:
 - Either select an existing normal layer to send it to, or create a new one.
 - It can now be edited, moved and re-ordered as you require.
 
-## Creating Georeferenced images in RapidPlan
+### Placement of an Image for Exporting Georeferenced Images
 
-Any Print Region or image placed or imported on a RapidPlan plan that has a basemap can be exported as a georeferenced image.
-
-To export a print region as a georeferenced image:
-
-- Right click on the printer icon in the lower-left corner of the Print Region.
-- Click Save > As Georeferenced Image.
-
-To export an image as a georeferenced image:
-
-- Position an image as you would like it in relation to the basemap (details on how to best do this below).
-- Right click on an image > Save > As Georeferenced Image.
-- Save your georeferenced image.
-
-### Placement of an Image for Georeferencing
-
-The most effective way to place your image is using the [Fit To](/docs/rapidplan/integrated-mapping/the-fit-to-tool.md) tool, see this page for more information.
-If you would rather manually resize, rotate and fit an image to background mapping, it is advisable to lower the opacity of the layer you are working in, using the slide bar on the [Layers Palette](/docs/rapidplan/using-layers/). This pass-through vision allows easier matching of landmarks between the image and the background mapping.
+The most effective way to place your image is using the [Fit To](/docs/rapidpath/integrated-mapping/the-fit-to-tool.md) tool, see this page for more information.
+If you would rather manually resize, rotate and fit an image to background mapping, it is advisable to lower the opacity of the layer you are working in, using the slide bar on the [Layers Palette](/docs/rapidpath/using-layers/). This pass-through vision allows easier matching of landmarks between the image and the background mapping.
 
 Note that in order for georeferencing to be accurate, it is best to match the imported image to integrated mapping, or to mapping that has been correctly georeferenced itself.
 
-## Exporting Georeferenced images from NearMap
+## Importing Georeferenced Images from NearMap
 
 In order to create georeferenced images from NearMap, open the NearMap viewer, navigate to your desired location and select the area you want to export. Click the **Export** button at the top, select **Georeferenced image** format and make sure the projection is set to **WSG84 / Spherical Mercator**. Click **Download files** - this will download a zip file containing both the exported image and its georeferenced file.
-The zip file can be imported to RapidPlan as described above (its contents will get extracted automatically). You can also export multiple adjacent areas into separate zip files, then import them into RapidPlan all together.
+The zip file can be imported to RapidPath as described above (its contents will get extracted automatically). You can also export multiple adjacent areas into separate zip files, then import them into RapidPath all together.
 
 ![NearMap_export](./assets/NearMap_export.jpg)
 
-## Exporting from MapInfo Pro
+## Importing from MapInfo Pro
 
-In MapInfo Pro, navigate to the area you want to export and click **Output** > **Save Image**. In the options dialog, check the **Create a Geographically Referenced Tab File** box, then click **Save**. The image will be saved together with an accompanying .TAB file, allowing it to be imported to RapidPlan as described above. You can also export multiple adjacent areas into separate files, then import them into RapidPlan all together.
+In MapInfo Pro, navigate to the area you want to export and click **Output** > **Save Image**. In the options dialog, check the **Create a Geographically Referenced Tab File** box, then click **Save**. The image will be saved together with an accompanying .TAB file, allowing it to be imported to RapidPath as described above. You can also export multiple adjacent areas into separate files, then import them into RapidPath all together.
 
 ![Exporting_from_MapInfo_Pro](./assets/Exporting_from_MapInfo_Pro.jpg)
+
+## Creating Georeferenced images in RapidPath
+
+For information about creating Georeferenced Images in RapidPath, please see our [Exporting](/docs/rapidpath/exporting-plans/) section.
