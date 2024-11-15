@@ -40,7 +40,7 @@ const config = {
       }),
     ],
   ],
-  plugins: [require.resolve('docusaurus-lunr-search')],
+  // plugins: [require.resolve('docusaurus-lunr-search')],
   customFields: {
     gettingStartedLinks: [
       {
@@ -134,8 +134,7 @@ const config = {
       metadata: [
         {
           name: 'keywords',
-          content:
-            "rapid online, rapid plan cloud, rapidplan, rapid path online, documentation, what's new",
+          content: "rapid online, rapid plan cloud, rapidplan, rapid path online, documentation, what's new",
         },
       ],
       navbar: {
@@ -165,8 +164,7 @@ const config = {
               {
                 type: 'doc',
                 label: 'RapidPath',
-                docId:
-                  'rapidpath/the-home-screen-and-starting-a-plan/the-home-screen',
+                docId: 'rapidpath/the-home-screen-and-starting-a-plan/the-home-screen',
               },
               {
                 type: 'doc',
