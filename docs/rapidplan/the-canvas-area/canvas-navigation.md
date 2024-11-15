@@ -43,9 +43,7 @@ Using the scroll bars like virtually all desktop publishing programs (and virtua
 | ![Zoom_All_Objects](./assets/Zoom_All_Objects.png)     | **Adjust Zoom to see all Objects in Plan** - This feature zooms to a range that completely encompasses all of the elements on the plan, but no more. This feature is especially helpful if you lose your bearings on the unrestricted canvas   |
 | ![Zoom_Selected_Object](./assets/Zoom_Selected_Object.png) | **Adjust Zoom to see Selected Objects** - This feature is used to zoom in on a selected object                        |
 
-### *Note
-
-**Select Area to Zoom** to can be done by:
+**Select Area to Zoom** to can also be done by:
 
 - Selecting **Select Area to Zoom to** in the zoom toolbar.
 - Click and drag (hold down the mouse button) a box around the area that you wish to magnify.

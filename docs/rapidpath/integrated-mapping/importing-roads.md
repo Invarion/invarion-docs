@@ -34,7 +34,7 @@ Once your road widths are adequate, you may need to make some manual adjustments
 
 2.You may need to adjust the roads by adding **road corners** or **turning lanes**, etc. Make sure to copy the **style** of the road to each road tool by copying the style from the main road, selecting the new object and using **CTRL + SHIFT +V** to paste the style.
 
- *For more information of how to use Road tools, see [The Road Tool](/docs/rapidpath/the-road-tool) and [Other Road Tools](/docs/rapidpath/other-road-tools/).*
+ *For more information of how to use Road tools, see [The Road Tool](/docs/rapidpath/the-tools-palette/road-tools/the-road-tool/drawing-a-road.md) and [Other Road Tools](/docs/rapidpath/the-tools-palette/road-tools/other-road-tools/other-road-creation-tools.md).*
 
  In the image below, the provider has been changed to the Omniscale, so you can see the road corners are the same style as the road.
 
@@ -44,13 +44,11 @@ Once your road widths are adequate, you may need to make some manual adjustments
 
 3.When you are satisfied with your roads, add other necessary features such as lane markings.
 
- *For more information on how to use Lane Markers, see [Other Road Tools](/docs/rapidpath/other-road-tools/).*
-
 ![Completed_Plan_Satellite_on_Show_(Left)*Completed_Plan_No_Satellite*(Right)](./assets/Completed_Plan_Satellite_on_Show_(Left)_Completed_Plan_No_Satellite_(Right).png)
 
 4.Once your base road layout is drawn up, you can print it, use the fax mode icon to convert it or start adding your traffic management information.
 
-## Importing road names and speed limits
+## Importing Road Names and Speed Limits
 
 After using the Roads Import tool, right-click on the imported roads and select "Import road data" as seen below.
 

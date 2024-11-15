@@ -5,9 +5,9 @@ sidebar_position: 1
 ---
 # Accessing Integrated Mapping
 
-In [The Canvas](/docs/rapidpath/the-canvas/) we covered how to start a new plan from different plan types, so in this section we will focus on aspects only relevant to integrated mapping.
+In [New Plan Wizard](/docs/rapidpath/the-home-screen-and-starting-a-plan/the-new-plan-wizard.md) we covered how to start a new plan from different plan types, so in this section we will focus on aspects only relevant to integrated mapping.
 
-## To access the integrated mapping feature
+## To Access the Integrated Mapping Feature
 
 - Select the **New Plan Wizard** on the Welcome screen.
 - In **step 1** select a **Base Map** plan.
@@ -54,8 +54,7 @@ Now on **Provider** selection dropdown click on **Custom ArcGIS Service** which 
 
 ![Custom_ArcGIS_Service](./assets/Custom_ArcGIS_Service.png)
 
-### Custom Base Map Provider Requirements
+### Custom Base Map Provider requirements
 
-- RapidPath version >= 3.2
 - Supported data formats: standard World File, MapInfo raster .TAB file
 - Spatial reference: ESRI 102100/3857 (Web Mercator)

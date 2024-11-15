@@ -18,7 +18,7 @@ When you are ready, **please use the link below to download the .exe installer f
 - Admin access is not required for this install. **We highly recommend installing on individual user profiles**.
 - **The Invarion Launcher will install Microsoft's Visual C++ runtime onto your machine**. This is required to operate Google Maps.
 - Please contact our [Support team](https://invarion.com/au/support/) if an .msi install is required or if you have difficulty with installation.
-- If RapidPlan is required on a **Apple computer**, please see [this page](/rapidplan/faqs/can-i-run-rapidplan-on-a-mac.md) for information.
+- If RapidPlan is required on a **Apple computer**, please see ['Can I run RapidPlan On a Mac?'](/docs/rapidplan/faqs/can-i-run-rapidplan-on-a-mac.md) for information.
 
 For **whitelist, firewall and proxy setup information**, please visit [this page](https://rapidplan.com/pages/firewall-and-proxy-setup).
 
@@ -47,7 +47,7 @@ To check which version of RapidPlan you are using, simply click the drop-down ar
 
 This will detail the current RapidPlan version you are using, as well as any signage add-ons that have been assigned to your RapidPlan license.
 
-## Other Invarion Launcher controls
+## Other Invarion Launcher Controls
 
 ![launcher add ons](./assets/Launcher_add_ons.png)
 
@@ -61,7 +61,7 @@ The '**Show advanced settings**' button contains features that our support team 
 
 We advise only to access these settings in those circumstances.
 
-## Minimum computer specifications
+## Minimum Computer Specifications
 
 Before downloading the software, please ensure your machine complies with the minimum specifications recommended for running RapidPlan.
 

@@ -3,7 +3,7 @@
 sidebar_position: 4
 
 ---
-# Creating Variations of your Sign
+# Creating Variations of Your Sign
 
 Creating variations for your custom sign is made very simple using the Sign Editor Palette in RapidPlan.
 
@@ -71,7 +71,7 @@ In the Sign Editor you can save your sign and variations to your computer by sel
 
 **Note**: Toggle Fax and Sign Codes modes from the Options toolbar to see your completed sign with all the variations we've created.
 
-## A faster way to Save Signs (Right Click > Save)
+## A Faster Way to Save Signs (Right Click > Save)
 
 RapidPlan has a much faster and easier way to save signs when you don't need to save and edit different variations.
 
@@ -79,7 +79,7 @@ Using **Save** from the context menu allows you to save a group as a sign to the
 
 In some regards, it is the "lazy man's" sign creation tool - but it is equally suited to less sophisticated users who don't need or are unable to create signs using the full sign creation process.
 
-**How to Save from the context menu:**
+**How to Save from the Context Menu:**
 
 - Ensure all of the elements of your sign are **grouped**.
 - Right click on the group and select **Save** from the context menu that appears.
