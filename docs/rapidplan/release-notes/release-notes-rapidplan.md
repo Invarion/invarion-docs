@@ -1,5 +1,67 @@
 # Release Notes
 
+## RapidPath 3.11
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HRZIudmRyEU?si=jqoV6G_qYx1pC86a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Rich Text Editor
+
+![rich text](./assets/rich-text-editor.png)
+
+Use RapidPlan's new advanced text formatting capabilities to create TCP notes and documentation as well as custom titleboxes directly on your plan. The new Rich Text tool is based on  a powerful yet simple to use editor that allows using different text styles, paragraphs, lists, tables, images and more - all in one object. Additionally, the editor allows pasting externally created content, e.g. from Microsoft Office or Google Docs.
+
+### Imaging Georeferencing
+
+![georeferencing](./assets/image-georeferencing.png)
+
+Image georeferencing has been improved in version 3.11, adding full support for non-north aligned imagery, an ability to export TCPs as georeferenced images and georeferencing existing imagery by aligning it with the underlying basemap.
+
+### Import ESRI Shapefiles
+
+![esri shapefiles](./assets/esri-import.png)
+
+ESRI Shapefiles can now be imported to TCPs using the same interface as KML imports, with automatic scale adjustment and import area selection.
+
+### Geometry Distance Input
+
+![geometry distance input](./assets/geometry-input.png)
+
+Need to draw a 50m taper along a curved road? Use distance input and geometry snapping tools and let RapidPlan do the measurement for you.
+
+### Reduced Eye Strain Mode
+
+![eye strain mode](./assets/night-light.png)
+
+RapidPlan 3.11 introduces new settings that adjust the color temperature for content displayed in the plan editor, reducing your eye fatigue when drawing and editing TCPs.
+
+### QR Code Generator
+
+![qr code generator](./assets/qr-code.png)
+
+Using the new QR Code tool lets you quickly add QR codes to your TCPs, allowing your customers to quickly access your website or any other plan-related online resources.
+
+### More changes
+
+**Keyboard shortcuts on menu items** - commands in the application menu as well as in all context menus present their assigned keyboard shortcuts.
+
+**Auto detect pasted hyperlinks** - RapidPlan will automatically detect when pasted text is a hyperlink and paste it as a Hyperlink instead of a regular text object.
+
+**Dedicated Paste Image and Paste Text commands** - when the clipboard contains data in multiple formats, rich text will be selected automatically. If you wish to paste as image or text instead, use these dedicated paste commands.
+
+**Improved SVG import** - SVG handling has been significantly improved, any SVG content you import can be ungrouped into editable primitive objects.
+
+**Improved Parking Bay object** - the Parking Bay object now allows more flexibility when drawing bay corners, plus parking bay shape is now controlled with a dedicated offset vector.
+
+**Plan property: "Last modified by"** - the new property of the plan allows keeping track of who authored its last revision.
+
+**Batch Export option: "Use plan folder by default"** - using this option will make batch export save exported files alongside the original TCP files.
+
+**MetroMap support for historical imagery layers** - MetroMap subscribers can now select different imagery layers when importing aerial tiles from the MetroMap provider.
+
+**Open location in NearMap** - NearMap subscribers can select any location on their TCP and open it in NearMap using the web browser.
+
+**Additional Lane Status and LUMS panels (Aus only)** - Lane Status and LUMS Board tools have been updated with new panels that were added to the latest Australian standard.
+
 ## RapidPlan 3.10
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ4tD4Aa5fM?si=2DjulBJ5k0EvDaBr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
