@@ -44,6 +44,7 @@ as well as the national signage). The button on the top left of the palette allo
 ![signs](./assets/Signs.png)
 
 Further details can be found [here](/docs/rapidplan/the-signs-palette/)
+
 ### The Properties Palette
 
 The Properties palette displays all the information pertaining to any selected signs, tools, markers or objects that is currently selected. This is where you can change fonts, colors, lane markers, etc. of the selected feature.

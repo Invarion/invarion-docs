@@ -7,6 +7,7 @@
 ### Invarion Cloud Integration
 
 RapidPlan 4.0 is integrated with Invarion Cloud, allowing users to:
+
 * Store their traffic management plans on the Invarion Cloud instead of local files
 * Use Invarion Cloud's collaboration features: share plans with other users, add comments.
 * Users who have licenses for RapidPlan and RapidOnline will be able to open the same plans in both applications.
@@ -249,19 +250,19 @@ The Zoomed View Box can now be styled to present its content in an ellipse or cl
 
 **New, and updated, sign and template libraries include:**
 
-- Florida (FDOT) Standard Plans 2020-2021
-- Minnesota TTC Field Manual update
-- California MUTCD Signs update
-- Washington DC Workzone Utility Typicals
-- British Columbia Construction Signs update
-- Transport for NSW TCAWS Manual Templates 2020
-- Transport for NSW TCAWS Signs update
-- Queensland MUTCD Q-Series Signs update
-- South Australia DPTI Templates 2020
-- South Australia DPTI Multi Message Signs update
-- Ireland DOT TTM Layout update
-- UK Department for Transport/Highways Agency Templates update
-- NZTA Signs Update
+* Florida (FDOT) Standard Plans 2020-2021
+* Minnesota TTC Field Manual update
+* California MUTCD Signs update
+* Washington DC Workzone Utility Typicals
+* British Columbia Construction Signs update
+* Transport for NSW TCAWS Manual Templates 2020
+* Transport for NSW TCAWS Signs update
+* Queensland MUTCD Q-Series Signs update
+* South Australia DPTI Templates 2020
+* South Australia DPTI Multi Message Signs update
+* Ireland DOT TTM Layout update
+* UK Department for Transport/Highways Agency Templates update
+* NZTA Signs Update
 
 ## RapidPlan 3.6
 

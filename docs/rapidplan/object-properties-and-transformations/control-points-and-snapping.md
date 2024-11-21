@@ -98,7 +98,7 @@ In the offset dialog box you'll find two buttons on the right:
 
 ## Tangent Points (Bezier Geometry)
 
-Tangent Points visible only when Bezier Geometry is engaged. They are used to create a smoothed curvature of the line object/edge of an object either side of the control point. 
+Tangent Points visible only when Bezier Geometry is engaged. They are used to create a smoothed curvature of the line object/edge of an object either side of the control point.
 
 There can be up to two Tangent Points per control point, and appear blue with a line between each of them and the red control point.
 

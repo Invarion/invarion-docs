@@ -36,7 +36,7 @@ You can also change the size of your object with the resize handles. Unlike the 
 
 ## Resizing with the Skew handles
 
-Create perspective representations by holding Ctrl+Alt to turn object scale handles into skew handles. 
+Create perspective representations by holding Ctrl+Alt to turn object scale handles into skew handles.
 
 ![skew example](./assets/Skew-eg.png)
 

@@ -7,7 +7,7 @@ sidebar_position: 3
 
 ## Properties
 
-An important feature accessed through selecting an object is editing the object's properties. Every single object in RapidPath has a set of **properties** which determine how that object appears on the canvas, that can be viewed and altered from the properties [palette](/docs/rapidpath/the-rapidpath-screen/your-workspace.md). 
+An important feature accessed through selecting an object is editing the object's properties. Every single object in RapidPath has a set of **properties** which determine how that object appears on the canvas, that can be viewed and altered from the properties [palette](/docs/rapidpath/the-rapidpath-screen/your-workspace.md).
 
 ![the properties palette](./assets/The-Properties-Palette.png)
 
@@ -17,7 +17,7 @@ The available properties will vary from object to object. The table below contai
 |----------------------------------------------------------------------------------|------------|---------------------------------------------------------------------------------------------|
 | Ellipse, Rectangle,<br /> Polygon, Rounded rectangle,<br /> Filled Bezier, Filled spline  | Shapes     | **Stroke** - width, color, style, cap.  <br />**Fill** - opacity, color, style.  <br />**Tension**|
 | Delineator tool                                                                  | Devices    | **Positioning** - spacing, alignment, geometry style.  <br />**Delineators** - type, size      |
-| Road tool                                                                        | Roads      | **Measurements** - units.  <br />**Road** - auto merge, color, geometry style  <br />**Lanes** - count, width, markings.  <br />**Lane Markings** - width, color, style, dash and gap lengths.  <br />**Shoulders** - show left, show right, left shoulder width, right shoulder width.  <br />**Side-walks** - show left, show right, left width, right width, left offset, right offset.  <br />**Distance Markers** - spacing, show         |
+| Road tool                                                                        | Roads      | **Measurements** - units.  <br />**Road** - auto merge, color, geometry style  <br />**Lanes** - count, width, markings.  <br />**Lane Markings** - width, color, style, dash and gap lengths.  <br />**Shoulders** - show left, show right, left shoulder width, right shoulder width.  <br />**Side-walks** - show left, show right, left width, right width, left offset, right offset.  <br />**Distance Markers** - spacing, show.|
 
 Each object is drawn with it's default properties set, but you will likely encounter the need to change an object's properties. Fortunately, this is very simple. Default preferences can be changed by clicking **Tools** > **Preferences**.
 
@@ -47,7 +47,7 @@ Once you have a altered the properties of an object on the Canvas Area, with the
 
 ![styles buttons](./assets/styles-eg.jpg)
 
-**A style is *set* using the icon on the right:** 
+**A style is *set* using the icon on the right:**
 
 ![set style](./assets/set-style.png)
 
@@ -76,6 +76,6 @@ As above, altering and managing existing styles is done through the **Object Sty
 
 As explained in the **'Setting a Style'** section, the Object Styles dialog window has a section on the left for finding the object, and then the style of that object that you wish to manage on the left.
 
-Once the style is found, you can change it's details and/or properties before saving it. 
+Once the style is found, you can change it's details and/or properties before saving it.
 
 Using the buttons next to the **Save** button, a style can also be **deleted** using the red cross icon, **copied** to create a matching style that can then be altered, or **added to [Scratchpad](/docs/rapidpath/the-rapidpath-screen/the-scratch-pad.md)**.
