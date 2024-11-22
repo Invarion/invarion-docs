@@ -71,3 +71,57 @@ Name of folder is used as a label, however, it can be overridden by the label pr
 
 The project uses Markdown lint to enforce a consistent style across the documentation. The rules are defined in the `.markdownlint-cli2.jsonc` file.
 Use markdown lint plugin that is available in your IDE to check the style of the document. Fix all yellow and red warnings before creating a pull request.
+
+### Images
+
+**Selection Box style:**
+
+Used to bring attention to a particular area/s of an image.
+
+- Rounded rectangle tool.
+- Red outline, transparent fill.
+- Stroke width: 4.5.
+- Corner radius: 5.
+
+**Arrows:**
+
+Used to draw attention to a particular point in an object, or perhaps something smaller in an image.
+
+Use smaller, red arrows.
+
+**Text:** Black (unless it can't be seen easily, then red), no text boxes/background, Arial font.
+Keep text size very readable, but on the smaller side. Only increasing its size if required for the text to be noticeable in the scene.
+
+### Headings
+
+Try to keep headings succinct and in simple language. Often it is best for the heading to simply be the thing the section will be explaining.
+
+There are three main tiers of heading:
+
+'#' is the largest, only used at the start of a file.
+'##' are mid and related to the primary topics of the file, falling within the purview of the file's primary heading/title.
+'###' for headings subordinate to '##' headings.
+
+Generally this shouldn't happen and ought to be avoided, but if there is a case for a fourth tier of heading, these can be represented using **bold** lettering.
+
+**Capitalisation**
+
+'#' and '##' tier headings have all words capitalised that aren't little conjunction/definite article words (like 'as', 'and, 'in', 'a', 'the' etc.), unless the little word is at the start of the sentence.
+
+'###' and (if necessary) 'four tier **bold**' headings are made up of words in lower case, unless they start the sentence or are the name of a product/feature ('Scratchpad' etc.).
+
+### Referring to functions/buttons
+
+|The button         |                                                                 How to refer to it (including the use of bold)    |
+|----------------|----------------------------------------------------------------------|
+|**Control**| **Ctrl** |
+|**Edit**|**Shift**|
+|**Spacebar**| **Spacebar**|
+|**Alt** | **Alt**|
+|Any other key | Predictably: **[that key]** (eg. **X**, **Esc**, **2**, **Enter**, etc.)|
+|Click paths | Bold, 'more than' symbols ('>') between each step and a space between words and the '>'.<br /> Single quotation marks used if something needs to be clicked that isn't a standard sounding button: <br />Eg: '**Tools > Preferences > go to 'Export/Import Settings' > Export**'.
+
+### Use of bold and italics
+
+**Bold** For the reasons listed above (Referring to functions/buttons; and fourth tier heading if required), as well as
+-
