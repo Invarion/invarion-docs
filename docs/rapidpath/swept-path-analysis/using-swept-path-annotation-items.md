@@ -76,7 +76,7 @@ The properties section labelled **Marker** is a space in which the content of th
 - **Significant Digits** - alter how many decimal places are included.
 - **Mode** - when set to *Default*, the measurement will display the distance measured based on the span of the marker. If set to *Custom Text*, it will display the input in the **Text** field.
 
-**Note:** Like other objects, tThe content of the marker can also be edited by double clicking on it and typing a new value or message.
+**Note:** Like other objects, tThe content of the marker can also be edited by **Double clicking** on it and typing a new value or message.
 
 The **Style** and **Arrows** fields alter the appearance of the line and arrow aspects of the marker's apperance.
 

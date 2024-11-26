@@ -27,7 +27,7 @@ T-intersections are the easiest of intersections to create in RapidPath because 
 
 5.Select the **Lane Marker** tool in the Markings tab and draw a lane marking for the turning lane.
 
-6.Now double click on the north-south road, select the Lanes tab and change the lane marker to double in the Markings section.
+6.Now **Double click** on the north-south road, select the Lanes tab and change the lane marker to double in the Markings section.
 
    ![intersection_Steps_5_and_6](./assets/T-intersection_Steps_5_and_6.png)
 
@@ -40,7 +40,7 @@ T-intersections are the easiest of intersections to create in RapidPath because 
 ## Adding the Stop Bar and Turning Arrows
 
 8.Select the **Rectangle** tool from the Shapes tab in the Tools Palette and draw a rectangle for a stop bar. It pays to zoom right in when doing this.
-9.Double click on your drawn rectangle and change the **Stroke** color to white.
+9.**Double click** on your drawn rectangle and change the **Stroke** color to white.
 
     ![T-intersection_Steps_8_and_9](./assets/T-intersection_Steps_8_and_9.png)
 

@@ -27,7 +27,7 @@ This also includes parameters such as sign spacing and sign placing. These param
 
 ![Select_Location](./assets/Select_Location.png)
 
-- Once you have the road selected, mark out the start and end of your works. This is done by left clicking the first point for start of the works, then the second point for the end.
+- Once you have the road selected, mark out the start and end of your works. This is done by **Left clicking** the first point for start of the works, then the second point for the end.
 
 ![Define_Location](./assets/Define_Location.png)
 

@@ -26,4 +26,4 @@ On the roadway, the top line would occupy the first frame, the middle the second
 
 ## Editing a VMS Board
 
-To edit a placed board, simply double click on it and the form will reappear allowing you to make your changes.
+To edit a placed board, simply **Double click** on it and the form will reappear allowing you to make your changes.

@@ -31,7 +31,7 @@ A simple trick allows you to draw perfectly straight roads. By holding **Shift**
 
 There are two simple ways to add and remove lanes to roadways:
 
-1. Double click on the road to be altered to bring up the Quick Edit screen
+1. **Double click** on the road to be altered to bring up the Quick Edit screen
 2. Select the object and change the number of lanes from the Properties palette within the right pane.
 
 ![road properties lanes](./assets/Road_Properties_Lanes.png)

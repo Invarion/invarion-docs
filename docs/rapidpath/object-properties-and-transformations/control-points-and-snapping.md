@@ -57,7 +57,7 @@ Snap to an existing geometry when drawing an object and RapidPath will automatic
 
 This is useful when needing to draw delineation devices or a work area along a curved geometry.
 
-To being drawing along a geometry, simply left click your device along the red geometry where you want the device to begin. The tool will then follow the curve you draw out, as seen in Figure 5.11 below.
+To being drawing along a geometry, simply **Left click** your device along the red geometry where you want the device to begin. The tool will then follow the curve you draw out, as seen in Figure 5.11 below.
 
 ![Geometry_snapping](./assets/Geometry_snapping.png)
 

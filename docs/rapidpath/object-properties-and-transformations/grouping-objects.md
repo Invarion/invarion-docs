@@ -34,7 +34,7 @@ There are two ways to group objects
 
 ![Ungroup_Objects_by_Right_Click](./assets/Ungroup_Objects_by_Right_Click.png)
 
-**Note:** Grouped objects can edited without ungrouping. Double click on the group item to launch the quick edit box - you will then have the option to change the properties of a particular object in the group.
+**Note:** Grouped objects can edited without ungrouping. **Double click** on the group item to launch the quick edit box - you will then have the option to change the properties of a particular object in the group.
 
 ## Signs are like groups
 

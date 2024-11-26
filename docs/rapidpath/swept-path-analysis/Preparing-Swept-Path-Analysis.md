@@ -21,7 +21,7 @@ When clicking on a vehicle you can check its most important parameters inside th
 
 ## Editing an existing vehicle
 
-To edit the existing vehicle double click on it with the left mouse button. The Edit Vehicle window will appear. Here you can change all the parameters and save them to the vehicle object on your plan. You can also use the same window to replace the current vehicle with another one.
+To edit the existing vehicle **Double click** on it with the left mouse button. The Edit Vehicle window will appear. Here you can change all the parameters and save them to the vehicle object on your plan. You can also use the same window to replace the current vehicle with another one.
 
 ![Edit Vehicle window](./images/Edit_Vehicle_window.png)
 

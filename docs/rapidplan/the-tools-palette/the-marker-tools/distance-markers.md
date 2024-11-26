@@ -44,7 +44,7 @@ This tool does the same as the Distance Marker but with the ability to show mult
 **To place a Combined Distance Marker:**
 
 - Select the **Combined Distance Marker** tool from the Marker tab in the Tools Palette.
-- Left click once to start drawing the distance marker, left click again to end the first distance marker and start the second
+- **Left click** once to start drawing the distance marker, **Left click** again to end the first distance marker and start the second
 - Repeat this until you have all of your distances marked for that marker
 - **Right click** to finish
 
@@ -87,7 +87,7 @@ This tool calculates the area you allocate which is shown as the cross-hatched n
 **To place an Area Marker:**
 
 - Select the **Area Marker** tool from the Marker tab in the Tools Palette.
-- Left click once to start drawing.
+- **Left click** once to start drawing.
 - Continue clicking to set corner points of the area.
 - **Right click** to finish.
 
@@ -100,7 +100,7 @@ This tool allows you to create a combined marker that is offset on your plan.
 **To place an Combined Offset Distance Marker:**
 
 - Select the **Combined Offset Distance Marker** tool from the Marker tab in the Tools Palette.
-- Left click once to start drawing the distance marker, left click again to end the first distance marker and start the second.
+- **Left click** once to start drawing the distance marker, **Left click** again to end the first distance marker and start the second.
 - Repeat this until you have all of your distances for that marker.
 - To finish the last distance press **Right click**.
 - Drag your mouse laterally away from the distance marker to set the offset. Click a third time to finish drawing the marker.
@@ -119,7 +119,7 @@ Simply change it from False to True and it will set the breakline in the middle 
 ## Changing the Distance on the Marker
 
 - Select the Marker
-- Double click on the distance number provided
+- **Double click** on the distance number provided
 - The writing cursor will appear and will allow you to enter your desired distance
 - Click anywhere on your plan to finish
 

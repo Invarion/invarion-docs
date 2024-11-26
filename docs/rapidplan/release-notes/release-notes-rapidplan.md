@@ -718,7 +718,7 @@ TIP: use the Duplicate Style tool (**Ctrl + Shift + D**) to draw an object using
 
 ![Editing Text](./assets/131460779045204977-EditingText.png)
 
-All objects containing text can now be easily edited on-canvas. Simply double click on the text you want to change and start typing.
+All objects containing text can now be easily edited on-canvas. Simply **Double click** on the text you want to change and start typing.
 
 ### Batch Print
 

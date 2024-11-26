@@ -14,7 +14,7 @@ sidebar_position: 8
 
 ## Creating Print Frames
 
-Print frames can be defined either for individual print regions or for the whole plan (in which case the same frame will be used for all print regions). To create a plan frame, use the toolbar button. To create a print region frame, double click on the region's print frame icon. A popup dialog appears, confirming that you're about to create a new print frame. Once a print frame is created the corresponding icon changes color and can be used to open the frame editor view.
+Print frames can be defined either for individual print regions or for the whole plan (in which case the same frame will be used for all print regions). To create a plan frame, use the toolbar button. To create a print region frame, **Double click** on the region's print frame icon. A popup dialog appears, confirming that you're about to create a new print frame. Once a print frame is created the corresponding icon changes color and can be used to open the frame editor view.
 
 ![Creating_print_frames](./assets/Creating_print_frames.png)
 

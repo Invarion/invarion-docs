@@ -25,7 +25,7 @@ Each object is drawn with it's default properties set, but you will likely encou
 
  As previously discussed, you can edit properties from the properties palette or using quick edit mode:
 
- Double click on the object you wish to inspect to open the Quick Edit box. The object's properties screen will appear. Note that the properties will be different for each object type.
+ **Double click** on the object you wish to inspect to open the Quick Edit box. The object's properties screen will appear. Note that the properties will be different for each object type.
 
  ![Quick_Edit_screen](./assets/Quick_Edit_screen.png)
 

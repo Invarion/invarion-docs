@@ -13,7 +13,7 @@ RapidPlan automatically places any imported aerial photos to an **Aerial Photos*
 
 When on the **Aerial Photos** layer, you can import tiles of the photo for extra coverage.
 
-**To import a tile sized area of the aerial photo**, just double click on the area of the plan.
+**To import a tile sized area of the aerial photo**, just **Double click** on the area of the plan.
 
 However, you cannot move or transform these tiles on this layer as the layer needs to keep track of the map region. To manipulate a tile, for example to create a separate section of the plan with a different scale, you need to copy and paste the tiles onto a different layer.
 

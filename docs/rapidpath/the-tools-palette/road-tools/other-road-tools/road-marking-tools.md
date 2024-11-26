@@ -31,7 +31,7 @@ You can change the lane marker to any of the standard lane styles (Dashed, Solid
 
 **To change the properties of a lane marking:**
 
-- Double click on the lane marking
+- **Double click** on the lane marking
 - On its properties screen, make any required alterations to the type and color of the line
 - Click Ok to accept the changes
 
