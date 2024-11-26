@@ -37,7 +37,7 @@ Once you have selected an object and can view its control points, you can seamle
 
 This feature will help you to create a neat and straight-lined work area.
 
-**Tip:** If you want to snap control points across multiple layers/stages, hold *Ctrl+Alt* while drawing or transforming objects. This is particularly useful when drawing complex plans with multiple stages, as it allows hassle free snapping to base stage objects like road lanes and edges.
+**Tip:** If you want to snap control points across multiple layers/stages, hold **Ctrl+Alt** while drawing or transforming objects. This is particularly useful when drawing complex plans with multiple stages, as it allows hassle free snapping to base stage objects like road lanes and edges.
 
 ![Snapping_between_control_points](./assets/Snapping_between_control_points.png)
 

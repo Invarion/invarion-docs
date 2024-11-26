@@ -41,6 +41,6 @@ As shown in the image below, a tangent point will create curvature; more smooth 
 
 There can be up to two Tangent Points per control point, and appear blue with a line between each of them and the red control point.
 
-**To create a Tangent Point** on an object set to Bezier Geometry: Simply hold *Ctrl*, while clicking and dragging a red Control Point.
+**To create a Tangent Point** on an object set to Bezier Geometry: Simply hold **Ctrl**, while clicking and dragging a red Control Point.
 
 If needed, a Tangent Point can be reset (as if to delete it) by *Right-Clicking it > 'Reset Control Point'*.

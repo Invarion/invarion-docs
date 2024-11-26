@@ -36,11 +36,11 @@ You can also change the size of your object with the resize handles. Unlike the 
 
 ## Resizing with the Skew handles
 
-Create perspective representations by holding Ctrl+Alt to turn object scale handles into skew handles.
+Create perspective representations by holding **Ctrl+Alt** to turn object scale handles into skew handles.
 
 ![skew example](./assets/Skew-eg.png)
 
-When you have your sign/object selected, simply hold the Ctrl+Alt keys to activate the skew handles. You can then adjust the skew of the object with these keys held down, as you can see in Figure 5.15 below.
+When you have your sign/object selected, simply hold the **Ctrl+Alt** keys to activate the skew handles. You can then adjust the skew of the object with these keys held down, as you can see in Figure 5.15 below.
 
 ![Skew_handles](./assets/Skew_handles.png)
 

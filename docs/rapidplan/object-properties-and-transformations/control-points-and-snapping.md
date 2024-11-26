@@ -19,7 +19,7 @@ To view an object's control points you must select it. Once you have selected an
 
 ## Keeping Control Points straight
 
-Irrespective of what item you are drawing or altering, you can keep your control points in a perfectly straight line by holding down the **SHIFT** key as you are drawing. The same applies if you are moving an existing control point.
+Irrespective of what item you are drawing or altering, you can keep your control points in a perfectly straight line by holding down the **Shift** key as you are drawing. The same applies if you are moving an existing control point.
 
 This technique is especially helpful when drawing straight roadways.
 
@@ -37,7 +37,7 @@ Once you have selected an object and can view its control points, you can seamle
 
 This feature will help you to create a neat and straight-lined work area.
 
-**Tip:** If you want to snap control points across multiple layers/stages, hold *Ctrl+Alt* while drawing or transforming objects. This is particularly useful when drawing complex plans with multiple stages, as it allows hassle free snapping to base stage objects like road lanes and edges.
+**Tip:** If you want to snap control points across multiple layers/stages, hold **Ctrl + Alt** while drawing or transforming objects. This is particularly useful when drawing complex plans with multiple stages, as it allows hassle free snapping to base stage objects like road lanes and edges.
 
 ![Snapping_between_control_points](./assets/Snapping_between_control_points.png)
 

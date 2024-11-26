@@ -43,4 +43,4 @@ You aren't limited to just using the frame of other signs - if there is a graphi
 
 ### Completing your Sign
 
-When you have finished creating your sign, drag a selection box around your sign and select the **Group** objects icon in the toolbar ![Group_icon](./assets/Group_icon.png), **CTRL + G** or right click and select **Group objects**.
+When you have finished creating your sign, drag a selection box around your sign and select the **Group** objects icon in the toolbar ![Group_icon](./assets/Group_icon.png), **Ctrl + G** or right click and select **Group objects**.

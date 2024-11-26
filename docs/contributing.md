@@ -119,6 +119,7 @@ Generally this shouldn't happen and ought to be avoided, but if there is a case 
 |**Spacebar**| **Spacebar**|
 |Any other key | Predictably: **[that key]** (eg. '**Alt**', '**X**', '**Shift**', '**2**', '**Enter**', etc.)|
 |Click paths | Bold, 'more than' symbols ('>') between each step, a space between words and the '>'.<br /> Capitalise as if a top tier heading (see above).<br />Single quotation marks used if something needs to be clicked that isn't a standard sounding button/step in the path: <br />Eg: '**Tools > Preferences > go to 'Export/Import Settings' > Export**'.|
+|Key combinations| When keys are pressed at the same time.<br />In bold, plus (+) symbol between each button, spaces around the plus symbol.<br />Eg. '**Ctrl + Z**'.|
 
 ### Other uses of Bold
 
@@ -135,6 +136,7 @@ Used sparingly, as you would normally use italics:
 
 ### Markdown Lint rules not currently observed/obeyed
 
-(As seen in VS Code add-on 'markdownlint')
+(As seen when VS Code add-on 'markdownlint' is enabled)
 
 - MD036/'no emphasis as heading': Not observed currently as a fourth tier of heading proves useful and it hasn't broken anything.
+- MD024/'no duplicate headings': I believe this rule is only broken in the Release Notes sections, as headings like 'More changes' connotate the beginning of more minor changes for that release period.

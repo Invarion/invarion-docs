@@ -76,7 +76,7 @@ You can only create a path within the maneuverability capabilities of the curren
 
 ![Angle indicator when drawing the path](./images/Angle_indicator_when_drawing_the_path.png)
 
-Use Undo ("Ctrl+z") and Redo ("Ctrl+y") options while creating Vehicle Path to avoid wrongly placed or unwanted points. Additionally, you can edit your path later, when it is finished. Finish drawing the path by clicking with the right mouse button or pressing the "Esc" key.
+Use Undo (**Ctrl + Z**) and Redo (**Ctrl + Y**) options while creating Vehicle Path to avoid wrongly placed or unwanted points. Additionally, you can edit your path later, when it is finished. Finish drawing the path by clicking with the right mouse button or pressing the "Esc" key.
 Once the Vehicle Path is finished it turns into a separate object that can be freely moved and rotated. You can delete the Vehicle Path without deleting the vehicle.
 
 ![Finished vehicle path](./images/Finished_vehicle_path.png)
@@ -85,7 +85,7 @@ Once the Vehicle Path is finished it turns into a separate object that can be fr
 
 After the Vehicle Path is finished you can edit and adjust it using these methods:
 
-1. **Editing the parameters of the path's sections** - You can edit each section's parameters such as Speed, Friction and Turn on Stop. To select a section, first select the path, then click on the section you want to change with the left mouse button while holding "Ctrl" key. Once the section is selected, it will highlight red and a "Section details" window will appear. You can also select multiple sections by clicking on them one by one while holding "Ctrl" key.
+1. **Editing the parameters of the path's sections** - You can edit each section's parameters such as Speed, Friction and Turn on Stop. To select a section, first select the path, then click on the section you want to change with the left mouse button while holding **Ctrl** key. Once the section is selected, it will highlight red and a **Section Details** window will appear. You can also select multiple sections by clicking on them one by one while holding **Ctrl** key.
 
 ![Selected section of the vehicle path](./images/Selected_section_of_the_vehicle_path.png)
 

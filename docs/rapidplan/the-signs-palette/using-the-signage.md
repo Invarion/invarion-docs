@@ -14,7 +14,7 @@ Placing signs is simple. Once your sign is placed you can move, resize and rotat
 - Select the desired sign from the **Sign Palette** by clicking on it.
 - Float the sign out onto the canvas with the mouse. (You don't have to hold the mouse button
 while you drag your sign.)
-- If you want to rotate your sign 90 degrees; use **CTRL + R**.
+- If you want to rotate your sign 90 degrees; use **Ctrl + R**.
 - Click to drop the sign on the canvas.
 
 ## Rotating placed Signs
@@ -23,12 +23,12 @@ As is the case for most RapidPlan items, once a sign is placed on the canvas, th
 
 Whilst free rotate is probably the easiest to do, it probably isn't ideal if you are aligning more than 1 sign. It
 can be fiddly to get signs all pointing in precisely the same direction, so often you are better off using the
-right-click Rotate option, or ****CTRL + R****.
+right-click Rotate option, or **Ctrl + R**.
 
 ### To rotate in set 90 degrees increments
 
 - Select the placed sign
-- Press ****CTRL + R**** repeatedly to rotate the sign 90 degrees clockwise
+- Press **Ctrl + R** repeatedly to rotate the sign 90 degrees clockwise
 
 ### To rotate by set angle
 
@@ -52,7 +52,7 @@ Resizing signs in RapidPlan is no different to resizing any other object. Its ac
 
 ![Resize_Handles](./assets/Resize_Handles.png)
 
-The sign is resized by simply dragging out the resize handles. However, there is one important factor that you should take into account when resizing your signs. If you want to keep the sign in proportion with itself while you resize, you must hold **SHIFT** as you resize it.
+The sign is resized by simply dragging out the resize handles. However, there is one important factor that you should take into account when resizing your signs. If you want to keep the sign in proportion with itself while you resize, you must hold **Shift** as you resize it.
 
 In the example below, we start with a regular sign, then resize it twice without holding shift. The final resized sign did make use of the shift key, ensuring it is kept in proportion.
 

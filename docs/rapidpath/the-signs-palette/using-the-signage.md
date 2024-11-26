@@ -14,7 +14,7 @@ Placing signs is simple. Once your sign is placed you can move, resize and rotat
 - Select the desired sign from the **Sign Palette** by clicking on it.
 - Float the sign out onto the canvas with the mouse. (You don't have to hold the mouse button
 while you drag your sign.)
-- If you want to rotate your sign 90 degrees; use **CTRL + R**.
+- If you want to rotate your sign 90 degrees; use **Ctrl + R**.
 - Click to drop the sign on the canvas.
 
 ## Rotating Placed Signs
@@ -23,12 +23,12 @@ As is the case for most RapidPath items, once a sign is placed on the canvas, th
 
 Whilst free rotate is probably the easiest to do, it probably isn't ideal if you are aligning more than 1 sign. It
 can be fiddly to get signs all pointing in precisely the same direction, so often you are better off using the
-right-click Rotate option, or ****CTRL + R****.
+right-click Rotate option, or **Ctrl + R**.
 
 ### To rotate in set 90 degrees increments
 
 - Select the placed sign
-- Press ****CTRL + R**** repeatedly to rotate the sign 90 degrees clockwise
+- Press **Ctrl + R** repeatedly to rotate the sign 90 degrees clockwise
 
 ### To Rotate by set angle
 

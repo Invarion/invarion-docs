@@ -22,7 +22,7 @@ There are six different Arrow Board patterns available in RapidPlan:
 - Select the Arrow Board from the Devices tab in the Tools Palette.
 - Drop it into position on the plan.
 - Rotate it as necessary. **Note**: by default it appears as a Right flash - if you require a left flash, use
-**CTRL + R** (twice) to change its orientation.
+**Ctrl + R** (twice) to change its orientation.
 
 ## Changing the Pattern on the Arrow Board
 

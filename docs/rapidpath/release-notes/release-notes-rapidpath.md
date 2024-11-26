@@ -202,7 +202,7 @@ The underlying platform used by RapidPath was updated to improve performance and
 
 ![multilayersnapping](./assets/132580618682331461-multilayersnapping.png)
 
-Hold Ctrl+Alt while drawing or transforming objects to allow snapping to objects on all visible layers. This is particularly useful when drawing complex plans with multiple stages, as it allows hassle free snapping to base stage objects like road lanes and edges.
+Hold **Ctrl + Alt** while drawing or transforming objects to allow snapping to objects on all visible layers. This is particularly useful when drawing complex plans with multiple stages, as it allows hassle free snapping to base stage objects like road lanes and edges.
 
 ### Import new AutoCAD files
 
@@ -390,7 +390,7 @@ Ever lost work because you accidentally closed a plan without saving it? Use Fil
 
 **Print/export all regions** - other than the existing option to export active view, the right-clicking on the diagram canvas now also allows printing/exporting all print regions on the diagram via the Batch Export dialog.
 
-**Toggle text alignment** - use Ctrl+Alt+C to quickly toggle between the available text alignment modes in all selected text objects.
+**Toggle text alignment** - use **Ctrl + Alt  + C** to quickly toggle between the available text alignment modes in all selected text objects.
 
 **Quick load print frame file** - if you've saved your standard Print Frame to a file, you will now be able to apply it to new plans quicker. Right-click on the print frame icon and select Create print frame -> From file...
 
@@ -460,7 +460,7 @@ NearMap subscribers in USA, Australia and New Zealand can now access NearMap aer
 
 **Image Georeferencing Tool** - use Tools->Advanced tools->Georeference image files... to create a georeference World File for any map image by pairing two selected pixels with corresponding map locations. Once georeferenced, the image can be imported onto a Base Map plan with it's scale and position adjusted automatically.
 
-**Skew Objects** - create pseudo perspective views by holding Ctrl+Alt to turn object scale handles into skew handles.
+**Skew Objects** - create pseudo perspective views by holding **Ctrl + Alt** to turn object scale handles into skew handles.
 
 **Independent Control Point Tangents** - right-click on a Bezier Control Point and check the "Independent tangents" option. This will make both tangent points independent of each other, allowing more complex geometry shapes.
 
@@ -470,7 +470,7 @@ NearMap subscribers in USA, Australia and New Zealand can now access NearMap aer
 
 **RapidPath Cloud drag&drop files** - RapidPath Cloud (formerly Share Online) now supports moving files by drag-dropping them between folders.
 
-**Ctrl+B/I for Bold/Italic Text** - all text objects now support Ctrl+B and Ctrl+I keyboard shortcuts to toggle Bold and Italic text style respectively.
+**Ctrl + B/I for Bold/Italic Text** - all text objects now support **Ctrl + B** and **Ctrl + I** keyboard shortcuts to toggle Bold and Italic text style respectively.
 
 **Downward Text Orientation** - change Text Object's Text->Orientation property to Vertical to make it draw letters top-to-bottom instead of left-to-right.
 
@@ -510,7 +510,7 @@ All sign devices can now display an adjustable stand icon to specify their exact
 
 ![Road Width Handles](./assets/131928843272658571-roadhandles.png)
 
-Select a road and press Ctrl+H to display a set of handles that allow quick resizing of lanes, shoulders and sidewalks.
+Select a road and press **Ctrl + H** to display a set of handles that allow quick resizing of lanes, shoulders and sidewalks.
 
 ### Print & Export improvements
 
@@ -616,7 +616,7 @@ New base map providers allow access to VIC, NSW and QLD state government service
 
 ![Control Point Snapping and Road Alignment](./assets/131595493896320900-snap-align.png)
 
-Precisely connect objects with each other by snapping into existing control points. Hold the Ctrl key while point-snapping roads or other objects and their geometries will merge seamlessly.
+Precisely connect objects with each other by snapping into existing control points. Hold the **Ctrl** key while point-snapping roads or other objects and their geometries will merge seamlessly.
 
 ### Measurements Panel
 
@@ -634,7 +634,7 @@ Base map bearing is now adjustable, so you can draw your plans at any orientatio
 
 ![Selection Improvements](./assets/131595517421832433-selection.png)
 
-The selection box has been optimized for extra flexibility when selecting multiple objects. Additionally, you can now preview and select objects across all layers by holding the Ctrl+Alt keys.
+The selection box has been optimized for extra flexibility when selecting multiple objects. Additionally, you can now preview and select objects across all layers by holding the **Ctrl + Alt** keys.
 
 ### New Drawing tools
 
@@ -711,8 +711,8 @@ TIP: the "Scroll to origin" button will help you quickly go back to diagram cent
 
 ![Copying Object Styles](./assets/131460778115456897-CopyObjectStyles.png)
 
-After you copy an object to clipboard, select another object and use the Paste Style tool (Ctrl+Shift+V) to have all the properties of the original object automatically applied to it.
-TIP: use the Duplicate Style tool (Ctrl+Shift+D) to draw an object using the same style as your current selection.
+After you copy an object to clipboard, select another object and use the Paste Style tool (**Ctrl + Shift + V**) to have all the properties of the original object automatically applied to it.
+TIP: use the Duplicate Style tool (**Ctrl + Shift + D**) to draw an object using the same style as your current selection.
 
 ### Editing Text
 
