@@ -104,24 +104,37 @@ There are three main tiers of heading:
 
 Generally this shouldn't happen and ought to be avoided, but if there is a case for a fourth tier of heading, these can be represented using **bold** lettering.
 
-**Capitalisation**
+**Capitalisation in headings**
 
 '#' and '##' tier headings have all words capitalised that aren't little conjunction/definite article words (like 'as', 'and, 'in', 'a', 'the' etc.), unless the little word is at the start of the sentence.
 
 '###' and (if necessary) 'four tier **bold**' headings are made up of words in lower case, unless they start the sentence or are the name of a product/feature ('Scratchpad' etc.).
 
-### Referring to functions/buttons
+### Referring to buttons
 
 |The button         |                                                                 How to refer to it (including the use of bold)    |
 |----------------|----------------------------------------------------------------------|
 |**Control**| **Ctrl** |
-|**Edit**|**Shift**|
+|**Escape**|**Esc**|
 |**Spacebar**| **Spacebar**|
-|**Alt** | **Alt**|
-|Any other key | Predictably: **[that key]** (eg. **X**, **Esc**, **2**, **Enter**, etc.)|
-|Click paths | Bold, 'more than' symbols ('>') between each step and a space between words and the '>'.<br /> Single quotation marks used if something needs to be clicked that isn't a standard sounding button: <br />Eg: '**Tools > Preferences > go to 'Export/Import Settings' > Export**'.
+|Any other key | Predictably: **[that key]** (eg. '**Alt**', '**X**', '**Shift**', '**2**', '**Enter**', etc.)|
+|Click paths | Bold, 'more than' symbols ('>') between each step, a space between words and the '>'.<br /> Capitalise as if a top tier heading (see above).<br />Single quotation marks used if something needs to be clicked that isn't a standard sounding button/step in the path: <br />Eg: '**Tools > Preferences > go to 'Export/Import Settings' > Export**'.|
 
-### Use of bold and italics
+### Other uses of Bold
 
-**Bold** For the reasons listed above (Referring to functions/buttons; and fourth tier heading if required), as well as
--
+Drawing attention to a topic/feature that is key to that or a coming section.
+
+### Italics
+
+Used sparingly, as you would normally use italics:
+
+- Drawing attention to something that doesn't fit the description of Bold use cases.
+- To add emphasis.
+
+### Capitalisation in body
+
+### Markdown Lint rules not currently observed/obeyed
+
+(As seen in VS Code add-on 'markdownlint')
+
+- MD036/'no emphasis as heading': Not observed currently as a fourth tier of heading proves useful and it hasn't broken anything.
