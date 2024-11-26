@@ -31,4 +31,4 @@ The options will vary based on the object that is selected, but the main options
 * **Group:** Group the items.
 * **Align:** Perfectly align the selected items, either vertically or horizontally.
 
-**Note:** Is the Context Menu in your way? Hold the **shift** key to hide it.
+**Note:** Is the Context Menu in your way? Hold the **Shift** key to hide it.

@@ -25,7 +25,7 @@ Drawing using the road tool is very simple. As you move the mouse after you have
 
 ### Keeping Sections straight
 
-A simple trick allows you to draw perfectly straight roads. By holding **SHIFT**, RapidPlan will make sure that each control point is placed in a perfectly straight line.
+A simple trick allows you to draw perfectly straight roads. By holding **Shift**, RapidPlan will make sure that each control point is placed in a perfectly straight line.
 
 ### Setting the number of Lanes on the Carriageway
 

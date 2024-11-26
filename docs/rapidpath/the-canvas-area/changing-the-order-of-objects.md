@@ -31,9 +31,9 @@ You can also use the keyboard shortcut keys to effect the change, which will be 
 
 - Select the item that you want to alter the order of.
 - Hold:
-  - **ALT + Home** - Bring to front
-  - **ALT + Page Up** - Bring forward
-  - **ALT + Page Down** - Send backwards
-  - **ALT + End** - Send to back
+  - **Alt + Home** - Bring to front
+  - **Alt + Page Up** - Bring forward
+  - **Alt + Page Down** - Send backwards
+  - **Alt + End** - Send to back
 
 **Note**: the reordering of items happens only inside the scope of the given layer. That is to say that if you are operating on a lower layer and attempt to bring an object to front, it will still be drawn behind anything on a higher layer.

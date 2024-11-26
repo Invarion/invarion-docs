@@ -23,7 +23,7 @@ There are two ways to group objects
 
 2.Using your mouse or keyboard:
 
-- Select the objects you want to group together (by pressing **SHIFT** and selecting each desired object individually or by dragging your mouse encompassing all of the desired objects).
+- Select the objects you want to group together (by pressing **Shift** and selecting each desired object individually or by dragging your mouse encompassing all of the desired objects).
 - Right click and select **Group objects** from context menu
 - Or hold **Ctrl + G**.
 

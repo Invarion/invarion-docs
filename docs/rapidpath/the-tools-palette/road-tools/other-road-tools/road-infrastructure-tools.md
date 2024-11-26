@@ -53,7 +53,7 @@ To create an island with the polygon:
 
 - It is best to start your island at one of its corners. Click once to start drawing
 
-- Move in either a clockwise, or anti-clockwise order, clicking at each of your island's corner points (Note: Remember, you can hold SHIFT to keep the corners of your island perfectly straight)
+- Move in either a clockwise, or anti-clockwise order, clicking at each of your island's corner points (Note: Remember, you can hold Shift to keep the corners of your island perfectly straight)
 
 - When you have placed your last point, right click to stop drawing, and then right click to drop the Polygon tool
 
@@ -65,7 +65,7 @@ The picture above shows an example of a click sequence to create an island. Poly
 
 - Select the **Island** tool from the Infrastructure tab in the tools palette
 - Start your island at the smallest corner, click once to start drawing
-- Move in either a clockwise, or anti-clockwise order, clicking at each of your island's corner points (**Note**: Remember, you can hold **SHIFT** to keep the corners of your island perfectly straight)
+- Move in either a clockwise, or anti-clockwise order, clicking at each of your island's corner points (**Note**: Remember, you can hold **Shift** to keep the corners of your island perfectly straight)
 - When you have placed your last point, right click to stop drawing, and then right click to drop the Island tool
 
     ![The_Island_Tool_verses_Polygon_Tool](./assets/The_Island_Tool_verses_Polygon_Tool.png)
@@ -96,7 +96,7 @@ The Bike Lane tool works similarly to tools like the Polyline and the Road tool.
 
 - Select the **Bike Lane** tool from the Infrastructure tab in the Tools Palette.
 - Click to start the bike lane.
-- Hold **SHIFT** to create a straight lane, or click to create control points to adjust the lane's shape.
+- Hold **Shift** to create a straight lane, or click to create control points to adjust the lane's shape.
 - Right click to finish.
 
 ## The Parking Bay Tool
@@ -110,7 +110,7 @@ This tool makes it simple to add parking bays to your plan. In the items Propert
 **To place a parking bay:**
 
 - Select the **Parking Bay** tool from the Infrastructure tab in the Tools Palette.
-- Click at the first corner and drag out a line (hold **SHIFT** to keep straight).
+- Click at the first corner and drag out a line (hold **Shift** to keep straight).
 - Click again to make the second corner then drag the parking bays out to make their full shape.
 - Click a third time to complete it, and Right click to finish.
 

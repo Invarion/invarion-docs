@@ -19,7 +19,7 @@ However, you cannot move or transform these tiles on this layer as the layer nee
 
 **To select and move tiles to a different layer:**
 
-- Select the tiles you want to move by clicking once on the tile, (hold **SHIFT** and continue to click other tiles if you want to move multiple at a time).
+- Select the tiles you want to move by clicking once on the tile, (hold **Shift** and continue to click other tiles if you want to move multiple at a time).
 - Right click, select **copy**.
 - Select the layer you wish to move them to.
 - Right click in new layer and select **paste**.

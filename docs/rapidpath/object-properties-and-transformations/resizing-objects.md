@@ -28,7 +28,7 @@ You can also change the size of your object with the resize handles. Unlike the 
 **To resize with the resize handles:**
 
 - Select the item you wish to resize.
-- Drag either of the resize handles to stretch or shrink the object. (If you hold **SHIFT** while you resize, the length to width ratio of your object will be maintained).
+- Drag either of the resize handles to stretch or shrink the object. (If you hold **Shift** while you resize, the length to width ratio of your object will be maintained).
 
     ![Resize_Handles_rail](./assets/Resize_Handles_rail.png)
 

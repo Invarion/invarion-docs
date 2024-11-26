@@ -15,7 +15,7 @@ The direction you drag the mouse creates a different colored window.
 
 **Single objects** can be selected by simply clicking on them.
 
-**Multiple objects** can be selected by holding **shift** while clicking each object required. Clicking an already selected item while holding **shift** will have the effect of removing that item from selection.
+**Multiple objects** can be selected by holding **Shift** while clicking each object required. Clicking an already selected item while holding **Shift** will have the effect of removing that item from selection.
 
 **Multiple objects** can also be selected by clicking and dragging your mouse across an area of the Canvas, creating a **Selection Box**.
 
@@ -41,4 +41,4 @@ There are two types of **selection box**, which you use will depend on the direc
 | ![selectsign3](./assets/selectsign3.png)                | **Rotation Handles:** Click and drag a rotation handle rotate an item. This example has four rotation handles - an arrow in each corner of the bounding box. |
 | ![control1](./assets/control1.png) | **Control Points:** [Control points](./control-points.md) are special handles which allow you to alter the shape of an object. Many objects and road tools have control points and allow for the insertion of multiple control points anywhere along an item. |
 
-**Note:** Hold **shift** to preserve a selected object's proportions when **resizing**.
+**Note:** Hold **Shift** to preserve a selected object's proportions when **resizing**.

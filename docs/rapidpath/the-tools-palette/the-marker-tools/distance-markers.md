@@ -19,7 +19,7 @@ Irrespective of which distance marker you are using, the technique for creating 
 - Click once to start drawing the distance marker, click a second time to mark the end point.
 - Right click to finish
 
-**Note**: It is helpful to hold **SHIFT** whilst drawing the distance marker to keep it straight.
+**Note**: It is helpful to hold **Shift** whilst drawing the distance marker to keep it straight.
 
 ## Changing a Distance Marker's Properties
 

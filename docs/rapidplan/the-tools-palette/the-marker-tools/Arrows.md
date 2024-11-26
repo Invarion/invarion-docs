@@ -31,4 +31,4 @@ As the names suggest, the latter carries a text component at  its base. The arro
 
     ![Adding_Text_to_the_Text_Arrow](./assets/Adding_Text_to_the_Text_Arrow.png)
 
-    **Note**: To create a straight arrow, hold **SHIFT** whilst drawing the arrow.
+    **Note**: To create a straight arrow, hold **Shift** whilst drawing the arrow.

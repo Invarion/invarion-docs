@@ -356,7 +356,7 @@ Selection Modes
 
 ![select new](./assets/132265972498216871-SelectNew.png) New selection (default)
 
-![select add](./assets/132265972337855817-SelectAdd.png) Add to selection (hold Shift key)
+![select add](./assets/132265972337855817-SelectAdd.png) Add to selection (hold **Shift** key)
 
 ![select subtract](./assets/132265972192419013-SelectSubtract.png) Remove from selection (hold Alt key)
 
@@ -764,7 +764,7 @@ You can now specify job location coordinates for each traffic control plan you'r
 
 **New US paper sizes** - the following fixed print region sizes were added (Imperial metrical system only): ANSI C Sheet (17x22''), ARCH C Sheet (18x24''), ANSI D Sheet (22x34''), ARCH D Sheet (24x36'').
 
-**Resizing print regions** - print regions can now be freely scaled in each direction. Hold the Shift key down while scaling to preserve region proportions.
+**Resizing print regions** - print regions can now be freely scaled in each direction. Hold the **Shift** key down while scaling to preserve region proportions.
 
 **Arc Pie tool** - a new tool for drawing filled arc figures.
 

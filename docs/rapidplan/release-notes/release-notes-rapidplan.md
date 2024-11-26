@@ -356,7 +356,7 @@ Selection Modes
 
 ![select new](./assets/132265972498216871-SelectNew.png) New selection (default)
 
-![select add](./assets/132265972337855817-SelectAdd.png) Add to selection (hold Shift key)
+![select add](./assets/132265972337855817-SelectAdd.png) Add to selection (hold **Shift** key)
 
 ![select subtract](./assets/132265972192419013-SelectSubtract.png) Remove from selection (hold Alt key)
 

@@ -23,7 +23,7 @@ RapidPlan has made it simple to duplicate objects and/or an items property  onto
 - Hover cursor over **Duplicate** in the contents menu.
 - Select **Style**.
 - Draw object with the duplicated style.
-- or *Keyboard shortcut:* **Ctrl + SHIFT + D**
+- or *Keyboard shortcut:* **Ctrl + Shift + D**
 
 ## Duplicating Styles onto Other Items
 
@@ -36,4 +36,4 @@ As shown in the image below, you can paste the style/properties of one item onto
 - Select the item to duplicate style.
 - Press **Ctrl + C**
 - Now select item to transfer the style onto it.
-- Press **Ctrl + SHIFT + V**
+- Press **Ctrl + Shift + V**
