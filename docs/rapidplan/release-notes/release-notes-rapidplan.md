@@ -462,7 +462,7 @@ NearMap subscribers in USA, Australia and New Zealand can now access NearMap aer
 
 **Skew Objects** - create pseudo perspective views by holding Ctrl+Alt to turn object scale handles into skew handles.
 
-**Independent Control Point Tangents** - right-click on a Bezier Control Point and check the "Independent tangents" option. This will make both tangent points independent of each other, allowing more complex geometry shapes.
+**Independent Control Point Tangents** - right-click on a Bezier control oint and check the "Independent tangents" option. This will make both tangent points independent of each other, allowing more complex geometry shapes.
 
 **Merge Layer Down** - select a layer and use the Merge Down button to move all its objects to the layer underneath.
 

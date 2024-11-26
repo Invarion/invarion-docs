@@ -33,4 +33,4 @@ The orange handles on the exterior of the sign allow you to freely adjust the or
 
 ## To Resize signs
 
-The yellow handles on the outer of the sign allow you to adjust the signs size, simply left click and drag out to desired size. To resize the sign uniformly, simply hold down the **ctrl** key while resizing it.
+The yellow handles on the outer of the sign allow you to adjust the signs size, simply left click and drag out to desired size. To resize the sign uniformly, simply hold down the **Ctrl** key while resizing it.

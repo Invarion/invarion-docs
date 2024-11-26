@@ -68,7 +68,7 @@ As well as settings for altering the appearance of the **Predicted Movement Area
 After setting the speed, friction and "Turn on Stop" option you can start drawing the path. To do this, indicate the points on the canvas area by clicking the left mouse button. These points are called "Control Points" and can be adjusted later. Each point creates another section of the Vehicle Path.
 Each section can have different parameters such as speed, friction and turn on stop setting.
 You can adjust section parameters before making each point to create a path that consists of sections with different speeds, friction and other parameters.
-Alternatively, the section parameters can be adjusted after drawing the path. To do so, select the whole path, then while holding **ctrl**, click the section you would like to alter to select it. Once a sepecific section of the path is selected, changes made in the **section details** dialog box will apply to that section specifically.
+Alternatively, the section parameters can be adjusted after drawing the path. To do so, select the whole path, then while holding **Ctrl**, click the section you would like to alter to select it. Once a sepecific section of the path is selected, changes made in the **section details** dialog box will apply to that section specifically.
 
 ![Drawing a vehicle path](./images/Drawing_a_vehicle_path.png)
 

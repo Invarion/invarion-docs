@@ -81,7 +81,7 @@ The technique for creating control points is simple but requires some practice.
 - Draw your island as normal
 - Ensure your cursor is clear of the Island Tool by right clicking
 - Now select the Island that you've drawn by clicking on it once
-- Move your cursor over the control point that you wish to curve and hold down the **CTRL** button on the keyboard. The control points will then turn from red to blue and display curve handles
+- Move your cursor over the control point that you wish to curve and hold down the **Ctrl** button on the keyboard. The control points will then turn from red to blue and display curve handles
 - Drag the curve handles out (away from the control point) to increase the radius of the curve until you are happy with the islands shape
 
     ![Curving_Island](./assets/Curving_Island.png)

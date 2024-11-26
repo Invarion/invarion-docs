@@ -33,7 +33,7 @@ Similarly, you can remove control points by selecting the object, right clicking
 
 ## Control Point Snapping
 
-Once you have selected an object and can view its control points, you can seamlessly connect objects to one another by snapping into existing control points. Hold the **CTRL** key while point-snapping roads/work areas or other objects and their geometries will merge.
+Once you have selected an object and can view its control points, you can seamlessly connect objects to one another by snapping into existing control points. Hold the **Ctrl** key while point-snapping roads/work areas or other objects and their geometries will merge.
 
 This feature will help you to create a neat and straight-lined work area.
 

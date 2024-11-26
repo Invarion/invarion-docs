@@ -62,7 +62,7 @@ Note that a **Vehicle Predicted Movement Area** cloud can be generated from the 
 Once a swept path has been created, **markers** can be added by right-clicking on the path, hovering over **Vehicle Path** and selecting **Add Marker**.
 
 Once this is complete, wherever you click on the swept path a **marker** will be placed.
-If you have [**Clearances**](./swept-path-analysis-properties.md/#clearance) engaged, holding **ctrl** as you click will widen the **marker's** span to include the **clearance** area.
+If you have [**Clearances**](./swept-path-analysis-properties.md/#clearance) engaged, holding **Ctrl** as you click will widen the **marker's** span to include the **clearance** area.
 
 ![width markers](./images/width-markers.jpg)
 
