@@ -71,7 +71,7 @@ The bearing of a base map is adjustable, enabling you to draw plans at any orien
 
 The base map bearing can also be adjusted in the properties tab on the right hand side once map has already been inserted into the plan as seen in the image below.
 
-**Note:** To fine tune the bearing adjustment hold down the **CTRL** key and click and drag the mouse around on the map to get the desired position.
+**Note:** To fine tune the bearing adjustment hold down the **Ctrl** key and click and drag the mouse around on the map to get the desired position.
 
 **Note:** Changing the bearing of the map after initiating your plan will readjust the positions of print regions, to ensure that they are accurately centered on the intended location.
 

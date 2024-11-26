@@ -20,7 +20,7 @@ The toolbar features three sections.
 |**Tools**|Text Variables. <br /> Object Styles and Preferences.<br />  Import Files.<br />  'Save object as..'<br /> Sign Tools and Advanced Tools.      |
 |**View** |Toggle visibility of different pallets.<br /> Open Layout Manager.  |
 
-## Section 2 
+## Section 2
 
 ![section 2](./assets/toolbar-top-right.jpg)
 

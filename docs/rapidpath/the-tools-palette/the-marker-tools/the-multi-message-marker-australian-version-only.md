@@ -38,7 +38,7 @@ Click on **Upside down** checkbox if you need to replace pane position and **Fla
 
 ![MMS_upside_down_with_flags](./assets/MMS_upside_down_with_flags.png)
 
-If you use some of the signs very often, you can bookmark it. Right click on sign you want to place on **Bookmarked panels** and select **Add to Bookmarks**. To remove it from **Bookmarked panels** right click on bookmarked sign and select **Remove from Bookmarks**
+If you use some of the signs very often, you can bookmark it. **Right click** on sign you want to place on **Bookmarked panels** and select **Add to Bookmarks**. To remove it from **Bookmarked panels** **Right click** on bookmarked sign and select **Remove from Bookmarks**
 
 ![MMS_bookmark_sign](./assets/MMS_bookmark_sign.png)
 

@@ -28,7 +28,7 @@ There are two ways to make divided roadways. The first method is simply to draw 
 
    ![Divided_Roads_Intersection_step_](./assets/Divided_Roads_Intersection_step_.png)
 
-5.Double click each of the medians, and change their line width to 2 color white and fill to green. This makes our medians look like they are grassed.
+5.**Double click** each of the medians, and change their line width to 2 color white and fill to green. This makes our medians look like they are grassed.
 
 6.Using the Lane Mask tool from the Road Tools tab, mask out the unneeded lane lines running through the intersection.
 

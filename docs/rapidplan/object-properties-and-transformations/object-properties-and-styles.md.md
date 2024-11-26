@@ -7,7 +7,7 @@ sidebar_position: 3
 
 ## Properties
 
-An important feature accessed through selecting an object is editing the object's properties. Every single object in RapidPlan has a set of Properties which determine how that object appears on the canvas, that can be viewed and altered from the Properties [Palette](/docs/rapidplan/the-rapidplan-screen/your-workspace.md). 
+An important feature accessed through selecting an object is editing the object's properties. Every single object in RapidPlan has a set of Properties which determine how that object appears on the canvas, that can be viewed and altered from the Properties [Palette](/docs/rapidplan/the-rapidplan-screen/your-workspace.md).
 
 ![the properties palette](./assets/The-Properties-Palette.png)
 
@@ -25,7 +25,7 @@ Each object is drawn with it's default properties set, but you will likely encou
 
  As discussed previously, you can edit properties from the properties palette or using quick edit mode:
 
- Double click on the object you wish to inspect to open the Quick Edit box. The object's properties screen will appear. Note that the properties will be different for each object type.
+ **Double click** on the object you wish to inspect to open the Quick Edit box. The object's properties screen will appear. Note that the properties will be different for each object type.
 
  ![Quick_Edit_screen](./assets/Quick_Edit_screen.png)
 
@@ -47,7 +47,7 @@ Once you have a altered the properties of an object on the Canvas Area, with the
 
 ![styles buttons](./assets/styles-eg.jpg)
 
-**A style is *set* using the icon on the right:** 
+**A style is *set* using the icon on the right:**
 
 ![set style](./assets/set-style.png)
 
@@ -76,6 +76,6 @@ As above, altering and managing existing styles is done through the **Object Sty
 
 As explained in the **'Setting a Style'** section, the Object Styles dialog window has a section on the left for finding the object, and then the style of that object that you wish to manage on the left.
 
-Once the style is found, you can change it's details and/or properties before saving it. 
+Once the style is found, you can change it's details and/or properties before saving it.
 
 Using the buttons next to the **Save** button, a style can also be **deleted** using the red cross icon, **copied** to create a matching style that can then be altered, or **added to [Scratchpad](/docs/rapidplan/the-rapidplan-screen/the-scratch-pad.md)**.

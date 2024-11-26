@@ -53,7 +53,7 @@ Modifiable **Parameters** include:
 - **Range Factor** - How far the cloud extends (at max value of '1' by default).
 - **Units** - chosen unit of measurement.
 
-Note that a **Vehicle Predicted Movement Area** cloud can be generated from the vehicle itself (rather than by clicking on a drawn path). To do this, right click the vehicle, hover over **Vehicle** in the menu and select **Predicted Movement Area**.
+Note that a **Vehicle Predicted Movement Area** cloud can be generated from the vehicle itself (rather than by clicking on a drawn path). To do this, **Right click** the vehicle, hover over **Vehicle** in the menu and select **Predicted Movement Area**.
 
 ## Swept Path Width Markers
 
@@ -62,7 +62,7 @@ Note that a **Vehicle Predicted Movement Area** cloud can be generated from the 
 Once a swept path has been created, **markers** can be added by right-clicking on the path, hovering over **Vehicle Path** and selecting **Add Marker**.
 
 Once this is complete, wherever you click on the swept path a **marker** will be placed.
-If you have [**Clearances**](./swept-path-analysis-properties.md/#clearance) engaged, holding **ctrl** as you click will widen the **marker's** span to include the **clearance** area.
+If you have [**Clearances**](./swept-path-analysis-properties.md/#clearance) engaged, holding **Ctrl** as you click will widen the **marker's** span to include the **clearance** area.
 
 ![width markers](./images/width-markers.jpg)
 
@@ -76,7 +76,7 @@ The properties section labelled **Marker** is a space in which the content of th
 - **Significant Digits** - alter how many decimal places are included.
 - **Mode** - when set to *Default*, the measurement will display the distance measured based on the span of the marker. If set to *Custom Text*, it will display the input in the **Text** field.
 
-**Note:** Like other objects, tThe content of the marker can also be edited by double clicking on it and typing a new value or message.
+**Note:** Like other objects, tThe content of the marker can also be edited by **Double clicking** on it and typing a new value or message.
 
 The **Style** and **Arrows** fields alter the appearance of the line and arrow aspects of the marker's apperance.
 

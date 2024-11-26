@@ -9,9 +9,9 @@ Importing roads onto integrated mapping creates a **road object** with propertie
 
 There are three ways of importing your roads;
 
- 1. Import **all roads in Print Region** by right clicking on the print region printer icon and selecting **Import Roads**.
+ 1. Import **all roads in Print Region** by **Right clicking** on the print region printer icon and selecting **Import Roads**.
  2. Select a custom area via **Tools** > **Import** > **Road Layout** to import **all roads in the custom area**.
- 3. Select **individual roads** by right clicking on the road and selecting **Import Roads**.
+ 3. Select **individual roads** by **Right clicking** on the road and selecting **Import Roads**.
 
 ![Imported_Roads](./assets/Imported_Roads.jpg)
 
@@ -32,7 +32,7 @@ Once your road widths are adequate, you may need to make some manual adjustments
 
 ![Changing_Road_Opacity_to_see_Satellite_Image_Below](./assets/Changing_Road_Opacity_to_see_Satellite_Image_Below.jpg)
 
-2.You may need to adjust the roads by adding **road corners** or **turning lanes**, etc. Make sure to copy the **style** of the road to each road tool by copying the style from the main road, selecting the new object and using **CTRL + SHIFT +V** to paste the style.
+2.You may need to adjust the roads by adding **road corners** or **turning lanes**, etc. Make sure to copy the **style** of the road to each road tool by copying the style from the main road, selecting the new object and using **Ctrl + Shift + V** to paste the style.
 
  *For more information of how to use Road tools, see [The Road Tool](/docs/rapidplan/the-tools-palette/road-tools/the-road-tool/drawing-a-road.md) and [Other Road Tools](/docs/rapidplan/the-tools-palette/road-tools/other-road-tools/other-road-creation-tools.md).*
 

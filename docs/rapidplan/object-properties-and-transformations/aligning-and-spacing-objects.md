@@ -7,7 +7,7 @@ sidebar_position: 5
 
 ## Alignment
 
-This function in the [Toolbar](/docs/rapidplan/the-toolbar/the-toolbar.md) allows you to align boundaries of selected objects, signs, roads, etc. 
+This function in the [Toolbar](/docs/rapidplan/the-toolbar/the-toolbar.md) allows you to align boundaries of selected objects, signs, roads, etc.
 
 Note it only becomes clickable when more than one object is selected.
 

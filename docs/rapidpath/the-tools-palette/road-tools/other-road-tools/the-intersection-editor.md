@@ -31,7 +31,7 @@ To add an intersection element, switch to the required category and click one of
 
  ![Adding_intersection_elements](./assets/Adding_intersection_elements.png)
 
-Once an intersection element is added, it appears on the elements list in its category. You can select an intersection element directly from the list, or by holding the Ctrl+Alt keys and clicking on the required element of the intersection object. The selected element gets highlighted with a red outline. TIP: to select more than one element hold the Ctrl key when selecting from the editor list, or Ctrl+Alt+Shift when clicking on the intersection object.  
+Once an intersection element is added, it appears on the elements list in its category. You can select an intersection element directly from the list, or by holding the **Ctrl+Alt** keys and clicking on the required element of the intersection object. The selected element gets highlighted with a red outline. TIP: to select more than one element hold the **Ctrl** key when selecting from the editor list, or **Ctrl + Alt + Shift** when clicking on the intersection object.  
 
  ![Selecting_intersection_elements](./assets/Selecting_intersection_elements.png)
 
@@ -52,7 +52,7 @@ but for some other road layouts it'll be important to understand the difference 
 
 ## Ungrouping Intersections
 
-The intersection editor is designed to assist in drawing typical intersections. If any additional adjustments are required for more complex intersection layouts, an intersection can be ungrouped, allowing all its elements to be freely edited (ungrouped elements become regular plan objects, exposing adjustable control points and properties). To ungroup, simply select an intersection and hit Ctrl+U.
+The intersection editor is designed to assist in drawing typical intersections. If any additional adjustments are required for more complex intersection layouts, an intersection can be ungrouped, allowing all its elements to be freely edited (ungrouped elements become regular plan objects, exposing adjustable control points and properties). To ungroup, simply select an intersection and hit **Ctrl + U**.
 
 Sometimes, instead of ungrouping the whole object, you might want to detach a specific element from the intersection. To achieve this, select one or more elements, right-click and select Edit intersection elements -> Detach from intersection. This will remove the elements from the intersection and replace them with identical object added directly to the plan. See an example below:
 
@@ -60,6 +60,6 @@ Sometimes, instead of ungrouping the whole object, you might want to detach a sp
 
 ## Connecting Incoming Roads
 
-The intersection object exposes control points at the end of each of its roads. These points can be snapped to when drawing a road object or adjusting control points of an existing road. Holding down the Ctrl key while snapping to intersection enables automatic road alignment - RapidPath will automatically adjust the shape of the road so that it seamlessly merges with the intersection object.
+The intersection object exposes control points at the end of each of its roads. These points can be snapped to when drawing a road object or adjusting control points of an existing road. Holding down the **Ctrl** key while snapping to intersection enables automatic road alignment - RapidPath will automatically adjust the shape of the road so that it seamlessly merges with the intersection object.
 
  ![Connecting_roads](./assets/Connecting_roads.png)

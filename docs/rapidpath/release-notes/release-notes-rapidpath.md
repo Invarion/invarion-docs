@@ -7,6 +7,7 @@
 ### Invarion Cloud Integration
 
 RapidPath 4.0 is integrated with Invarion Cloud, allowing users to:
+
 * Store their traffic management plans on the Invarion Cloud instead of local files
 * Use Invarion Cloud's collaboration features: share plans with other users, add comments.
 * Users who have licenses for RapidPath and RapidPathOnline will be able to open the same plans in both applications.
@@ -149,7 +150,7 @@ A dockable panel listing all Print Regions on the current plan allows accessing,
 
 ![plan location tools](./assets/133034891694724289-planLocationTools.png)
 
-Right click on any location while drawing a base map plan and use the location coordinates to look it up in a number of external services including Google Maps and Street View.
+**Right click** on any location while drawing a base map plan and use the location coordinates to look it up in a number of external services including Google Maps and Street View.
 
 ### More changes
 
@@ -201,7 +202,7 @@ The underlying platform used by RapidPath was updated to improve performance and
 
 ![multilayersnapping](./assets/132580618682331461-multilayersnapping.png)
 
-Hold Ctrl+Alt while drawing or transforming objects to allow snapping to objects on all visible layers. This is particularly useful when drawing complex plans with multiple stages, as it allows hassle free snapping to base stage objects like road lanes and edges.
+Hold **Ctrl + Alt** while drawing or transforming objects to allow snapping to objects on all visible layers. This is particularly useful when drawing complex plans with multiple stages, as it allows hassle free snapping to base stage objects like road lanes and edges.
 
 ### Import new AutoCAD files
 
@@ -249,19 +250,19 @@ The Zoomed View Box can now be styled to present its content in an ellipse or cl
 
 **New, and updated, sign and template libraries include:**
 
-- Florida (FDOT) Standard Plans 2020-2021
-- Minnesota TTC Field Manual update
-- California MUTCD Signs update
-- Washington DC Workzone Utility Typicals
-- British Columbia Construction Signs update
-- Transport for NSW TCAWS Manual Templates 2020
-- Transport for NSW TCAWS Signs update
-- Queensland MUTCD Q-Series Signs update
-- South Australia DPTI Templates 2020
-- South Australia DPTI Multi Message Signs update
-- Ireland DOT TTM Layout update
-- UK Department for Transport/Highways Agency Templates update
-- NZTA Signs Update
+* Florida (FDOT) Standard Plans 2020-2021
+* Minnesota TTC Field Manual update
+* California MUTCD Signs update
+* Washington DC Workzone Utility Typicals
+* British Columbia Construction Signs update
+* Transport for NSW TCAWS Manual Templates 2020
+* Transport for NSW TCAWS Signs update
+* Queensland MUTCD Q-Series Signs update
+* South Australia DPTI Templates 2020
+* South Australia DPTI Multi Message Signs update
+* Ireland DOT TTM Layout update
+* UK Department for Transport/Highways Agency Templates update
+* NZTA Signs Update
 
 ## RapidPath 3.6
 
@@ -355,7 +356,7 @@ Selection Modes
 
 ![select new](./assets/132265972498216871-SelectNew.png) New selection (default)
 
-![select add](./assets/132265972337855817-SelectAdd.png) Add to selection (hold Shift key)
+![select add](./assets/132265972337855817-SelectAdd.png) Add to selection (hold **Shift** key)
 
 ![select subtract](./assets/132265972192419013-SelectSubtract.png) Remove from selection (hold Alt key)
 
@@ -389,13 +390,13 @@ Ever lost work because you accidentally closed a plan without saving it? Use Fil
 
 **Print/export all regions** - other than the existing option to export active view, the right-clicking on the diagram canvas now also allows printing/exporting all print regions on the diagram via the Batch Export dialog.
 
-**Toggle text alignment** - use Ctrl+Alt+C to quickly toggle between the available text alignment modes in all selected text objects.
+**Toggle text alignment** - use **Ctrl + Alt  + C** to quickly toggle between the available text alignment modes in all selected text objects.
 
 **Quick load print frame file** - if you've saved your standard Print Frame to a file, you will now be able to apply it to new plans quicker. Right-click on the print frame icon and select Create print frame -> From file...
 
 **Drag group by control point** - with an objects group selected, press the Alt key to highlight the grouped objects' snapable control points. You can now use them to move the whole object and snap to other points on the plan.
 
-**Quick-adjust intersection masks** - right click on an intersection object, select Edit intersection elements -> Show mask offset handles. The intersection gets decorated with points you can drag in order to mask out default markings to the desired distance along incoming roads.
+**Quick-adjust intersection masks** - **Right click** on an intersection object, select Edit intersection elements -> Show mask offset handles. The intersection gets decorated with points you can drag in order to mask out default markings to the desired distance along incoming roads.
 
 **Default aerial tiles provider setting** - you can now set the default aerials import tile provider independently of the default base map provider. This is useful if you normally use cartograpic maps as your plan canvas background, but import tiles from a satellite imagery provider.
 
@@ -415,7 +416,7 @@ Ever lost work because you accidentally closed a plan without saving it? Use Fil
 
 ![Advanced Geometry Drawing](./assets/132059304203892127-GeometrySnapping.png)
 
-Snap to an existing geometry when drawing an object and RapidPath will automatically create control points to fit the desired curve. Use the Offset Geometry tool to further adjust object position. Drawing delineators, lane markings, work zones along road and lane edges becomes easier than ever. NOTE: use F3 to quickly toggle snapping on/off or right click the toolbar button to individually toggle snapping to points and/or geometries.
+Snap to an existing geometry when drawing an object and RapidPath will automatically create control points to fit the desired curve. Use the Offset Geometry tool to further adjust object position. Drawing delineators, lane markings, work zones along road and lane edges becomes easier than ever. NOTE: use F3 to quickly toggle snapping on/off or **Right click** the toolbar button to individually toggle snapping to points and/or geometries.
 
 ### Snap to Bounds
 
@@ -459,7 +460,7 @@ NearMap subscribers in USA, Australia and New Zealand can now access NearMap aer
 
 **Image Georeferencing Tool** - use Tools->Advanced tools->Georeference image files... to create a georeference World File for any map image by pairing two selected pixels with corresponding map locations. Once georeferenced, the image can be imported onto a Base Map plan with it's scale and position adjusted automatically.
 
-**Skew Objects** - create pseudo perspective views by holding Ctrl+Alt to turn object scale handles into skew handles.
+**Skew Objects** - create pseudo perspective views by holding **Ctrl + Alt** to turn object scale handles into skew handles.
 
 **Independent Control Point Tangents** - right-click on a Bezier Control Point and check the "Independent tangents" option. This will make both tangent points independent of each other, allowing more complex geometry shapes.
 
@@ -469,7 +470,7 @@ NearMap subscribers in USA, Australia and New Zealand can now access NearMap aer
 
 **RapidPath Cloud drag&drop files** - RapidPath Cloud (formerly Share Online) now supports moving files by drag-dropping them between folders.
 
-**Ctrl+B/I for Bold/Italic Text** - all text objects now support Ctrl+B and Ctrl+I keyboard shortcuts to toggle Bold and Italic text style respectively.
+**Ctrl + B/I for Bold/Italic Text** - all text objects now support **Ctrl + B** and **Ctrl + I** keyboard shortcuts to toggle Bold and Italic text style respectively.
 
 **Downward Text Orientation** - change Text Object's Text->Orientation property to Vertical to make it draw letters top-to-bottom instead of left-to-right.
 
@@ -509,7 +510,7 @@ All sign devices can now display an adjustable stand icon to specify their exact
 
 ![Road Width Handles](./assets/131928843272658571-roadhandles.png)
 
-Select a road and press Ctrl+H to display a set of handles that allow quick resizing of lanes, shoulders and sidewalks.
+Select a road and press **Ctrl + H** to display a set of handles that allow quick resizing of lanes, shoulders and sidewalks.
 
 ### Print & Export improvements
 
@@ -615,7 +616,7 @@ New base map providers allow access to VIC, NSW and QLD state government service
 
 ![Control Point Snapping and Road Alignment](./assets/131595493896320900-snap-align.png)
 
-Precisely connect objects with each other by snapping into existing control points. Hold the Ctrl key while point-snapping roads or other objects and their geometries will merge seamlessly.
+Precisely connect objects with each other by snapping into existing control points. Hold the **Ctrl** key while point-snapping roads or other objects and their geometries will merge seamlessly.
 
 ### Measurements Panel
 
@@ -633,7 +634,7 @@ Base map bearing is now adjustable, so you can draw your plans at any orientatio
 
 ![Selection Improvements](./assets/131595517421832433-selection.png)
 
-The selection box has been optimized for extra flexibility when selecting multiple objects. Additionally, you can now preview and select objects across all layers by holding the Ctrl+Alt keys.
+The selection box has been optimized for extra flexibility when selecting multiple objects. Additionally, you can now preview and select objects across all layers by holding the **Ctrl + Alt** keys.
 
 ### New Drawing tools
 
@@ -710,14 +711,14 @@ TIP: the "Scroll to origin" button will help you quickly go back to diagram cent
 
 ![Copying Object Styles](./assets/131460778115456897-CopyObjectStyles.png)
 
-After you copy an object to clipboard, select another object and use the Paste Style tool (Ctrl+Shift+V) to have all the properties of the original object automatically applied to it.
-TIP: use the Duplicate Style tool (Ctrl+Shift+D) to draw an object using the same style as your current selection.
+After you copy an object to clipboard, select another object and use the Paste Style tool (**Ctrl + Shift + V**) to have all the properties of the original object automatically applied to it.
+TIP: use the Duplicate Style tool (**Ctrl + Shift + D**) to draw an object using the same style as your current selection.
 
 ### Editing Text
 
 ![Editing Text](./assets/131460779045204977-EditingText.png)
 
-All objects containing text can now be easily edited on-canvas. Simply double click on the text you want to change and start typing.
+All objects containing text can now be easily edited on-canvas. Simply **Double click** on the text you want to change and start typing.
 
 ### Batch Print
 
@@ -763,7 +764,7 @@ You can now specify job location coordinates for each traffic control plan you'r
 
 **New US paper sizes** - the following fixed print region sizes were added (Imperial metrical system only): ANSI C Sheet (17x22''), ARCH C Sheet (18x24''), ANSI D Sheet (22x34''), ARCH D Sheet (24x36'').
 
-**Resizing print regions** - print regions can now be freely scaled in each direction. Hold the Shift key down while scaling to preserve region proportions.
+**Resizing print regions** - print regions can now be freely scaled in each direction. Hold the **Shift** key down while scaling to preserve region proportions.
 
 **Arc Pie tool** - a new tool for drawing filled arc figures.
 

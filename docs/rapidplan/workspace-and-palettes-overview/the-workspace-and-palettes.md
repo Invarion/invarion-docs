@@ -32,7 +32,7 @@ The toolbar houses most of the "plan-wide" tools that you will use for your plan
 ## The Palettes
 
 There are five main palettes that will appear on the screen initially, which between them contain virtually all the tools you will use in creating your plan. There are three tabs that appear vertically docked to the left of your canvas; the signs palette, the scratchpad and the tools palette, while the properties and layers tabs will appear to the right of your canvas.
-When hovered over with your mouse the palettes become visible, you then have the option to click on pin/unpin (right corner of the palette) or to click on the "x" to close the palette. You can also right click on the top bar of the palette and choose to have your palette float anywhere on the screen.
+When hovered over with your mouse the palettes become visible, you then have the option to click on pin/unpin (right corner of the palette) or to click on the "x" to close the palette. You can also **Right click** on the top bar of the palette and choose to have your palette float anywhere on the screen.
 
 ![pin unpin](./assets/Pin_-_Unpin.png)
 
@@ -44,6 +44,7 @@ as well as the national signage). The button on the top left of the palette allo
 ![signs](./assets/Signs.png)
 
 Further details can be found [here](/docs/rapidplan/the-signs-palette/)
+
 ### The Properties Palette
 
 The Properties palette displays all the information pertaining to any selected signs, tools, markers or objects that is currently selected. This is where you can change fonts, colors, lane markers, etc. of the selected feature.

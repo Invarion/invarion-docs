@@ -21,7 +21,7 @@ When clicking on a vehicle you can check its most important parameters inside th
 
 ## Editing an existing vehicle
 
-To edit the existing vehicle double click on it with the left mouse button. The Edit Vehicle window will appear. Here you can change all the parameters and save them to the vehicle object on your plan. You can also use the same window to replace the current vehicle with another one.
+To edit the existing vehicle **Double click** on it with the left mouse button. The Edit Vehicle window will appear. Here you can change all the parameters and save them to the vehicle object on your plan. You can also use the same window to replace the current vehicle with another one.
 
 ![Edit Vehicle window](./images/Edit_Vehicle_window.png)
 
@@ -68,7 +68,7 @@ As well as settings for altering the appearance of the **Predicted Movement Area
 After setting the speed, friction and "Turn on Stop" option you can start drawing the path. To do this, indicate the points on the canvas area by clicking the left mouse button. These points are called "Control Points" and can be adjusted later. Each point creates another section of the Vehicle Path.
 Each section can have different parameters such as speed, friction and turn on stop setting.
 You can adjust section parameters before making each point to create a path that consists of sections with different speeds, friction and other parameters.
-Alternatively, the section parameters can be adjusted after drawing the path. To do so, select the whole path, then while holding **ctrl**, click the section you would like to alter to select it. Once a sepecific section of the path is selected, changes made in the **section details** dialog box will apply to that section specifically.
+Alternatively, the section parameters can be adjusted after drawing the path. To do so, select the whole path, then while holding **Ctrl**, click the section you would like to alter to select it. Once a sepecific section of the path is selected, changes made in the **section details** dialog box will apply to that section specifically.
 
 ![Drawing a vehicle path](./images/Drawing_a_vehicle_path.png)
 
@@ -76,7 +76,7 @@ You can only create a path within the maneuverability capabilities of the curren
 
 ![Angle indicator when drawing the path](./images/Angle_indicator_when_drawing_the_path.png)
 
-Use Undo ("Ctrl+z") and Redo ("Ctrl+y") options while creating Vehicle Path to avoid wrongly placed or unwanted points. Additionally, you can edit your path later, when it is finished. Finish drawing the path by clicking with the right mouse button or pressing the "Esc" key.
+Use Undo (**Ctrl + Z**) and Redo (**Ctrl + Y**) options while creating Vehicle Path to avoid wrongly placed or unwanted points. Additionally, you can edit your path later, when it is finished. Finish drawing the path by clicking with the right mouse button or pressing the "Esc" key.
 Once the Vehicle Path is finished it turns into a separate object that can be freely moved and rotated. You can delete the Vehicle Path without deleting the vehicle.
 
 ![Finished vehicle path](./images/Finished_vehicle_path.png)
@@ -85,7 +85,7 @@ Once the Vehicle Path is finished it turns into a separate object that can be fr
 
 After the Vehicle Path is finished you can edit and adjust it using these methods:
 
-1. **Editing the parameters of the path's sections** - You can edit each section's parameters such as Speed, Friction and Turn on Stop. To select a section, first select the path, then click on the section you want to change with the left mouse button while holding "Ctrl" key. Once the section is selected, it will highlight red and a "Section details" window will appear. You can also select multiple sections by clicking on them one by one while holding "Ctrl" key.
+1. **Editing the parameters of the path's sections** - You can edit each section's parameters such as Speed, Friction and Turn on Stop. To select a section, first select the path, then click on the section you want to change with the left mouse button while holding **Ctrl** key. Once the section is selected, it will highlight red and a **Section Details** window will appear. You can also select multiple sections by clicking on them one by one while holding **Ctrl** key.
 
 ![Selected section of the vehicle path](./images/Selected_section_of_the_vehicle_path.png)
 

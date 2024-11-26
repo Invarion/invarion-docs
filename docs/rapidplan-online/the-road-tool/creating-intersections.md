@@ -21,7 +21,7 @@ The real power of RapidPlan Online lies in its ability to quickly create interse
 
 - Select the tool from the Road tools in the Tools palette;
 - Start using the tool as you would use the Work zone tool drawing a perimeter of the road mask enclosing all the lane markers you want;
-- Right click to finish.
+- **Right click** to finish.
 
 ![ ](./assets/Road_Mask_Tool.png)
 

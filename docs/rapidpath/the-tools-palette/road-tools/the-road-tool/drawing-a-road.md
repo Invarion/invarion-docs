@@ -20,18 +20,18 @@ Drawing using the road tool is very simple. As you move the mouse after you have
 - Select the **Road** from the Tools palette.
 - Move your mouse to the canvas and click once to start drawing your road.
 - Move the mouse around the canvas, clicking at each turning point.
-- When you have placed your final point, right click to stop drawing.
-- If you don't want to draw another road, right click again to drop the road tool.
+- When you have placed your final point, **Right click** to stop drawing.
+- If you don't want to draw another road, **Right click** again to drop the road tool.
 
 ### Keeping Sections Straight
 
-A simple trick allows you to draw perfectly straight roads. By holding **SHIFT**, RapidPath will make sure that each control point is placed in a perfectly straight line.
+A simple trick allows you to draw perfectly straight roads. By holding **Shift**, RapidPath will make sure that each control point is placed in a perfectly straight line.
 
 ### Setting the Number of Lanes on the Carriageway
 
 There are two simple ways to add and remove lanes to roadways:
 
-1. Double click on the road to be altered to bring up the Quick Edit screen
+1. **Double click** on the road to be altered to bring up the Quick Edit screen
 2. Select the object and change the number of lanes from the Properties palette within the right pane.
 
 ![road properties lanes](./assets/Road_Properties_Lanes.png)

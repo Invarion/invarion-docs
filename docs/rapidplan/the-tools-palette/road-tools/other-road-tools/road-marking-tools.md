@@ -22,8 +22,8 @@ Next we select the lane marker tool and draw in the edge merge the line.
 - Select the **Lane Marker** tool.
 - Click once on your road where you want to start.
 - Move the mouse, clicking to place turn points as required.
-- When you are finished, right click to stop drawing.
-- Right click again to clear the cursor.
+- When you are finished, **Right click** to stop drawing.
+- **Right click** again to clear the cursor.
 
     ![Using_a_Lane_Marker](./assets/Using_a_Lane_Marker.png)
 
@@ -31,7 +31,7 @@ You can change the lane marker to any of the standard lane styles (Dashed, Solid
 
 **To change the properties of a lane marking:**
 
-- Double click on the lane marking
+- **Double click** on the lane marking
 - On its properties screen, make any required alterations to the type and color of the line
 - Click Ok to accept the changes
 
@@ -50,6 +50,6 @@ This tool also works like a polygon, with the first click forming the tip of the
 - Select the Chevron Flush Median tool from the Markings tab in the Tools Palette
 - Your first click will be the top point of the shape (in the direction of the chevron)
 - Then click for all other consecutive points
-- Right click to finish
+- **Right click** to finish
 
     ![Chevron_Flush_Median_tool](./assets/Chevron_Flush_Median_tool.png)

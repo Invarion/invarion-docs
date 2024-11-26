@@ -21,7 +21,7 @@ For example, in the image above, the first text object is selected. In its prope
 
 ![Sign Properties](./assets/Sign_Properties.png)
 
-To regroup the sign objects, simply select all of the objects by using a (click and drag) selection window. Then, right click and select **Group** in the Context Menu. You have now edited and created a new sign.
+To regroup the sign objects, simply select all of the objects by using a (click and drag) selection window. Then, **Right click** and select **Group** in the Context Menu. You have now edited and created a new sign.
 
 ![Grouped Sign](./assets/Grouped_Sign.png)
 

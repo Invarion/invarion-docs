@@ -11,7 +11,7 @@ To open the plan click on it in the [Main Menu](./invarion-cloud-and-its-layout.
 
 ![Open Plan](./assets/Openning_A_Plan.png)
 
-**Tip:** To open the plan in a separate tab or window, right click on **Open** and **Open in New Tab** or **Open in New Window**.
+**Tip:** To open the plan in a separate tab or window, **Right click** on **Open** and **Open in New Tab** or **Open in New Window**.
 
 ## Other Plan actions in the Invarion Cloud
 

@@ -11,7 +11,7 @@ In order to use the map as the plan's background so it is available when printin
 
 ## Importing Aerial Photos
 
-- Right click on the **print region** icon (the printer in the bottom left of the print region).
+- **Right click** on the **print region** icon (the printer in the bottom left of the print region).
 - Select Import Aerial Photos.
 - Then you can disable the base map preview with the **Toggle Base Map Visibility** icon in the toolbar so you are only working with the printable map(see below).
 
@@ -19,7 +19,7 @@ In order to use the map as the plan's background so it is available when printin
 
     ![Base_Map_Preview_turned_Off](./assets/Base_Map_Preview_turned_Off.png)
 
-    **Note**: Individual tiles can also be imported individually by right clicking on the area you want to import and selecting **Import Aerial Photo**.
+    **Note**: Individual tiles can also be imported individually by **Right clicking** on the area you want to import and selecting **Import Aerial Photo**.
 
 ## Importing Photos for a Custom Area of the Plan
 

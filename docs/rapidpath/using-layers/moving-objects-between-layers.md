@@ -14,7 +14,7 @@ The Send to Layer function allows you to move objects directly from one layer to
 **To use the Send to Layer function:**
 
 - Select the object or objects that you wish to move.
-- Right click on the object (or one of the objects if there are more than one) and select **Send to Layer**. A list of available layers will appear.
+- **Right click** on the object (or one of the objects if there are more than one) and select **Send to Layer**. A list of available layers will appear.
 - Select the layer that you wish to send the object(s) to.
 
 ![moving objects between layers](./assets/Moving_Object_between_Layers_by_Send_to_Layer_Function.png)
@@ -30,9 +30,9 @@ This method of shifting between layers is to simply cut or copy the desired obje
  1.Select the object(s) you wish to move.
  2.Cut or copy your selection:
 
-- To move, use **Edit** > **Cut** from the main menu (or press **CTRL + X**)
-- To copy, use **Edit** > **Copy** from the main menu (or press **CTRL + C**)
+- To move, use **Edit** > **Cut** from the main menu (or press **Ctrl + X**)
+- To copy, use **Edit** > **Copy** from the main menu (or press **Ctrl + C**)
  3.Move to the desired layer that you wish to paste the objects using the Layer Selector box.
  4.Paste your objects:
 
-- If you don't care where they are pasted on the page, either press **CTRL + V** or select **Edit** > **Paste** from the main menu.
+- If you don't care where they are pasted on the page, either press **Ctrl + V** or select **Edit** > **Paste** from the main menu.

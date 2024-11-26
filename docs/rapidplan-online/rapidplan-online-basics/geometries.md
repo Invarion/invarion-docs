@@ -32,7 +32,7 @@ Initially an object set to **Bezier** will be straight.
 
 Select the object, you will see control points are *Aqua* colored rather than the usual *Red*. Clicking and dragging these points will create **Tangent Points**.
 
-Two **Tangent Points** can exist for each control points. 
+Two **Tangent Points** can exist for each control points.
 Moving the Tangent Points will alter the shape of the curve - sharpening it if pulled closer to the control points, smoothing it if pulled further away.
 
-If you need to alter the location of a control points, hold **shift** to reveal the normal *Red* control points. This can be clicked and dragged to change its location.
+If you need to alter the location of a control points, hold **Shift** to reveal the normal *Red* control points. This can be clicked and dragged to change its location.
