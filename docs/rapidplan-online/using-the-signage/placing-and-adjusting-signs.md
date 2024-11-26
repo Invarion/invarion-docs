@@ -25,7 +25,7 @@ Once a sign is placed on the canvas area, there are a couple of ways you can adj
 
 **To Flip by 90 degree increments:**
 
-Right click on selected sign, go to Flip, then select Horizontally or Vertically.
+**Right click** on selected sign, go to Flip, then select Horizontally or Vertically.
 
 ## To Rotate freely
 

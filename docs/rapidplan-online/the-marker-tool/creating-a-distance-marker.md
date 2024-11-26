@@ -15,7 +15,7 @@ Irrespective of which distance marker you are using, the technique for creating 
 
 - Select your **Distance Marker** tool from the Markers tab in the Tools Palette;
 - Click once to start drawing the distance marker, click a second time to mark the end point;
-- Right click to finish.
+- **Right click** to finish.
 
 **Quick Tip:** It is helpful to hold **Shift** whilst drawing the distance marker to keep it straight.
 

@@ -82,7 +82,7 @@ In some regards, it is the "lazy man's" sign creation tool - but it is equally s
 **How to Save from the Context Menu:**
 
 - Ensure all of the elements of your sign are **grouped**.
-- Right click on the group and select **Save** from the context menu that appears.
+- **Right click** on the group and select **Save** from the context menu that appears.
 
  ![Saving_a_Sign_from_the_Context_Menu](./assets/Saving_a_Sign_from_the_Context_Menu.png)
 

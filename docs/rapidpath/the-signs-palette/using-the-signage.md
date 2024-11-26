@@ -32,7 +32,7 @@ right-click Rotate option, or **Ctrl + R**.
 
 ### To Rotate by set angle
 
-- Right click on the sign to reveal the context menu.
+- **Right click** on the sign to reveal the context menu.
 - Click on **Transform** >  **90 degrees**, **180 degrees**, **270 degrees** or **Rotate by custom value**
 
 ![Rotate_90_Degrees_Sign_from_Context_Menu](./assets/Rotate_90_Degrees_Sign_from_Context_Menu.png)

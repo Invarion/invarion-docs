@@ -22,8 +22,8 @@ All delineator lines start by default as Barrels with a size of 6 units and a sp
 - Select the Delineator from the Devices tab in the Tools Palette.
 - Click once where you wish to start drawing (don't hold).
 - Click at each corner for your line.
-- After you have placed the end point, right click to stop drawing.
-- Right click to clear the cursor.
+- After you have placed the end point, **Right click** to stop drawing.
+- **Right click** to clear the cursor.
 
     ![Delineator_Line](./assets/Delineator_Line.png)
 

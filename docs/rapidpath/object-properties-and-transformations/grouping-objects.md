@@ -24,13 +24,13 @@ There are two ways to group objects
 2.Using your mouse or keyboard:
 
 - Select the objects you want to group together (by pressing **Shift** and selecting each desired object individually or by dragging your mouse encompassing all of the desired objects).
-- Right click and select **Group objects** from context menu
+- **Right click** and select **Group objects** from context menu
 - Or hold **Ctrl + G**.
 
 ## To Ungroup a Group
 
 - Select the necessary group.
-- Either right click on the group and select **Ungroup Objects**, use the Ungroup icon in the toolbar or use the shortcut key **Ctrl + U**.
+- Either **Right click** on the group and select **Ungroup Objects**, use the Ungroup icon in the toolbar or use the shortcut key **Ctrl + U**.
 
 ![Ungroup_Objects_by_Right_Click](./assets/Ungroup_Objects_by_Right_Click.png)
 

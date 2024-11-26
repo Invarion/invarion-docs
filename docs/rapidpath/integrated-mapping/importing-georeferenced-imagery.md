@@ -43,7 +43,7 @@ Once you've selected the files, scroll up and click the **Next** button. In the 
 If you do want to edit or change the order of the georeferenced image:
 
 - Click the Georeferenced Images layer in the Layers Paletted, making it your active layer.
-- Right click on the imported image > Send to Layer.
+- **Right click** on the imported image > Send to Layer.
 - Either select an existing normal layer to send it to, or create a new one.
 - It can now be edited, moved and re-ordered as you require.
 

@@ -13,7 +13,7 @@ Among other use cases, vehicle path animation can be a valuable means of demonst
 
 Before recording, if desired, remember to [import aerial imaging](/rapidpath/integrated-mapping/accessing-integrated-mapping.md), so that it will appear in the exported animation.
 
-To begin recording, **right click** on the swept path, click **Vehicle Path**, and click **Animate Movement**.
+To begin recording, ****Right click**** on the swept path, click **Vehicle Path**, and click **Animate Movement**.
 
 The **Vehicle Animation** interface will appear as pictured below. You'll then set up the recording's parameters before exporting.
 

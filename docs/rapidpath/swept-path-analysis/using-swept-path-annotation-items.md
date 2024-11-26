@@ -53,7 +53,7 @@ Modifiable **Parameters** include:
 - **Range Factor** - How far the cloud extends (at max value of '1' by default).
 - **Units** - chosen unit of measurement.
 
-Note that a **Vehicle Predicted Movement Area** cloud can be generated from the vehicle itself (rather than by clicking on a drawn path). To do this, right click the vehicle, hover over **Vehicle** in the menu and select **Predicted Movement Area**.
+Note that a **Vehicle Predicted Movement Area** cloud can be generated from the vehicle itself (rather than by clicking on a drawn path). To do this, **Right click** the vehicle, hover over **Vehicle** in the menu and select **Predicted Movement Area**.
 
 ## Swept Path Width Markers
 

@@ -12,8 +12,8 @@ The technique for drawing with these tools varies from object to object. Many of
 - Select the tool from the corresponding tab in the Tools Palette.
 - Click to place the first control point.
 - Continue clicking until the necessary number of points are placed and the object is complete.
-- Right click to stop drawing.
-- Right click again to drop the tool.
+- **Right click** to stop drawing.
+- **Right click** again to drop the tool.
 
 ## Auto Aligning Lines and Shapes
 
@@ -88,7 +88,7 @@ There are three arc-based tools in RapidPath, the **Arc** tool, the **Pie Arc** 
 - Click once to set the radius of the arc.
 - The second click is where you draw your arc by moving the cursor in the direction of the arc.
 - Click to complete the object.
-- Right click to drop the tool.
+- **Right click** to drop the tool.
 
 You can also specify numeric values for the radius, start angle and end angle for the arc.
 

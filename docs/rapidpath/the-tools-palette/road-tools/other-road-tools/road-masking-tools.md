@@ -19,7 +19,7 @@ Sometimes, it may be necessary to remove a small section of a lane marking on a 
 - Click and hold the left mouse button on the marking, at the point you wish to start the mask
 - Move the mouse along the line to lay out the mask
 - On curves, you will need to click in turn points for your mask as it follows the road
-- Right click to finish
+- **Right click** to finish
 
     ![Lane_Masking_tool](./assets/Lane_Masking_tool.png)
 
@@ -34,7 +34,7 @@ This tool operates similar to the Lane Mask tool and removes sections of lane ma
 - Hover your cursor over **Markings** in the Tools palette.
 - Select the **Road Mask** tool.
 - Start using the tool as you would use the Polygon tool drawing a perimeter of the road mask enclosing all the lane markers you want.
-- Right click to finish.
+- **Right click** to finish.
 
     ![Road_Mask_tool](./assets/Road_Mask_tool.png)
 

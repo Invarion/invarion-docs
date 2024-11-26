@@ -27,7 +27,7 @@ Adding control points allows you to create extra turn points to your road, hence
 **To add a control point:**
 
 - Select the road by clicking on it once.
-- Right click where you want to add the control point, and select **Insert Control Point** from the context menu.
+- **Right click** where you want to add the control point, and select **Insert Control Point** from the context menu.
 
     ![Adding_a_Control_Point](./assets/Adding_a_Control_Point.png)
 
@@ -36,6 +36,6 @@ Removing control points is equally simple as adding them. You do need to remembe
 **To remove a control point:**
 
 - Select the road by clicking on it.
-- Right click on the desired control point and select **Remove Control Point** from the context menu.
+- **Right click** on the desired control point and select **Remove Control Point** from the context menu.
 
     ![Removing_a_Control_Point](./assets/Removing_a_Control_Point.png)

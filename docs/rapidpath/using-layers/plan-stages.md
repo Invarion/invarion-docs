@@ -39,7 +39,7 @@ The following images show the two stages (daytime and nighttime)
 
 ## Printing or Exporting Stages
 
-Printing or exporting your plan stages is made a lot easier with the quick access right click menu. Simply right click to open the menu and then either select Print or Export all regions.
+Printing or exporting your plan stages is made a lot easier with the quick access **Right click** menu. Simply **Right click** to open the menu and then either select Print or Export all regions.
 
 ![canvas print menu](./assets/Canvas_Print_Menu.png)
 

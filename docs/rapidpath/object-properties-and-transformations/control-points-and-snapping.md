@@ -25,11 +25,11 @@ This technique is especially helpful when drawing straight roadways.
 
 ## Adding/Deleting a Control Point
 
-You can add a control point to an object, for example if you want to add a curve to a train track, by selecting the object, right clicking and selecting **Insert Control Point**.
+You can add a control point to an object, for example if you want to add a curve to a train track, by selecting the object, **Right clicking** and selecting **Insert Control Point**.
 
 **Note:** This option will only appear for objects that can utilize extra control points.
 
-Similarly, you can remove control points by selecting the object, right clicking and selecting **Remove Control Point**.
+Similarly, you can remove control points by selecting the object, **Right clicking** and selecting **Remove Control Point**.
 
 ## Control Point Snapping
 
@@ -77,7 +77,7 @@ Simply click and drag to your desired offset, or type your desired offset value 
 
 ![Create_offset](./assets/Create_offset.png)
 
-Once the offset has been created, right click to save your changes.
+Once the offset has been created, **Right click** to save your changes.
 
 ## Tangent Points (Bezier Geometry)
 

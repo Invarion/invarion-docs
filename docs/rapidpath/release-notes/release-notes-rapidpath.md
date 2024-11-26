@@ -150,7 +150,7 @@ A dockable panel listing all Print Regions on the current plan allows accessing,
 
 ![plan location tools](./assets/133034891694724289-planLocationTools.png)
 
-Right click on any location while drawing a base map plan and use the location coordinates to look it up in a number of external services including Google Maps and Street View.
+**Right click** on any location while drawing a base map plan and use the location coordinates to look it up in a number of external services including Google Maps and Street View.
 
 ### More changes
 
@@ -396,7 +396,7 @@ Ever lost work because you accidentally closed a plan without saving it? Use Fil
 
 **Drag group by control point** - with an objects group selected, press the Alt key to highlight the grouped objects' snapable control points. You can now use them to move the whole object and snap to other points on the plan.
 
-**Quick-adjust intersection masks** - right click on an intersection object, select Edit intersection elements -> Show mask offset handles. The intersection gets decorated with points you can drag in order to mask out default markings to the desired distance along incoming roads.
+**Quick-adjust intersection masks** - **Right click** on an intersection object, select Edit intersection elements -> Show mask offset handles. The intersection gets decorated with points you can drag in order to mask out default markings to the desired distance along incoming roads.
 
 **Default aerial tiles provider setting** - you can now set the default aerials import tile provider independently of the default base map provider. This is useful if you normally use cartograpic maps as your plan canvas background, but import tiles from a satellite imagery provider.
 
@@ -416,7 +416,7 @@ Ever lost work because you accidentally closed a plan without saving it? Use Fil
 
 ![Advanced Geometry Drawing](./assets/132059304203892127-GeometrySnapping.png)
 
-Snap to an existing geometry when drawing an object and RapidPath will automatically create control points to fit the desired curve. Use the Offset Geometry tool to further adjust object position. Drawing delineators, lane markings, work zones along road and lane edges becomes easier than ever. NOTE: use F3 to quickly toggle snapping on/off or right click the toolbar button to individually toggle snapping to points and/or geometries.
+Snap to an existing geometry when drawing an object and RapidPath will automatically create control points to fit the desired curve. Use the Offset Geometry tool to further adjust object position. Drawing delineators, lane markings, work zones along road and lane edges becomes easier than ever. NOTE: use F3 to quickly toggle snapping on/off or **Right click** the toolbar button to individually toggle snapping to points and/or geometries.
 
 ### Snap to Bounds
 

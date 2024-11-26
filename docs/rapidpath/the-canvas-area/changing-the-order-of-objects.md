@@ -16,7 +16,7 @@ Ordering is a very important concept to understand because inevitably during the
 **To change the order of objects on the canvas with the mouse:**
 
 - Select the item that you wish to alter the order of.
-- Once it is selected, right click on the object.
+- Once it is selected, **Right click** on the object.
 - Select **Arrange** >
   - **Bring to front** - on top
   - **Bring forward** - one step forward

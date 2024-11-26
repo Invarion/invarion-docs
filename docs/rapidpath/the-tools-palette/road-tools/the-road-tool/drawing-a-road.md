@@ -20,8 +20,8 @@ Drawing using the road tool is very simple. As you move the mouse after you have
 - Select the **Road** from the Tools palette.
 - Move your mouse to the canvas and click once to start drawing your road.
 - Move the mouse around the canvas, clicking at each turning point.
-- When you have placed your final point, right click to stop drawing.
-- If you don't want to draw another road, right click again to drop the road tool.
+- When you have placed your final point, **Right click** to stop drawing.
+- If you don't want to draw another road, **Right click** again to drop the road tool.
 
 ### Keeping Sections Straight
 

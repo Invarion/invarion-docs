@@ -117,6 +117,7 @@ Generally this shouldn't happen and ought to be avoided, but if there is a case 
 |**Control**| **Ctrl** |
 |**Escape**|**Esc**|
 |**Spacebar**| **Spacebar**|
+|**Left and Right click|**Left click** & **Right click**|
 |Any other key | Predictably: **[that key]** (eg. '**Alt**', '**X**', '**Shift**', '**2**', '**Enter**', etc.)|
 |Click paths | Bold, 'more than' symbols ('>') between each step, a space between words and the '>'.<br /> Capitalise as if a top tier heading (see above).<br />Single quotation marks used if something needs to be clicked that isn't a standard sounding button/step in the path: <br />Eg: '**Tools > Preferences > go to 'Export/Import Settings' > Export**'.|
 |Key combinations| When keys are pressed at the same time.<br />In bold, plus (+) symbol between each button, spaces around the plus symbol.<br />Eg. '**Ctrl + Z**'.|

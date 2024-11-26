@@ -21,4 +21,4 @@ Adding labelled Pages to your Scratchpad is valuable to categorise and organise 
 Initially your Scratchpad will have one page. If you would like to **add a new Page**: Simply click the 3 dots button in the palette's heading bar, and click **Add New Page**.
 Note that Pages can also be **Renamed** or **Deleted** your current page from this menu.
 
-The **Page** you currently have open will be the **Page** an item saved to your **Scratchpad** will go into. **Pages** can be *renamed* or *deleted* by clicking the button marked with 3 dots next to that page and clicking **Delete** or **Rename Page**. Individual **Scratchpad** items can be moved to different folders or deleted by right clicking on them and following prompts.
+The **Page** you currently have open will be the **Page** an item saved to your **Scratchpad** will go into. **Pages** can be *renamed* or *deleted* by clicking the button marked with 3 dots next to that page and clicking **Delete** or **Rename Page**. Individual **Scratchpad** items can be moved to different folders or deleted by **Right clicking** on them and following prompts.

@@ -71,7 +71,7 @@ In the Sign Editor you can save your sign and variations to your computer by sel
 
 **Note**: Toggle Fax and Sign Codes modes from the Options toolbar to see your completed sign with all the variations we've created.
 
-## A Faster Way to Save Signs (Right Click > Save)
+## A Faster Way to Save Signs (Right click > Save)
 
 RapidPath has a much faster and easier way to save signs when you don't need to save and edit different variations.
 
@@ -82,7 +82,7 @@ In some regards, it is the "lazy man's" sign creation tool - but it is equally s
 **How to Save from the Context Menu:**
 
 - Ensure all of the elements of your sign are **grouped**.
-- Right click on the group and select **Save** from the context menu that appears.
+- **Right click** on the group and select **Save** from the context menu that appears.
 
  ![Saving_a_Sign_from_the_Context_Menu](./assets/Saving_a_Sign_from_the_Context_Menu.png)
 
