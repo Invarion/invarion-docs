@@ -53,7 +53,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
 
  5. **Zones** - This includes a work area zone and a safety zone.
 
-    *The section [The Marker Tools](/docs/rapidpath/the-tools-palette/the-marker-tools/the-work-area-and-safety-zone-tools.md) covers this tool set*
+    *The section [Work and Safety Zone Tools](/docs/rapidpath/the-tools-palette/the-marker-tools/the-work-area-and-safety-zone-tools.md) covers this tool set*
 
     |Zones                                                |                       |                                                           |                     |
     |:---------------------------------------------------:|-----------------------|:---------------------------------------------------------:|---------------------|
@@ -82,7 +82,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
 
  8. **Lines** - This displays various line shapes that can be used.
 
-    *The section [The Basic Tools](/docs/rapidpath/the-tools-palette/shape-and-line-tools/line-and-shape-tools.md) covers this tool set*
+    *The section [Shape and line Tools](./shape-and-line-tools/line-and-shape-tools.md) covers this tool set*
 
     |Lines                                                |                       |                                                           |                     |
     |:---------------------------------------------------:|-----------------------|:---------------------------------------------------------:|---------------------|
@@ -104,7 +104,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
 
  10. **Text** - These text options can allow you to add a text box, name roads, hyperlinks and create signs.
 
-     *The section [The Basic Tools](./text-tools/the-text-tools.md) covers this tool set*
+     *The section [Text Tools](./text-tools/the-text-tools.md) covers this tool set*
 
      |                     Text                      |             |                                              |            |
      | :-------------------------------------------: | ----------- | :------------------------------------------: | ---------- |
