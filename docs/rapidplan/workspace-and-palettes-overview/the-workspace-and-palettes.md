@@ -17,17 +17,15 @@ There are three main components of the RapidPlan workspace:
 
 Organizing your workspace is simple as each of the items that sit on the canvas can be moved around. Generally, your screen will be laid out similar to as is shown below.
 
-![workspace](./assets/Components_of_the_Workspace.png)
-
-## The Canvas
-
-The canvas is the section of the screen where you will actually create your traffic plan. The RapidPlan canvas is both versatile and powerful, and it has many features which will assist you in your plan creation. We have dedicated the entire next section to the canvas and its features.
+![workspace](./assets/overview.png)
 
 ## The Toolbar
 
 The toolbar houses most of the "plan-wide" tools that you will use for your plan such as the flip tools, zoom tools, and various special mode options.
 
-![toolbar](./assets/The_Toolbar.png)
+![toolbar](./assets/toolbar-unmarked.png)
+
+For full details on the toolbar please see [this section](/docs/rapidplan/the-toolbar/the-toolbar.md)
 
 ## The Palettes
 
@@ -48,7 +46,7 @@ Further details can be found [here](/docs/rapidplan/the-signs-palette/)
 ### The Properties Palette
 
 The Properties palette displays all the information pertaining to any selected signs, tools, markers or objects that is currently selected. This is where you can change fonts, colors, lane markers, etc. of the selected feature.
-If no object is selected on [the canvas](./the-canvas.md) at the time, the Properties Palette will display information about the plan itself.
+If no object is selected on the canvas at the time, the Properties Palette will display information about the plan itself.
 
 ![properties palette](./assets/The_Properties_Palette.png)
 
@@ -72,11 +70,11 @@ For full details on the Scratch Pad please see [this page](./the-scratch-pad.md)
 
 Further details can be found [here](/docs/rapidplan/scratchpad/the-scratch-pad.md)
 
-## The Canvas
+## The Canvas Area
 
 The Canvas area is the central area in which plans are created.
 
-For details on how to navigate, manage and export the canvas area, click [here](/docs/rapidplan/the-canvas-area/).
+For details on how to navigate, manage and export the canvas area, click [here](/docs/rapidplan/the-canvas-area/canvas-navigation.md).
 
 For details on how to manipulate objects on the canvas, click [here](/docs/rapidplan/object-properties-and-transformations/).
 
