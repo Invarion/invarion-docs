@@ -5,7 +5,7 @@ sidebar_position: 7.1
 ---
 # Setting Custom Scale and Rotation Points
 
-[Resizing](./resizing-objects.md) and [rotating](./rotating-objects.md) objects can be enhanced by changing the point they scale from or rotate around.
+[Resizing](./resizing-objects.md) and [rotating](./moving-flipping-and-rotating-objects.md) objects can be enhanced by changing the point they scale from or rotate around.
 
 ## Changing the scale point
 

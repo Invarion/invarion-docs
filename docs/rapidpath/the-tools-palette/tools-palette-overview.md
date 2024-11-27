@@ -43,9 +43,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |![lane status icon](./assets/Lane_status_icon.png)  | Lane status |![lums board icon](./assets/LUMS_board_icon.png)               | LUMS board          |
     |![mms icon](./assets/MMS_icon.png)          |Multi message sign   | ||
 
- 4. **Markings** - This displays various lane markings.
-
-    *The section Other Road Tools[Other Road Tools](/docs/rapidpath/the-tools-palette/road-tools/other-road-tools/road-marking-tools.md) covers this tool set*
+ 4. **Markings** - This displays various [Other Road Tools](/docs/rapidpath/the-tools-palette/road-tools/other-road-tools/road-marking-tools.md) covers this tool set*
 
     |Markings                                                |                       |                                                           |                     |
     |:-----------------------------------------------------:|-----------------------|:---------------------------------------------------------:|---------------------|
