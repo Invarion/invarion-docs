@@ -1,8 +1,8 @@
 # Release Notes
 
-## RapidPlan 4.0 (pre-release)
+## RapidPlan 4.0
 
-*NOTE: RapidPlan 4.0 is currently available as pre-release for customers on the Weekly updates channel. It will be officially released in the upcoming weeks. Integration with Invarion Cloud will be gradually made available for users based on their company size and region.*
+<iframe width="560" height="315" src="https://youtu.be/hHBbLazCEZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Invarion Cloud Integration
 
@@ -10,7 +10,10 @@ RapidPlan 4.0 is integrated with Invarion Cloud, allowing users to:
 
 * Store their traffic management plans on the Invarion Cloud instead of local files
 * Use Invarion Cloud's collaboration features: share plans with other users, add comments.
-* Users who have licenses for RapidPlan and RapidOnline will be able to open the same plans in both applications.
+* Users who have licenses for RapidPlan and RapidPlanOnline will be able to open the same plans in both applications.
+* You can also share your plans with users who don't have a RapidPlan license - they will still be able to open them in read-only mode and add comments.
+
+*NOTE: In the weeks following RapidPlan 4.0 official release, integration with Invarion Cloud will be gradually made available for users based on their company size and region.*
 
 ## RapidPlan 3.11
 
