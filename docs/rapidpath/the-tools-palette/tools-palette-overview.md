@@ -104,7 +104,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
 
  10. **Text** - These text options can allow you to add a text box, name roads, hyperlinks and create signs.
 
-     *The section [The Basic Tools](/docs/rapidpath/the-tools-palette/shape-and-line-tools/line-and-shape-tools.md) covers this tool set*
+     *The section [The Basic Tools](./text-tools/the-text-tools.md) covers this tool set*
 
      |                     Text                      |             |                                              |            |
      | :-------------------------------------------: | ----------- | :------------------------------------------: | ---------- |
@@ -112,6 +112,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
      |  ![text pair](./assets/Text_pair_icon.png)  | Text pair   | ![arrow text](./assets/Arrow_text_icon.png) | Arrow text |
      | ![callout box](./assets/Callout_box_icon.png) | Callout box | ![path text](./assets/Path_text_icon.png)  | Path text  |
      |    ![text table](./assets/Text_Table.png)    | Text table  |    ![hyperlink](./assets/Hyperlink.png)    | Hyperlink  |
+     |![rich text](./assets/rich-text-icon.png)|Rich Text|||
 
  11. **Image** - This allows you to open an image from your computer to your plan.
 

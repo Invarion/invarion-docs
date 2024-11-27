@@ -45,7 +45,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
 
  4. **Markings** - This displays various lane markings.
 
-    *The section Other Road Tools [Other Road Tools](/docs/rapidplan/the-tools-palette/road-tools/other-road-tools/road-marking-tools.md) covers this tool set*
+    *The section [Other Road Tools](/docs/rapidplan/the-tools-palette/road-tools/other-road-tools/road-marking-tools.md) covers this tool set*
 
     |Markings                                                |                       |                                                           |                     |
     |:-----------------------------------------------------:|-----------------------|:---------------------------------------------------------:|---------------------|

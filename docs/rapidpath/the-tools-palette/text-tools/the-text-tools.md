@@ -17,7 +17,7 @@ This tool creates an **object** out of text that can be manipulated like any oth
 - If you wish to change the text content, font style, size or color, or to center the text, click the Text tab in properties and make any necessary adjustments.
 - If you wish to paint the background of the text box, click the Box tab in properties and make your adjustments.
 
-    ![Text_Object_and_Properties](./assets/Text_Object_and_Properties.png)
+    ![Text_Object_and_Properties](./assets/text-tool-w-hover.png)
 
 ## The Text Box Tool
 
