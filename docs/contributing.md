@@ -74,23 +74,30 @@ Use markdown lint plugin that is available in your IDE to check the style of the
 
 ### Images
 
+Image markup is to be done in the program **Share X**.
+Once you have Share X, screen shots/captures will automatically appear in its library, markup (text, selection boxes and arrows) can be applied by going into Edit mode (**Ctrl + E** or **right-click + Edit**).
+
 **Selection Box style:**
 
 Used to bring attention to a particular area/s of an image.
 
-- Rounded rectangle tool.
-- Red outline, transparent fill.
-- Stroke width: 4.5.
-- Corner radius: 5.
+- Default **Rectangle** tool in Share X.
+- Transparent fill.
+- Red outline, hex colour code **FF0000**.
 
 **Arrows:**
 
 Used to draw attention to a particular point in an object, or perhaps something smaller in an image.
 
-Use smaller, red arrows.
+Use default **Arrow** tool, with hex colour code **FF0000** (red).
 
-**Text:** Black (unless it can't be seen easily, then red), no text boxes/background, Arial font.
-Keep text size very readable, but on the smaller side. Only increasing its size if required for the text to be noticeable in the scene.
+**Text:** Use the "**Text (Outline)**" tool.
+
+- Black fill and no outline wherever possible (set outline to transparent)
+  - In exceptional cases where text can't be read, use red font.
+- No text boxes/background.
+- Arial font, size 25.
+  - Keep text size very readable, but on the smaller side. Only increasing its size if required for the text to be noticeable in the scene.
 
 ### Headings
 
