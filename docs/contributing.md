@@ -74,23 +74,47 @@ Use markdown lint plugin that is available in your IDE to check the style of the
 
 ### Images
 
+**Image Size**
+
+Image size is to be altered in order to keep its proportions in comparison to text readable.
+
+Image size is easily altered using Windows' native **Photos** program:
+
+- [If the image is already in VS Code] find it in VS Code's file tree > **right-click** > **Reveal in File Explorer**.
+- Copy the path of the folder that opens as you'll need it in a moment. Then **double-click** the image, which should by default open the image in **Photos**.
+- At the top of the screen click the **3 dots** > **Resize Image** > set the image's width in terms of pixels > click **OK**.
+- It will ask for a save location & name -- **Paste** the file address you copied earlier in the *Address Bar* > save the file with the same name as it had before, replacing the original.
+
+|Image type         | Preferred image size    |
+|----------------|-----------------------------|
+|Larger, full screenshot image|Horizontal: 930 pixels|
+|View of a single palette in default narrow layout|Horizontal: 330 pixels|
+|Full screen shot minus one of one side's palettes (typically cutting off some height)| Horizontal: 700 pixels|
+
+Image markup is to be done in the program **Share X**.
+Once you have Share X, screen shots/captures will automatically appear in its library, markup (text, selection boxes and arrows) can be applied by going into Edit mode (**Ctrl + E** or **right-click + Edit**).
+
 **Selection Box style:**
 
 Used to bring attention to a particular area/s of an image.
 
-- Rounded rectangle tool.
-- Red outline, transparent fill.
-- Stroke width: 4.5.
-- Corner radius: 5.
+- Default **Rectangle** tool in Share X.
+- Transparent fill.
+- Red outline, hex colour code **FF0000**.
 
 **Arrows:**
 
 Used to draw attention to a particular point in an object, or perhaps something smaller in an image.
 
-Use smaller, red arrows.
+Use default **Arrow** tool, with hex colour code **FF0000** (red).
 
-**Text:** Black (unless it can't be seen easily, then red), no text boxes/background, Arial font.
-Keep text size very readable, but on the smaller side. Only increasing its size if required for the text to be noticeable in the scene.
+**Text:** Use the "**Text (Outline)**" tool.
+
+- Black fill and no outline wherever possible (set outline to transparent)
+  - In exceptional cases where text can't be read, use red font.
+- No text boxes/background.
+- Arial font, size 25.
+  - Keep text size very readable, but on the smaller side. Only increasing its size if required for the text to be noticeable in the scene.
 
 ### Headings
 
