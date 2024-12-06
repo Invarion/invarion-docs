@@ -9,7 +9,7 @@ DroneDeploy is a powerful platform for colating and arranging drone-recorded ima
 
 ## Adding DroneDeploy as a basemap provider
 
-To start using DroneDeploy as a basemap provider in RapidPath, please ensure you have a current DroneDeploy subscription. An account can be created at <https://dronedeploy.com/>.
+To start using DroneDeploy as a basemap provider in RapidPath, please ensure you have a current DroneDeploy subscription. An account can be created at [https://dronedeploy.com/](https://dronedeploy.com/).
 
 There are two ways to integrate DroneDeploy with RapidPath: Organization and Single project, each option will be discussed below.
 
@@ -85,4 +85,4 @@ Then navigate to where the DroneDeploy imagery is located if not already centere
 
 Imported DroneDeploy imagery will be placed in the Aerial Photos layer.
 
-![project in rapidpath](./assets/11-dronedeploy-in-rapidpath.png)
+![project in rapidpath](./assets/11-dronedeploy-in-rapidplan.png)

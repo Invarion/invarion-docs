@@ -9,7 +9,7 @@ DroneDeploy is a powerful platform for colating and arranging drone-recorded ima
 
 ## Adding DroneDeploy as a basemap provider
 
-To start using DroneDeploy as a basemap provider in RapidPlan, please ensure you have a current DroneDeploy subscription. An account can be created at <https://dronedeploy.com/>.
+To start using DroneDeploy as a basemap provider in RapidPlan, please ensure you have a current DroneDeploy subscription. An account can be created at [https://dronedeploy.com/](https://dronedeploy.com/).
 
 There are two ways to integrate DroneDeploy with RapidPlan: Organization and Single project, each option will be discussed below.
 
