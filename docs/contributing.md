@@ -74,6 +74,13 @@ Use markdown lint plugin that is available in your IDE to check the style of the
 
 ### Images
 
+**Image Size**
+
+|Image type         | Preferred image size    |
+|----------------|-----------------------------|
+|Larger, full screenshot image|Horizontal: 930 pixels|
+|View of a single palette in default layout|Horizontal: 300 pixels|
+
 Image markup is to be done in the program **Share X**.
 Once you have Share X, screen shots/captures will automatically appear in its library, markup (text, selection boxes and arrows) can be applied by going into Edit mode (**Ctrl + E** or **right-click + Edit**).
 
