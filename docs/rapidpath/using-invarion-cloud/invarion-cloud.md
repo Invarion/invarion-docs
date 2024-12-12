@@ -57,26 +57,28 @@ The Invarion Cloud screen will display in a new tab within RapidPath, as seen be
 
 A file tree is visible on the left side of the Invarion Cloud page:
 
-- The **Home** page of the Invarion Cloud (picture above) features a staggered list of recently used plans, the most recently used being featured in *Quick Access*.
-- Plans can be saved as favorites by clicking the 3 dots button next to them > **Add to Favorites**, thereby including them in the plans that will be shown by clicking into the **Favorites** section.
-- **Plans** lists all plans and user-created sub-folders.
-- **All Plans** puts sub-folders aside, listing all plans in a single list.
-- **Plans Shared with Me** lists plans created by another user, who has listed you as a *Collaborating User*, granting you edit permissions.
-- **Trash** keeps deleted plans for 30 days before permanent it is emptied (contents being permanently deleted). It can be emptied immediately by clicking '**Empty Trash Now**'.
+|**File Tree Heading**|**Details**|
+|-|-|
+|**Home**| As picture above, the home page of the Invarion Cloud features a staggered list of recently used plans, the most recently used being featured in *Quick Access* at the top.|
+|**Favorites**| Lists plans saved as favorites by clicking the 3 dots button next to them > *Add to Favorites*.|
+|**Plans**| Lists all plans and user-created sub-folders.|
+|**All Plans**| Puts sub-folders aside, listing all plans in a single list.|
+|**Plans Shared with Me**| Lists plans created by another user, who has listed you as a *Collaborating User*, granting edit permissions.|
+|**Trash**| Holds deleted plans for 30 days before it is emptied (contents being permanently deleted).<br />It can be emptied immediately by clicking '**Empty Trash Now**'.|
 
 ## Managing and Altering Plans in the Invarion Cloud
 
 Each cloud plan can be altered using its drop-down **Context Menu**, or using the **Details Side Panel**.
 
-The **Context Menu** is a more efficient means to make changes to the plan. <br />The **Details Side Panel** will provide some information about the plan along with controls.
+The **Context Menu** is a slightly more efficient means to make changes to the plan. <br />The **Details Side Panel** will provide some information about the plan along with controls.
 
 ### Plan Context Menu
 
-clicking the **3 dot button** of a plan will reveal the *Context Menu* menu:
+clicking the **3 dot button** of a plan will reveal the **Context Menu** menu:
 
 ![context menu](./assets/ic-home-plan-context-menu.jpg)
 
-|**Button**|**Effect**|
+|**Button**|**Details**|
 |-|-|
 |**Rename**|Opens a dialog box to rename the plan.|
 |**Delete**|Deletes the plan, moving it to *Trash*.|
@@ -84,8 +86,8 @@ clicking the **3 dot button** of a plan will reveal the *Context Menu* menu:
 |**Move**|Moves the plan from one folder to another.|
 |**History**|Opens a *History* dialog window, allowing you to *Restore* a plan to a prior version, or to *Create a Copy* of a chosen historic version of the plan.|
 |**Download**|Download a copy of the plan, saving it locally as a '.tcp' file.|
-|**Share**|Share a plan, either via a read only link, or invite another user to contribute to the plan (granting editing permissions)|
-|**Add to Favorites**|Add a plan to the *Favourites* folder in the file tree.|
+|**Share**|Opens the [Plan Sharing Dialog Box]().|
+|**Add to Favorites**|Add a plan to the *Favorites* folder in the *file tree*.|
 
 ### Plan Details Side Panel
 
@@ -105,10 +107,14 @@ To access a plan's **Plan Details Side Panel**, simply **click its preview image
 |**'Public Link'**|If a sharable link has been created; it can be *Copied* to or *Deleted* here.<br />If a link hasn't been created, 'Create share link' can be clicked here.|
 |**'Collaborators'**|Displays a list of other users who you have invited *directly* to have editing permissions on this plan.|
 |**Open** button|Open the plan.|
-|**Move** button|Change the folder that the plan is currently saved in.|
+|**Move** button|Moves the plan from one folder to another.|
 |**Share** button|Opens the *Sharing* dialog box.|
-|**Delete** button|Delete the plan, moving it to the *Trash* folder.<br />(Where it will be deleted in 30 days)|
+|**Delete** button|Deletes the plan, moving it to *Trash*.|
 
-## Reviewing and Organising Cloud Plans
+# Sharing Cloud Plans
 
-## Sharing Cloud Plans
+The integrated Invarion Cloud system allows for seemless sharing of plans: Either between users in order to review, comment and make changes. Or to share a view-only copy of the plan with non-contributing stakeholders.
+
+To share a plan you will first need to open the Plan Sharing Dialog Box
+
+##
