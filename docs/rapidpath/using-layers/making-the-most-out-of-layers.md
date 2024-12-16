@@ -3,15 +3,15 @@
 sidebar_position: 4
 
 ---
-# Making the Most out of Layers
+# Making the Most Out of Layers
 
 Users who master using layers will find themselves considerably more productive than those who do not. As described earlier, the main (but not sole) advantage offered by layers is the ability to produce multiple plans on the same road base map, but more experienced users will figure out more productive ways to utilize layer functionality.
 
-## General Guidelines when using Layers
+## General Guidelines When Using Layers
 
 Here are a few general guidelines that will help you make the most out of the layer functions.
 
-### Always keep your Roadway the Background
+### Always Keep Your Roadway the Background
 
 Keeping your road on the background is almost always the most sensible place. Reordering layers in RapidPath is possible as described above, but keeping your roads on the background will be easiest since whichever layer is listed at the top of the list will always be drawn on the canvas first - all other items on following layers are drawn in subsequent order. This means that unless you want your signs and devices to appear under the road, it should be on the bottom layer.
 

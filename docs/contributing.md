@@ -71,3 +71,97 @@ Name of folder is used as a label, however, it can be overridden by the label pr
 
 The project uses Markdown lint to enforce a consistent style across the documentation. The rules are defined in the `.markdownlint-cli2.jsonc` file.
 Use markdown lint plugin that is available in your IDE to check the style of the document. Fix all yellow and red warnings before creating a pull request.
+
+### Images
+
+**Image Size**
+
+Image size is to be altered in order to keep its proportions in comparison to text readable.
+
+Image size is easily altered using Windows' native **Photos** program:
+
+- [If the image is already in VS Code] find it in VS Code's file tree > **right-click** > **Reveal in File Explorer**.
+- Copy the path of the folder that opens as you'll need it in a moment. Then **double-click** the image, which should by default open the image in **Photos**.
+- At the top of the screen click the **3 dots** > **Resize Image** > set the image's width in terms of pixels > click **OK**.
+- It will ask for a save location & name -- **Paste** the file address you copied earlier in the *Address Bar* > save the file with the same name as it had before, replacing the original.
+
+|Image type         | Preferred image size    |
+|----------------|-----------------------------|
+|Larger, full screenshot image|Horizontal: 930 pixels|
+|View of a single palette in default narrow layout|Horizontal: 330 pixels|
+|Full screen shot minus one of one side's palettes (typically cutting off some height)| Horizontal: 700 pixels|
+
+Image markup is to be done in the program **Share X**.
+Once you have Share X, screen shots/captures will automatically appear in its library, markup (text, selection boxes and arrows) can be applied by going into Edit mode (**Ctrl + E** or **right-click + Edit**).
+
+**Selection Box style:**
+
+Used to bring attention to a particular area/s of an image.
+
+- Default **Rectangle** tool in Share X.
+- Transparent fill.
+- Red outline, hex colour code **FF0000**.
+
+**Arrows:**
+
+Used to draw attention to a particular point in an object, or perhaps something smaller in an image.
+
+Use default **Arrow** tool, with hex colour code **FF0000** (red).
+
+**Text:** Use the "**Text (Outline)**" tool.
+
+- Black fill and no outline wherever possible (set outline to transparent)
+  - In exceptional cases where text can't be read, use red font.
+- No text boxes/background.
+- Arial font, size 25.
+  - Keep text size very readable, but on the smaller side. Only increasing its size if required for the text to be noticeable in the scene.
+
+### Headings
+
+Try to keep headings succinct and in simple language. Often it is best for the heading to simply be the thing the section will be explaining.
+
+There are three main tiers of heading:
+
+'#' is the largest, only used at the start of a file.
+'##' are mid and related to the primary topics of the file, falling within the purview of the file's primary heading/title.
+'###' for headings subordinate to '##' headings.
+
+Generally this shouldn't happen and ought to be avoided, but if there is a case for a fourth tier of heading, these can be represented using **bold** lettering.
+
+**Capitalisation in headings**
+
+'#' and '##' tier headings have all words capitalised that aren't little conjunction/definite article words (like 'as', 'and, 'in', 'a', 'the' etc.), unless the little word is at the start of the sentence.
+
+'###' and (if necessary) 'four tier **bold**' headings are made up of words in lower case, unless they start the sentence or are the name of a product/feature ('Scratchpad' etc.).
+
+### Referring to buttons
+
+|The button         |                                                                 How to refer to it (including the use of bold)    |
+|----------------|----------------------------------------------------------------------|
+|**Control**| **Ctrl** |
+|**Escape**|**Esc**|
+|**Spacebar**| **Spacebar**|
+|**Left, Double and Right click|**Left click**, **Double click** & **Right click**|
+|Any other key | Predictably: **[that key]** (eg. '**Alt**', '**X**', '**Shift**', '**2**', '**Enter**', etc.)|
+|Click paths | Bold, 'more than' symbols ('>') between each step, a space between words and the '>'.<br /> Capitalise as if a top tier heading (see above).<br />Single quotation marks used if something needs to be clicked that isn't a standard sounding button/step in the path: <br />Eg: '**Tools > Preferences > go to 'Export/Import Settings' > Export**'.|
+|Key combinations| When keys are pressed at the same time.<br />In bold, plus (+) symbol between each button, spaces around the plus symbol.<br />Eg. '**Ctrl + Z**'.|
+
+### Other uses of Bold
+
+Drawing attention to a topic/feature that is key to that or a coming section.
+
+### Italics
+
+Used sparingly, as you would normally use italics:
+
+- Drawing attention to something that doesn't fit the description of Bold use cases.
+- To add emphasis.
+
+### Capitalisation in body
+
+### Markdown Lint rules not currently observed/obeyed
+
+(As seen when VS Code add-on 'markdownlint' is enabled)
+
+- MD036/'no emphasis as heading': Not observed currently as a fourth tier of heading proves useful and it hasn't broken anything.
+- MD024/'no duplicate headings': I believe this rule is only broken in the Release Notes sections, as headings like 'More changes' connotate the beginning of more minor changes for that release period.

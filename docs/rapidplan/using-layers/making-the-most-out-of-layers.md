@@ -7,11 +7,11 @@ sidebar_position: 4
 
 Users who master using layers will find themselves considerably more productive than those who do not. As described earlier, the main (but not sole) advantage offered by layers is the ability to produce multiple plans on the same road base map, but more experienced users will figure out more productive ways to utilize layer functionality.
 
-## General guidelines when using Layers
+## General Guidelines When Using Layers
 
 Here are a few general guidelines that will help you make the most out of the layer functions.
 
-### Always keep your Roadway in the Background
+### Always Keep Your Roadway the Background
 
 Keeping your road on the background is almost always the most sensible place. Reordering layers in RapidPlan is possible as described above, but keeping your roads on the background will be easiest since whichever layer is listed at the top of the list will always be drawn on the canvas first - all other items on following layers are drawn in subsequent order. This means that unless you want your signs and devices to appear under the road, it should be on the bottom layer.
 
@@ -26,7 +26,7 @@ you can't accidentally change, move or even select an object on another layer. T
 
 It also means that if you decide you really aren't happy with the traffic guidance scheme (or need to completely change it because of feedback from a road body) you can simply wipe the traffic guidance scheme layer in a single button stroke, rather than individually pick through and delete each item one by one.
 
-### For Multi-Stage works, keep each Scheme in the same File
+### For Multi-Stage Works, keep each Scheme in the same File
 
 The benefits of this are obvious; one file with each stage of the works neatly packaged in a single place.
 

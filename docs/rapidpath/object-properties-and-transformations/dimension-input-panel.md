@@ -6,6 +6,7 @@ sidebar_position: 6.1
 # The Dimensions Input Panel
 
 The Dimensions Input Panel tool allows you to:
+
 - **Distance [D]**: Place a control point an exact distance from the last.
 - **Angle [A]**: Place a control point at an absolute angle, or at a chosen angle compared to the last two points.
 - **Offset [O]**: Select the location of your next point based on how far you want it to travel on X and Y axis from your last control point.
@@ -18,11 +19,11 @@ Once a suitable key is clicked while drawing or placing an object, a small windo
 
 ## Distance [D]
 
-Once you have placed at least one control point for an object you can click 'D' on your keyboard, enter a value in the textbox and click Enter.
+Once you have placed at least one control point for an object you can click **D** on your keyboard, enter a value in the textbox and click Enter.
 
 A red circle will appear around the last point, locking in the chosen distance for your next control point placement.
 
-If you need this tool again for your next point, simply click 'D' again and repeat.
+If you need this tool again for your next point, simply click **D** again and repeat.
 
 If you decide against using the distance tool once the red circle has already been engaged, click **Esc** to cancel.
 
@@ -32,7 +33,7 @@ If you decide against using the distance tool once the red circle has already be
 
 ## Angle [A]
 
-By clicking 'A' on your keyboard when drawing a line or object you will be able to dictate the exact angle in degrees between your next and last control point.
+By clicking **A** on your keyboard when drawing a line or object you will be able to dictate the exact angle in degrees between your next and last control point.
 
 By default if at least two control points have been placed, the Angle tool will give you the next angle based on an the direction of travel between the last two points.
 For example, if I have two points with my last point being to the right of the one prior - if '0' was put into the Angle tool and Enter was pressed, the Angle tool would continue in exactly the same direction to the right. Alternatively if '90' was inserted it would turn at right angles to the direction of travel's right (downward), and if '-90' was inserted it would turn at right angles to the existing direction of travel's left.
@@ -43,7 +44,7 @@ Alternatively, if we engage 'Absolute' angles by clicking the checkbox on the Di
 
 ## Offset [O]
 
-Click 'O' to open the Offset tool in the Dimension Input Panel will allow you to select the location of your next point based on how far you want it to travel on X and Y axis from your last control point.
+Click **O** to open the Offset tool in the Dimension Input Panel will allow you to select the location of your next point based on how far you want it to travel on X and Y axis from your last control point.
 
 Positive X values will travel to the right, and positive Y values will place your next control point lower on the plan. The format for inputting them is '*X,Y*'.
 For example, inputting '15,10' will place your next control point 15 metres (or your chosen distance of measurement) to the right, and 10 metres down from your last control point.
@@ -66,4 +67,4 @@ The Coordinates setting in the Dimension Input Panel allow you to select the loc
 
 For example, '*35.1561, -90.0519*'.
 
-**Note:** Latitude and longitude of a given point on the canvas in RapidPath can be copied to your clipboard by right clicking at the point > 'Copy Coordinates'.
+**Note:** Latitude and longitude of a given point on the canvas in RapidPath can be copied to your clipboard by **Right clicking** at the point > **Copy Coordinates**.

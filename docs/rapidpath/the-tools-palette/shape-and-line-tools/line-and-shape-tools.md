@@ -12,22 +12,22 @@ The technique for drawing with these tools varies from object to object. Many of
 - Select the tool from the corresponding tab in the Tools Palette.
 - Click to place the first control point.
 - Continue clicking until the necessary number of points are placed and the object is complete.
-- Right click to stop drawing.
-- Right click again to drop the tool.
+- **Right click** to stop drawing.
+- **Right click** again to drop the tool.
 
 ## Auto Aligning Lines and Shapes
 
 To ease the creation of these items, there is a very useful auto align feature which allows you to keep the dimensions of your lines and shapes square.
 
-In most cases, holding **SHIFT** while you draw will cause the control points you are placing to align themselves to a 90º or 45º increment. This means that you can keep your verticals and horizontals perfectly straight.
+In most cases, holding **Shift** while you draw will cause the control points you are placing to align themselves to a 90º or 45º increment. This means that you can keep your verticals and horizontals perfectly straight.
 
-Rectangles, Rounded Rectangles and Ellipses form special cases - holding **SHIFT** still keeps their second control point at 90º or 45º but this of course has the effect of holding the rectangles to perfect squares and the ellipse to a perfect circle.
+Rectangles, Rounded Rectangles and Ellipses form special cases - holding **Shift** still keeps their second control point at 90º or 45º but this of course has the effect of holding the rectangles to perfect squares and the ellipse to a perfect circle.
 
 ![Drawing_a_Rectangle_and_an_Ellipses_Freehand_compared_to_drawing_them_holding_Shift](./assets/Drawing_a_Rectangle_and_an_Ellipses_Freehand_compared_to_drawing_them_holding_Shift.png)
 
 ## Properties of these Basic Tools
 
-As is the case with all objects in RapidPath, you can view and change the properties of a basic tool by double clicking on it to open the **Quick Edit** screen or from within the Properties Palette.
+As is the case with all objects in RapidPath, you can view and change the properties of a basic tool by **Double clicking** on it to open the **Quick Edit** screen or from within the Properties Palette.
 
 The properties for the **Lines** are very similar. This is also the case with the **Shapes**. Regardless of type, all the basic tools have the option to be rotated or flipped vertically and horizontally by using **CTRL + R** to rotate and the flip toolbar to flip the objects.
 
@@ -88,7 +88,7 @@ There are three arc-based tools in RapidPath, the **Arc** tool, the **Pie Arc** 
 - Click once to set the radius of the arc.
 - The second click is where you draw your arc by moving the cursor in the direction of the arc.
 - Click to complete the object.
-- Right click to drop the tool.
+- **Right click** to drop the tool.
 
 You can also specify numeric values for the radius, start angle and end angle for the arc.
 

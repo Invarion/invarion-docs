@@ -35,7 +35,7 @@ Whilst being one of the least frequently created arrangements, understanding how
 
    ![Overpasses_and_Underpasses_step_6](./assets/Overpasses_and_Underpasses_step_6.png)
 
-7.Double click the bridge road and change the lane markings to double.
+7.**Double click** the bridge road and change the lane markings to double.
 
 ## Drawing in Bridge Rails
 

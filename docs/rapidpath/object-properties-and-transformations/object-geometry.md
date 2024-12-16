@@ -33,7 +33,7 @@ Bezier Geometry allows for the highest degree of customisation, allowing you to 
 
 An object set to Bezier Geometry will appear as if the same as Line Geometry initially, but once an object is set to bezier you are able to create up to 2 Tangent Points per [Control Point](./control-points-and-snapping.md):
 
-Tangent Points are used to create a smoothed curvature on either side of an object at a chosen Control Point. 
+Tangent Points are used to create a smoothed curvature on either side of an object at a chosen Control Point.
 
 As shown in the image below, a tangent point will create curvature; more smooth and extended when placed further from a Control Point, or more immediate and shorter when placed nearby.
 
@@ -41,6 +41,6 @@ As shown in the image below, a tangent point will create curvature; more smooth 
 
 There can be up to two Tangent Points per control point, and appear blue with a line between each of them and the red control point.
 
-**To create a Tangent Point** on an object set to Bezier Geometry: Simply hold *Ctrl*, while clicking and dragging a red Control Point.
+**To create a Tangent Point** on an object set to Bezier Geometry: Simply hold **Ctrl**, while clicking and dragging a red Control Point.
 
 If needed, a Tangent Point can be reset (as if to delete it) by *Right-Clicking it > 'Reset Control Point'*.

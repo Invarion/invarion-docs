@@ -17,9 +17,9 @@ Irrespective of which distance marker you are using, the technique for creating 
 
 - Select the **Distance Marker** tool from the Marker tab in the Tools Palette.
 - Click once to start drawing the distance marker, click a second time to mark the end point.
-- Right click to finish
+- **Right click** to finish
 
-**Note**: It is helpful to hold **SHIFT** whilst drawing the distance marker to keep it straight.
+**Note**: It is helpful to hold **Shift** whilst drawing the distance marker to keep it straight.
 
 ## Changing a Distance Marker's Properties
 
@@ -44,9 +44,9 @@ This tool does the same as the Distance Marker but with the ability to show mult
 **To place a Combined Distance Marker:**
 
 - Select the **Combined Distance Marker** tool from the Marker tab in the Tools Palette.
-- Left click once to start drawing the distance marker, left click again to end the first distance marker and start the second
+- **Left click** once to start drawing the distance marker, **Left click** again to end the first distance marker and start the second
 - Repeat this until you have all of your distances marked for that marker
-- Right click to finish
+- **Right click** to finish
 
 ### Offset Distance Marker
 
@@ -87,9 +87,9 @@ This tool calculates the area you allocate which is shown as the cross-hatched n
 **To place an Area Marker:**
 
 - Select the **Area Marker** tool from the Marker tab in the Tools Palette.
-- Left click once to start drawing.
+- **Left click** once to start drawing.
 - Continue clicking to set corner points of the area.
-- Right click to finish.
+- **Right click** to finish.
 
 ### The Combined Offset Distance Marker Tool
 
@@ -100,11 +100,11 @@ This tool allows you to create a combined marker that is offset on your plan.
 **To place an Combined Offset Distance Marker:**
 
 - Select the **Combined Offset Distance Marker** tool from the Marker tab in the Tools Palette.
-- Left click once to start drawing the distance marker, left click again to end the first distance marker and start the second.
+- **Left click** once to start drawing the distance marker, **Left click** again to end the first distance marker and start the second.
 - Repeat this until you have all of your distances for that marker.
-- To finish the last distance press right click.
+- To finish the last distance press **Right click**.
 - Drag your mouse laterally away from the distance marker to set the offset. Click a third time to finish drawing the marker.
-- Right click to finish.
+- **Right click** to finish.
 
 ### The Distance marker breakline
 
@@ -119,7 +119,7 @@ Simply change it from False to True and it will set the breakline in the middle 
 ## Changing the Distance on the Marker
 
 - Select the Marker
-- Double click on the distance number provided
+- **Double click** on the distance number provided
 - The writing cursor will appear and will allow you to enter your desired distance
 - Click anywhere on your plan to finish
 

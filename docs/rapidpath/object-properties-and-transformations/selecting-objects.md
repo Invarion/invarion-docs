@@ -23,7 +23,7 @@ Simply click once on your desired object and it will become selected. You will n
 
 ## Selecting objects on different layers
 
-If you are working across multiple layers, you can switch between different objects on the fly by holding down the **CTRL + ALT** keys and clicking on desired objects in a different layer. This will switch to the layer on which the object is on, as shown below.
+If you are working across multiple layers, you can switch between different objects on the fly by holding down the **Ctrl + Alt** keys and clicking on desired objects in a different layer. This will switch to the layer on which the object is on, as shown below.
 
 ![Selecting_objects_on_other_layers](./assets/Selecting_objects_on_other_layers.png)
 
@@ -49,7 +49,7 @@ The below are the available selection modes when selecting objects:
 
 ![Selection1](./assets/Selection1.png) New selection (default)
 
-![Selection2](./assets/Selection2.png) Add to selection (hold Shift key)
+![Selection2](./assets/Selection2.png) Add to selection (hold **Shift** key)
 
 ![Selection3](./assets/Selection3.png) Remove from selection (hold Alt key)
 
@@ -66,6 +66,6 @@ Selecting multiple objects is useful when you want to move, duplicate, cut or co
 Again, there are two ways to perform a multiple selection:
 
 - By dragging a selection box around all of the elements (as described above).
-- By holding **SHIFT** and repeatedly clicking on each element that you wish to select.
+- By holding **Shift** and repeatedly clicking on each element that you wish to select.
 
 ![Multiple_objects_selected_with_SHIFT_key](./assets/Multiple_objects_selected_with_SHIFT_key.png)

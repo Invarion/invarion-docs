@@ -13,7 +13,7 @@ Of all the tools in RapidPlan, the Road has by far the most power and flexibilit
 - Distance markers
 - Legend and manifest preferences
 
-All of the above settings are accessed through the road properties screen. You can access the properties screen by double clicking on the road you need to change from the Quick Edit mode or from the Properties palette.
+All of the above settings are accessed through the road properties screen. You can access the properties screen by **Double clicking** on the road you need to change from the Quick Edit mode or from the Properties palette.
 
 ## Alter Geometry and Color
 
@@ -102,6 +102,6 @@ There you can also choose the manifest value as **Default** or **Dimensions** an
 
     **Note that this function is in the properties of all objects in RapidPlan**
 
-# Saving the Properties of your road for future use - Styles
+# Saving the Properties of Your Road for Future Use - Styles
 
 If you foresee needing the type of road you have created again in the future, learn how to save properties as a **Style** in [this section](/docs/rapidplan/object-properties-and-transformations/object-properties-and-styles.md.md).

@@ -3,11 +3,11 @@
 sidebar_position: 12
 
 ---
-# Cropping objects
+# Cropping Objects
 
 Crop images and other objects to any desired shape, edit individual points and segments in existing crop geometries.
 
-To begin cropping an object, simply right click on the object you wish to crop, then left select "Edit crop".
+To begin cropping an object, simply **Right click** on the object you wish to crop, then left select **Edit Crop**.
 
 ![Edit_crop](./assets/Edit_crop.png)
 
@@ -21,6 +21,6 @@ Once the desired crop region has been added, click the green tick button in the 
 
 ![Cropped_image](./assets/Cropped_image.png)
 
-To edit the cropped region, simply select the object, right click, select 'Edit crop' and the dialog box will re-open.  You can now adjust the crop region or revert back to the original image.
+To edit the cropped region, simply select the object, **Right click**, select **Edit crop** and the dialog box will re-open.  You can now adjust the crop region or revert back to the original image.
 
 ![Finished_crop](./assets/Finished_crop.png)

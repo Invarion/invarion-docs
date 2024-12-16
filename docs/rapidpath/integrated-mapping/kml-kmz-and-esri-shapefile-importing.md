@@ -5,7 +5,7 @@ file_position: 8
 ---
 # KML, KMZ and ESRI Shapefile Importing
 
-## What are KML, KMZ and ESRI files?
+## What are KML, KMZ and ESRI Files?
 
 These files can be imported into RapidPath in order to reference, display or easily access the geographic data they hold. This data is presented as either clickable data points that contain word tables with relevant information about the coordinates in which it is located, or as shapes and lines to visually display information about that area.
 
@@ -15,7 +15,7 @@ These files are commonly used by governing bodies, and data is often readily ava
 KMZ simply refers to the zipped version of KML files, used to save storage space.
 ESRI shapefiles' file name displays with the suffix '.shp'.
 
-## Opening and viewing KML/Shapefile data
+## Opening and Viewing KML/Shapefile Data
 
 In RapidPath, click Tools > Import > KML/Shapefile.
 Once you have selected your KML/KMZ/SHP file, the Import KML/Shapefile palette will be on screen and the data layer will be overlayed over your plan in the Canvas area.

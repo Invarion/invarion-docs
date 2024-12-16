@@ -67,12 +67,12 @@ Within the Layers palette, you can move selected layers up or down for easier ac
 
 ### Copying Layers
 
-Right clicking on a layer will show options to **Copy** a layer, allowing you to right click > **Paste** the layer.
-Alternatively, you may right click on a layer and **Duplicate** it to shorten the process.
+**Right clicking** on a layer will show options to **Copy** a layer, allowing you to **Right click** > **Paste** the layer.
+Alternatively, you may **Right click** on a layer and **Duplicate** it to shorten the process.
 
-You may also right click in unoccupied space in the **Layers Palette**, in order to **Copy Visible Layers**. Doing this will allow you to then **Paste** all visible layers, potentially duplicating many layers at once.
+You may also **Right click** in unoccupied space in the **Layers Palette**, in order to **Copy Visible Layers**. Doing this will allow you to then **Paste** all visible layers, potentially duplicating many layers at once.
 
-As a sidenote, you may also right click > **Rotate Objects** on a layer. Doing so will rotate the objects around the central point of the plan, marked by the red cross.
+As a sidenote, you may also **Right click** > **Rotate Objects** on a layer. Doing so will rotate the objects around the central point of the plan, marked by the red cross.
 
 ### Color Mode
 
@@ -80,7 +80,7 @@ You can select each separate layer to be in color mode or fax mode by clicking t
 
 ![The_Toggle_Layer_Color_Icon](./assets/The_Toggle_Layer_Color_Icon.png)
 
-**Note**: Layers can be copied, duplicated and objects within the layer can be rotated at an angle specified by the user. Layers can also be copied to another plan. These actions can be done by right clicking on the layer name and selecting from the list of options that appear.
+**Note**: Layers can be copied, duplicated and objects within the layer can be rotated at an angle specified by the user. Layers can also be copied to another plan. These actions can be done by **Right clicking** on the layer name and selecting from the list of options that appear.
 
 ## Renaming Layers
 
@@ -90,6 +90,6 @@ Renaming layers is useful because it allows you to better organize your file aro
 
 **To rename a layer in your plan:**
 
-- Double click on the desired layer from the Layer Selector (or Right click and select **Rename**). The name of the layer is automatically highlighted, ready for change.
+- **Double click** on the desired layer from the Layer Selector (or **Right click** and select **Rename**). The name of the layer is automatically highlighted, ready for change.
 - Click inside the layer selector box and type in the new name for your layer.
 - Either press Enter or simply click back out onto the canvas. Your new name is saved.

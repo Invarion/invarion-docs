@@ -11,7 +11,7 @@ The Crosswalk tool is a handy tool that creates crosswalks on any road that you 
 
 - Draw your road;
 - Select the **Crosswalk** tool from the Road tab in the Tools palette;
-- Place your cursor where you want the crosswalk to start and left click your mouse once to start drawing;
-- Right click to finish drawing.
+- Place your cursor where you want the crosswalk to start and **Left click** your mouse once to start drawing;
+- **Right click** to finish drawing.
 
 ![ ](./assets/Crosswalk_Tool.png)

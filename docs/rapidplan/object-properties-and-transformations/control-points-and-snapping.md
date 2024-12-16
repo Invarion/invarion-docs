@@ -19,25 +19,25 @@ To view an object's control points you must select it. Once you have selected an
 
 ## Keeping Control Points straight
 
-Irrespective of what item you are drawing or altering, you can keep your control points in a perfectly straight line by holding down the **SHIFT** key as you are drawing. The same applies if you are moving an existing control point.
+Irrespective of what item you are drawing or altering, you can keep your control points in a perfectly straight line by holding down the **Shift** key as you are drawing. The same applies if you are moving an existing control point.
 
 This technique is especially helpful when drawing straight roadways.
 
 ## Adding/Deleting a Control Point
 
-You can add a control point to an object, for example if you want to add a curve to a train track, by selecting the object, right clicking and selecting **Insert Control Point**.
+You can add a control point to an object, for example if you want to add a curve to a train track, by selecting the object, **Right clicking** and selecting **Insert Control Point**.
 
 **Note:** This option will only appear for objects that can utilize extra control points.
 
-Similarly, you can remove control points by selecting the object, right clicking and selecting **Remove Control Point**.
+Similarly, you can remove control points by selecting the object, **Right clicking** and selecting **Remove Control Point**.
 
 ## Control Point Snapping
 
-Once you have selected an object and can view its control points, you can seamlessly connect objects to one another by snapping into existing control points. Hold the **CTRL** key while point-snapping roads/work areas or other objects and their geometries will merge.
+Once you have selected an object and can view its control points, you can seamlessly connect objects to one another by snapping into existing control points. Hold the **Ctrl** key while point-snapping roads/work areas or other objects and their geometries will merge.
 
 This feature will help you to create a neat and straight-lined work area.
 
-**Tip:** If you want to snap control points across multiple layers/stages, hold *Ctrl+Alt* while drawing or transforming objects. This is particularly useful when drawing complex plans with multiple stages, as it allows hassle free snapping to base stage objects like road lanes and edges.
+**Tip:** If you want to snap control points across multiple layers/stages, hold **Ctrl + Alt** while drawing or transforming objects. This is particularly useful when drawing complex plans with multiple stages, as it allows hassle free snapping to base stage objects like road lanes and edges.
 
 ![Snapping_between_control_points](./assets/Snapping_between_control_points.png)
 
@@ -57,7 +57,7 @@ Snap to an existing geometry when drawing an object and RapidPath will automatic
 
 This is useful when needing to draw delineation devices or a work area along a curved geometry.
 
-To being drawing along a geometry, simply left click your device along the red geometry where you want the device to begin. The tool will then follow the curve you draw out.
+To being drawing along a geometry, simply **Left click** your device along the red geometry where you want the device to begin. The tool will then follow the curve you draw out.
 
 ![Geometry_snapping](./assets/Geometry_snapping.png)
 
@@ -79,7 +79,7 @@ The bound edges or centers will be indicated by a red dotted line.
 
 Use the Offset Geometry tool to further adjust the position of an object.
 
-To utilize the offset tool, simply complete your drawing along the geometry, once completed, right click and select 'Offset geometry' in the right click menu displayed.
+To utilize the offset tool, simply complete your drawing along the geometry, once completed, **Right click** and select 'Offset geometry' in the **Right click** menu displayed.
 
 ![Offset_geometry](./assets/Offset_geometry.png)
 
@@ -87,7 +87,7 @@ Simply click and drag to your desired offset, or type your desired offset value 
 
 ![Create_offset](./assets/Create_offset.png)
 
-Once the offset has been created, right click to save your changes.
+Once the offset has been created, **Right click** to save your changes.
 
 ### Offset settings
 
@@ -98,7 +98,7 @@ In the offset dialog box you'll find two buttons on the right:
 
 ## Tangent Points (Bezier Geometry)
 
-Tangent Points visible only when Bezier Geometry is engaged. They are used to create a smoothed curvature of the line object/edge of an object either side of the control point. 
+Tangent Points visible only when Bezier Geometry is engaged. They are used to create a smoothed curvature of the line object/edge of an object either side of the control point.
 
 There can be up to two Tangent Points per control point, and appear blue with a line between each of them and the red control point.
 

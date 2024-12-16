@@ -15,7 +15,7 @@ When changing map bearing the map now rotates around the center of the screen, r
 ### Commenting
 
 One can now add comments to a plan and reply to existing comments.
-A Comments Palette is shown in the side panel where comments can be placed. Viewers can also create a comment on the Canvas Area by right clicking. Comments are saved in the cloud and are available for all users who have access to the plan.
+A Comments Palette is shown in the side panel where comments can be placed. Viewers can also create a comment on the Canvas Area by **Right clicking**. Comments are saved in the cloud and are available for all users who have access to the plan.
 
 ### Bug fixes
 
@@ -41,7 +41,7 @@ If preferred the full version of the Context Menu can be returned with a 'maximi
 
 ### Pointer attachment arrows added to objects
 
-Add new arrow features on every side of selection boxes that can be clicked to create a 'pointer' object. 
+Add new arrow features on every side of selection boxes that can be clicked to create a 'pointer' object.
 
 Pointer objects include arrows, callout boxes, measurements from that object, and arrow text objects.
 
@@ -79,7 +79,7 @@ Small rotation degree indicator is shown when an object is being rotated.
 
 - Correct values now shown for Hatch Spacing and Thickness in the property grid for the objects with fill property.
 - Invarion Cloud: fix bug when uploading a plan when Shared With Me section is active causes this plan to show up in the section. (It's only UI problem, the actual plan location was correct).
-- Proper handling of right click on control point.
+- Proper handling of **Right click** on control point.
 - Resolved incorrect zooming in print preview dialog.
 - Fix cursor type when dragging append control point handle.
 - Resolved plan export crashes when exporting more than 3-4 pages with Linz basemap.
@@ -132,7 +132,7 @@ QR Code creation modal has a button which allows to create public link to the pl
 
 - Fix problem when objects are snapped to Print Regions even if they are invisible.
 - Exported plans now respect updates in Print dialog.
-- Right clicking when context menu has been opened now opens RapidPath Online menu rather than native browser context menu.
+- **Right clicking** when context menu has been opened now opens RapidPath Online menu rather than native browser context menu.
 - Scratchpad preview issue on mobile devices resolved.
 - Code property of sign issue when selecting multiple signs resolved.
 - Job Start/Job End dates can be emptied. New plan start with empty start and end job dates.
@@ -162,8 +162,8 @@ Easily create a QR code on your plan. Place it in the canvas area and type in th
 New quick access buttons for the following functions featured in the Print Regions panel:
 
 - **Fit to page** - fits the region to the page size;
--  **Fit all to page** - fits all regions to the page size;
--  **Change page size and orientation**.
+- **Fit all to page** - fits all regions to the page size;
+- **Change page size and orientation**.
 
 ### New tool: Title block gallery
 
@@ -185,7 +185,7 @@ Full support of rich text in the rich text editing interface.
 
 In addition pasting from other sources (e.g. MS Word, Excel, Google Spreadsheets) is supported.
 
-### Improve performance when selecting large objects.
+### Improve performance when selecting large objects
 
 ### Bug fixes
 
@@ -255,7 +255,7 @@ One can now apply style to many objects in the selection if those objects are of
 
 ### Interactive onboarding tutorial for new users
 
-An interactive onboarding tutorial has been added for new users. 
+An interactive onboarding tutorial has been added for new users.
 
 Pre-existing users also can see it through the main menu of RapidPath Online.
 
@@ -324,15 +324,15 @@ Allows you to draw an arrowed path to indicate the direction of travel of someth
 
 Update manual links in the application menu to point to different manuals for RapidPlan Online and RapidPath Online.
 
-### Improved progress bar on application startup.
+### Improved progress bar on application startup
 
-### Increased maximum speed limit to 120 km/h.
+### Increased maximum speed limit to 120 km/h
 
 ### New feature: Edit text
 
  Allows you to edit text inside groups and signs without ungrouping them.
 
- ### Drag and drop support for adding images to a plan
+### Drag and drop support for adding images to a plan
 
  Images can now be dragged and dropped into plans.
 
@@ -370,11 +370,11 @@ Add text with an arrow pointing to a specific location on the map.
 - Focus on input fields on iPhones no longer triggers zooming in.
 - Added +/- buttons into Transform -> Custom panel input fields for touch devices so that one can change the value without using virtual keyboard.
 
-### Add completely new UI layout for narrow screens 
+### Add completely new UI layout for narrow screens
 
 i.e. narrower than 1024px (e.g. mobile phones).
 
-### Buttons for showing/hiding tool columns moved to the side of each panel respectively.
+### Buttons for showing/hiding tool columns moved to the side of each panel respectively
 
 ### Bug fixes
 
@@ -400,7 +400,7 @@ Allows for precise zoom configuration in the print preview dialog.
 It also shows proper page scale and allows for setting scale 100%. If you export a plan with scale 100%,
 the printed plan will have correct dimensions (e.g. 1 unit of metric Scale Marker will be exactly 1 cm on the paper).
 
-###  Linz basemap provider implemented (only for NZ users).
+### Linz basemap provider implemented (only for NZ users)
 
 Linz map is a New Zealand specific mapping provider that has been implemented.
 
