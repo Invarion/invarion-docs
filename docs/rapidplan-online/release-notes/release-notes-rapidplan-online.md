@@ -1,5 +1,15 @@
 # Release Notes
 
+## December 2024
+
+- Correctly handle too large file upload in Invarion Cloud (user now sees proper error message showing that the selected TCP file is too large).
+- When uploading TCP plan that contains broken objects, Invarion Cloud would try to fix them. Appropriate warning message is shown when such situation occurs.
+- Fix bug when folder cannot be restored from Trash in Invarion Cloud.
+- RapidOnline and RapidPath Online show exclamation mark indicator when plan size approaches 25Mb limit.
+User can see additional information by opening file sync panel.
+- New feature: User can select newly created object by using double right mouse click or double 2-finger tap.
+- Fix bug in RapidOnline when Sign and Multi message sign are not correctly displayed in Legend and Manifest during PDF export.
+
 ## November 2024
 
 ### User experience improvements - Print Regions
@@ -12,9 +22,9 @@
 
 - A badge now appears next to the 'Comments' button in the side panel when there are unresolved threads in the plan.
 
-### User experience improvement - Sign Stands:
+### User experience improvement - Sign Stands
 
-- Varied indicative cursors for different transform/movement functions related to the sign stand handle. 
+- Varied indicative cursors for different transform/movement functions related to the sign stand handle
 
 ## October 2024
 
