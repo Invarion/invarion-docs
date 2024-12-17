@@ -6,7 +6,8 @@
 
 ### Stability features
 
-A notification in the corner of a users screen will display if a plan's size exceeds 25mb, including details on how to effectively reduce a file's size in the (Autosave Notification Panel](/docs/rapidplan-online\rapidplan-online-workspace\autosave-feature.md).
+A notification in the corner of a users screen will display if a plan's size exceeds 25mb, including details on how to effectively reduce a file's size in the
+[Autosave Notification Panel](/docs/rapidplan-online/rapidplan-online-workspace/autosave-feature.md).
   
 When uploading a plan that contains broken objects, the Invarion Cloud will try to fix them.<br />A warning message is shown when this situation arises.
 
