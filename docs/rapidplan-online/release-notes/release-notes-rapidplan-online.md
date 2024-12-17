@@ -2,7 +2,7 @@
 
 ## December 2024
 
-!!- New feature: User can select newly created object by using double right mouse click or double 2-finger tap.
+- [New feature](https://online.invarion.com/tips/22): User can select newly created object by using double right mouse click or double 2-finger tap.
 
 ### Stability features
 
