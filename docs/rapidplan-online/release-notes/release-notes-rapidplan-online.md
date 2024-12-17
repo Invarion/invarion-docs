@@ -1,5 +1,21 @@
 # Release Notes
 
+## December 2024
+
+- [New feature](https://online.invarion.com/tips/22): User can select newly created object by using double right mouse click or double 2-finger tap.
+
+### Stability features
+
+A notification in the corner of a users screen will display if a plan's size exceeds 25mb, including details on how to effectively reduce a file's size in the
+[Autosave Notification Panel](/docs/rapidplan-online/rapidplan-online-workspace/autosave-feature.md).
+  
+When uploading a plan that contains broken objects, the Invarion Cloud will try to fix them.<br />A warning message is shown when this situation arises.
+
+### Bug fixes
+
+- An issue with Signs and Multi-Message Signs not appearing correctly in the Legend and Manifest during PDF export has been resolved.
+- Resolved issue that prevented folders from being restored from Trash when deleted in the Invarion Cloud.
+
 ## November 2024
 
 ### User experience improvements - Print Regions
