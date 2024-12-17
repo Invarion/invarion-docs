@@ -2,13 +2,18 @@
 
 ## December 2024
 
-- Correctly handle too large file upload in Invarion Cloud (user now sees proper error message showing that the selected TCP file is too large).
-- When uploading TCP plan that contains broken objects, Invarion Cloud would try to fix them. Appropriate warning message is shown when such situation occurs.
-- Fix bug when folder cannot be restored from Trash in Invarion Cloud.
-- RapidOnline and RapidPath Online show exclamation mark indicator when plan size approaches 25Mb limit.
-User can see additional information by opening file sync panel.
-- New feature: User can select newly created object by using double right mouse click or double 2-finger tap.
-- Fix bug in RapidOnline when Sign and Multi message sign are not correctly displayed in Legend and Manifest during PDF export.
+!!- New feature: User can select newly created object by using double right mouse click or double 2-finger tap.
+
+### Stability features
+
+A notification in the corner of a users screen will display if a plan's size exceeds 25mb, including details on how to effectively reduce a file's size in the (Autosave Notification Panel](/docs/rapidplan-online\rapidplan-online-workspace\autosave-feature.md).
+  
+When uploading a plan that contains broken objects, the Invarion Cloud will try to fix them.<br />A warning message is shown when this situation arises.
+
+### Bug fixes
+
+- An issue with Signs and Multi-Message Signs not appearing correctly in the Legend and Manifest during PDF export has been resolved.
+- Resolved issue that prevented folders from being restored from Trash when deleted in the Invarion Cloud.
 
 ## November 2024
 
