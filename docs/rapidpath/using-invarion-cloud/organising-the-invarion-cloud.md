@@ -48,7 +48,7 @@ clicking the **3 dot button** of a plan will reveal the **Context Menu** menu:
 |**Move**|Moves the plan from one folder to another.|
 |**History**|Opens a *History* dialog window, allowing you to *Restore* a plan to a prior version, or to *Create a Copy* of a chosen historic version of the plan.|
 |**Download**|Download a copy of the plan, saving it locally as a '.tcp' file.|
-|**Share**|Opens the [Plan Sharing Dialog Box]().|
+|**Share**|Opens the [Plan Sharing Dialog Box](./sharing-cloud-plans.md).|
 |**Add to Favorites**|Add a plan to the *Favorites* folder in the *file tree*.|
 
 ### Plan Details Side Panel

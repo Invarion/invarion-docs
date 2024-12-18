@@ -5,19 +5,19 @@ sidebar_position: 3
 ---
 # Sharing Cloud Plans
 
-The integrated Invarion Cloud system allows for seemless sharing of plans: Either between users in order to review, comment and make changes by adding coworkers as **Collaborating Users**. Or to share a view-only copy of the plan with non-contributing stakeholders by sharing a **Public Plan Access Link**.
+The integrated Invarion Cloud system allows for seamless sharing of plans: Either granting other users permission to make changes and adding comments by adding coworkers as **Collaborating Users**. Or sharing a *view-only* copy of the plan with non-contributing stakeholders, by sharing a **Public Plan Access Link**.
 
-To share a plan you will first need to open the **Plan Sharing Dialog Box**: Find this by clicking the **3 dots button** of a plan > click **Share**.
+To share a plan you will first need to open the **Plan Sharing Dialog Box**: Find this by clicking the **Actions Button** of a plan > click **Share**.
 
 ![plan sharing dialog](./assets/ic-plan-share.png)
 
-## Collaborating User
+## Sharing Editing Permissions with Collaborating Users
 
 Adding a **Collaborating User** will grant the chosen user permission to access and edit the plan in the same way you are able to. Once a user is added to the plan as a Collaborating User, they will see the plan in their cloud, and will be able to open and edit it.
 
-A collaborating user must have a valid Invarion license.
+A collaborating user must have a valid Invarion license.<br />Note that only one user can edit a cloud plan at a time.
 
-The plan **Owner**, as listed on a plan, will remain the intial creator of the plan. The Owner is free to remove a Collaborating User's access to the plan at any time.<br />Keep in mind that a Collaborating User is free to make their own duplicate of a plan while they have access.
+The initial creator of a plan will remain the plan **Owner**, as displayed on a plan. The plan Owner is free to remove a Collaborating User's access to the plan at any time.<br />Keep in mind that a Collaborating User is free to make their own duplicate of a plan while they have access.
 
 A Collaborating User will be able to find plans shared with them quickly, by navigating to the aptly name section of the Invarion Cloud file tree - **Shared with me**.
 
