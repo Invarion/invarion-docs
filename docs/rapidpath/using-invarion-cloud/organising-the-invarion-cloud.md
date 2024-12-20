@@ -59,8 +59,8 @@ To access a plan's **Plan Details Side Panel**, simply **click its preview image
 
 |**Feature**|**Details**|
 |-|-|
-|**Details** and **Comments** toggle|Switch between the *Details* section (discussed here), and the *Comments* section.|
-|**Plan Title**|Can be clicked to rename it.|
+|**Details** and **Comments** toggle|Switch between the *Details* section (discussed here), and the [Comments](./comments-in-the-invarion-cloud.md) section.|
+|**Plan Title**|Can be clicked to rename the plan.|
 |**'X' icon**|Seen next to the plan's title, clicking this closes the side panel.|
 |**'Created at'**|Shows the date the plan was created.|
 |**'Owner'**|Shows the name of the user who initially created the plan.|

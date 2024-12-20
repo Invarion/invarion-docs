@@ -3,7 +3,7 @@
 sidebar_position: 1
 
 ---
-# Using the Invarion Cloud
+# Creating and Uploading Cloud Plans
 
 RapidPath now features incorporated cloud functionality, allowing you to:
 

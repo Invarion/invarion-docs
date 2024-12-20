@@ -13,12 +13,12 @@ To see or add comments: Simply open a plan and click the **Invarion Cloud Plan D
 
 Then click the **Comments** button to toggle to the correct section of the plan details.
 
-Here you can view existing comments or add a new one.
+Here you can view existing comments or add new ones.
 
 ![cloud plan comments](./assets/ic-comments-internal.png)
 
 You can see that there are two comments in the example above:
 
-The comment reading **"Hello!"** is visible and there is an option to reply.<br />Using the **Actions button**, I, as the author of the comment, can *Edit*. *Delete*, or *Resolve* the comment.
+The comment reading **"Hello!"** is visible, and there is an option to reply.<br />Using the **Actions button**, I, as the author of the comment can also *Edit*, *Delete*, or *Resolve* the comment.
 
-The other comment is not visible currently as it is marked as **Resolved**.<br />This indicates that the issue the comment was referring to has indeed been resolved, and can therefore be put out of sight and out of mind.<br />If needed, clicking **"Resolved Threads"** will reveal resolved comments.
+The other comment is not visible currently as it has been marked as **Resolved**.<br />This indicates that the issue the comment was referring to has indeed been resolved, and can therefore be put out of sight and out of mind.<br />If needed, clicking **"Resolved Threads"** will reveal resolved comments.

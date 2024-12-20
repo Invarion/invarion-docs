@@ -5,9 +5,9 @@ sidebar_position: 3
 ---
 # Sharing Cloud Plans
 
-The integrated Invarion Cloud system allows for seamless sharing of plans: Either granting other users permission to make changes and adding comments by adding coworkers as **Collaborating Users**. Or sharing a *view-only* copy of the plan with non-contributing stakeholders, by sharing a **Public Plan Access Link**.
+The integrated Invarion Cloud system allows for seamless sharing of plans: <br />Either granting other users permission to make changes and adding comments by adding coworkers as **Collaborating Users**.<br />Or sharing a *view-only* copy of the plan with non-contributing stakeholders, by sharing a **Public Plan Access Link**.
 
-To share a plan you will first need to open the **Plan Sharing Dialog Box**: Find this by clicking the **Actions Button** of a plan > click **Share**.
+To share a plan you will first need to open the **Plan Sharing Dialog Box**: To do so, in the [Invarion Cloud](./organising-the-invarion-cloud.md) click the **Actions Button** (![actions button](./assets/ic-icon.png)) of a plan > click **Share**.
 
 ![plan sharing dialog](./assets/ic-plan-share.png)
 
