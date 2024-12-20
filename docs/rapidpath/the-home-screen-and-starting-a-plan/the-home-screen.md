@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 # The Home Screen
 
-When you open RapidPath, you will land on the Home Screen:j
+When you open RapidPath, you will land on the Home Screen:
 
 ![home screen](./assets/home-screen.png)
 
