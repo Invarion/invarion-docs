@@ -15,7 +15,7 @@ The toolbar features three sections.
 
 |Title         |                                                                 Function     |
 |----------------|----------------------------------------------------------------------|
-|**File**|Open, save, close and export/print plans. <br /> Open the Invarion Cloud.<br /> Restore a prior session.<br /> Exit RapidPath.  |
+|**File**|Open, save, close and export/print plans. <br /> Open the Invarion Cloud.<br /> Restore a prior session.<br /> Exit RapidPlan.  |
 |**Edit**|Undo/redo.<br /> Cut/copy/paste/duplicate.<br />  Make selction/arrangement/transformation changes to a selected object or group of objects.                                                |
 |**Tools**|Text Variables. <br /> Object Styles and Preferences.<br />  Import Files.<br />  'Save object as..'<br /> Sign Tools and Advanced Tools.      |
 |**View** |Toggle visibility of different pallets.<br /> Open Layout Manager.  |
@@ -38,7 +38,7 @@ The toolbar features three sections.
 |![toggle snapping](./assets/snapping.jpg)|**Toggle Snapping Points**|Switch the function that snaps nearby objects together when moving/manipulating them on or off.                 |
 |![toggle print regions](./assets/toggle-print-region-visibility.jpg)|**Toggle Print Region Visibility**|Toggle whether print regions are visible on the Canvas Area while creating a plan.                    |
 |![preferences](./assets/preferences.jpg)|**Preferences**|Open a tab in which your settings and preferences can be altered.                                        |
-|![exit](./assets/exit.jpg)|**Exit RapidPath**|Exit/close RapidPath.                                                |
+|![exit](./assets/exit.jpg)|**Exit RapidPlan**|Exit/close RapidPlan.                                                |
 
 ## Section 3
 

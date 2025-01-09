@@ -5,7 +5,7 @@ sidebar_position: 5
 ---
 # Control Points and Snapping
 
-Almost every element in RapidPath has at least one control point. A control point is a handle that allows you to alter the shape of an object. They appear in RapidPath as small red circles. Control points do different things to different kinds of objects, and different objects have different numbers of control points.
+Almost every element in RapidPlan has at least one control point. A control point is a handle that allows you to alter the shape of an object. They appear in RapidPlan as small red circles. Control points do different things to different kinds of objects, and different objects have different numbers of control points.
 
 The control points along the road enable you to adjust its shape.
 
@@ -53,7 +53,7 @@ For additional snapping options, press the **Alt** key while snapping to a geome
 
 ### Drawing along Geometries
 
-Snap to an existing geometry when drawing an object and RapidPath will automatically create control points to fit the desired curve.
+Snap to an existing geometry when drawing an object and RapidPlan will automatically create control points to fit the desired curve.
 
 This is useful when needing to draw delineation devices or a work area along a curved geometry.
 

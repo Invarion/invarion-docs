@@ -7,7 +7,7 @@ sidebar_position: 8
 
 ## Moving Objects
 
-Of course there will be times when you will need to move a placed object  on the RapidPlan canvas. This is accomplished using the move handle.
+Of course there will be times when you will need to move a placed object  on the RapidPath canvas. This is accomplished using the move handle.
 
 ### Moving one or more objects on the plan
 

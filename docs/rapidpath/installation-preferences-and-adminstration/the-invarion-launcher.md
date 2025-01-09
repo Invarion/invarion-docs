@@ -3,9 +3,9 @@
 sidebar_position: 1
 
 ---
-# Downloading RapidPlan - The Invarion Launcher
+# Downloading RapidPath - The Invarion Launcher
 
-RapidPlan is accessed through a small client program named the Invarion Launcher.
+RapidPath is accessed through a small client program named the Invarion Launcher.
 
 ## Installing the Invarion Launcher
 
@@ -18,11 +18,11 @@ When you are ready, **please use the link below to download the .exe installer f
 - Admin access is not required for this install. **We highly recommend installing on individual user profiles**.
 - **The Invarion Launcher will install Microsoft's Visual C++ runtime onto your machine**. This is required to operate Google Maps.
 - Please contact our [Support team](https://invarion.com/au/support/) if an .msi install is required or if you have difficulty with installation.
-- If RapidPlan is required on a **Apple computer**, please see ['Can I run RapidPath On a Mac?'](/docs/rapidpath/faqs/can-i-run-rapidpath-on-a-mac.md) for information.
+- If RapidPath is required on a **Apple computer**, please see ['Can I run RapidPath On a Mac?'](/docs/rapidpath/faqs/can-i-run-rapidpath-on-a-mac.md) for information.
 
 For **whitelist, firewall and proxy setup information**, please visit [this page](https://rapidplan.com/pages/firewall-and-proxy-setup).
 
-## Accessing RapidPlan with the Invarion Launcher
+## Accessing RapidPath with the Invarion Launcher
 
 Now that the Invarion Launcher is installed, if it's the first time a user is logging in, you will be presented with the below instructions when you open the Invarion Launcher.
 
@@ -37,15 +37,15 @@ Once the credentials have been entered and the details are accepted, you will be
 
 Once the user has logged into the Launcher client, the applications assigned to that user will display. Clicking '**Open**' will launch that specific application.
 
-If an update is required, or installation for your first use of RapidPlan, the Launcher will automatically download and apply this prior to launching the application.
+If an update is required, or installation for your first use of RapidPath, the Launcher will automatically download and apply this prior to launching the application.
 
 To manually check for any updates, simply click the **Refresh Icon** in the top left of the Launcher window.
 
 ![launcher client](./assets/Launcher_client.png)
 
-To check which version of RapidPlan you are using, simply click the drop-down arrow.
+To check which version of RapidPath you are using, simply click the drop-down arrow.
 
-This will detail the current RapidPlan version you are using, as well as any signage add-ons that have been assigned to your RapidPlan license.
+This will detail the current RapidPath version you are using, as well as any signage add-ons that have been assigned to your RapidPath license.
 
 ## Other Invarion Launcher Controls
 
@@ -63,7 +63,7 @@ We advise only to access these settings in those circumstances.
 
 ## Minimum Computer Specifications
 
-Before downloading the software, please ensure your machine complies with the minimum specifications recommended for running RapidPlan.
+Before downloading the software, please ensure your machine complies with the minimum specifications recommended for running RapidPath.
 
 **A list of the minimum specifications can be reviewed here:**
 

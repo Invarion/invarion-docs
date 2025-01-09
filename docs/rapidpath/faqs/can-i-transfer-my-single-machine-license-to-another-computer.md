@@ -10,7 +10,7 @@ Yes, but only one computer at a time can use your single-machine license. To tra
 
 **To transfer RapidPath to another machine:**
 
-1. Download and install Invarion Launcher on the new machine. You can find more information about the installation process [here](https://rapidplan.com/pages/launcher-installation).
+1. Download and install Invarion Launcher on the new machine. You can find more information about the installation process [here](https://invarion.com/intl/install/).
 
 2. Launch the Invarion Launcher, and log on with your current e-mail address and password.
 

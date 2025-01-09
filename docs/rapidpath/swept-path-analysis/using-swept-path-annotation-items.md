@@ -19,7 +19,7 @@ The **Vehicle Profile** displays the:
 
 ![Vehicle profile added to the plan](./images/Vehicle_profile_added_to_the_plan.png)
 
-You can ungroup the vehicle profile, then edit and style its parts - just like you would any other RapidPlan objects.
+You can ungroup the vehicle profile, then edit and style its parts - just like you would any other RapidPath objects.
 
 ![Styled vehicle profile](./images/Styled_vehicle_profile.png)
 
