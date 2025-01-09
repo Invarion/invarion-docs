@@ -43,10 +43,11 @@ There's also a number of region-specific mapping providers available in the soft
 
 To view these additional mapping providers, go to the  **Base map**  section of the Properties palette. Select the  **Provider**  dropdown menu. Click  **More providers...**. In the dialogue box (displayed in Figure 14.3), check the providers you want to use. These will then become visible in the dropdown menu.
 
-**Please note**: Access to content from NearMap and Metromap (both available to users in USA, Australia and New Zealand) requires a paid subscription to those services.
-
 ![Base_map_providers](./assets/Base_map_providers.png)
 
+**Please note**: Access to content from NearMap and Metromap (both available to users in USA, Australia and New Zealand) requires a paid subscription to those services.<br />For more information on using paid third party mapping providers in a cost effective manner, please see the video below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e8N9n5So7Og?si=5i5EfhYzkd3lFDEe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### Custom Base Map Provider  
 
 You can also add your own custom map provider. It is disabled by default and to change it go on Properties palette in the **Base map** section open **Provider** selection dropdown, click **More providers...**. On bottom of the list check **Custom ArcGIS Service** and press Save button.
