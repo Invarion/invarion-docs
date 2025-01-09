@@ -9,7 +9,7 @@ Once a vehicle's path has been designed as discussed [here](./preparing-swept-pa
 
 Among other use cases, vehicle path animation can be a valuable means of demonstrating expected routing to a trainee driver, as an easily understood method to communicate a layout concept, or as a way to add color to a presentation.
 
-## Recording a vehicle's path
+## Recording a Vehicle's Path
 
 Before recording, if desired, remember to [import aerial imaging](/rapidpath/integrated-mapping/accessing-integrated-mapping.md), so that it will appear in the exported animation.
 

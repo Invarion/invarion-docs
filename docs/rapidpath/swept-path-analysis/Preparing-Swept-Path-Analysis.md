@@ -5,7 +5,7 @@ sidebar_position: 4
 ---
 # Preparing Swept Path Analysis
 
-## Adding a vehicle to the plan
+## Adding a Vehicle to the Plan
 
 The first step in creating the Swept Path Analysis is adding a vehicle to your plan. To do this, open the Vehicle Library by selecting the Vehicle tool from the Tools Palette. In the Vehicle Library window, choose the standard and vehicle you are interested in and click the "Add" button at the bottom of the window. Now place the vehicle onto your plan with the left mouse button.
 
@@ -19,7 +19,7 @@ Vehicles in RapidPath can be positioned and rotated just like any other object. 
 
 When clicking on a vehicle you can check its most important parameters inside the Object Properties window.
 
-## Editing an existing vehicle
+## Editing an Existing Vehicle
 
 To edit the existing vehicle **Double click** on it with the left mouse button. The Edit Vehicle window will appear. Here you can change all the parameters and save them to the vehicle object on your plan. You can also use the same window to replace the current vehicle with another one.
 
@@ -29,7 +29,7 @@ If you want to only edit the "Lock to Lock" parameter you can select the vehicle
 
 ![Vehicle's properties inside the Object Properties window](./images/Vehicle_object_and_its_properties.png)
 
-## Creating a vehicle path
+## Creating a Vehicle Path
 
 To start drawing a Vehicle Path select the vehicle on your plan and click on the arrow in front of it to begin driving forward, or the smaller rear arrow to reverse. You can also click on the vehicle with the right mouse button and choose "Vehicle" sub-menu and "Draw Path" option.
 
@@ -42,11 +42,15 @@ Once you have begun to draw a path two things will appear:
 
 ### The Section Details interface
 
-When in the process of drawing a path, a special window called **Section Details** will appear with settings for:
+When in the process of drawing a path, a special window called **Section Details** will appear.
 
-- **Speed** - Vehicle speed.
-- **Friction** - Lateral friction factor dependent on the vehicle speed and calculated according to the chosen standard. To set a custom value disable speed and friction dependency by clicking on the link/unlink toggle button on the left and enter the desired value in the field.
-- **Turn on Stop** - Turning this option on ("True") allows the vehicle to make a stop and turn the front wheels between different sections (at control points) of the Vehicle Path.
+![Sections details window](./images/Sections_details_window.png)
+
+It inclues settings for:
+
+- **Speed** - Vehicle speed in this section of swept path.
+- **Friction** - Lateral friction factor, dependent on the vehicle speed and calculated according to the chosen standard.<br />To set a custom value - disable speed and friction dependency by clicking on the link/unlink toggle button on the left and enter the desired value in the field.
+- **Turn on Stop** - Turning this option on (set to "True") allows the vehicle to make a stop and turn the front wheels between different sections (at control points) of the Vehicle Path.
 
 Information such as:
 
@@ -61,9 +65,7 @@ As well as settings for altering the appearance of the **Predicted Movement Area
 - **Color** - Alter the fill color of the Cloud.
 - **Opacity** - Alter the opacity of the fill color of the Cloud.
 
-![Sections details window](./images/Sections_details_window.png)
-
-## Drawing the vehicle path
+## Drawing the Vehicle Path
 
 After setting the speed, friction and "Turn on Stop" option you can start drawing the path. To do this, indicate the points on the canvas area by clicking the left mouse button. These points are called "Control Points" and can be adjusted later. Each point creates another section of the Vehicle Path.
 Each section can have different parameters such as speed, friction and turn on stop setting.
@@ -81,7 +83,7 @@ Once the Vehicle Path is finished it turns into a separate object that can be fr
 
 ![Finished vehicle path](./images/Finished_vehicle_path.png)
 
-## Editing a vehicle path
+## Editing a Vehicle Path
 
 After the Vehicle Path is finished you can edit and adjust it using these methods:
 
@@ -96,7 +98,7 @@ You can also remove the control point by clicking on it with the right mouse but
 
 ![Continuing the path option in the context menu](./images/Continuing_the_path_option_in_the_context_menu.png)
 
-## Evaluating a path
+## Evaluating a Path
 
 Once you are happy with the layout of your path, you can review how it fits through the area you are designing in by carefully reviewing if the **Path Envelope** stays within the bounds of the space you have chosen in the background.
 
@@ -106,7 +108,7 @@ If you need more information - such as whether the vehicle's tires track within 
 
 Changes to a swept path's **Properties** are discussed in the [next section](./swept-path-analysis-properties.md)
 
-## Adding additional vehicles to the path
+## Adding Additional Vehicles to the Path
 
 You can add additional vehicle objects to the path to:
 

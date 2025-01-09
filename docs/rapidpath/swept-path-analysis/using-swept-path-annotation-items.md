@@ -25,7 +25,7 @@ You can ungroup the vehicle profile, then edit and style its parts - just like y
 
 **Note:** a **Vehicle Profile** can also be added from the vehicle itself (rather than by clicking on a drawn path). To do this, right click the vehicle, hover over **Vehicle** in the menu and select **Add Profile**.
 
-## Adding Predicted Movement Area clouds
+## Adding Predicted Movement Area Clouds
 
 If you need to demonstrate not a specific path that a vehicle can take, but a vehicle's capacity to manuever at a number of angles in a given situation, a Predicted Movement Area cloud can be added to your plan that will be visible when the plan is exported.
 
@@ -53,7 +53,7 @@ Modifiable **Parameters** include:
 - **Range Factor** - How far the cloud extends (at max value of '1' by default).
 - **Units** - chosen unit of measurement.
 
-Note that a **Vehicle Predicted Movement Area** cloud can be generated from the vehicle itself (rather than by clicking on a drawn path). To do this, **Right click** the vehicle, hover over **Vehicle** in the menu and select **Predicted Movement Area**.
+Note that a **Vehicle Predicted Movement Area** cloud can also be generated from the vehicle itself by **right-clicking**the vehicle > hover over **Vehicle** in the menu > select **Predicted Movement Area**.
 
 ## Swept Path Width Markers
 

@@ -14,7 +14,7 @@ A Swept Path's properties can be updated in order to:
 
 Details on the different properties of a swept path can be found below, organised by the headings of each sub-section.
 
-## Vehicle section
+## Vehicle Section
 
 Below the object name heading, the first editable section of a swept path's properties is **Vehicle**.
 
@@ -36,7 +36,7 @@ A lower opacity value will make that part of the vehicle more opaque. Opacity of
 
 ![Swept path analysis with different route variant](./images/Swept_path_analysis_with_different_route_variant.png)
 
-## Swept Path section
+## Swept Path Section
 
 Alterations to the core elements of a swept path:
 
@@ -52,7 +52,7 @@ If **none** is selected, your swept path might, if the settings are selected, co
 
 Predictably, **Outline** controls the appearance of the outline of the swept path, and **Fill** controls the appearance of its outline.
 
-## Clearance section
+## Clearance Section
 
 The initial envelope of the swept path displays the path of the vehicle if a driver navigates the space without error or any unexpected factors. To allow for variables, a **clearance** envelope around the original swept path envelope can be added.
 
@@ -68,7 +68,7 @@ The **outline** and **fill** can be altered with dropdown options.
 
 The amount of **clearance** allowed for can be altered in every direction, by altering the distance in the **front**, **rear**, **left** and **right** fields.
 
-## Wheel Path section
+## Wheel Path Section
 
 The path of a vehicle's wheels through a space can be a valuable element to display, particularly in spaces where curbs are being navigated - over which the outer body of the vehicle can hang without consequence.
 
@@ -81,7 +81,7 @@ The path of a vehicle's wheels through a space can be a valuable element to disp
 
 Below **Show**, alterations to the lines demonstration the **front** and **rear** wheels can be made.
 
-## Directional Arrows section
+## Directional Arrows Section
 
 Directional arrows are a valid aesthetic choice if preferred, and can be valuable in a situation where a vehicle could possible be reversing, or in which the vehicle is performing both forward and reversing movement in the same path.
 
@@ -95,7 +95,7 @@ Directional arrows are a valid aesthetic choice if preferred, and can be valuabl
 
 **Size** alters the size of the arrows in a swept path.
 
-## Speed section
+## Speed Section
 
 The speed of a vehicle can be altered in each segment of a swept path, doing so will alter its capacity to corner, and can be important contextual information for the reader of the plan.
 
