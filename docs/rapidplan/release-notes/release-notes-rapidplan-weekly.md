@@ -1,6 +1,4 @@
-# Release notes
-
-## RapidPlan Weekly channel changelog
+# RapidPlan Weekly changelog
 
 _NOTE: Weekly updates contain bugfixes published as Hotfixes, see separate changelog [HERE](/docs/rapidplan/release-notes/release-notes-rapidplan-hotfix/)._
 

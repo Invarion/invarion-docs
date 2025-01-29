@@ -1,6 +1,4 @@
-# Release notes
-
-## RapidPlan Hotfix channel changelog
+# RapidPlan Hotfix changelog
 
 ### Version 4.0.125 (20 Jan 2025) 
 * [RapidPath] Fixed fixed vehicle path drawing issues.
