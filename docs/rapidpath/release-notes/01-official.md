@@ -1,24 +1,26 @@
-# Release Notes
+---
+title: "Official releases"
+---
 
-## RapidPlan 4.0
+## RapidPath 4.0
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hHBbLazCEZY?si=05l8dj_SkGoc8z9b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Invarion Cloud Integration
 
-RapidPlan 4.0 is integrated with Invarion Cloud, allowing users to:
+RapidPath 4.0 is integrated with Invarion Cloud, allowing users to:
 
 * Store their traffic management plans on the Invarion Cloud instead of local files.
-* Open and edit the same plans in RapidPlan as well as RapidPlan Online (users who have licenses for both applications).
+* Open and edit the same plans in RapidPath as well as RapidPath Online (users who have licenses for both applications).
 * Use Invarion Cloud's collaboration features: share plans with other users, add comments.
-* Share plans with users who don't have a RapidPlan license - they will still be able to open them in read-only mode.
+* Share plans with users who don't have a RapidPath license - they will still be able to open them in read-only mode.
 
-*NOTE: In the weeks following RapidPlan 4.0 official release, integration with Invarion Cloud will be gradually made available for users based on their company size and region.*
+*NOTE: In the weeks following RapidPath 4.0 official release, integration with Invarion Cloud will be gradually made available for users based on their company size and region.*
 
 Invarion Cloud can also be accessed directly from your web browser by opening [cloud.invarion.com](https://cloud.invarion.com)
 
 
-## RapidPlan 3.11
+## RapidPath 3.11
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HRZIudmRyEU?si=jqoV6G_qYx1pC86a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -26,7 +28,7 @@ Invarion Cloud can also be accessed directly from your web browser by opening [c
 
 ![rich text](./assets/rich-text-editor.png)
 
-Use RapidPlan's new advanced text formatting capabilities to create TCP notes and documentation as well as custom titleboxes directly on your plan. The new Rich Text tool is based on  a powerful yet simple to use editor that allows using different text styles, paragraphs, lists, tables, images and more - all in one object. Additionally, the editor allows pasting externally created content, e.g. from Microsoft Office or Google Docs.
+Use RapidPath's new advanced text formatting capabilities to create TCP notes and documentation as well as custom titleboxes directly on your plan. The new Rich Text tool is based on  a powerful yet simple to use editor that allows using different text styles, paragraphs, lists, tables, images and more - all in one object. Additionally, the editor allows pasting externally created content, e.g. from Microsoft Office or Google Docs.
 
 ### Imaging Georeferencing
 
@@ -44,13 +46,13 @@ ESRI Shapefiles can now be imported to TCPs using the same interface as KML impo
 
 ![geometry distance input](./assets/geometry-input.png)
 
-Need to draw a 50m taper along a curved road? Use distance input and geometry snapping tools and let RapidPlan do the measurement for you.
+Need to draw a 50m taper along a curved road? Use distance input and geometry snapping tools and let RapidPath do the measurement for you.
 
 ### Reduced Eye Strain Mode
 
 ![eye strain mode](./assets/night-light.png)
 
-RapidPlan 3.11 introduces new settings that adjust the color temperature for content displayed in the plan editor, reducing your eye fatigue when drawing and editing TCPs.
+RapidPath 3.11 introduces new settings that adjust the color temperature for content displayed in the plan editor, reducing your eye fatigue when drawing and editing TCPs.
 
 ### QR Code Generator
 
@@ -62,7 +64,7 @@ Using the new QR Code tool lets you quickly add QR codes to your TCPs, allowing 
 
 **Keyboard shortcuts on menu items** - commands in the application menu as well as in all context menus present their assigned keyboard shortcuts.
 
-**Auto detect pasted hyperlinks** - RapidPlan will automatically detect when pasted text is a hyperlink and paste it as a Hyperlink instead of a regular text object.
+**Auto detect pasted hyperlinks** - RapidPath will automatically detect when pasted text is a hyperlink and paste it as a Hyperlink instead of a regular text object.
 
 **Dedicated Paste Image and Paste Text commands** - when the clipboard contains data in multiple formats, rich text will be selected automatically. If you wish to paste as image or text instead, use these dedicated paste commands.
 
@@ -80,7 +82,7 @@ Using the new QR Code tool lets you quickly add QR codes to your TCPs, allowing 
 
 **Additional Lane Status and LUMS panels (Aus only)** - Lane Status and LUMS Board tools have been updated with new panels that were added to the latest Australian standard.
 
-## RapidPlan 3.10
+## RapidPath 3.10
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ4tD4Aa5fM?si=2DjulBJ5k0EvDaBr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -96,7 +98,7 @@ Incorporate Keyhole Markup Language (KML/KMZ) geographic data into your plans an
 
 Automatically apply scale and rotate transformations required to fit objects to the underlying basemap or other existing content. This is particularly useful for aligning third party aerials.
 
-### Scale/Rotate At Point
+### Scale/Rotate at Point
 
 ![Scale/Rotate at point](./assets/133288014214613304-transform_big.png)
 
@@ -106,7 +108,7 @@ Using the newly added "Select scale/rotate point" options, you can now scale or 
 
 ![perf small](./assets/133288014545860473-perf_small.png)
 
-RapidPlan's core rendering engine has been redesigned to provide significant performance and memory usage improvements, so you can enjoy a faster and more reliable drawing experience.
+RapidPath's core rendering engine has been redesigned to provide significant performance and memory usage improvements, so you can enjoy a faster and more reliable drawing experience.
 
 ### More changes
 
@@ -134,11 +136,11 @@ RapidPlan's core rendering engine has been redesigned to provide significant per
 
 **Multi Message Sign dialog size** - The size of the MMS dialog is now saved in your application settings. This means that the next time you open the dialog, it will automatically open to the same size you previously used.
 
-## RapidPlan 3.9
+## RapidPath 3.9
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pbWWQuE7wqs?si=Z2KwuBOWtrkGWCd9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Predefined Styles Improvements
+### Predefined Styles improvements
 
 ![Predefined styles improvements](./assets/133034891024137589-predefinedStyles.png)
 
@@ -152,13 +154,13 @@ Additionally, individual styles can now be added to the Scratchpad for quick acc
 
 A dockable panel listing all Print Regions on the current plan allows accessing, editing and printing them without having to manually scroll the plan canvas.
 
-### Plan Location Tools
+### Plan Location tools
 
 ![plan location tools](./assets/133034891694724289-planLocationTools.png)
 
 **Right click** on any location while drawing a base map plan and use the location coordinates to look it up in a number of external services including Google Maps and Street View.
 
-#### More changes
+### More changes
 
 **Templates in Recent Plans** - The "Recent Plans" list includes TCT templates, providing quick access to the templates you use most frequently.
 
@@ -174,9 +176,9 @@ A dockable panel listing all Print Regions on the current plan allows accessing,
 
 **Print region visibility and style** - The F4 shortcut can be used to quickly toggle print region visibility on/off and the print region decorations style (color, opacity) can be adjusted in Advanced Preferences.
 
-## RapidPlan 3.8
+## RapidPath 3.8
 
-### Google Maps Support
+### Google Maps support
 
 ![google maps support](./assets/132779949694632358-googlemaps.png)
 
@@ -186,9 +188,9 @@ One of the most requested and long awaited features is finally available - Googl
 
 ![invarion launcher](./assets/132779949904982976-launcher.png)
 
-The Launcher is the new distribution channel for desktop versions of RapidPlan, ensuring your Invarion software is always up to date.
+The Launcher is the new distribution channel for desktop versions of RapidPath, ensuring your Invarion software is always up to date.
 
-### Hyperlink Tool
+### Hyperlink tool
 
 ![hyperlink tool](./assets/132779950037411619-hyperlink.png)
 
@@ -198,13 +200,13 @@ Use the Hyperlink text tool on your plans to reference online resources and othe
 
 ![performance and stability](./assets/132779950452095920-PerformanceImprovements.png)
 
-The underlying platform used by RapidPlan was updated to improve performance and stability, as well as ensure long term support for our core features.
+The underlying platform used by RapidPath was updated to improve performance and stability, as well as ensure long term support for our core features.
 
-## RapidPlan 3.7
+## RapidPath 3.7
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RXNz1CwSoec?si=VAj7OIE_bvyEDFkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Multi-Layer Snapping
+### Multi-layer Snapping
 
 ![multilayersnapping](./assets/132580618682331461-multilayersnapping.png)
 
@@ -234,9 +236,9 @@ The search bar now supports Plus Codes, a geocoding scheme used by Google as an 
 
 The Zoomed View Box can now be styled to present its content in an ellipse or cloud shaped box.
 
-#### More changes
+### More changes
 
-**New LINZ Basemaps** - RapidPlan users in New Zealand will now benefit from the new LINZ Aerial Imagery Basemap service.
+**New LINZ basemaps** - RapidPath users in New Zealand will now benefit from the new LINZ Aerial Imagery Basemap service.
 
 **Sign stand arrows** - sign stand connectors can now be styled to with arrow pointers.
 
@@ -270,11 +272,11 @@ The Zoomed View Box can now be styled to present its content in an ellipse or cl
 * UK Department for Transport/Highways Agency Templates update
 * NZTA Signs Update
 
-## RapidPlan 3.6
+## RapidPath 3.6
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4lZSaLL5t64?si=tUUPk3nWV9wNTH8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Plan Locations Map
+### Plan locations map
 
 ![Plan Locations Map](./assets/132418122261476566-welcome_tab_map.png)
 
@@ -316,9 +318,9 @@ Sign stands now support custom icons and can be positioned, oriented and styled 
 
 Advanced sign search and replace tool allows quickly finding and updating signs, which is particularly useful when editing very large plans.
 
-#### More changes
+### More changes
 
- **Convert to sign** - the Save Sign dialog now allows automatic replacement of the original object with the newly created sign.
+ **Convert to sign** - the Save Sign dialog now allows automatical replacement of the original object with the newly created sign.
 
 **Create sign group** - group multiple sing panels (e.g. main + complementary) into a single sign group that can be attached to sign stand(s) while still preserving individual panel codes in the manifest.
 
@@ -330,13 +332,13 @@ Advanced sign search and replace tool allows quickly finding and updating signs,
 
 **Disable latest autosave check** - when not desirable, users can disable checking for the most recent autosaved version of a plan.
 
-**Minimize/move splash screen** - the RapidPlan Splash Screen can now be moved to the side or minimized while RapidPlan is initializing.
+**Minimize/move splash screen** - the RapidPath Splash Screen can now be moved to the side or minimized while RapidPath is initializing.
 
-**Validate saved plans** - to prevent data loss caused by plans getting corrupt when the saving process is interrupted (e.g. when writing to a network location), RapidPlan 3.6 will validate TCP files right after they're saved and warn the user if any issues are detected.
+**Validate saved plans** - to prevent data loss caused by plans getting corrupt when the saving process is interrupted (e.g. when writing to a network location), RapidPath 3.6 will validate TCP files right after they're saved and warn the user if any issues are detected.
 
-**MetroMap provider** - following the recent acquisition of EagleView by MetroMap, we've updated our basemap provider. MetroMap users can access the imagery in RapidPlan using their username/password or the MetroMap API Key.
+**MetroMap provider** - following the recent acquisition of EagleView by MetroMap, we've updated our basemap provider. MetroMap users can access the imagery in RapidPath using their username/password or the MetroMap API Key.
 
-## RapidPlan 3.5
+## RapidPath 3.5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WqkFKqh3S3A?si=yo_1WFYUcd65jTLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -350,7 +352,7 @@ Several phases of works at one location can now be included in a single TCP, usi
 
 ![Auto Templates](./assets/132265940039896867-auto_template.png)
 
-RapidPlan can now lay out required devices and signage for a selected set of simple typical jobs. Pick the location, specify worksite dimensions and let our algorithms do the rest.
+RapidPath can now lay out required devices and signage for a selected set of simple typical jobs. Pick the location, specify worksite dimensions and let our algorithms do the rest.
 
 ### Selection Preview
 
@@ -390,13 +392,13 @@ Remove bits that obstruct the view underneath or create fancy cutout shapes usin
 
 Ever lost work because you accidentally closed a plan without saving it? Use File->Undo close tab to get out of trouble, or just open the plan again and - Rapid will check for the last autosaved version. The latest autosaved versions of all plans are preserved for 14 days and accessible via the Help -> Restore autosaved plans dialog.
 
-#### More changes
+### More changes
 
-**Distance Marker Breakline** - when not drawing to scale, use the Breakline property of Distance Marker to indicate where the marker symbolically represents a larger on-site distance.
+**Distance Marker breakline** - when not drawing to scale, use the Breakline property of Distance Marker to indicate where the marker symbolically represents a larger on-site distance.
 
 **Print/export all regions** - other than the existing option to export active view, the right-clicking on the diagram canvas now also allows printing/exporting all print regions on the diagram via the Batch Export dialog.
 
-**Toggle Text Alignment** - use **Ctrl + Alt + C** to quickly toggle between the available text alignment modes in all selected text objects.
+**Toggle text alignment** - use **Ctrl + Alt  + C** to quickly toggle between the available text alignment modes in all selected text objects.
 
 **Quick load print frame file** - if you've saved your standard Print Frame to a file, you will now be able to apply it to new plans quicker. Right-click on the print frame icon and select Create print frame -> From file...
 
@@ -414,15 +416,15 @@ Ever lost work because you accidentally closed a plan without saving it? Use Fil
 
 **Color blind support** - the default color of some on-canvas decorations can now be adjusted in the settings for improved visibility over base maps.
 
-## RapidPlan 3.4
+## RapidPath 3.4
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h_Lq_4TB75U?si=6tpdY-SYlfz6hObF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Advanced Geometry Drawing
+### Advanced Geometry drawing
 
 ![Advanced Geometry Drawing](./assets/132059304203892127-GeometrySnapping.png)
 
-Snap to an existing geometry when drawing an object and RapidPlan will automatically create control points to fit the desired curve. Use the Offset Geometry tool to further adjust object position. Drawing delineators, lane markings, work zones along road and lane edges becomes easier than ever. NOTE: use F3 to quickly toggle snapping on/off or **Right click** the toolbar button to individually toggle snapping to points and/or geometries.
+Snap to an existing geometry when drawing an object and RapidPath will automatically create control points to fit the desired curve. Use the Offset Geometry tool to further adjust object position. Drawing delineators, lane markings, work zones along road and lane edges becomes easier than ever. NOTE: use F3 to quickly toggle snapping on/off or **Right click** the toolbar button to individually toggle snapping to points and/or geometries.
 
 ### Snap to Bounds
 
@@ -442,7 +444,7 @@ Create notes sections with the editable Text Table, use Cloud Shape and Number S
 
 Crop images and other objects to any desired shape, edit individual points and segments in existing crop geometries.
 
-### Improved CAD Import
+### Improved CAD import
 
 ![Improved CAD Import](./assets/132059305737374821-CADImport.png)
 
@@ -458,9 +460,9 @@ Plans and print regions can now be arranged by drag-dropping the items, then sav
 
 ![NearMap Integration](./assets/132059307457589842-NearMap.png)
 
-NearMap subscribers in USA, Australia and New Zealand can now access NearMap aerials as base map layer in RapidPlan. Requires a NearMap API key - please [read instructions for obtaining one](https://docs.nearmap.com/display/ND/API+Key+Authentication).
+NearMap subscribers in USA, Australia and New Zealand can now access NearMap aerials as base map layer in RapidPath. Requires a NearMap API key - please [read instructions for obtaining one](https://docs.nearmap.com/display/ND/API+Key+Authentication).
 
-#### More changes
+### More changes
 
  **Custom Hatch Fills** - use Primitive objects (Lines and Shapes) to draw a hatch segment, right-click and select Save->As Custom Hatch... To use the saved hatch, select an object with a configurable background, set Properties->Style->Fill->Style to Custom Hatch, then select your saved hatch below.
 
@@ -468,13 +470,13 @@ NearMap subscribers in USA, Australia and New Zealand can now access NearMap aer
 
 **Skew Objects** - create pseudo perspective views by holding **Ctrl + Alt** to turn object scale handles into skew handles.
 
-**Independent Control Point Tangents** - right-click on a Bezier control oint and check the "Independent tangents" option. This will make both tangent points independent of each other, allowing more complex geometry shapes.
+**Independent Control Point Tangents** - right-click on a Bezier Control Point and check the "Independent tangents" option. This will make both tangent points independent of each other, allowing more complex geometry shapes.
 
 **Merge Layer Down** - select a layer and use the Merge Down button to move all its objects to the layer underneath.
 
 **Print Frame Auto Scaling** - print frames can now automatically scale their objects to preserve their horizontal or vertical proportions to the page size when printing to different pages sizes.
 
-**RapidPlan Cloud drag&drop files** - RapidPlan Cloud (formerly Share Online) now supports moving files by drag-dropping them between folders.
+**RapidPath Cloud drag&drop files** - RapidPath Cloud (formerly Share Online) now supports moving files by drag-dropping them between folders.
 
 **Ctrl + B/I for Bold/Italic Text** - all text objects now support **Ctrl + B** and **Ctrl + I** keyboard shortcuts to toggle Bold and Italic text style respectively.
 
@@ -490,7 +492,7 @@ NearMap subscribers in USA, Australia and New Zealand can now access NearMap aer
 
 **Individual Object Opacity** - the Opacity of each object can now be set individually.
 
-## RapidPlan 3.3
+## RapidPath 3.3
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vzrYt5RD5bE?si=2B_wHJHPWzcWkUba" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -506,7 +508,7 @@ Create complex intersections with just a few mouse clicks. The intersection edit
 
 Start typing at any time while drawing objects to specify precise distance, angle, offset, point or coordinates for the next point. Pixels or site distance units can be used (for plans drawn to scale).
 
-### Sign Stand Tool
+### Sign Stand tool
 
 ![Sign Stand Tool](./assets/131928843213222467-signstand.png)
 
@@ -518,7 +520,7 @@ All sign devices can now display an adjustable stand icon to specify their exact
 
 Select a road and press **Ctrl + H** to display a set of handles that allow quick resizing of lanes, shoulders and sidewalks.
 
-### Print & Export Improvements
+### Print & Export improvements
 
 ![Print & Export Improvements](./assets/131928843386850772-printexport.png)
 
@@ -536,7 +538,7 @@ Searching for your job location in the New Plan Wizard is now more accurate and 
 
 The Manifest Export tool can now include location coordinates for signs and other devices, both when exporting to PDF and to machine readable formats which can be used to import the data to other traffic management systems.
 
-#### More changes
+### More changes
 
  **Double-click to repeat last tool -** double-click on a blank space on the drawing canvas to repeat the last operation (e.g. draw another text object)
 
@@ -550,11 +552,11 @@ The Manifest Export tool can now include location coordinates for signs and othe
 
 **New Plan Here tool** - right-click anywhere on an existing plan and use the "New Plan Here" tool to create new plans in selected locations.
 
-**JPEG2000 support** - RapidPlan now supports the JPEG2000 format both for import and export.
+**JPEG2000 support** - RapidPath now supports the JPEG2000 format both for import and export.
 
-**New base map providers [AUS & NZ]** - high quality aerial photos from Land Information New Zealand (LINZ), Land Information System Tasmania (Orthomaps Tasmania). Additionally, Spookfish enterpsise license holders can now access Spookfish maps directly from RapidPlan.
+**New base map providers [AUS & NZ]** - high quality aerial photos from Land Information New Zealand (LINZ), Land Information System Tasmania (Orthomaps Tasmania). Additionally, Spookfish enterpsise license holders can now access Spookfish maps directly from RapidPath.
 
-## RapidPlan 3.2
+## RapidPath 3.2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZqSQmxp3Rr4?si=y1WhpwYNcYzGYkjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -576,31 +578,31 @@ Use Text Variables to create reusable templates and objects whose text gets auto
 
 Import and automatically position aerial imagery from external applications that use georeferenced images. This feature will enable you to import maps from applications like NearMap or MapInfo Pro.
 
-### Zoomed View Box Tool
+### Zoomed View Box tool
 
 ![Zoomed View Box Tool](./assets/131739809018653251-ZoomedViewBox.png)
 
 The Zoomed View Box tool allows you to create insets presenting specific site areas at a higher level of detail. The tool is available in the Annotations category of the Tools palette.
 
-### Export Manifest Tool
+### Export Manifest tool
 
 ![Export Manifest Tool](./assets/131739808394353257-ExportManifest.png)
 
 Create manifest documents based on one or more traffic control plans, then print or export to a range of formats: PDF, Text, CSV, XML and Json. Access the export tool by right-clicking on a Manifest Box, or via File -> Export -> Batch Export -> Export batch manifest...
 
-### Find Objects Listed in Legend/Manifest
+### Find Objects listed in Legend/Manifest
 
 ![Find Objects Listed in Legend/Manifest](./assets/131739808802909400-FindLegendObjects.png)
 
 Legend and Manifest Boxes can now be used to trace entries back to the actual on-plan objects they represent.
 
-### New Base Map Providers [Aus only]
+### New Base Map providers [Aus only]
 
 ![New Base Map Providers [Aus only]](./assets/131739809194929861-VicMaps.png)
 
 New base map providers allow access to VIC, NSW and QLD state government services, containing detailed cartographic data and high-resolution imagery. In the provider selection dropdown, click More providers..., then select the providers you want to use - they will become visible in the dropdown. NOTE: the VicMap Basemaps services require a license, please contact State of Victoria, DELWP for details.
 
-#### More changes
+### More changes
 
  **Editing text in groups and signs** - double-click on any text object that's part of a group or sign to edit it in-place.
 
@@ -614,7 +616,7 @@ New base map providers allow access to VIC, NSW and QLD state government service
 
 **Combined federal/state libraries [AUS only]** - all state libraries are now based on 1742.3 and you can select whether you want the whole federal+state set displayed, or just the state-specific signs.
 
-## RapidPlan 3.1
+## RapidPath 3.1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DLPNw1SCmGo?si=58LWxB3ZoK1EjMGD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -642,7 +644,7 @@ Base map bearing is now adjustable, so you can draw your plans at any orientatio
 
 The selection box has been optimized for extra flexibility when selecting multiple objects. Additionally, you can now preview and select objects across all layers by holding the **Ctrl + Alt** keys.
 
-### New drawing tools
+### New Drawing tools
 
 ![New Drawing Tools](./assets/131596217986614948-tools.png)
 
@@ -654,7 +656,7 @@ Use the Marked Path tool to illustrate vehicle movement direction and the Road R
 
 Roads can now automatically draw Flat, Round or Cul-de-sac endings with a specified radius.
 
-### Improved PDF Compression
+### Improved PDF compression
 
 ![Improved PDF Compression](./assets/131596205367087433-pdf.png)
 
@@ -666,7 +668,7 @@ Files produced by exporting your base map plans to PDF are now much smaller and 
 
 The Multi Message Sign dialog loads faster, shows panel codes and lets you bookmark your most used panels for instant access.
 
-#### More changes
+### More changes
 
 **Scale/Rotate By...** - precisely transform your objects by typing in scale factors and rotation angles.
 
@@ -680,15 +682,15 @@ The Multi Message Sign dialog loads faster, shows panel codes and lets you bookm
 
 **Apply Predefined Styles** - predefined styles can now be applied to new and existing objects alike.
 
-***\*Multipage Printing Guides\**** - when printing to multiple pages, RapidPlan can automatically draw page guide lines that make it easier to join pages.
+***\*Multipage Printing Guides\**** - when printing to multiple pages, RapidPath can automatically draw page guide lines that make it easier to join pages.
 
 ***\*TIFF Support\**** - Tagged Image File Format (TIFF) is now supported in all image import and export tools.
 
 **Adjustable Mouse Buttons** - if your mouse device has additional buttons (Middle, X1, X2), you can use them as shortcuts for selected commands.
 
-**Autosave Improvements** - plans autosaved in previous RapidPlan sessions can now be restored for up to 14 days.
+**Autosave Improvements** - plans autosaved in previous RapidPath sessions can now be restored for up to 14 days.
 
-## RapidPlan 3.0
+## RapidPath 3.0
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f2V5d3LrRVo?si=hGzROd9NuuOGBtBR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -698,7 +700,7 @@ The Multi Message Sign dialog loads faster, shows panel codes and lets you bookm
 
 ![Integrated Base Maps](./assets/131460791504765237-IntegratedMapsShort.png)
 
-RapidPlan can now display a dynamic base map preview on the plan drawing canvas, download aerial tiles as plan background, import road network data and display lat/lng coordinates of any point on the plan. All you need to do to enable these features is specify plan location and scale. You can toggle between maps provided by Bing, ArcGIS and Omniscale, but we're planning to add even more providers in future RapidPlan releases.
+RapidPath can now display a dynamic base map preview on the plan drawing canvas, download aerial tiles as plan background, import road network data and display lat/lng coordinates of any point on the plan. All you need to do to enable these features is specify plan location and scale. You can toggle between maps provided by Bing, ArcGIS and Omniscale, but we're planning to add even more providers in future RapidPath releases.
 
 ### New Plan Wizard
 
@@ -736,7 +738,7 @@ Batch Export tool is now accompanied by Batch Print - a dialog that lets you qui
 
 ![Performance Improvements](./assets/131460793367381357-PerformanceImprovements.png)
 
-RapidPlan has been redesigned to make the most out of your computer's capabilities. It is now quicker, more responsive, uses less memory and loads TCPs up to 10 times faster than before!
+RapidPath has been redesigned to make the most out of your computer's capabilities. It is now quicker, more responsive, uses less memory and loads TCPs up to 10 times faster than before!
 
 ### Distance Markers
 
@@ -750,7 +752,7 @@ Auto Distance Markers have been merged into the corresponding Distance Marker to
 
 You can now specify job location coordinates for each traffic control plan you're drawing. Other than integrating base maps, in the future this will allow you to search your plans by location (show all plans in a selected area). Additionally, job start and end dates can be specified.
 
-#### More changes
+### More changes
 
  **Custom spellchecker dictionary** - add words and phrases you often use so that SpellCheck knows they're valid.
 
@@ -762,7 +764,7 @@ You can now specify job location coordinates for each traffic control plan you'r
 
 **Improved diagram rulers** - accurate rulers that help you measure Site, Page or Pixel distances on your plan.
 
-**Non-blocking background operations** - load, save, print, export and autosave operations are much quicker and run in the background without blocking the RapidPlan window.
+**Non-blocking background operations** - load, save, print, export and autosave operations are much quicker and run in the background without blocking the RapidPath window.
 
 **Swap zoom & pan keys** - if you prefer using the Control key over Shift for mouse-wheel zooming, you can now enable this option in Preferences.
 
@@ -770,7 +772,7 @@ You can now specify job location coordinates for each traffic control plan you'r
 
 **New US paper sizes** - the following fixed print region sizes were added (Imperial metrical system only): ANSI C Sheet (17x22''), ARCH C Sheet (18x24''), ANSI D Sheet (22x34''), ARCH D Sheet (24x36'').
 
-**Resizing print regions** - print regions can now be freely scaled in each direction. Hold the Shift key down while scaling to preserve region proportions.
+**Resizing print regions** - print regions can now be freely scaled in each direction. Hold the **Shift** key down while scaling to preserve region proportions.
 
 **Arc Pie tool** - a new tool for drawing filled arc figures.
 
