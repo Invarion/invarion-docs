@@ -1,5 +1,5 @@
 ---
-title: "Hotfix changelog"
+sidebar_label: "Hotfix changelog"
 ---
 
 ## RapidPlan Hotfix changelog

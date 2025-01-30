@@ -1,8 +1,8 @@
 ---
-title: "Weekly changelog"
+sidebar_label: "Weekly changelog"
 ---
 
-# RapidPlan Weekly changelog
+## RapidPlan Weekly changelog
 
 **The Weekly channel is updated with early versions of new functionality developed for the next official release. Use it if you want access to new features as soon as they are available and you are aware that this comes at a cost of reduced stability and compatibility with other versions. In particular, please note that plans saved using the Weekly versions are not guaranteed to look the same when opened on the Stable/Hotfix versions.**
 
