@@ -7,7 +7,7 @@ hide_title: true
 
 **The Weekly channel is updated with early versions of new functionality developed for the next official release. Use it if you want access to new features as soon as they are available and you are aware that this comes at a cost of reduced stability and compatibility with other versions. In particular, please note that plans saved using the Weekly versions are not guaranteed to look the same when opened on the Stable/Hotfix versions.**
 
-_NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/02-hotfix/)._
+_NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
 ### Version 4.0.134 (24 Jan 2025)
 * Upgraded Google Maps API version used.
