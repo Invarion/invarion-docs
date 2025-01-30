@@ -109,7 +109,7 @@ const config = {
     ],
     whatsNewLinks: [
       {
-        to: '/rapidplan/release-notes/release-notes-rapidplan',
+        to: '/rapidplan/release-notes/official',
         text: 'Release Notes - RapidPlan',
       },
       {
@@ -117,7 +117,7 @@ const config = {
         text: 'Release Notes - RapidPlan Online',
       },
       {
-        to: '/rapidpath/release-notes/release-notes-rapidpath',
+        to: '/rapidpath/release-notes/official',
         text: 'Release Notes - RapidPath',
       },
       {

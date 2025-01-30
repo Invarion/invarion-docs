@@ -1,5 +1,6 @@
 ---
 sidebar_label: "Official releases"
+hide_title: true
 ---
 
 ## RapidPath 4.0

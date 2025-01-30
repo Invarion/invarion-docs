@@ -1,5 +1,6 @@
 ---
 sidebar_label: "Hotfix changelog"
+hide_title: true
 ---
 
 ## RapidPlan Hotfix changelog

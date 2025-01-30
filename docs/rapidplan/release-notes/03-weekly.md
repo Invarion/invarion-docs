@@ -1,5 +1,6 @@
 ---
 sidebar_label: "Weekly changelog"
+hide_title: true
 ---
 
 ## RapidPlan Weekly changelog
