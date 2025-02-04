@@ -1,6 +1,8 @@
 ---
 sidebar_label: "Official releases"
 hide_title: true
+redirects:
+  - /rapidplan/release-notes/release-notes-rapidplan/
 ---
 
 ## RapidPlan 4.0
