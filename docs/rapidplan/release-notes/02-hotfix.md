@@ -1,4 +1,5 @@
 ---
+title: "RapidPlan Hotfix changelog"
 sidebar_label: "Hotfix changelog"
 hide_title: true
 ---

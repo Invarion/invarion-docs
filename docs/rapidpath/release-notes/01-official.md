@@ -1,4 +1,5 @@
 ---
+title: "RapidPath Release Notes"
 sidebar_label: "Official releases"
 hide_title: true
 redirects:

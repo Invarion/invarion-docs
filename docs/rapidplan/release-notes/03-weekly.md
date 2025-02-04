@@ -1,4 +1,5 @@
 ---
+title: "RapidPlan Weekly changelog"
 sidebar_label: "Weekly changelog"
 hide_title: true
 ---
