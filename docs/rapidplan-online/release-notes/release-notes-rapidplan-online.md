@@ -1,5 +1,13 @@
 # Release Notes
 
+## March 2025
+
+- New feature: **Address here** tool. Right-click on the map to get the address of the location.
+
+### Bug fixes
+
+Fix bug when a user with read-only access could not add a comment to a plan.
+
 ## December 2024
 
 - [New feature](https://online.invarion.com/tips/22): User can select newly created object by using double right mouse click or double 2-finger tap.
