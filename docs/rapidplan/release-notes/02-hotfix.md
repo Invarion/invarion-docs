@@ -8,6 +8,14 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.0.190 (18 Mar 2025) 
+* Fixed issues with pdf export
+* Fixed issue with Google Map zoom
+* Fixed issue with Custom Hatches visibility
+* Fixed issue with drawing sign stands
+* Fixed issue with saving cusom signs
+* Fixed issue with invalid cloud shape
+
 ### Version 4.0.125 (20 Jan 2025) 
 * [RapidPath] Fixed fixed vehicle path drawing issues.
  
