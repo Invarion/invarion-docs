@@ -10,6 +10,18 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.0.189 (18 Mar 2025)
+* Added option for importing geo-referenced CAD files
+* Added new tool - Location Marker
+* [RapidPath] Added option for measuring a radius of vehicle path.
+* Improved Zoomed View Box which now can show content from custom stage
+* New batch export options - one file per stage, individual file page numbering
+* Added option for print regions styling
+* Improved importing roads from OSM
+* Improved finding signs in editor
+* Bugfixes
+
+
 ### Version 4.0.134 (24 Jan 2025)
 * Upgraded Google Maps API version used.
 * Added option for resetting duplicated location IDs during plan load.
