@@ -11,15 +11,13 @@ hide_title: true
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
 ### Version 4.0.189 (18 Mar 2025)
-* Added option for importing geo-referenced CAD files
-* Added new tool - Location Marker
-* [RapidPath] Added option for measuring a radius of vehicle path.
-* Improved Zoomed View Box which now can show content from custom stage
-* New batch export options - one file per stage, individual file page numbering
-* Added option for print regions styling
-* Improved importing roads from OSM
-* Improved finding signs in editor
-* Bugfixes
+* Georeferenced CAD import tool.
+* New object - Location Marker.
+* Allow Zoomed View Box to show contents from a selected stage.
+* New Batch Export options - one file per stage, individual file page numbering.
+* Adjustable object styling for Roads Import tool.
+* New print region styling options.
+* [RapidPath] Tool for measuring vehicle path radius.
 
 
 ### Version 4.0.134 (24 Jan 2025)
@@ -31,7 +29,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 * [RapidPath] Added option to loop exported swept path animation.
 * Improved efficiency of downloading aerial tiles.
 * Added option to force disk flush when saving plans.
-* Increased default value of the  "Max number of tasks" setting.
+* Increased default value of the "Max number of tasks" setting.
  
 ### Version 4.0.87 (20 Dec 2024)
 * Bugfixes 
