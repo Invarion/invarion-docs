@@ -4,6 +4,43 @@ sidebar_label: "Official releases"
 hide_title: true
 ---
 
+## RapidPlan 4.1 (coming soon)
+
+*NOTE: The official release of RapidPlan 4.1 is coming soon. Currently a pre-release version is available on our Weekly updates channel - please contact Invarion Technical Support if you want to access it.*
+
+### Georeferenced CAD Import
+
+![geocad](./assets/geocad.png)
+
+CAD Import has been integrated into RapidPlan's georeferenced import tool (previously used for KML/SHP files only), allowing you to seamlessly integrate CAD road layouts with traffic control plans. All EPSG spatial projections are supported, with CAD data reprojected on the fly for instant overlay over your TCP basemap.
+
+### Location Marker Object
+
+![location markers](./assets/location_markers.png)
+
+The Location Marker is a new annotation object designed to mark specific positions on the plan in the form of pin icons and the corresponding location coordinates. The pin can be styled according to your preferences and location coordinates update automatically as you adjust the marker position, even if it's grouped and transformed with other objects on your plan. You can also replace the coordinates with custom text.
+
+### Batch coordinate converter (NZ Mobile Road integration)
+
+![coords converter](./assets/coords_converter.png)
+
+The Batch Edit Location Markers tool allows you to export the position coordinates of your selected markers, then replace them with custom text imported from an external coordinate converter tool, service. An example use of this tool would be integrating with Mobile Road converter, which can convert the coordinates into New Zealand Route Positions, allowing you to semi-automatically annotate objects on your traffic control plan with correct RPs.
+
+### More changes
+
+**Zoomed View Box stage selection** - the Zoomed View Box allows selecting a specific stage whose contents will be displayed. Using this feature lets you present objects drawn on another plan stage.
+
+**New Batch Export options** - the Batch Export tool allows creating a separate PDF file for each stage you're exporting. Additionally, you can now select whether page numbering is common for the whole export job or separate for each output file.
+
+**Roads Import tool improvements** - predefined road styles can now be assigned to specific OSM road categories. Additionally, lane count will be imported from OSM data (where available) and new settings are available for automatically including road names and speed limits in the Roads Import operation.
+
+**New Print Region styling options** - new advanced settings category: "Print region style", with options that allow adjusting the style of print regions displayed in the plan editor as well as the inner regions on exported plans.
+
+**Find and Replace Signs auto zoom** - a new options that allows automatic zooming to signs selected by the Find and Replace Signs tool.
+
+**Performance improvements** - especially when importing aerial tiles and performing tasks on multiple threads.
+
+
 ## RapidPlan 4.0
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hHBbLazCEZY?si=05l8dj_SkGoc8z9b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
