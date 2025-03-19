@@ -10,7 +10,8 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
-### Version 4.0.189 (18 Mar 2025)
+### Version 4.1.2 (19 Mar 2025)
+* RapidPlan 4.1 pre-release version.
 * Georeferenced CAD import tool.
 * New object - Location Marker.
 * Allow Zoomed View Box to show contents from a selected stage.

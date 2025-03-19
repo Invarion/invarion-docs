@@ -12,19 +12,19 @@ hide_title: true
 
 ![geocad](./assets/geocad.png)
 
-CAD Import has been integrated into RapidPath's georeferenced import tool (previously used for KML/SHP files only), allowing you to seamlessly integrate CAD road layouts with traffic control plans. All EPSG spatial projections are supported, with CAD data reprojected on the fly for instant overlay over your TCP basemap.
+CAD Import has been integrated into RapidPath's georeferenced import tool (previously used for KML/SHP files only), allowing you to seamlessly integrate CAD road layouts with georeferenced traffic control plans. All EPSG spatial projections are supported, with CAD data reprojected on the fly for instant overlay over your TCP basemap.
 
 ### Location Marker Object
 
 ![location markers](./assets/location_markers.png)
 
-The Location Marker is a new annotation object designed to mark specific positions on the plan in the form of pin icons and the corresponding location coordinates. The pin can be styled according to your preferences and location coordinates update automatically as you adjust the marker position, even if it's grouped and transformed with other objects on your plan. You can also replace the coordinates with custom text.
+The Location Marker is a new annotation object designed to mark specific positions on the plan in the form of pin icons and the corresponding location coordinates. Pin icons can be styled according to your preferences and location coordinates update automatically as you adjust marker position, even if it's grouped and transformed with other objects on your plan. You can also replace the coordinates with custom text.
 
 ### Batch coordinate converter (NZ Mobile Road integration)
 
 ![coords converter](./assets/coords_converter.png)
 
-The Batch Edit Location Markers tool allows you to export the position coordinates of your selected markers, then replace them with custom text imported from an external coordinate converter tool, service. An example use of this tool would be integrating with Mobile Road converter, which can convert the coordinates into New Zealand Route Positions, allowing you to semi-automatically annotate objects on your traffic control plan with correct RPs.
+Use the Batch Edit Location Markers tool to export position coordinates of your selected markers, then replace them with custom text imported from an external coordinate converter tool or service. An example service you can integrate with is the [Mobile Road converter](https://mobileroad.org/converter.html), which can convert lat/lng coordinates into New Zealand Route Positions, allowing you to quickly annotate objects on your traffic control plan with correct RPs.
 
 ### More changes
 
