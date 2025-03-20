@@ -18,7 +18,7 @@ RapidPath 4.1 gives access to all available country standrad vehicles.
 
 ![geocad](./assets/turnRadius.png)
 
-Use RapidPath's new mode to measure turn radius of drawn vehicle path and add suitable marker with defined style.
+The Vehicle Path object can be automatically annotated with markers describing the turn radius of each path section.
 
 ### Georeferenced CAD Import
 
@@ -39,8 +39,6 @@ The Location Marker is a new annotation object designed to mark specific positio
 Use the Batch Edit Location Markers tool to export position coordinates of your selected markers, then replace them with custom text imported from an external coordinate converter tool or service. An example service you can integrate with is the [Mobile Road converter](https://mobileroad.org/converter.html), which can convert lat/lng coordinates into New Zealand Route Positions, allowing you to quickly annotate objects on your traffic control plan with correct RPs.
 
 ### More changes
-
-**Vehicle Path section measurements** - the Vehicle Path object can be automatically annotated with markers describing the turn radius of each path section.
 
 **Zoomed View Box stage selection** - the Zoomed View Box allows selecting a specific stage whose contents will be displayed. Using this feature lets you present objects drawn on another plan stage.
 
