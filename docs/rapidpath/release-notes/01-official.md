@@ -8,6 +8,18 @@ hide_title: true
 
 *NOTE: The official release of RapidPath 4.1 is coming soon. Currently a pre-release version is available on our Weekly updates channel - please contact Invarion Technical Support if you want to access it.*
 
+### More vehicles
+
+![geocad](./assets/moreVehicles.png)
+
+RapidPath 4.1 gives access to all available country standrad vehicles.
+
+### Measuring turn radius
+
+![geocad](./assets/turnRadius.png)
+
+Use RapidPath's new mode to measure turn radius of drawn vehicle path and add suitable marker with defined style.
+
 ### Georeferenced CAD Import
 
 ![geocad](./assets/geocad.png)
