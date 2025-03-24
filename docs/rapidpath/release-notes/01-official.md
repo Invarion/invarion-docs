@@ -8,17 +8,18 @@ hide_title: true
 
 *NOTE: The official release of RapidPath 4.1 is coming soon. Currently a pre-release version is available on our Weekly updates channel - please contact Invarion Technical Support if you want to access it.*
 
-### More vehicles
-
-![geocad](./assets/moreVehicles.png)
-
-RapidPath 4.1 gives access to all available country standrad vehicles.
-
-### Measuring turn radius
+### Measure turning radius
 
 ![geocad](./assets/turnRadius.png)
 
-The Vehicle Path object can be automatically annotated with markers describing the turn radius of each path section.
+Turning radius can now be measured for each section of a vehicle path. To do this, highlight the path and select the new turn radius mode from the menu. Choose a style for the markers and select individual path sections to add the annotations.
+
+### New vehicles
+
+![geocad](./assets/moreVehicles.png)
+
+The vehicle library has been extended to include national standard vehicles from a range of countries. Simply open the vehicle dialog and choose the library you need.
+A new 'National standards' add-on has automatically been assigned to each RapidPath subscription and included at no extra charge. Specialist libraries, such as Construction, are still available for purchase as separate add-ons.
 
 ### Georeferenced CAD Import
 
