@@ -8,15 +8,9 @@ hide_title: true
 
 *NOTE: The official release of RapidPath 4.1 is coming soon. Currently a pre-release version is available on our Weekly updates channel - please contact Invarion Technical Support if you want to access it.*
 
-### Measure turning radius
-
-![geocad](./assets/turnRadius.png)
-
-Turning radius can now be measured for each section of a vehicle path. To do this, highlight the path and select the new turn radius mode from the menu. Choose a style for the markers and select individual path sections to add the annotations.
-
 ### New vehicles
 
-![geocad](./assets/moreVehicles.png)
+![new vehicles](./assets/moreVehicles.png)
 
 The vehicle library has been extended to include national standard vehicles from a range of countries. Simply open the vehicle dialog and choose the library you need.
 A new 'National standards' add-on has automatically been assigned to each RapidPath subscription and included at no extra charge. Specialist libraries, such as Construction, are still available for purchase as separate add-ons.
@@ -27,19 +21,15 @@ A new 'National standards' add-on has automatically been assigned to each RapidP
 
 CAD Import has been integrated into RapidPath's georeferenced import tool (previously used for KML/SHP files only), allowing you to seamlessly integrate CAD road layouts with georeferenced traffic control plans. All EPSG spatial projections are supported, with CAD data reprojected on the fly for instant overlay over your TCP basemap.
 
-### Location Marker Object
+### Measure turning radius
 
-![location markers](./assets/location_markers.png)
+![turn radius](./assets/turnRadius.png)
 
-The Location Marker is a new annotation object designed to mark specific positions on the plan in the form of pin icons and the corresponding location coordinates. Pin icons can be styled according to your preferences and location coordinates update automatically as you adjust marker position, even if it's grouped and transformed with other objects on your plan. You can also replace the coordinates with custom text.
-
-### Batch coordinate converter (NZ Mobile Road integration)
-
-![coords converter](./assets/coords_converter.png)
-
-Use the Batch Edit Location Markers tool to export position coordinates of your selected markers, then replace them with custom text imported from an external coordinate converter tool or service. An example service you can integrate with is the [Mobile Road converter](https://mobileroad.org/converter.html), which can convert lat/lng coordinates into New Zealand Route Positions, allowing you to quickly annotate objects on your traffic control plan with correct RPs.
+Turning radius can now be measured for each section of a vehicle path. To do this, highlight the path and select the new turn radius mode from the menu. Choose a style for the markers and select individual path sections to add the annotations.
 
 ### More changes
+
+**Location Marker Object** - new annotation object designed to mark specific positions on the plan in the form of pin icons and the corresponding location coordinates.
 
 **Zoomed View Box stage selection** - the Zoomed View Box allows selecting a specific stage whose contents will be displayed. Using this feature lets you present objects drawn on another plan stage.
 
@@ -50,6 +40,8 @@ Use the Batch Edit Location Markers tool to export position coordinates of your 
 **New Print Region styling options** - new advanced settings category: "Print region style", with options that allow adjusting the style of print regions displayed in the plan editor as well as the inner regions on exported plans.
 
 **Find and Replace Signs auto zoom** - a new options that allows automatic zooming to signs selected by the Find and Replace Signs tool.
+
+**Batch coordinate converter (NZ Mobile Road integration)** - Batch Edit Location Markers tool allows to export position coordinates of your selected markers, then replace them with custom text imported from an external coordinate converter tool or service.
 
 **Performance improvements** - especially when importing aerial tiles and performing tasks on multiple threads.
 
