@@ -8,6 +8,19 @@ hide_title: true
 
 *NOTE: The official release of RapidPath 4.1 is coming soon. Currently a pre-release version is available on our Weekly updates channel - please contact Invarion Technical Support if you want to access it.*
 
+### Measure turning radius
+
+![geocad](./assets/turnRadius.png)
+
+Turning radius can now be measured for each section of a vehicle path. To do this, highlight the path and select the new turn radius mode from the menu. Choose a style for the markers and select individual path sections to add the annotations.
+
+### New vehicles
+
+![geocad](./assets/moreVehicles.png)
+
+The vehicle library has been extended to include national standard vehicles from a range of countries. Simply open the vehicle dialog and choose the library you need.
+A new 'National standards' add-on has automatically been assigned to each RapidPath subscription and included at no extra charge. Specialist libraries, such as Construction, are still available for purchase as separate add-ons.
+
 ### Georeferenced CAD Import
 
 ![geocad](./assets/geocad.png)
@@ -27,8 +40,6 @@ The Location Marker is a new annotation object designed to mark specific positio
 Use the Batch Edit Location Markers tool to export position coordinates of your selected markers, then replace them with custom text imported from an external coordinate converter tool or service. An example service you can integrate with is the [Mobile Road converter](https://mobileroad.org/converter.html), which can convert lat/lng coordinates into New Zealand Route Positions, allowing you to quickly annotate objects on your traffic control plan with correct RPs.
 
 ### More changes
-
-**Vehicle Path section measurements** - the Vehicle Path object can be automatically annotated with markers describing the turn radius of each path section.
 
 **Zoomed View Box stage selection** - the Zoomed View Box allows selecting a specific stage whose contents will be displayed. Using this feature lets you present objects drawn on another plan stage.
 
