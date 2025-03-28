@@ -10,6 +10,10 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.1.8 (28 Mar 2025)
+* Minor pre-release adjustments.
+
+
 ### Version 4.1.2 (19 Mar 2025)
 * RapidPlan 4.1 pre-release version.
 * Georeferenced CAD import tool.
