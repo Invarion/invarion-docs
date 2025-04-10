@@ -1,5 +1,9 @@
 # Release Notes
 
+## April 2025
+
+- New feature: **Fit object**. Allows for aligning objects to the basemap. Specifically, allows for aerial images to be aligned to the basemap.
+
 ## March 2025
 
 - New feature: **Address here** tool. Right-click on the map to get the address of the location.
