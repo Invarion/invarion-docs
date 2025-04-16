@@ -4,6 +4,12 @@
 
 - New feature: **Fit object**. Allows for aligning objects to the basemap. Specifically, allows for aerial images to be aligned to the basemap.
 
+### Bug fixes
+
+- Right panel stays open when user restores plan from trash on Invarion Cloud.
+- Correct error message is shown when uploading a large plan to Invarion Cloud.
+- Fix error when right panel stays open when user moves a folder to trash on Invarion Cloud.
+
 ## March 2025
 
 - New feature: **Address here** tool. Right-click on the map to get the address of the location.
