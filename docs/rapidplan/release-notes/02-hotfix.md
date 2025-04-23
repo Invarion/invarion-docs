@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.1.23 (23 Apr 2025)
+* First official RP 4.1 build, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/)
+
 ### Version 4.0.194 (19 Mar 2025) 
 * Fixed PDF export issues.
 * Fixed Google Map zoom issue.
