@@ -32,7 +32,7 @@ Use the Batch Edit Location Markers tool to export position coordinates of your 
 
 **New Batch Export options** - the Batch Export tool allows creating a separate PDF file for each stage you're exporting. Additionally, you can now select whether page numbering is common for the whole export job or separate for each output file.
 
-**Roads Import tool improvements** - predefined road styles can now be assigned to specific OSM road categories. Additionally, lane count will be imported from OSM data (where available) and new settings are available for automatically including road names and speed limits in the Roads Import operation.
+**Roads Import tool improvements** - predefined road styles can now be assigned to specific OSM road categories. Simply use OSM_*category* as name when saving the style, for example OSM_secondary (the full list of OSM road categories can be found [HERE](https://wiki.openstreetmap.org/wiki/Key:highway#Roads)). Additionally, lane count will be imported from OSM data (where available) and new settings are available for automatically including road names and speed limits in the Roads Import operation.
 
 **New Print Region styling options** - new advanced settings category: "Print region style", with options that allow adjusting the style of print regions displayed in the plan editor as well as the inner regions on exported plans.
 
@@ -40,7 +40,7 @@ Use the Batch Edit Location Markers tool to export position coordinates of your 
 
 **Performance improvements** - especially when importing aerial tiles and performing tasks on multiple threads.
 
-
+https://wiki.openstreetmap.org/wiki/Key:highway#Roads
 ## RapidPlan 4.0
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hHBbLazCEZY?si=05l8dj_SkGoc8z9b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
