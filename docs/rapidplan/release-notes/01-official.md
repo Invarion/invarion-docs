@@ -4,9 +4,9 @@ sidebar_label: "Official releases"
 hide_title: true
 ---
 
-## RapidPlan 4.1 (coming soon)
+## RapidPlan 4.1
 
-*NOTE: The official release of RapidPlan 4.1 is coming soon. Currently a pre-release version is available on our Weekly updates channel - please contact Invarion Technical Support if you want to access it.*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I9XC3B_DMVg?si=SEF-pV9MFP0l3H5v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Georeferenced CAD Import
 
