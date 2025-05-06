@@ -134,7 +134,8 @@ const config = {
       metadata: [
         {
           name: 'keywords',
-          content: "rapid online, rapid plan cloud, rapidplan, rapid path online, documentation, what's new",
+          content:
+            "rapid online, rapid plan cloud, rapidplan, rapid path online, documentation, what's new",
         },
       ],
       navbar: {
@@ -159,12 +160,14 @@ const config = {
               {
                 type: 'doc',
                 label: 'RapidPlan',
-                docId: 'rapidplan/the-home-screen-and-starting-a-plan/the-home-screen',
+                docId:
+                  'rapidplan/the-home-screen-and-starting-a-plan/the-home-screen',
               },
               {
                 type: 'doc',
                 label: 'RapidPath',
-                docId: 'rapidpath/the-home-screen-and-starting-a-plan/the-home-screen',
+                docId:
+                  'rapidpath/the-home-screen-and-starting-a-plan/the-home-screen',
               },
               {
                 type: 'doc',
@@ -196,7 +199,7 @@ const config = {
           {
             position: 'right',
             label: 'Sign up',
-            to: 'https://invarion.com/pricing/',
+            to: 'https://accounts.invarion.com/manage/my-account',
           },
         ],
       },
