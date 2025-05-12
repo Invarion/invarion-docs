@@ -10,6 +10,9 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.1.48 (12 May 2025)
+* Bugfixes.
+
 ### Version 4.1.23 (23 Apr 2025)
 * First official RP 4.1 build, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/)
 
