@@ -8,7 +8,7 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
-### Version 4.1.47 (12 May 2025)
+### Version 4.1.52 (13 May 2025)
 * Fixed ungrouping objects on print frames.
 * Fixed duplicated print frames after copying print region.
 * Fixed Zoomed View Box layer visibility during batch export.
