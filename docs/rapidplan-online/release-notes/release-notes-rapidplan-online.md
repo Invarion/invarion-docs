@@ -1,5 +1,13 @@
 # Release Notes
 
+## May 2025
+
+- Invarion Cloud: **Job start** and **Job end** dates are now displayed in the plan's side panel and table view. You can sort plans by these dates in the Invarion Cloud.
+
+### Bug fixes
+
+- Fix bug when one file could be uploaded twice to the Invarion Cloud.
+
 ## April 2025
 
 - New feature: **Fit object**. Allows for aligning objects to the basemap. Specifically, allows for aerial images to be aligned to the basemap.
