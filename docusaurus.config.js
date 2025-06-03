@@ -44,7 +44,7 @@ const config = {
   customFields: {
     gettingStartedLinks: [
       {
-        to: '/rapidplan/rapidplan/installation-preferences-and-adminstration/the-invarion-launcher',
+        to: '/rapidplan/installation-preferences-and-adminstration/the-invarion-launcher',
         text: 'Downloading the Invarion Launcher',
       },
       {
@@ -256,7 +256,7 @@ const config = {
             title: 'Account',
             items: [
               {
-                label: 'Invarin Cloud',
+                label: 'Invarion Cloud',
                 href: 'https://cloud.invarion.com/',
                 target: '_self',
               },
