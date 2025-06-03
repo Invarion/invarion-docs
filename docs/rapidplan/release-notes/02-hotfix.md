@@ -8,6 +8,12 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.1.62 (3 June 2025)
+* Fixed ungrouping issues for objects containing variables on print frames.
+* Resolved aerials import problems with ArcGIS at specific scales.
+* Corrected incorrect creation dates for plans created by opening template files directly.
+* Fixed orientation errors of flush median lines in PDF exports.
+
 ### Version 4.1.52 (13 May 2025)
 * Fixed ungrouping objects on print frames.
 * Fixed duplicated print frames after copying print region.
