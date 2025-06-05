@@ -76,15 +76,15 @@ const config = {
     ],
     docsLinks: [
       {
-        to: '/rapidplan/the-home-screen-and-starting-a-plan/the-home-screen',
+        to: '/rapidplan/Welcome',
         text: 'RP',
       },
       {
-        to: '/rapidplan-online/getting-started',
+        to: '/rapidplan-online/Welcome',
         text: 'RO',
       },
       {
-        to: '/rapidpath/the-home-screen-and-starting-a-plan/the-home-screen',
+        to: '/rapidpath/Welcome',
         text: 'RA',
       },
       { to: 'rapidpath-online/Welcome', text: 'RAO' },
@@ -159,17 +159,17 @@ const config = {
               {
                 type: 'doc',
                 label: 'RapidPlan',
-                docId: 'rapidplan/the-home-screen-and-starting-a-plan/the-home-screen',
+                docId: 'rapidplan/Welcome',
               },
               {
                 type: 'doc',
                 label: 'RapidPath',
-                docId: 'rapidpath/the-home-screen-and-starting-a-plan/the-home-screen',
+                docId: 'rapidpath/Welcome',
               },
               {
                 type: 'doc',
                 label: 'RapidPlan Online',
-                docId: 'rapidplan-online/getting-started/getting-started',
+                docId: 'rapidplan-online/Welcome',
               },
               {
                 type: 'doc',
