@@ -179,7 +179,7 @@ const config = {
               {
                 type: 'doc',
                 label: 'Account Management',
-                docId: 'account-management/accessing-your-account',
+                docId: 'account-management/Welcome',
               },
             ],
           },
