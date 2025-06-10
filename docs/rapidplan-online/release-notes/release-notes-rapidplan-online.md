@@ -1,5 +1,13 @@
 # Release Notes
 
+## June 2025
+
+- New object type: **Location Marker**. Shows coordianes of a specific location on the map (Lat/Long or Easting/Northing).
+- Comments correctly display new line.
+- Plan name is now shown on page title.
+- Map provider can be changed on read-only plans.
+- Job start and job end dates use range picker for date selection.
+
 ## May 2025
 
 - Invarion Cloud: **Job start** and **Job end** dates are now displayed in the plan's side panel and table view. You can sort plans by these dates in the Invarion Cloud.
