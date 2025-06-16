@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.1.68 (13 June 2025)
+* Fixed Google basemap max zoom level issue.
+
 ### Version 4.1.62 (3 June 2025)
 * Fixed ungrouping issues for objects containing variables on print frames.
 * Resolved aerials import problems with ArcGIS at specific scales.
