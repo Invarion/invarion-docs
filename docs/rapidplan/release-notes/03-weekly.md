@@ -10,8 +10,11 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.1.70 (16 June 2025)
+* New Crosswalk type: Ladder.
+
 ### Version 4.1.63 (3 June 2025)
-* Added support for creating a custom list of print region sizes, which can include both predefined and user-defined sizes.
+* Edit Print Region Sizes dialog.
 
 ### Version 4.1.53 (13 May 2025)
 * Bugfixes.
