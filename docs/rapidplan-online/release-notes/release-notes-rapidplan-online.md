@@ -7,6 +7,11 @@
 - Plan name is now shown on page title.
 - Map provider can be changed on read-only plans.
 - Job start and job end dates use range picker for date selection.
+- Add filter for plans in the Invarion Cloud. You can filter plans by name, job start date, job end date.
+
+### Bug fixes
+
+- Fix issue when settings page is not populated with data when user opens it for the first time.
 
 ## May 2025
 
