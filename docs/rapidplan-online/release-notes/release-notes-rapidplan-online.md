@@ -1,5 +1,10 @@
 # Release Notes
 
+## July 2025
+
+- Invarion Cloud now allows you to download many plans at once. You can enter 'Select many' mode and select multiple plans to download them.
+- Improve map view. Now map view works the same way as table view. You see the same plans as in the table view, but in a map format.
+
 ## June 2025
 
 - New object type: **Location Marker**. Shows coordianes of a specific location on the map (Lat/Long or Easting/Northing).
