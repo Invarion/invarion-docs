@@ -5,6 +5,8 @@ sidebar_position: 1
 ---
 # Printing and Exporting
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6s_StQTBn7w?si=sZyKpa-ifr0GNfCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 The areas you print in your plan is dictated by the location of your [Print Regions](/rapid-online/rapidplan-online-workspace/layers-palette.md). When your plan is ready for Printing or Exporting, simply select the **Print** option in the Main Menu, or click the printer icon (![print icon](./assets/printicon.png)) in the toolbar. Once selected, the following print dialogue window opens, containing several options to customize your document.
 
 ![Printing Dialogue](./assets/Printing_Dialogue.png)

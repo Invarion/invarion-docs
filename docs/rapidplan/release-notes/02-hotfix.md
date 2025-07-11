@@ -8,6 +8,21 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.1.68 (13 June 2025)
+* Fixed Google basemap max zoom level issue.
+
+### Version 4.1.62 (3 June 2025)
+* Fixed ungrouping issues for objects containing variables on print frames.
+* Resolved aerials import problems with ArcGIS at specific scales.
+* Corrected incorrect creation dates for plans created by opening template files directly.
+* Fixed orientation errors of flush median lines in PDF exports.
+
+### Version 4.1.52 (13 May 2025)
+* Fixed ungrouping objects on print frames.
+* Fixed duplicated print frames after copying print region.
+* Fixed Zoomed View Box layer visibility during batch export.
+* [RapidPath] Fixed tire positions after adjusting vehicle width.
+
 ### Version 4.1.23 (23 Apr 2025)
 * First official RP 4.1 build, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/)
 

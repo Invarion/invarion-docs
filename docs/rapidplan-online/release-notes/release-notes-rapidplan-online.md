@@ -1,5 +1,31 @@
 # Release Notes
 
+## July 2025
+
+- Invarion Cloud now allows you to download many plans at once. You can enter 'Select many' mode and select multiple plans to download them.
+- Improve map view. Now map view works the same way as table view. You see the same plans as in the table view, but in a map format.
+
+## June 2025
+
+- New object type: **Location Marker**. Shows coordianes of a specific location on the map (Lat/Long or Easting/Northing).
+- Comments correctly display new line.
+- Plan name is now shown on page title.
+- Map provider can be changed on read-only plans.
+- Job start and job end dates use range picker for date selection.
+- Add filter for plans in the Invarion Cloud. You can filter plans by name, job start date, job end date.
+
+### Bug fixes
+
+- Fix issue when settings page is not populated with data when user opens it for the first time.
+
+## May 2025
+
+- Invarion Cloud: **Job start** and **Job end** dates are now displayed in the plan's side panel and table view. You can sort plans by these dates in the Invarion Cloud.
+
+### Bug fixes
+
+- Fix bug when one file could be uploaded twice to the Invarion Cloud.
+
 ## April 2025
 
 - New feature: **Fit object**. Allows for aligning objects to the basemap. Specifically, allows for aerial images to be aligned to the basemap.

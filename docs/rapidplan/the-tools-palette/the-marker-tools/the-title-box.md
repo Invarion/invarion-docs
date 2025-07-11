@@ -33,7 +33,7 @@ Creating a title box is a simple matter of selecting, filling and placing on the
 
  **Note**: As always in RapidPlan, this editing can be done from the Properites Palette.
 
-## Manipulating the title box
+## Manipulating the Title Box
 
 The title box can be moved, rotated, resized, cut copied and pasted just like any other item on the canvas. Simply select it and make any changes as required.
 

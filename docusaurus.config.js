@@ -44,7 +44,7 @@ const config = {
   customFields: {
     gettingStartedLinks: [
       {
-        to: '/rapidplan/rapidplan/installation-preferences-and-adminstration/the-invarion-launcher',
+        to: '/rapidplan/installation-preferences-and-adminstration/the-invarion-launcher',
         text: 'Downloading the Invarion Launcher',
       },
       {
@@ -76,15 +76,15 @@ const config = {
     ],
     docsLinks: [
       {
-        to: '/rapidplan/the-home-screen-and-starting-a-plan/the-home-screen',
+        to: '/rapidplan/Welcome',
         text: 'RP',
       },
       {
-        to: '/rapidplan-online/getting-started',
+        to: '/rapidplan-online/Welcome',
         text: 'RO',
       },
       {
-        to: '/rapidpath/the-home-screen-and-starting-a-plan/the-home-screen',
+        to: '/rapidpath/Welcome',
         text: 'RA',
       },
       { to: 'rapidpath-online/Welcome', text: 'RAO' },
@@ -134,8 +134,7 @@ const config = {
       metadata: [
         {
           name: 'keywords',
-          content:
-            "rapid online, rapid plan cloud, rapidplan, rapid path online, documentation, what's new",
+          content: "rapid online, rapid plan cloud, rapidplan, rapid path online, documentation, what's new",
         },
       ],
       navbar: {
@@ -160,19 +159,17 @@ const config = {
               {
                 type: 'doc',
                 label: 'RapidPlan',
-                docId:
-                  'rapidplan/the-home-screen-and-starting-a-plan/the-home-screen',
+                docId: 'rapidplan/Welcome',
               },
               {
                 type: 'doc',
                 label: 'RapidPath',
-                docId:
-                  'rapidpath/the-home-screen-and-starting-a-plan/the-home-screen',
+                docId: 'rapidpath/Welcome',
               },
               {
                 type: 'doc',
                 label: 'RapidPlan Online',
-                docId: 'rapidplan-online/getting-started/getting-started',
+                docId: 'rapidplan-online/Welcome',
               },
               {
                 type: 'doc',
@@ -182,7 +179,7 @@ const config = {
               {
                 type: 'doc',
                 label: 'Account Management',
-                docId: 'account-management/accessing-your-account',
+                docId: 'account-management/Welcome',
               },
             ],
           },
@@ -259,7 +256,7 @@ const config = {
             title: 'Account',
             items: [
               {
-                label: 'Invarin Cloud',
+                label: 'Invarion Cloud',
                 href: 'https://cloud.invarion.com/',
                 target: '_self',
               },
