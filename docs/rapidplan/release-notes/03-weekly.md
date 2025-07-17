@@ -10,7 +10,7 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
-### Version 4.1.86 (09 July 2025)
+### Version 4.1.85 (09 July 2025)
 * Support for advanced web proxy settings (requires Invarion Launcher 1.233 or newer).
 * Allow opening web links in an external browser.
 
