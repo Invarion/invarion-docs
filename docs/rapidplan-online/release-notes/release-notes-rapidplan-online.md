@@ -2,8 +2,13 @@
 
 ## July 2025
 
+- Marked path tool has now a **Tails** model. It allows you to draw a path made of many arrows.
 - Invarion Cloud now allows you to download many plans at once. You can enter 'Select many' mode and select multiple plans to download them.
 - Improve map view. Now map view works the same way as table view. You see the same plans as in the table view, but in a map format.
+
+### Bug fixes
+
+- Fix bug when objects are dislocated when user first changes plan metadata and then starts drawing objects on the plan.
 
 ## June 2025
 
