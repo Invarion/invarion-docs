@@ -14,7 +14,6 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 * Bugfixes.
 * Added new “Tails” mode to the marked path tool which draws geometry in sections which allows to draw a path of arrows.
 * Introduced support for Cloud Comments. Users can now view and create location-based comments directly on the plan. 
-* Added new "Ladder" crosswalk type.
 
 ### Version 4.1.85 (09 July 2025)
 * Support for advanced web proxy settings (requires Invarion Launcher 1.233 or newer).
