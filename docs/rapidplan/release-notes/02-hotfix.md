@@ -8,6 +8,16 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.1.104 (18 July 2025)
+* Fixed an issue where the print region couldn't be easily dragged by its border.
+* Improved tooltip styling.
+* Fixed a focus issue when clicking on the diagram, which could interfere with panning using the Space key.
+* Resolved a problem where message boxes occasionally appeared behind the main window.
+* Fixed an issue with retrieving the Google Maps attribution text.
+* Fixed an issue where the Google logo was sometimes not visible.
+* Improved the quality of the Google Maps base map in certain locations.
+* Fixed an issue where some vehicle profile details were missing when using specific fonts.
+
 ### Version 4.1.68 (13 June 2025)
 * Fixed Google basemap max zoom level issue.
 
