@@ -11,9 +11,8 @@ hide_title: true
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
 ### Version 4.1.105 (18 July 2025)
-* Bugfixes.
-* Added new “Tails” mode to the marked path tool which draws geometry in sections which allows to draw a path of arrows.
-* Introduced support for Cloud Comments. Users can now view and create location-based comments directly on the plan. 
+* Cloud Comments attached to specific plan locations.
+* New Marked Path path drawing mode: Tails.
 
 ### Version 4.1.85 (09 July 2025)
 * Support for advanced web proxy settings (requires Invarion Launcher 1.233 or newer).
