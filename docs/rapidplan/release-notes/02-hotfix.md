@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.1.116 (25 July 2025)
+* Fixed print region resizing with snapping issue.
+
 ### Version 4.1.104 (18 July 2025)
 * Fixed print region border dragging.
 * Fixed diagram editor focus issues.
