@@ -10,6 +10,10 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.1.117 (25 July 2025)
+* Cad export.
+* Update .net runtime and third party libraries.
+
 ### Version 4.1.105 (18 July 2025)
 * Cloud Comments attached to specific plan locations.
 * New Marked Path path drawing mode: Tails.
