@@ -10,6 +10,9 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.1.126 (29 July 2025)
+* Google Maps improvements: annotation styles, road level details.
+
 ### Version 4.1.117 (25 July 2025)
 * Exporting plans to CAD (DXF/DWG).
 * Updated .NET runtime and third party libraries.
