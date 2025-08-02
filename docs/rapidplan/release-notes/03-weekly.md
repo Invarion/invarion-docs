@@ -10,6 +10,9 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.2.1 (02 August 2025)
+* RapidPlan 4.2 pre-release version.
+
 ### Version 4.1.126 (29 July 2025)
 * Google Maps improvements: annotation styles, road level details.
 

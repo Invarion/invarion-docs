@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.1.130 (02 August 2025)
+* Fixed advanced setting search box.
+
 ### Version 4.1.125 (29 July 2025)
 * Fixed horizontal/vertical line bounds calculation.
 
