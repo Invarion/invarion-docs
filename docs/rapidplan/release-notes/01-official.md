@@ -4,6 +4,33 @@ sidebar_label: "Official releases"
 hide_title: true
 ---
 
+## RapidPlan 4.2 (coming soon)
+
+**NOTE: RapidPlan 4.2 pre-release build is currently available on our Weekly updates channel. Please contact [Invarion Technical Support](https://invarion.com/en-US/support) if you would like to access it before the official release, planned for the second half of August.**
+
+### CAD Export
+Following the success of the new CAD Import functionality added in the previous release, RapidPlan 4.2 now lets you close the loop and export traffic control plans to CAD files (DXF or DWG format). Modelspace and paperspace are both supported, for your worksite drawings and print frame contents respectively. Georeferencing options allow you to pick the desired spatial reference to make sure the data exported from RapidPlan can be easily integrated with your existing CAD files.
+
+### Google Road Level Details
+Google's new Road Level Details view is now available in RapidPlan with the Google Roadmap basemap provider. In selected locations around the world, you can now zoom in to reveal an extraordinary level of road details - curb geometries, turn lanes, lane markings, pedestrian crossings and more. NOTE: subject to Google data availability at specific locations.
+
+### Adjustable Google annotations
+With RapidPlan 4.2, you control what you see on your basemap. Both Google Roadmap and Google Satellite providers now come with an adjustable level of annotations. Select None if you want just want the plain map, Light for road names and public transport locations, or Full to see all Google map labels, including marked places of interest.
+
+### Plan comments with locations
+For plans stored in the Invarion Cloud, you can now annotate specific locations with comments. This will come handy when collaborating on shared plans: reviewing, asking for adjustments or highlighting potential site risks to planners. Additionally the feature comes with comment threads, responses and marking specific issues as resolved.
+
+### More changes
+
+**Custom print region sizes** - The default list of print region sizes can now be fully customized, to expose convenient shortcuts for the region sizes you use most often and remove the ones you don't need.
+
+**Marked Path arrow tails** - In the newly added Tails drawing mode, the Marked Path object allows you to draw a collection of arrows with a desired length, running along the object geometry.
+
+**New Crosswalk type: Ladder** - The Ladder Crosswalk style is now natively supported without having to draw the outer edges manually.
+
+**Advanced web proxy settings** - The 4.2 release makes RapidPlan fully compatible with the new web proxy settings available in the current version of the Invarion Launcher.
+
+
 ## RapidPlan 4.1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I9XC3B_DMVg?si=SEF-pV9MFP0l3H5v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -40,7 +67,7 @@ Use the Batch Edit Location Markers tool to export position coordinates of your 
 
 **Performance improvements** - especially when importing aerial tiles and performing tasks on multiple threads.
 
-https://wiki.openstreetmap.org/wiki/Key:highway#Roads
+
 ## RapidPlan 4.0
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hHBbLazCEZY?si=05l8dj_SkGoc8z9b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
