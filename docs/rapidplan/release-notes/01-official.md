@@ -12,7 +12,7 @@ hide_title: true
 
 ![cad export](./assets/cad_export.png)
 
-Following the success of the new CAD Import functionality added in the previous release, RapidPlan 4.2 now lets you close the loop and export traffic control plans to CAD files (DXF or DWG format). Modelspace and paperspace are both supported, for your worksite drawings and print frame contents respectively. Georeferencing options allow you to pick the desired spatial reference to make sure the data exported from RapidPlan can be easily integrated with your existing CAD files.
+Following the success of the new CAD Import functionality added in the previous release, RapidPlan 4.2 now lets you close the loop and export traffic control plans to CAD files (DXF or DWG format). Modelspace and paperspace are both supported, for your worksite drawings and print frame contents respectively. Georeferencing options allow you adjust the spatial reference and make sure the data exported from RapidPath can be easily integrated with your existing CAD files.
 
 ### Google Road Level Details
 
