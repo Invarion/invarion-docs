@@ -9,15 +9,27 @@ hide_title: true
 **NOTE: RapidPlan 4.2 pre-release build is currently available on our Weekly updates channel. Please contact [Invarion Technical Support](https://invarion.com/en-US/support) if you would like to access it before the official release, planned for the second half of August.**
 
 ### CAD Export
+
+![cad export](./assets/cad_export.png)
+
 Following the success of the new CAD Import functionality added in the previous release, RapidPlan 4.2 now lets you close the loop and export traffic control plans to CAD files (DXF or DWG format). Modelspace and paperspace are both supported, for your worksite drawings and print frame contents respectively. Georeferencing options allow you to pick the desired spatial reference to make sure the data exported from RapidPlan can be easily integrated with your existing CAD files.
 
 ### Google Road Level Details
+
+![road level detail](./assets/road_level_detail.png)
+
 Google's new Road Level Details view is now available in RapidPlan with the Google Roadmap basemap provider. In selected locations around the world, you can now zoom in to reveal an extraordinary level of road details - curb geometries, turn lanes, lane markings, pedestrian crossings and more. NOTE: subject to Google data availability at specific locations.
 
 ### Adjustable Google annotations
+
+![annotation styles](./assets/annotation_styles.png)
+
 With RapidPlan 4.2, you control what you see on your basemap. Both Google Roadmap and Google Satellite providers now come with an adjustable level of annotations. Select None if you want just want the plain map, Light for road names and public transport locations, or Full to see all Google map labels, including marked places of interest.
 
 ### Plan comments with locations
+
+![location comments](./assets/location_comments.png)
+
 For plans stored in the Invarion Cloud, you can now annotate specific locations with comments. This will come handy when collaborating on shared plans: reviewing, asking for adjustments or highlighting potential site risks to planners. Additionally the feature comes with comment threads, responses and marking specific issues as resolved.
 
 ### More changes
