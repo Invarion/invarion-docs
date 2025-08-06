@@ -196,7 +196,7 @@ const config = {
           {
             position: 'right',
             label: 'Sign up',
-            to: 'https://invarion.com/pricing/',
+            to: 'https://accounts.invarion.com/manage/my-account',
           },
         ],
       },
