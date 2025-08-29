@@ -10,6 +10,9 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.2.2 (27 August 2025)
+* Support for standard sign size adjustment attribute.
+
 ### Version 4.2.1 (02 August 2025)
 * RapidPlan 4.2 pre-release version.
 
