@@ -8,6 +8,12 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.2.7 (02 August 2025)
+* Updated to RapidPlan 4.2, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
+* Fixed menu items reporting mouse gesture shortcuts.
+* Fixed loading plans with invalid intersections.
+* Fixed low memory warning dialog appearing in the background.
+
 ### Version 4.1.130 (02 August 2025)
 * Fixed advanced setting search box.
 
