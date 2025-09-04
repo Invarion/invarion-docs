@@ -4,9 +4,7 @@ sidebar_label: "Official releases"
 hide_title: true
 ---
 
-## RapidPlan 4.2 (coming soon)
-
-**NOTE: RapidPlan 4.2 pre-release build is currently available on our Weekly updates channel. Please contact [Invarion Technical Support](https://invarion.com/en-US/support) if you would like to access it before the official release, planned for early September.**
+## RapidPlan 4.2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2R16n1xQkDY?si=4Tdq8FHMlKxH3dRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
