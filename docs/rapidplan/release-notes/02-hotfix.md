@@ -8,7 +8,10 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
-### Version 4.2.7 (02 August 2025)
+### Version 4.2.13 (08 September 2025)
+* Fixed exporting Lane marker, Crosswalk and Bicycle lane to CAD.
+
+### Version 4.2.7 (02 September 2025)
 * Updated to RapidPlan 4.2, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
 * Fixed menu items reporting mouse gesture shortcuts.
 * Fixed loading plans with invalid intersections.
@@ -71,3 +74,4 @@ hide_title: true
  
 ### Version 4.0.59 (28 Nov 2024)
 * Official RapidPlan 4.0 release.
+
