@@ -9,7 +9,7 @@ hide_title: true
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
 ### Version 4.2.22 (11 September 2025)
-* Bugfixes
+* Fix initialization issues.
 
 ### Version 4.2.16 (10 September 2025)
 * Fixed missing table cell background color option in the Rich Text Editor.
@@ -80,6 +80,7 @@ hide_title: true
  
 ### Version 4.0.59 (28 Nov 2024)
 * Official RapidPlan 4.0 release.
+
 
 
 
