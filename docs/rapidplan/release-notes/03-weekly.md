@@ -13,12 +13,6 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 ### Version 4.2.23 (11 September 2025)
 * Bugfixes
 
-### Version 4.2.17 (10 September 2025)
-* Bugfixes.
-
-### Version 4.2.14 (08 September 2025)
-* Bugfixes.
-
 ### Version 4.2.8 (03 September 2025)
 * Updated to RapidPlan 4.2, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
 
@@ -90,6 +84,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 ### Version 4.0.59 (28 Nov 2024)
 * Official release of RapidPlan 4.0.
  
+
 
 
 
