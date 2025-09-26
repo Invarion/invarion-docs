@@ -8,6 +8,11 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.2.39 (26 September 2025)
+* Fixed incorrect join guides when using multipage printing.
+* Fixed issue where some message boxes appeared in the background.
+* Fixed incorrect behavior of the End key.
+
 ### Version 4.2.22 (11 September 2025)
 * Fix initialization issues.
 
@@ -80,6 +85,7 @@ hide_title: true
  
 ### Version 4.0.59 (28 Nov 2024)
 * Official RapidPlan 4.0 release.
+
 
 
 
