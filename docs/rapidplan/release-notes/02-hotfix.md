@@ -8,6 +8,12 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.2.57 (13 October 2025)
+* Added an option to automatically remove unused custom hatches from objects when opening a plan.
+* Fixed an issue with the low memory warning.
+* Fixed an issue with bike lane.
+* Fixed issues with CAD Export.
+
 ### Version 4.2.39 (26 September 2025)
 * Fixed incorrect join guides when using multipage printing.
 * Fixed issue where some message boxes appeared in the background.
@@ -85,6 +91,7 @@ hide_title: true
  
 ### Version 4.0.59 (28 Nov 2024)
 * Official RapidPlan 4.0 release.
+
 
 
 
