@@ -20,4 +20,4 @@ Alternatively, if you would like to create a new sign for your traffic control p
 
 **Note:** After saving your sign it will be available within the Custom tab in the signs palette.
 
-You can also refer to the RapidPlan user manual, **Chapter 11: Creating Your Own Signs (page 142 – 157)**. Download a copy of the User Manual [here](https://rapidplan.net/webinstall/manual/rapidplan/manual.pdf).
+For more details on creating your own signs, please refer to the following section of the Invarion Help Center: https://help.invarion.com/rapidplan/creating-your-own-signs/

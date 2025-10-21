@@ -11,7 +11,7 @@ RapidPlan is accessed through a small client program named the Invarion Launcher
 
 When you are ready, **please use the link below to download the .exe installer for the Invarion Launcher** to your Windows capable computer:
 
-[https://rapidplan.net/webinstall/launcher/InvarionLauncherSetup.exe](https://rapidplan.net/webinstall/launcher/InvarionLauncherSetup.exe)
+[https://invarion.com/downloads/InvarionLauncherSetup.exe](https://invarion.com/downloads/InvarionLauncherSetup.exe)
 
 **Please note:**
 
