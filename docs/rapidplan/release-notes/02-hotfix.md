@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.2.83 (04 November 2025)
+* Enabled compression when saving Cloud plans.
+
 ### Version 4.2.73 (27 October 2025)
 * Update manual link.
  
