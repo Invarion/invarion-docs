@@ -10,7 +10,7 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
-### Version 4.2.79 (31 October 2025)
+### Version 4.2.84 (04 November 2025)
 * Support for artwork annotated with object tags.
 * Bugfixes
 
