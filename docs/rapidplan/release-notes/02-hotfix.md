@@ -10,6 +10,7 @@ hide_title: true
 
 ### Version 4.2.83 (04 November 2025)
 * Enabled compression when saving Cloud plans.
+* Fixed issue with adjusting sign stand bearing.
 
 ### Version 4.2.73 (27 October 2025)
 * Update manual link.
@@ -101,6 +102,7 @@ hide_title: true
  
 ### Version 4.0.59 (28 Nov 2024)
 * Official RapidPlan 4.0 release.
+
 
 
 
