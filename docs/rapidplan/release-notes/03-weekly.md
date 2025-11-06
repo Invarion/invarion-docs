@@ -10,9 +10,10 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
-### Version 4.2.86 (05 November 2025)
+### Version 4.2.90 (06 November 2025)
 * Fix blurry print region's comment icon.
-
+* Bugfixes
+  
 ### Version 4.2.84 (04 November 2025)
 * Updated .NET runtime and third party libraries.
 * Support for artwork annotated with object tags.
@@ -92,6 +93,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 ### Version 4.0.59 (28 Nov 2024)
 * Official release of RapidPlan 4.0.
  
+
 
 
 
