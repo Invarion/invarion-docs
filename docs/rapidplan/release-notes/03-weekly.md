@@ -10,14 +10,17 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.2.107 (14 November 2025)
+* Bugfixes.
+  
 ### Version 4.2.101 (13 November 2025)
 * Updated Rich Text Editor.
   
 ### Version 4.2.98 (11 November 2025)
-* Resolve visibility issues for names of inner print regions during print/export.
+* Resolved visibility issues for names of inner print regions during print/export.
 
 ### Version 4.2.90 (06 November 2025)
-* Fix blurry print region's comment icon.
+* Fixed blurry print region's comment icon.
   
 ### Version 4.2.84 (04 November 2025)
 * Updated .NET runtime and third party libraries.
@@ -97,6 +100,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 ### Version 4.0.59 (28 Nov 2024)
 * Official release of RapidPlan 4.0.
  
+
 
 
 
