@@ -8,8 +8,11 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.2.117 (20 November 2025)
+* Fixed issue with Print Region renaming.
+
 ### Version 4.2.106 (14 November 2025)
-* Fixed an issue where the Rich Text Dialog did not receive keyboard focus when opened.
+* Fixed issue where the Rich Text Dialog did not receive keyboard focus when opened.
   
 ### Version 4.2.89 (06 November 2025)
 * Fixed issue with exporting layers to pdf.
@@ -109,6 +112,7 @@ hide_title: true
  
 ### Version 4.0.59 (28 Nov 2024)
 * Official RapidPlan 4.0 release.
+
 
 
 
