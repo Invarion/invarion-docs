@@ -10,7 +10,7 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
-### Version 4.2.107 (14 November 2025)
+### Version 4.2.118 (20 November 2025)
 * Bugfixes.
   
 ### Version 4.2.101 (13 November 2025)
@@ -100,6 +100,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 ### Version 4.0.59 (28 Nov 2024)
 * Official release of RapidPlan 4.0.
  
+
 
 
 
