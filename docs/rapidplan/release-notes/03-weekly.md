@@ -10,7 +10,7 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
-### Version 4.2.122 (21 November 2025)
+### Version 4.2.127 (26 November 2025)
 * Bugfixes.
   
 ### Version 4.2.101 (13 November 2025)
