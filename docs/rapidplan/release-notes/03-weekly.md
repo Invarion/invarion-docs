@@ -11,7 +11,7 @@ hide_title: true
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
 ### Version 4.2.127 (26 November 2025)
-* Bugfixes.
+* Redesigned sorting of print regions.
   
 ### Version 4.2.101 (13 November 2025)
 * Updated Rich Text Editor.
@@ -100,6 +100,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 ### Version 4.0.59 (28 Nov 2024)
 * Official release of RapidPlan 4.0.
  
+
 
 
 
