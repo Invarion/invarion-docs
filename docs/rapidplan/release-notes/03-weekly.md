@@ -10,6 +10,10 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.2.137 (1 December 2025)
+* Improved Zoomed View Box snapping.
+* Performance improvements
+
 ### Version 4.2.127 (26 November 2025)
 * Redesigned sorting of print regions.
   
@@ -100,6 +104,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 ### Version 4.0.59 (28 Nov 2024)
 * Official release of RapidPlan 4.0.
  
+
 
 
 
