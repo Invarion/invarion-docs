@@ -10,6 +10,9 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.2.146 (10 December 2025)
+* Icons for manifest box items.
+
 ### Version 4.2.138 (1 December 2025)
 * Improved Zoomed View Box snapping.
 * Performance improvements
@@ -104,6 +107,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 ### Version 4.0.59 (28 Nov 2024)
 * Official release of RapidPlan 4.0.
  
+
 
 
 
