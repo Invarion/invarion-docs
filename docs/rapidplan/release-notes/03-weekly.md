@@ -10,6 +10,9 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.2.172 (18 December 2025)
+* Custom symbols for: North Arrow, LUMS board, Arrow Board, Bicycle lane, Sign stand, Location marker.
+  
 ### Version 4.2.162 (10 December 2025)
 * Icons for manifest box items.
 
@@ -107,6 +110,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 ### Version 4.0.59 (28 Nov 2024)
 * Official release of RapidPlan 4.0.
  
+
 
 
 
