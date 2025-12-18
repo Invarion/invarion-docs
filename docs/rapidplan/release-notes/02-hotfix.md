@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.2.175 (18 December 2025)
+* Update manual link.
+  
 ### Version 4.2.121 (21 November 2025)
 * Fixed issue with Print Region renaming.
 * Fixed issue with offseting closed geometries.
@@ -114,6 +117,7 @@ hide_title: true
  
 ### Version 4.0.59 (28 Nov 2024)
 * Official RapidPlan 4.0 release.
+
 
 
 
