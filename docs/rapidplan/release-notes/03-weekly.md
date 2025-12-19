@@ -9,6 +9,11 @@ hide_title: true
 **The Weekly channel is updated with early versions of new functionality developed for the next official release. Use it if you want access to new features as soon as they are available and you are aware that this comes at a cost of reduced stability and compatibility with other versions. In particular, please note that plans saved using the Weekly versions are not guaranteed to look the same when opened on the Stable/Hotfix versions.**
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
+
+
+### Version 4.2.187 (19 December 2025)
+* Custom symbols for: North Arrow, LUMS board, Arrow Board, Bicycle lane, Sign stand, Location marker.
+* Opening multiple RapidPlan windows.
   
 ### Version 4.2.162 (10 December 2025)
 * Icons for manifest box items.
@@ -107,6 +112,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 ### Version 4.0.59 (28 Nov 2024)
 * Official release of RapidPlan 4.0.
  
+
 
 
 
