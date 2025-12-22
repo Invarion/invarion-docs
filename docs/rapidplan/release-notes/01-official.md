@@ -4,6 +4,98 @@ sidebar_label: "Official releases"
 hide_title: true
 ---
 
+## RapidPlan 4.3 (Coming soon...)
+
+![video coming](./assets/video_coming.png)
+
+### Chainage Marker
+
+![chainage marker](./assets/chainage.png)
+
+The new Chainage Marker tool enables quick generation of chainage references along linear geometry.
+
+Key capabilities include:
+- Generation of chainage markers from lines, splines, or Bézier curves
+- Automatic creation of ticks at configurable spacing
+- Snappable ticks
+- Labels that display the chainage value for each tick
+- Fully adjustable label position and alignment to accommodate different plan layouts
+
+This tool streamlines the process of marking distances and references along roads, paths, and work zones.
+
+### Custom symbols
+
+![custom symbols](./assets/custom_symbols.png)
+
+Custom symbols functionality has been added to selected objects, enabling greater visual consistency and customization.
+
+The following objects support the unified custom symbol system:
+- Bike lane
+- North arrow
+- Arrow board
+- LUMS board
+- Location marker
+- Sign stand
+
+Each supported object now includes a Custom symbol toggle in the Properties Grid. When enabled, the default built-in symbol is replaced with a custom symbol.
+
+The Properties Grid provides a visual picker for selecting or changing the custom symbol. Symbols are loaded from the Custom Symbols folder and can be:
+- Previewed visually
+- Identified by name
+- Sorted and filtered by name for easier selection
+
+This update makes it easier to reuse standardized symbols across different objects.
+
+### Running multiple instances
+
+![running multiple instances](./assets/multiple_instances.png)
+
+Multiple RapidPlan instances can now run on the same machine, allowing parallel work with multiple plans or workflows.
+
+A new instance can be started in two ways:
+- New RapidPlan window (Ctrl + Alt + N) – Available in the File section of the Main Menu. Opens a new empty window.
+- Open in new window – Available in the diagram tab. Opens the selected plan in a new window.
+
+### Print Region sorting
+
+![print region sorting](./assets/pr_sorting.png)
+
+Print region management has been simplified with a single, consistent ordering system.
+
+What’s changed:
+- Print regions can now be reordered directly in the Print Regions window using drag-and-drop
+- The list order defines the default output order for actions such as batch export
+
+This creates one clear source of truth for print order, removing the need for renaming regions or manually adjusting page numbers.
+
+### Icons in the Manifest Box
+
+![icons in the manifest](./assets/manifest_icons.png)
+
+The Manifest Box can now optionally display object icons, matching the behavior of the Legend Box.
+
+Benefits:
+- Faster visual identification of listed objects
+- Improved consistency between legends and manifests
+- Clearer, more readable plan documentation
+
+### More changes
+
+**Print Region Comments** - Comments can now be added to print regions to capture additional context. Comments appear as a popup on the region and in the Print Regions panel, and can also be included as a text variable when printing or exporting.
+
+**Improved Zoomed View Box Snapping** - Zoomed View Box snapping has been enhanced to provide greater precision and flexibility. The following snapping options has been added:
+- Snap the view box to the source region
+- Snap to source region bounds
+- Snap to source region geometry
+- Maintain bounds snapping while adjusting the source region
+
+View box is the zoomed view of plan content within the source region.
+
+**Improved Inner Print Region Name Placement** - Print region names that appear inside other print regions in print and export outputs are now smartly positioned to remain clear and readable, even when regions are rotated or overlapping. This applies when the Inner regions option is set to Box in the Print & Export properties of the containing region.
+
+**Performance Improvements And Future-Proofing** - System performance has been optimized, and architectural enhancements have been introduced to improve long-term scalability and stability.
+
+
 ## RapidPlan 4.2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2R16n1xQkDY?si=4Tdq8FHMlKxH3dRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
