@@ -28,7 +28,9 @@ This tool streamlines the process of marking distances and references along road
 ![custom symbols](./assets/custom_symbols.png)
 
 Custom symbols functionality has been added to selected objects, enabling greater visual consistency and customization. 
+
 The following objects support the unified custom symbol system: Bike lane, North arrow, Arrow board, LUMS board, Location marker, Sign stand.
+
 Each supported object now includes a Custom symbol toggle in the Properties Grid. When enabled, the default built-in symbol is replaced with a custom symbol.
 
 This update makes it easier to reuse standardized symbols across different objects.
