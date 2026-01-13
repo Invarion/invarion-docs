@@ -6,7 +6,7 @@ hide_title: true
 
 ## RapidPlan 4.3 (Coming soon...)
 
-![video coming](./assets/video_coming.png)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=c6sLxWocUhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Chainage Marker
 
