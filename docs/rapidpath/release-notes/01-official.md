@@ -27,22 +27,11 @@ This tool streamlines the process of marking distances and references along road
 
 ![custom symbols](./assets/custom_symbols.png)
 
-Custom symbols functionality has been added to selected objects, enabling greater visual consistency and customization.
+Custom symbols functionality has been added to selected objects, enabling greater visual consistency and customization. 
 
-The following objects support the unified custom symbol system:
-- Bike lane
-- North arrow
-- Arrow board
-- LUMS board
-- Location marker
-- Sign stand
+The following objects support the unified custom symbol system: Bike lane, North arrow, Arrow board, LUMS board, Location marker, Sign stand.
 
 Each supported object now includes a Custom symbol toggle in the Properties Grid. When enabled, the default built-in symbol is replaced with a custom symbol.
-
-The Properties Grid provides a visual picker for selecting or changing the custom symbol. Symbols are loaded from the Custom Symbols folder and can be:
-- Previewed visually
-- Identified by name
-- Sorted and filtered by name for easier selection
 
 This update makes it easier to reuse standardized symbols across different objects.
 
@@ -52,9 +41,11 @@ This update makes it easier to reuse standardized symbols across different objec
 
 Multiple RapidPath instances can now run on the same machine, allowing parallel work with multiple plans or workflows.
 
-A new instance can be started in two ways:
-- New RapidPath window (Ctrl + Alt + N) – Available in the File section of the Main Menu. Opens a new empty window.
-- Open in new window – Available in the diagram tab. Opens the selected plan in a new window.
+A new instance can be started in the following ways:
+- New window (Ctrl + Alt + N) – Available in the File section of the main menu. Opens a new, empty RapidPath window.
+- Open in new Window – Available from a plan’s context menu. Opens the selected plan in a separate window (the plan must be saved).
+
+Additionally, saved open plans can be dragged and dropped into a new RapidPath window using a dedicated drag handle.
 
 ### Print Region sorting
 
