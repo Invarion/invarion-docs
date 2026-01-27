@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.3.20 (27 January 2026)
+* Fixed issue with exporting Zoomed View Box.
+
 ### Version 4.3.14 (15 January 2026)
 * Updated to RapidPlan 4.3, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
 * Fixed issue with user manual link.
@@ -126,6 +129,7 @@ hide_title: true
  
 ### Version 4.0.59 (28 Nov 2024)
 * Official RapidPlan 4.0 release.
+
 
 
 
