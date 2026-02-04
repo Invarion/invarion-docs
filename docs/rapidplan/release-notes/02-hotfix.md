@@ -8,7 +8,7 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
-### Version 4.3.33 (4 February 2026)
+### Version 4.3.35 (4 February 2026)
 * Fixed issue with sorting print regions when their names are numbers.
 * Fixed issue with missing opacity of aerials during PDF export.
 
@@ -136,6 +136,7 @@ hide_title: true
  
 ### Version 4.0.59 (28 Nov 2024)
 * Official RapidPlan 4.0 release.
+
 
 
 
