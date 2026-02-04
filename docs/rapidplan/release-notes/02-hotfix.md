@@ -10,8 +10,6 @@ hide_title: true
 
 ### Version 4.3.33 (4 February 2026)
 * Fixed issue with sorting print regions when their names are numbers.
-
-### Version 4.3.31 (4 February 2026)
 * Fixed issue with missing opacity of aerials during PDF export.
 
 ### Version 4.3.22 (28 January 2026)
@@ -138,6 +136,7 @@ hide_title: true
  
 ### Version 4.0.59 (28 Nov 2024)
 * Official RapidPlan 4.0 release.
+
 
 
 
