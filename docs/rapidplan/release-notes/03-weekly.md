@@ -12,7 +12,6 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 
 ### Version 4.3.36 (4 February 2026)
 * Added an option to print or export the current view without the print region.
-* Bugfixes
 
 ### Version 4.3.23 (28 January 2026)
 * Bugfixes.
@@ -130,6 +129,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 ### Version 4.0.59 (28 Nov 2024)
 * Official release of RapidPlan 4.0.
  
+
 
 
 
