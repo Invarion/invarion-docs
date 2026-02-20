@@ -10,7 +10,7 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
-### Version 4.3.59 (19 February 2026)
+### Version 4.3.60 (20 February 2026)
 * Embedded VC++ Redistributable.
   
 ### Version 4.3.36 (4 February 2026)
