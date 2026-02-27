@@ -10,7 +10,7 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
-### Version 4.3.66 (25 February 2026)
+### Version 4.3.70 (27 February 2026)
 * Bugfixes.
 
 ### Version 4.3.61 (20 February 2026)
@@ -135,6 +135,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 ### Version 4.0.59 (28 Nov 2024)
 * Official release of RapidPlan 4.0.
  
+
 
 
 
