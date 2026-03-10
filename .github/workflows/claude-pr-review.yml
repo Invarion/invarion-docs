@@ -40,4 +40,4 @@ jobs:
             Post a PR review using `gh pr review` with your overall assessment,
             and use inline comments via the GitHub API for specific line feedback.
             Be concise and constructive.
-          claude_args: '--max-turns 10'
+          claude_args: '--max-turns 99'
