@@ -4,6 +4,9 @@ on:
   pull_request:
     types: [opened, ready_for_review]  # triggers on open AND when draft → ready
 
+env:
+  GH_TOKEN: ${{ secrets.ORG_PROJECTS_PAT }}
+
 jobs:
   claude-review:
     # Skip draft PRs and PRs with #noreview in the description
