@@ -40,7 +40,6 @@ jobs:
             - Code style and readability
             - Documentation quality
 
-            Post a PR review using `gh pr review` with your overall assessment,
-            and use inline comments via the GitHub API for specific line feedback.
+            Post a PR review using `gh pr review` with your overall assessment.
             Be concise and constructive.
-          claude_args: '--max-turns 99'
+          claude_args: '--max-turns 20'
