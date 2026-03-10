@@ -1,0 +1,43 @@
+name: Claude PR Review
+
+on:
+  pull_request:
+    types: [opened, ready_for_review]  # triggers on open AND when draft → ready
+
+jobs:
+  claude-review:
+    # Skip draft PRs and PRs with #noreview in the description
+    if: |
+      !github.event.pull_request.draft &&
+      !contains(github.event.pull_request.body, '#noreview')
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      pull-requests: write  # needed to post review comments
+      issues: read
+      id-token: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Run Claude Code Review
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.DEV_CLAUDE_TOKEN }}
+          prompt: |
+            Please review this pull request. Analyze:
+            - Code correctness and potential bugs
+            - Security concerns
+            - Performance implications
+            - Code style and readability
+            - Documentation quality
+
+            Post a PR review using `gh pr review` with your overall assessment,
+            and use inline comments via the GitHub API for specific line feedback.
+            Be concise and constructive.
+          claude_args: '--max-turns 10'
