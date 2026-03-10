@@ -1,68 +1,31 @@
 import React from 'react';
-import clsx from 'clsx';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import RPIcon from '../../assets/rapidplan-logo-e1600826183832.webp';
+import ROIcon from '../../assets/rapidplan-online-logo.webp';
+import RAIcon from '../../assets/RapidPath-Horizontal4x-e1600826210395.webp';
+import RAOIcon from '../../assets/RapidPathOnlineCropped-300x97.webp';
 
-type FeatureItem = {
-  title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
-  description: JSX.Element;
-};
-
-const FeatureList: FeatureItem[] = [
-  {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
-  },
-];
-
-function Feature({title, Svg, description}: FeatureItem) {
-  return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
-        <p>{description}</p>
-      </div>
-    </div>
-  );
-}
+const productIcons = [RPIcon, ROIcon, RAIcon, RAOIcon];
 
 export default function HomepageFeatures(): JSX.Element {
+  const { siteConfig } = useDocusaurusContext();
+  const { docsLinks }: any = siteConfig.customFields;
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
+        <div
+          className="row"
+          style={{ justifyContent: 'space-around', marginTop: 70 }}
+        >
+          {docsLinks.map((link, index) => {
+            return (
+              <Link to={link.to} key={index}>
+                <img src={productIcons[index]} className={styles.logo} />
+              </Link>
+            );
+          })}
         </div>
       </div>
     </section>

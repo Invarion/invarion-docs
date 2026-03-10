@@ -8,7 +8,8 @@
     "basemap",
     "rapidonline",
     "rapidplan",
-    "rapthpath"
+    "rapthpath",
+    "invarion"
   ],
   "markdownlint.config": {
     "MD033": false

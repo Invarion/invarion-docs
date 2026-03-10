@@ -2,8 +2,9 @@
   "config": {
     "default": true,
     "no-inline-html": false,
+    "no-trailing-spaces": true,
     "MD013": {
-      "line_length": 120
+      "line_length": 500
     }
   },
   "globs": ["**/*.md"],

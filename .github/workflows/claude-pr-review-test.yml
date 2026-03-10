@@ -1,0 +1,30 @@
+name: [TEST] Claude PR Review
+
+on:
+  pull_request:
+    types: [review_requested]
+
+env:
+  GH_TOKEN: ${{ secrets.ORG_PROJECTS_PAT }}
+
+jobs:
+  claude-review:
+    # Skip draft PRs and PRs with #noreview in the description
+    if: |
+      github.event.requested_reviewer.login == 'invariondev' &&
+      !contains(github.event.pull_request.body, '#noreview')
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      pull-requests: write  # needed to post review comments
+      issues: read
+      id-token: write
+
+    steps:
+      - name: Test comment
+      env:
+        PR_NUM: ${{ github.event.pull_request.number }}
+      run: |
+        gh pr comment "$PR_NUM" --body "Hey this is my auto PR review!"

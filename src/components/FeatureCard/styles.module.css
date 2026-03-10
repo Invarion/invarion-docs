@@ -1,0 +1,10 @@
+.feature-card {
+  background-color: #f1b71a;
+  color: #fff;
+  /* width: 60%; */
+  box-shadow: 7px 5px 5px #ccc;
+}
+
+.title {
+  padding: 10px
+}

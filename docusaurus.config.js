@@ -1,17 +1,15 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Invarion doc',
-  tagline: 'Dinosaurs are meh',
-  url: 'https://invarion.github.io/',
-  baseUrl: '/invarion-docs/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
+  title: 'Invarion Help Center',
+  url: 'https://help.invarion.com/',
+  baseUrl: '/',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
   favicon: 'img/cropped-favicon-32x32.png',
 
   // GitHub pages deployment config.
@@ -33,10 +31,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           routeBasePath: '/',
         },
         blog: false,
@@ -46,76 +40,280 @@ const config = {
       }),
     ],
   ],
-
+  // plugins: [require.resolve('docusaurus-lunr-search')],
+  customFields: {
+    gettingStartedLinks: [
+      {
+        to: '/rapidplan/installation-preferences-and-adminstration/the-invarion-launcher',
+        text: 'Downloading the Invarion Launcher',
+      },
+      {
+        to: '/rapidplan-online/the-invarion-cloud/invarion-cloud-and-its-layout',
+        text: 'Using the Invarion Cloud',
+      },
+      {
+        to: '/rapidplan-online/rapidplan-online-workspace',
+        text: 'The RapidPlan Online Workspace',
+      },
+      {
+        to: '/rapidplan/integrated-mapping/accessing-integrated-mapping',
+        text: 'Accessing Integrated Mapping',
+      },
+    ],
+    faqsLinks: [
+      {
+        to: 'https://invarion.com/intl/products/rapidplan/',
+        text: 'RapidPlan',
+      },
+      {
+        to: 'https://invarion.com/intl/products/rapidpath/',
+        text: 'RapidPath',
+      },
+      {
+        to: 'https://invarion.com/intl/products/rapidplan-online/',
+        text: 'RapidPlan Online',
+      },
+    ],
+    docsLinks: [
+      {
+        to: '/rapidplan/Welcome',
+        text: 'RP',
+      },
+      {
+        to: '/rapidplan-online/Welcome',
+        text: 'RO',
+      },
+      {
+        to: '/rapidpath/Welcome',
+        text: 'RA',
+      },
+      { to: 'rapidpath-online/Welcome', text: 'RAO' },
+    ],
+    accountManagementLinks: [
+      {
+        to: '/account-management/managing-licenses',
+        text: 'Managing Your Subscriptions',
+      },
+      {
+        to: '/account-management/managing-company-accounts',
+        text: 'Managing Users',
+      },
+      {
+        to: '/account-management/buying-a-subscription',
+        text: 'Purchasing New Licenses',
+      },
+      {
+        to: '/account-management/updating-your-billing-information',
+        text: 'Updating Your Billing Information',
+      },
+    ],
+    whatsNewLinks: [
+      {
+        to: '/rapidplan/release-notes/official',
+        text: 'Release Notes - RapidPlan',
+      },
+      {
+        to: '/rapidplan-online/release-notes/release-notes-rapidplan-online',
+        text: 'Release Notes - RapidPlan Online',
+      },
+      {
+        to: '/rapidpath/release-notes/official',
+        text: 'Release Notes - RapidPath',
+      },
+      {
+        to: '/rapidpath-online/release-notes/release-notes-rapidpath-online',
+        text: 'Release Notes - RapidPath Online',
+      },
+    ],
+  },
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      metadata: [{ name: 'keywords', content: 'rapid online, rapid plan cloud, rapidplan, rapid path online, documentation, what\'s new' }],
+      respectPrefersColorScheme: true,
+
+      metadata: [
+        {
+          name: 'keywords',
+          content: "rapid online, rapid plan cloud, rapidplan, rapid path online, documentation, what's new",
+        },
+      ],
       navbar: {
-        // title: 'Invarion Docs',
         logo: {
           alt: 'Invarion logo',
           src: 'img/logo.svg',
-          srcDark: 'img/logo-dark.svg'
+          srcDark: 'img/logo-dark.svg',
+          href: 'https://invarion.com/',
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
             position: 'left',
-            label: 'Docs',
+            label: 'Help Center',
+            to: '/',
+            className: 'text-black',
           },
           {
-            href: 'https://github.com/invarion/invarion-docs',
-            label: 'GitHub',
+            type: 'dropdown',
+            label: 'Sections',
+            position: 'left',
+            items: [
+              {
+                type: 'doc',
+                label: 'RapidPlan',
+                docId: 'rapidplan/Welcome',
+              },
+              {
+                type: 'doc',
+                label: 'RapidPath',
+                docId: 'rapidpath/Welcome',
+              },
+              {
+                type: 'doc',
+                label: 'RapidPlan Online',
+                docId: 'rapidplan-online/Welcome',
+              },
+              {
+                type: 'doc',
+                label: 'RapidPath Online',
+                docId: 'rapidpath-online/Welcome',
+              },
+              {
+                type: 'doc',
+                label: 'Account Management',
+                docId: 'account-management/Welcome',
+              },
+            ],
+          },
+          {
             position: 'right',
+            label: 'Book a demo',
+            to: 'https://invarion.com/contact/',
+          },
+          {
+            position: 'right',
+            label: 'Contact Support',
+            to: 'https://invarion.com/support/ ',
+          },
+          {
+            position: 'right',
+            label: 'Sign up',
+            to: 'https://accounts.invarion.com/manage/my-account',
           },
         ],
       },
       footer: {
-        style: 'light',
         links: [
           {
-            title: 'Docs',
+            title: 'Company',
             items: [
               {
-                label: 'Intro',
-                to: '/intro',
-              },
-            ],
-          },
-          {
-            title: 'Other resources',
-            items: [
-              {
-                label: 'Discover our products',
-                href: 'https://invarion.com/',
+                label: 'About Us',
+                to: 'https://invarion.com/about/',
+                target: '_self',
               },
               {
-                label: 'Contact us',
-                href: 'https://invarion.com/contact/',
+                label: 'Our History',
+                to: 'https://invarion.com/history/',
+                target: '_self',
               },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
+              {
+                label: 'Our Guarantee',
+                to: 'https://invarion.com/guarantee/',
+                target: '_self',
+              },
               {
                 label: 'Blog',
                 href: 'https://invarion.com/blog/',
+                target: '_self',
+              },
+            ],
+          },
+          {
+            title: 'Products',
+            items: [
+              {
+                label: 'RapidPlan',
+                href: 'https://invarion.com/products/rapidplan/',
+                target: '_self',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'RapidPlan Online',
+                href: 'https://invarion.com/products/rapidplan-online/',
+                target: '_self',
+              },
+              {
+                label: 'RapidPath',
+                href: 'https://invarion.com/products/rapidpath/',
+                target: '_self',
+              },
+              {
+                label: 'RapidPath Online',
+                href: 'https://invarion.com/products/rapidpath-online/',
+                target: '_self',
+              },
+            ],
+          },
+          {
+            title: 'Account',
+            items: [
+              {
+                label: 'Invarion Cloud',
+                href: 'https://cloud.invarion.com/',
+                target: '_self',
+              },
+              {
+                label: 'My Account',
+                href: 'https://accounts.invarion.com/manage/my-account',
+                target: '_self',
+              },
+              {
+                label: 'Manage Company',
+                href: 'https://accounts.invarion.com/manage/my-company',
+                target: '_self',
+              },
+              {
+                label: 'Manage Licenses',
+                href: 'https://accounts.invarion.com/manage/license',
+                target: '_self',
+              },
+            ],
+          },
+          {
+            title: 'Support',
+            items: [
+              {
+                label: 'Technical Support',
+                href: 'https://invarion.com/support/',
+                target: '_self',
+              },
+              {
+                label: 'FAQs',
+                href: 'https://invarion.com/faqs/',
+                target: '_self',
+              },
+              {
+                label: 'Video Tutorials',
+                href: 'https://www.youtube.com/user/invarionsupport',
+                target: '_self',
+              },
+              {
+                label: 'Download',
+                href: 'https://invarion.com/install/',
+                target: '_self',
+              },
+              {
+                label: 'Contact',
+                href: 'https://invarion.com/contact/',
+                target: '_self',
               },
             ],
           },
         ],
+
         copyright: `Copyright © ${new Date().getFullYear()} Invarion, Inc. Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
     }),
 };
