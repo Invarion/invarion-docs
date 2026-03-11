@@ -4,7 +4,6 @@ on:
   pull_request:
     types: [opened, synchronize, ready_for_review]  # triggers on open AND when draft → ready
 
-
 jobs:
   claude-review:
     # Skip draft PRs and PRs with #noreview in the description
