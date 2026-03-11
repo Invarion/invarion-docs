@@ -10,6 +10,13 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 432jnknkr fks (DD MM YYY)
+* <add items HERE>
+* <mention bugfixes>
+
+### Version 4.3.666 (30 February 2026)
+* Added a new feature to the program
+
 ### Version 4.3.70 (27 February 2026)
 * Improved sending to layer.
 
