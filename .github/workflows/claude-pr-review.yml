@@ -2,7 +2,7 @@ name: Claude PR Review
 
 on:
   pull_request:
-    types: [opened, synchronize ready_for_review]  # triggers on open AND when draft → ready
+    types: [opened, synchronize, ready_for_review]  # triggers on open AND when draft → ready
 
 jobs:
   claude-review:
