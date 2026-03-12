@@ -10,6 +10,9 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.3.76 (12 March 2026)
+* Artwork update.
+
 ### Version 4.3.70 (27 February 2026)
 * Improved sending to layer.
 
@@ -135,6 +138,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 ### Version 4.0.59 (28 Nov 2024)
 * Official release of RapidPlan 4.0.
  
+
 
 
 
