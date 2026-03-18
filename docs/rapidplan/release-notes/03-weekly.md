@@ -10,6 +10,9 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.3.86 (18 March 2026)
+* Reduced training watermak opacity.
+
 ### Version 4.3.76 (12 March 2026)
 * Artwork update.
 
