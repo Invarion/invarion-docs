@@ -9,7 +9,7 @@ hide_title: true
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
 ### Version 4.3.69 (27 February 2026)
-* Fixed issue with delinetor initialization.
+* Fixed issue with delineator initialization.
 
 ### Version 4.3.64 (25 February 2026)
 * Fixed drawing chevron flush median issue.
