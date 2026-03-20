@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.3.89 (20 March 2026)
+* Reduced training watermak opacity.
+
 ### Version 4.3.69 (27 February 2026)
 * Fixed issue with delineator initialization.
 
