@@ -8,7 +8,7 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
-### Version 4.3.127 (13 April 2026)
+### Version 4.3.131 (14 April 2026)
 * Fixed offline issues.
 
 ### Version 4.3.103 (27 March 2026)
