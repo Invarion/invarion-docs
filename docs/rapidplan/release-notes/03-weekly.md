@@ -10,7 +10,8 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
-### Version 4.3.132 (14 April 2026)
+### Version 4.3.133 (14 April 2026)
+* Added access to print options in Batch Print / Batch Export.
 * Bugfixes
 
 ### Version 4.3.110 (2 April 2026)
