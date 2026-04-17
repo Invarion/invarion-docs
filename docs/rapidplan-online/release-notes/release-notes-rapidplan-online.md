@@ -2,15 +2,25 @@
 
 ## April 2026
 
-- Improved performance with a new rendering engine.
-- Added a new object type: **Chainage Marker**. It lets you draw a segmented line and display distances along it.
-- Invarion Cloud now lets you export manifest data from a plan to PDF.
+- Added a new object type: **Chainage Marker**, which allows you to draw a segmented line and automatically display distances along each section. This makes it easier to present measured lengths clearly within a plan.
 
 ### Bug fixes
 
-- Plans containing intersection objects can now be opened in RapidOnline.
-- Fixed the Fit Object feature.
-- Changing the scale now correctly updates the plan.
+- Plans containing intersection objects can now be opened correctly in **RapidOnline**, improving compatibility when viewing shared plans.
+- Fixed the **Fit Object** feature so that objects are now positioned and displayed correctly when using this option.
+- Changing the scale now correctly updates the plan, ensuring that the displayed view stays accurate after adjustments.
+
+## March 2026
+
+- Added the option to change the tool manifest value from the default setting to **dimensions**, giving you more flexibility in how manifest information is shown.
+
+### Performance improvements
+
+- Introduced a new rendering engine that improves overall performance and allows you to work more smoothly with larger and more complex plans.
+
+## December 2025
+
+- **Invarion Cloud** now allows you to export manifest data from a plan directly to PDF. To use this feature, open the plan details tab and click the button next to the **Manifest data** row.
 
 ## July 2025
 
