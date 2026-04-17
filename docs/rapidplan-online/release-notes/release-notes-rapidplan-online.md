@@ -1,5 +1,17 @@
 # Release Notes
 
+## April 2026
+
+- Improved performance with a new rendering engine.
+- Added a new object type: **Chainage Marker**. It lets you draw a segmented line and display distances along it.
+- Invarion Cloud now lets you export manifest data from a plan to PDF.
+
+### Bug fixes
+
+- Plans containing intersection objects can now be opened in RapidOnline.
+- Fixed the Fit Object feature.
+- Changing the scale now correctly updates the plan.
+
 ## July 2025
 
 - Marked path tool has now a **Tails** model. It allows you to draw a path made of many arrows.
@@ -57,7 +69,7 @@ Fix bug when a user with read-only access could not add a comment to a plan.
 
 A notification in the corner of a users screen will display if a plan's size exceeds 25mb, including details on how to effectively reduce a file's size in the
 [Autosave Notification Panel](/docs/rapidplan-online/rapidplan-online-workspace/autosave-feature.md).
-  
+
 When uploading a plan that contains broken objects, the Invarion Cloud will try to fix them.<br />A warning message is shown when this situation arises.
 
 ### Bug fixes
@@ -253,7 +265,7 @@ QR Code creation modal has a button which allows to create public link to the pl
 
 ### Bug fixes
 
-- Fixed when selecting multiple signs the property panel shows incorrect value for ``Code``.
+- Fixed when selecting multiple signs the property panel shows incorrect value for `Code`.
 - Fix problem when objects are snapped to Print Regions even if they are invisible.
 - Exported plans now respect updates in Print dialog.
 - **Right clicking** when context menu has been opened now opens RapidPlan Online menu rather than native browser context menu.
@@ -401,7 +413,7 @@ Pre-existing users also can see it through the main menu of RapidPlan Online.
 
 One can now resize the size of the box, thus having a multi-column layout.
 
-### Added ``wepb`` support for image Primitives and Title Boxes
+### Added `wepb` support for image Primitives and Title Boxes
 
 ### Bug fixes
 
@@ -477,11 +489,11 @@ Update manual links in the application menu to point to different manuals for Ra
 
 ### New feature: Edit text
 
- Allows you to edit text inside groups and signs without ungrouping them.
+Allows you to edit text inside groups and signs without ungrouping them.
 
 ### Drag and drop support for adding images to a plan
 
- Images can now be dragged and dropped into plans.
+Images can now be dragged and dropped into plans.
 
 ### Bug fixes
 
@@ -533,7 +545,7 @@ i.e. narrower than 1024px (e.g. mobile phones).
 
 - Delineator tool bug caused by zero value in Spacing has been resolved.
 - Fix the bug when centering plan after loading using 'Zoom to objects' when total bounds of the plan are near zero causes
-the application to crash.
+  the application to crash.
 
 ## January 2023
 
