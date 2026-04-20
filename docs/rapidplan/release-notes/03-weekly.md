@@ -10,6 +10,9 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.3.143 (20 April 2026)
+* Improved Custom symbols
+
 ### Version 4.3.139 (17 April 2026)
 * Added access to print options in Batch Print / Batch Export.
 * Bugfixes
