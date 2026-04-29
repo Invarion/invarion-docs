@@ -18,6 +18,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 
 ### Version 4.3.139 (17 April 2026)
 * Added access to print options in Batch Print / Batch Export.
+* Adjusted opening in new window.
 
 ### Version 4.3.110 (2 April 2026)
 * Option to save through Temp folder.
