@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.3.166 (14 May 2026)
+* Prevent text editor disposal errors.
+
 ### Version 4.3.159 (8 May 2026)
 * Fixed import roads issue.
 * Fixed issue with autotemplates.
