@@ -10,6 +10,11 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.3.177 (18 May 2026)
+* Bugfixes
+* Updated .Net runtime and libraries
+* Reworked Send to layer dialog
+
 ### Version 4.3.167 (14 May 2026)
 * Bugfixes
 
