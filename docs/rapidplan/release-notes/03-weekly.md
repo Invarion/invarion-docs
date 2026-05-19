@@ -12,8 +12,6 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 
 ### Version 4.3.181 (19 May 2026)
 * Added JPEG, PNG and TIFF metadata tagging.
-
-### Version 4.3.180 (19 May 2026)
 * Bugfixes.
 * Updated .Net runtime and libraries.
 * Reworked Send to layer dialog.
