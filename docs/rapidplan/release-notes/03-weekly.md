@@ -11,10 +11,10 @@ hide_title: true
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
 ### Version 4.3.181 (19 May 2026)
-* Added JPEG, PNG and TIFF metadata tagging.
 * Bugfixes.
 * Updated .Net runtime and libraries.
 * Reworked Send to layer dialog.
+* Added JPEG, PNG and TIFF metadata tagging.
 
 ### Version 4.3.167 (14 May 2026)
 * Bugfixes.
