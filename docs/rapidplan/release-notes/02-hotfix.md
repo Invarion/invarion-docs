@@ -8,10 +8,11 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
-### Version 4.3.179 (19 May 2026)
+### Version 4.3.182 (19 May 2026)
 * Fixed purge base map tile cache issue.
 * Fixed cut custom symbol preview in PG.
 * Update OverpassAPI servers.
+* Fixed app startup issue caused by invalid system fonts.
 
 ### Version 4.3.166 (14 May 2026)
 * Prevent text editor disposal errors.
