@@ -10,17 +10,17 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
-### Version 4.3.201 (27 May 2026)
-* Added support for a Custom Service base map provider, enabling integration with custom WMTS and ArcGIS services.
+### Version 4.3.203 (27 May 2026)
+* Custom Service base map provider (WMTS & ArcGIS)
 
 ### Version 4.3.199 (26 May 2026)
-* Implemented cloud downgrade handling for plans incompatible with the local environment.
+* Using Cloud to open plans from newer RP versions.
 
 ### Version 4.3.195 (22 May 2026)
-* Bugfixes.
 * Updated .Net runtime and libraries.
 * Reworked Send to layer dialog.
-* Added JPEG, PNG and TIFF metadata tagging.
+* Added JPEG, PNG and TIFF metadata taggiUsingng.
+* Bugfixes.
 
 ### Version 4.3.167 (14 May 2026)
 * Bugfixes.
