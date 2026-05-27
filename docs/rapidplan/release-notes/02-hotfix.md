@@ -8,9 +8,6 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
-### Version ??? (???)
-* Fixed empty TCR text variable values.
-
 ### Version 4.3.194 (22 May 2026)
 * Fixed purge base map tile cache issue.
 * Fixed cut custom symbol preview in PG.
