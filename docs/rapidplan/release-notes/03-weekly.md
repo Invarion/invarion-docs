@@ -19,7 +19,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 ### Version 4.3.195 (22 May 2026)
 * Updated .Net runtime and libraries.
 * Reworked Send to layer dialog.
-* Added JPEG, PNG and TIFF metadata taggiUsingng.
+* Added JPEG, PNG and TIFF metadata tagging.
 * Bugfixes.
 
 ### Version 4.3.167 (14 May 2026)
