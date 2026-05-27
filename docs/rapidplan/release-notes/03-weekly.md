@@ -14,7 +14,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 * Added support for a Custom Service base map provider, enabling integration with custom WMTS and ArcGIS services.
 
 ### Version 4.3.199 (26 May 2026)
-* Introduced cloud downgrade support for locally incompatible plans.
+* Implemented cloud downgrade handling for plans incompatible with the local environment.
 
 ### Version 4.3.195 (22 May 2026)
 * Bugfixes.
