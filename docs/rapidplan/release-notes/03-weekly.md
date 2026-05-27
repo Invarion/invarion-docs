@@ -10,6 +10,9 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version ??? (???)
+* Bugfixes.
+
 ### Version 4.3.201 (27 May 2026)
 * Added support for a Custom Service base map provider, enabling integration with custom WMTS and ArcGIS services.
 
