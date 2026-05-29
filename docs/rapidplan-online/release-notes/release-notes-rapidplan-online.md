@@ -1,5 +1,9 @@
 # Release Notes
 
+## May 2026
+
+- Fixed an issue where plans with a bearing value other than **0** could display differently in preview and export.
+
 ## April 2026
 
 - Added a new object type: **Chainage Marker**, which allows you to draw a segmented line and automatically display distances along each section. This makes it easier to present measured lengths clearly within a plan.
