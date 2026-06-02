@@ -8,8 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
-### Version 4.3.220 (02 June 2026)
+### Version 4.3.222 (02 June 2026)
 * Fixed menu button receiving focus when Alt is pressed.
+* Chainage marker spacing now displays accurately on scaled plans.
 
 ### Version 4.3.206 (28 May 2026)
 * Fixed purge base map tile cache issue.
