@@ -10,6 +10,9 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.3.224 (06 June 2026)
+* Redesigned Spatial Data Import with ArcGIS Feature Service support.
+
 ### Version 4.3.223 (02 June 2026)
 * Bugfixes.
 
