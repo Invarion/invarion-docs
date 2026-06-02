@@ -13,7 +13,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 ### Version 4.3.224 (06 June 2026)
 * Redesigned Spatial Data Import with ArcGIS Feature Service support.
 
-### Version 4.3.223 (02 June 2026)
+### Version 4.3.??? (02 June 2026)
 * Bugfixes.
 
 ### Version 4.3.207 (28 May 2026)
