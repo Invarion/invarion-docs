@@ -21,7 +21,7 @@ hide_title: true
 * Fixed app startup issue caused by invalid system fonts.
 * Fixed grayed out Annotation property on blank plan.
 * Fixed export plan to PDF.
-* Fixed an issue where objects from locked layers could be sent.
+* Prevent using "Send to Layer" to remove objects from locked layers.
 
 ### Version 4.3.166 (14 May 2026)
 * Prevent text editor disposal errors.
