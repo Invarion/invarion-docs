@@ -8,9 +8,11 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
-### Version 4.3.222 (02 June 2026)
-* Fixed menu button receiving focus when Alt is pressed.
-* Chainage marker spacing now displays accurately on scaled plans.
+### Version 4.3.228 (02 June 2026)
+* Fixed chainage marker distance values at minimal spacing.
+* Fixed long tool names clipping in the Tools palette.
+* Force signs palette refresh after saving custom sign.
+* Prevent menu buttons intercepting focus when Alt pressed.
 
 ### Version 4.3.206 (28 May 2026)
 * Fixed purge base map tile cache issue.
@@ -19,7 +21,7 @@ hide_title: true
 * Fixed app startup issue caused by invalid system fonts.
 * Fixed grayed out Annotation property on blank plan.
 * Fixed export plan to PDF.
-* Fixed an issue where objects from locked layers could be sent.
+* Prevent using "Send to Layer" to remove objects from locked layers.
 
 ### Version 4.3.166 (14 May 2026)
 * Prevent text editor disposal errors.
