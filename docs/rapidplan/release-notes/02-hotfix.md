@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.3.220 (02 June 2026)
+* Fixed menu button receiving focus when Alt is pressed.
+
 ### Version 4.3.206 (28 May 2026)
 * Fixed purge base map tile cache issue.
 * Fixed cut custom symbol preview in PG.
