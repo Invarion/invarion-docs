@@ -8,12 +8,11 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
-### Version 4.3.??? (02 June 2026)
-* Fixed menu button receiving focus when Alt is pressed.
-* Chainage marker spacing now displays accurately on scaled plans.
-* Fixed license validation messages when the splash screen is disabled.
-* Fixed long tool names being clipped in the Tools panel.
-* Fixed newly saved custom signs not appearing until the signs palette was refreshed.
+### Version 4.3.228 (02 June 2026)
+* Fixed chainage marker distance values at minimal spacing.
+* Fixed long tool names clipping in the Tools palette.
+* Force signs palette refresh after saving custom sign.
+* Prevent menu buttons intercepting focus when Alt pressed.
 
 ### Version 4.3.206 (28 May 2026)
 * Fixed purge base map tile cache issue.
