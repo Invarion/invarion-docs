@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.3.??? (03 June 2026)
+* Fixed LUMS board objects disappearing from the plan.
+
 ### Version 4.3.228 (02 June 2026)
 * Fixed chainage marker distance values at minimal spacing.
 * Fixed long tool names clipping in the Tools palette.
