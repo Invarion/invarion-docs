@@ -10,7 +10,7 @@ hide_title: true
 
 ### Redesigned Import with ArcGIS Support
 
-![redesigned import with arcgis support](./assets/import_arcgis2.png)
+![redesigned import with arcgis support](./assets/import_arcgis3.png)
 
 The import workflow has been redesigned and consolidated into a single interface for importing external data.
 
