@@ -8,7 +8,7 @@ hide_title: true
 
 ![video coming](./assets/video_coming.png)
 
-### Redesigned Import With ArcGIS Support
+### Redesigned Import with ArcGIS Support
 
 ![redesigned import with arcgis support](./assets/import_arcgis.png)
 
@@ -28,7 +28,7 @@ Provide a WMTS or ArcGIS service URL and, if required, an API key. RapidPlan wil
 
 The Custom Service base map provider is compatible with map services that use the Web Mercator coordinate reference system and a Google-compatible tiling scheme.
 
-### More changes
+### More Changes
 
 **TCR Integration** - RapidPlan can now connect to TCR jobs, use job information in plan properties and text variables, and attach exported plans to jobs as images or PDFs. Contact us for more information about this integration.
 
