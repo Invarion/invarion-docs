@@ -4,6 +4,39 @@ sidebar_label: "Official releases"
 hide_title: true
 ---
 
+## RapidPath 4.4 (Coming soon...)
+
+![video coming](./assets/video_coming.png)
+
+### Redesigned Import With ArcGIS Support
+
+![redesigned import with arcgis support](./assets/import_arcgis.png)
+
+The import workflow has been redesigned and consolidated into a single interface for importing external data.
+
+RapidPath continues to support CAD, KML, and Shapefile formats, and now adds support for ArcGIS Feature Services. You can connect to an ArcGIS server, preview selected feature layers, and import supported geometries including points, lines, and polygons.
+
+Multiple layers can be previewed at the same time and combined with data from other supported providers, giving you a more flexible way to bring external spatial data into your plans.
+
+### Custom Service Base Map Provider (WMTS)
+
+![custom service base maps](./assets/custom_service.png)
+
+The new Custom Service base map provider replaces the previous Custom ArcGIS Service provider, allowing both WMTS and ArcGIS MapServer services to be configured through a single interface.
+
+Provide a WMTS or ArcGIS service URL and, if required, an API key. RapidPath will automatically detect and display compatible configurations available from the service.
+
+The Custom Service base map provider is compatible with map services that use the Web Mercator coordinate reference system and a Google-compatible tiling scheme.
+
+### More changes
+
+**TCR Integration** - RapidPath can now connect to TCR jobs, use job information in plan properties and text variables, and attach exported plans to jobs as images or PDFs. Contact us for more information about this integration.
+
+**Cloud Downgrade for Local Plans** - Local plans created in newer RapidPath versions can now be opened more easily in older installed versions. When needed, RapidPath can upload the plan to the Cloud and convert it into a format compatible with the installed application version.
+
+**Other Improvements** - Several usability and workflow enhancements have been made across the application, including improvements to multi-window workflows, custom symbol management, and moving objects between layers and stages.
+
+
 ## RapidPath 4.3
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c6sLxWocUhY?si=QyE-1ZH4Q5RDsHHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
