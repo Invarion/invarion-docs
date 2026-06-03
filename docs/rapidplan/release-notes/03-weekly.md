@@ -10,13 +10,14 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.4.1 (03 June 2026)
+* RapidPlan 4.4 pre-release version.
+
 ### Version 4.3.229 (02 June 2026)
 * Redesigned Spatial Data Import with ArcGIS Feature Service support.
-* Bugfixes.
 
 ### Version 4.3.207 (28 May 2026)
 * Custom Service base map provider (WMTS & ArcGIS).
-* Bugfixes.
 
 ### Version 4.3.199 (26 May 2026)
 * Using Cloud to open plans from newer RP versions.
@@ -25,7 +26,6 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 * Updated .Net runtime and libraries.
 * Reworked Send to layer dialog.
 * Added JPEG, PNG and TIFF metadata tagging.
-* Bugfixes.
 
 ### Version 4.3.167 (14 May 2026)
 * Bugfixes.
