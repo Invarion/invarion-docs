@@ -8,7 +8,7 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
-### Version 4.3.223 (03 June 2026)
+### Version 4.3.233 (03 June 2026)
 * Preserve LUMS objects when artwork not available.
 
 ### Version 4.3.228 (02 June 2026)
