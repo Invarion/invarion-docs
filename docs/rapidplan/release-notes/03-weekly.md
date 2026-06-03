@@ -10,9 +10,6 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
-### Version 4.3.??? (03 June 2026)
-* Fixed LUMS board objects disappearing from the plan.
-
 ### Version 4.3.229 (02 June 2026)
 * Redesigned Spatial Data Import with ArcGIS Feature Service support.
 * Bugfixes.
