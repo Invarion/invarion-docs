@@ -11,9 +11,10 @@ hide_title: true
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
 ### Version 4.4.8 (10 June 2026)
-* Fix importing text rendered as geometry in CAD import.
-* Increase georeferenced import limits.
-* Adjust MetroMap provider.
+* Fixed importing text rendered as geometry in CAD import.
+* Fixed empty properties after plan selection.
+* Increased georeferenced import limits.
+* Adjusted MetroMap provider.
 
 ### Version 4.4.1 (03 June 2026)
 * RapidPlan 4.4 pre-release version.
