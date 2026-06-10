@@ -12,7 +12,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 
 ### Version 4.4.8 (10 June 2026)
 * Fixed importing text rendered as geometry in CAD import.
-* Fixed empty properties after plan selection.
+* Fixed empty properties panel after plan selection.
 * Increased georeferenced import limits.
 * Adjusted MetroMap provider.
 
