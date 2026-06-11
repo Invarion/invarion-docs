@@ -10,7 +10,7 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
-### Version 4.4.8 (10 June 2026)
+### Version 4.4.13 (11 June 2026)
 * Fixed importing text rendered as geometry in CAD import.
 * Fixed empty properties panel after plan selection.
 * Increased georeferenced import limits.
