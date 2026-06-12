@@ -20,15 +20,15 @@ RapidPlan continues to support CAD, KML and Shapefile formats - such files can n
 
 Multiple providers of all supported formats can be added at the same time, providing a flexible way to combine their data and import it to your plans.
 
-### Custom Service Base Map Provider (WMTS)
+### Custom Service Base Map Provider (WMTS, ArcGIS tile service)
 
 ![custom service base maps](./assets/custom_service.png)
 
-The new Custom Service base map provider replaces the previous Custom ArcGIS Service provider, allowing both WMTS and ArcGIS MapServer services to be configured through a single interface.
+WMTS support is now available in RapidPlan. To use a WMTS service as the basemap layer and for importing aerial photos, simply select the Custom Service map provider and specify the service URL. RapidPlan will automatically detect and display all compatible configurations available from the service.
 
-Provide a WMTS or ArcGIS service URL and, if required, an API key. RapidPlan will automatically detect and display compatible configurations available from the service.
+The Custom Service map provider supports both WMTS and ArcGIS MapServer services, replacing the previous Custom ArcGIS Service provider and allowing different service types to be configured through a single interface. 
 
-The Custom Service base map provider is compatible with map services that use the Web Mercator coordinate reference system and a Google-compatible tiling scheme.
+Compatible tiled map services need to use the Web Mercator coordinate reference system and a Google-compatible tiling scheme. API key based authentication is supported where required.
 
 ### More Changes
 
