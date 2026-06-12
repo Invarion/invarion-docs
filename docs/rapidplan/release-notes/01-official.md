@@ -8,15 +8,17 @@ hide_title: true
 
 ![video coming](./assets/video_coming.png)
 
-### Redesigned Import with ArcGIS Support
+### Spatial Data Import (ArcGIS, CAD, KML, Shapefile)
 
 ![redesigned import with arcgis support](./assets/import_arcgis3.png)
 
-The import workflow has been redesigned and consolidated into a single interface for importing external data.
+The import workflow for spatial data has been redesigned and consolidated into a single interface - the Spatial Data Import tool.
 
-RapidPlan continues to support CAD, KML, and Shapefile formats, and now adds support for ArcGIS Feature Services. You can connect to an ArcGIS server, preview selected feature layers, and import supported geometries including points, lines, and polygons.
+ArcGIS support was added, allowing RapidPlan to connect to ArcGIS Feature Services. Individual ArcGIS layers can be selected and added as data providers in the new import tool, where their data can be previewed over the current plan and imported to it.
 
-Multiple layers can be previewed at the same time and combined with data from other supported providers, giving you a more flexible way to bring external spatial data into your plans.
+RapidPlan continues to support CAD, KML and Shapefile formats - such files can now be added as providers in the Spatial Data Import tool.
+
+Multiple providers of all supported formats can be added at the same time, providing a flexible way to combine their data and import it to your plans.
 
 ### Custom Service Base Map Provider (WMTS)
 
@@ -32,7 +34,7 @@ The Custom Service base map provider is compatible with map services that use th
 
 **TCR Integration** - RapidPlan can now connect to TCR jobs, use job information in plan properties and text variables, and attach exported plans to jobs as images or PDFs. Contact us for more information about this integration.
 
-**Cloud Downgrade for Local Plans** - Local plans created in newer RapidPlan versions can now be opened more easily in older installed versions. When needed, RapidPlan can upload the plan to the Cloud and convert it into a format compatible with the installed application version.
+**Cloud Forward Compatibility for Local Plans** - Local plans created in newer RapidPlan versions can now be opened more easily in older installed versions. When needed, RapidPlan can upload the plan to the Cloud and convert it into a format compatible with the installed application version.
 
 **Other Improvements** - Several usability and workflow enhancements have been made across the application, including improvements to multi-window workflows, custom symbol management, and moving objects between layers and stages.
 
