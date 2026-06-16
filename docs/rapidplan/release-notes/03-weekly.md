@@ -10,7 +10,7 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
-### Version 4.4.17 (12 June 2026)
+### Version 4.4.19 (16 June 2026)
 * Fixed MetroMap surveys issue.
 
 ### Version 4.4.14 (11 June 2026)
