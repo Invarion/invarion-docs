@@ -14,7 +14,7 @@ hide_title: true
 
 The import workflow for spatial data has been redesigned and consolidated into a single interface - the Spatial Data Import tool.
 
-ArcGIS support was added, allowing RapidPlan to connect to ArcGIS Feature Services. Individual ArcGIS layers can be selected and added as data providers in the new import tool, where their data can be previewed over the current plan and imported to it.
+ArcGIS support was added, allowing RapidPlan to connect to ArcGIS Feature Services. Individual ArcGIS layers can be selected and added as data providers in the new import tool, where their data can be previewed over the current plan and imported to it. For more details on specific services you can access, see related article on [Finding Public ArcGIS Feature Services](/docs/rapidplan/integrated-mapping/finding-public-arcgis-feature-services.md).
 
 RapidPlan continues to support CAD, KML and Shapefile formats - such files can now be added as providers in the Spatial Data Import tool.
 

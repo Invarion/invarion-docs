@@ -1,6 +1,6 @@
 ---
 
-file_position: 8
+sidebar_position: 9
 
 ---
 # KML, KMZ and ESRI Shapefile Importing
