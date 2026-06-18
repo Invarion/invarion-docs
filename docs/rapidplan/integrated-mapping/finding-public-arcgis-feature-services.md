@@ -38,7 +38,7 @@ This page lists locations where you can find compatible public ArcGIS services t
 | ArcGIS Hub | https://hub.arcgis.com/ — Many European national and regional agencies publish ArcGIS Feature Services through Hub sites. |
 | European Data Portal | https://data.europa.eu/ — Search for ArcGIS-hosted datasets; some records provide Feature Service endpoints. |
 | INSPIRE Geoportal | https://inspire-geoportal.ec.europa.eu/ — Discover transport and infrastructure datasets published by European public authorities. |
-| National ArcGIS Open Data Portals | Many European countries maintain ArcGIS Hub sites (for example national mapping, transport, or road authorities). Search for "{country} ArcGIS Hub" or "{authority} open data ArcGIS". |
+| National ArcGIS Open Data Portals | Many European countries maintain ArcGIS Hub sites (for example national mapping, transport, or road authorities). Search for "`<country>` ArcGIS Hub" or "`<authority>` open data ArcGIS". |
 | Local/Regional Government ArcGIS Hubs | Major cities and regions frequently publish road, traffic, parking, and asset datasets through ArcGIS Online and ArcGIS Hub portals. |
 
 ## Notes
