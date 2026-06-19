@@ -10,6 +10,9 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.4.31 (19 June 2026)
+* Bugfixes.
+
 ### Version 4.4.24 (17 June 2026)
 * Updated to RapidPlan 4.4, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
 
