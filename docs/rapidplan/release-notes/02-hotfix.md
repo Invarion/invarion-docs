@@ -8,7 +8,7 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
-### Version 4.4.33 (19 June 2026)
+### Version 4.4.35 (19 June 2026)
 * Improved MetroMap survey handling during aerial imports.
 * Fixed telemetry reporting for license check failures during app startup.
 * Fixed Signs palette reopening after license validation checks.
