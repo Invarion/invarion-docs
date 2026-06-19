@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.4.30 (19 June 2026)
+* MetroMap survey improvements.
+
 ### Version 4.4.23 (17 June 2026)
 * Updated to RapidPlan 4.4, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
 
