@@ -1,8 +1,7 @@
 ---
-
 sidebar_position: .2
-
 ---
+
 # We currently have a license for RapidPlan, how can I access RapidPath?
 
-Please get in touch with our [sales team](https://invarion.com/au/contact/) who will be happy to help.
+RapidPath requires a RapidPath license or subscription. If your organization already uses RapidPlan and wants to add RapidPath, contact our [sales team](https://invarion.com/contact/).

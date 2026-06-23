@@ -50,7 +50,7 @@ Opens an Invarion Cloud tab in RapidPlan, where plans can be reviewed, managed a
 Quick Access features:
 
 - **What's New**: Brings you to the [Release Notes](/docs/rapidplan/release-notes/release-notes-rapidplan.md) section of the RapidPlan Help Center.
-- **Preferences**: Opens a [Preferences](/docs/rapidplan/installation-preferences-and-adminstration/managing-preferences.md) tab in RapidPlan.
+- **Preferences**: Opens a [Preferences](/rapidplan/preferences-and-defaults/managing-preferences) tab in RapidPlan.
 - **Keyboard Shortcuts**: Opens a tab in RapidPlan listing enabled keyboard shortcuts.
 - **Plan Locations Map**: Opens a mapped view of your plans, as this can sometimes be easier than seeking your plans' filenames.
 

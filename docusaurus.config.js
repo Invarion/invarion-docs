@@ -44,8 +44,8 @@ const config = {
   customFields: {
     gettingStartedLinks: [
       {
-        to: '/rapidplan/installation-preferences-and-adminstration/the-invarion-launcher',
-        text: 'Downloading the Invarion Launcher',
+        to: '/accounts-setup/desktop-applications/install-and-use-the-invarion-launcher',
+        text: 'Install the Invarion Launcher',
       },
       {
         to: '/rapidplan-online/the-invarion-cloud/invarion-cloud-and-its-layout',
@@ -87,23 +87,23 @@ const config = {
         to: '/rapidpath/Welcome',
         text: 'RapidPath',
       },
-      { to: 'rapidpath-online/Welcome', text: 'RapidPath Online' },
+      { to: '/rapidpath-online/Welcome', text: 'RapidPath Online' },
     ],
     accountManagementLinks: [
       {
-        to: '/account-management/managing-licenses',
-        text: 'Managing Your Subscriptions',
+        to: '/accounts-setup/account-management/managing-licenses',
+        text: 'Managing Licenses and Add-ons',
       },
       {
-        to: '/account-management/managing-company-accounts',
+        to: '/accounts-setup/account-management/managing-company-accounts',
         text: 'Managing Users',
       },
       {
-        to: '/account-management/buying-a-subscription',
+        to: '/accounts-setup/account-management/buying-a-subscription',
         text: 'Purchasing New Licenses',
       },
       {
-        to: '/account-management/updating-your-billing-information',
+        to: '/accounts-setup/account-management/updating-your-billing-information',
         text: 'Updating Your Billing Information',
       },
     ],
@@ -178,8 +178,8 @@ const config = {
               },
               {
                 type: 'doc',
-                label: 'Account Management',
-                docId: 'account-management/Welcome',
+                label: 'Accounts & Setup',
+                docId: 'accounts-setup/Welcome',
               },
             ],
           },
@@ -191,7 +191,7 @@ const config = {
           {
             position: 'right',
             label: 'Contact Support',
-            to: 'https://invarion.com/support/ ',
+            to: 'https://invarion.com/support/',
           },
           {
             position: 'right',

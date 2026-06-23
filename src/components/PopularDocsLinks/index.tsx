@@ -19,7 +19,7 @@ export const PopularDocsLinks = ({}): JSX.Element => {
 
         <div className="row" style={{ justifyContent: 'space-around' }}>
           <div className={clsx('col col--3')}>
-            <SubsectionTitle text="Account management" />
+            <SubsectionTitle text="Accounts & Setup" />
             <LinksList links={accountManagementLinks} />
           </div>
           <div className={clsx('col col--3')}>

@@ -1,0 +1,8 @@
+{
+  "label": "Accounts & Setup",
+  "position": 5,
+  "link": {
+    "type": "doc",
+    "id": "accounts-setup/Welcome"
+  }
+}

@@ -3,7 +3,7 @@
 sidebar_position: 4
 
 ---
-# Managing Licenses
+# Managing Licenses and Add-ons
 
 Users with Admin access can also manage the licenses and add-ons within their account.
 
@@ -15,8 +15,8 @@ Each row shows the product, license type, expiration date, add-ons and the emplo
 
 To assign a license to employees, click on the action icon for that license, and select the checkbox for each user requiring access to that license.
 
-For multi machine licenses you can select any number of users. For Single machine licenses, only one user can be assigned.
+For multi-machine licenses, you can select any number of users. For single-machine licenses, only one user can be assigned.
 
 To unassign a user from a license, click the action button and remove them.
   
-If you have purchased any product add-ons, like additional sign or vehicle libraries, they can be assigned to a license by clicking the action button and selecting "assign addon". Note that once an add-on is assigned to a license, it cannot be unassigned. If you would like to detach it from a license, please contact our Support team.
+If you have purchased product add-ons, such as additional sign or vehicle libraries, they can be assigned to a license by clicking the action button and selecting "assign add-on". Once an add-on is assigned to a license, it cannot be unassigned. If you need to detach an add-on from a license, contact [Invarion Technical Support](https://invarion.com/support/).
