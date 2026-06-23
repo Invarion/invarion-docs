@@ -5,4 +5,6 @@ sidebar_position: 0
 ---
 # Welcome to RapidPath Online
 
-**RapidPath Online** is web-based swept path analysis product. It can be used independently for purely swept path analysis work, or, if you need to design traffic plans as well as swept paths, RapidPath Online and RapidPath Online can be easily combined by assigning both to the same user.
+**RapidPath Online** is a web-based swept path analysis product for checking vehicle movements on road and site projects.
+
+This section covers RapidPath Online-specific swept path analysis functionality. For shared cloud, workspace, drawing, plan management, mapping, export, and general plan-editing tools, use the RapidPlan Online documentation.

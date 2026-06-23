@@ -77,17 +77,17 @@ const config = {
     docsLinks: [
       {
         to: '/rapidplan/Welcome',
-        text: 'RP',
+        text: 'RapidPlan',
       },
       {
         to: '/rapidplan-online/Welcome',
-        text: 'RO',
+        text: 'RapidPlan Online',
       },
       {
         to: '/rapidpath/Welcome',
-        text: 'RA',
+        text: 'RapidPath',
       },
-      { to: 'rapidpath-online/Welcome', text: 'RAO' },
+      { to: 'rapidpath-online/Welcome', text: 'RapidPath Online' },
     ],
     accountManagementLinks: [
       {

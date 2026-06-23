@@ -37,7 +37,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 * Custom Service base map provider (WMTS & ArcGIS).
 
 ### Version 4.3.199 (26 May 2026)
-* Using Cloud to open plans from newer RP versions.
+* Using Cloud to open plans from newer RapidPlan versions.
 
 ### Version 4.3.195 (22 May 2026)
 * Updated .Net runtime and libraries.
@@ -154,7 +154,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 * Bugfixes.
 
 ### Version 4.1.23 (23 Apr 2025)
-* First official RP 4.1 build, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/)
+* First official RapidPlan 4.1 build, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/)
 
 ### Version 4.1.14 (01 Apr 2025)
 * Bugfixes.

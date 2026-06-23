@@ -2,6 +2,7 @@
   "label": "FAQs",
   "position": 20,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "This section contains RapidPath-specific frequently asked questions. For shared drawing, plan management, mapping, import/export, workspace, and general plan-editing questions, use the RapidPlan FAQ and documentation."
   }
 }

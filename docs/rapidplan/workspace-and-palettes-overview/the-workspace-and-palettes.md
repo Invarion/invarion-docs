@@ -54,7 +54,7 @@ You can also double-click an item from your plan to display the property paramet
 
 ![properties options](./assets/The_Properties_Options.png)
 
-Further details can be found [here](/docs/rapidplan/object-properties-and-transformations/object-properties-and-styles.md.md)
+Further details can be found [here](/docs/rapidplan/object-properties-and-transformations/object-properties-and-styles.md)
 
 ### The Tools Palette
 
