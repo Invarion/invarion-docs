@@ -5,6 +5,7 @@
 ### Bug fixes
 
 - Fixed an issue where some Scratchpad objects, including grouped objects and SVG-based items, could fail to appear on the plan or sync correctly after being added.
+- Fixed an issue where invalid swept path preview movements could cause an error instead of safely clearing the preview.
 
 ## May 2026
 
