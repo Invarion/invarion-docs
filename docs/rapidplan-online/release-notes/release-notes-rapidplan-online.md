@@ -1,5 +1,13 @@
 # Release Notes
 
+## June 2026
+
+### Bug fixes
+
+- Fixed an issue where Scratchpad objects, including saved SVG items, could fail to sync after being placed on a plan.
+- Fixed an issue where changing the direction of arc roads and roundabouts did not update the object on the plan.
+- Fixed an issue where opacity settings were not applied correctly to object groups.
+
 ## May 2026
 
 - Fixed an issue where plans with a bearing value other than **0** could display differently in preview and export.
