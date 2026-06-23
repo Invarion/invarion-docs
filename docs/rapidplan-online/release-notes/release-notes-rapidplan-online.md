@@ -1,5 +1,11 @@
 # Release Notes
 
+## June 2026
+
+### Bug fixes
+
+- Fixed an issue where some Scratchpad objects, including grouped objects and SVG-based items, could fail to appear on the plan or sync correctly after being added.
+
 ## May 2026
 
 - Fixed an issue where plans with a bearing value other than **0** could display differently in preview and export.
