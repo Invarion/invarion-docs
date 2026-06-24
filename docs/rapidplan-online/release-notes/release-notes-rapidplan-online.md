@@ -1,5 +1,11 @@
 # Release Notes
 
+## June 2026
+
+### Bug fixes
+
+- Fixed an issue where scratchpad objects were not normalized correctly, so objects placed from the scratchpad now preserve their data and behave more reliably.
+
 ## May 2026
 
 - Fixed an issue where plans with a bearing value other than **0** could display differently in preview and export.
