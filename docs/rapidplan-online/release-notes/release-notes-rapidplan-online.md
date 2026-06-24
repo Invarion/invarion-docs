@@ -1,4 +1,4 @@
-﻿# Release Notes
+# Release Notes
 
 ## June 2026
 
