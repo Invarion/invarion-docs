@@ -443,7 +443,7 @@ One can now resize the size of the box, thus having a multi-column layout.
 
 ### Default paper sizes based on user's country
 
-Default paper size in print dialog is selected based on user license country.
+Default paper size in print dialog is selected based on the user license country.
 
 ### New feature: Object Styles
 
