@@ -7,7 +7,7 @@ tags:
 ---
 # Using Delineators
 
-Traditionally, one of the most difficult things to do when creating a traffic plan was run out lines of bollards, cones, barrels, etc. The RapidPlan Online delineator tool allows you to drag out lines of devices in seconds.
+Traditionally, one of the most difficult things to do when creating a traffic plan was run out lines of bollards, cones, barrels, etc. The **RapidPlan Online** delineator tool allows you to drag out lines of devices in seconds.
 
 **Types of Delineators available:**
 
@@ -31,13 +31,13 @@ There are thirteen standard types of delineators available:
 
 ## Creating a basic Delineator line
 
-All delineator lines start by default as Cones. They can then be changed into the required type after placement on the plan. You can also set new values for the spacing and size of the delineator from the Properties Palette.
+All delineator lines start by default as Cones. They can then be changed into the required type after placement on the plan. You can also set new values for the spacing and size of the delineator from the **Properties Palette**.
 
 **To create a basic delineator line:**
 
-- Select the Delineator from the Markers tab in the Tools Palette;
+- Select the Delineator from the Markers tab in the **Tools Palette**;
 - Click once where you wish to start drawing (don't hold);
-- Click at each corner for your line, to drop a control point;
+- Click at each corner for your line, to drop a **control point**;
 - After you have placed the end point, **Right click** to stop drawing;
 - **Right click** to clear the cursor.
 
@@ -49,7 +49,7 @@ Once your line is on the plan, you can change the various Properties of your del
 
 ### To change delineator types
 
-- Select the delineator line on the plan and observe the Properties Palette;
+- Select the delineator line on the plan and observe the **Properties Palette**;
 - Click on the Type drop down box and choose the type of delineator required from the Type drop down box.
 
 ### To change size and spacing

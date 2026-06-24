@@ -1,23 +1,23 @@
-﻿---
+---
 
 sidebar_position: 1
 tags:
-  - workspace
+  - **workspace**
 
 ---
 # Workspace and palettes
 
 For the purpose of this explanation we will be using the **New Default Plan** in the following section
 
-Before you get started with RapidPlan, you should probably get to know your way around the main screen. It has been designed to be intuitive, easy to follow and to allow you the maximum available working space to create your traffic plan.
+Before you get started with **RapidPlan**, you should probably get to know your way around the main screen. It has been designed to be intuitive, easy to follow and to allow you the maximum available working space to create your traffic plan.
 
-There are three main components of the RapidPlan workspace:
+There are three main components of the **RapidPlan** **workspace**:
 
 - The toolbar
 - The palettes
 - The canvas
 
-Organizing your workspace is simple as each of the items that sit on the canvas can be moved around. Generally, your screen will be laid out similar to as is shown below.
+Organizing your **workspace** is simple as each of the items that sit on the canvas can be moved around. Generally, your screen will be laid out similar to as is shown below.
 
 ![workspace](../workspace-and-palettes-overview/assets/overview.png)
 
@@ -47,8 +47,8 @@ Further details can be found in [Signs palette](/docs/rapidplan/signs-and-scratc
 
 ### Properties palette
 
-The Properties palette displays all the information pertaining to any selected signs, tools, markers or objects that is currently selected. This is where you can change fonts, colors, lane markers, etc. of the selected feature.
-If no object is selected on the canvas at the time, the Properties Palette will display information about the plan itself.
+The **Properties palette** displays all the information pertaining to any selected signs, tools, markers or objects that is currently selected. This is where you can change fonts, colors, lane markers, etc. of the selected feature.
+If no object is selected on the canvas at the time, the **Properties Palette** will display information about the plan itself.
 
 ![properties palette](../workspace-and-palettes-overview/assets/The_Properties_Palette.png)
 
@@ -60,13 +60,13 @@ Further details can be found [here](/docs/rapidplan/object-properties-and-transf
 
 ### Tools palette
 
-The Tools palette contains most of the tools you will use to construct the features of your plan.
+The **Tools palette** contains most of the tools you will use to construct the features of your plan.
 
 Further details can be found [here](/docs/rapidplan/the-tools-palette/)
 
 ### Scratchpad
 
-Scratchpad is used to store objects that you commonly use to make them easily accessible.
+**Scratchpad** is used to store objects that you commonly use to make them easily accessible.
 
 Further details can be found in [Scratchpad](/docs/rapidplan/signs-and-scratchpad/scratchpad/scratchpad.md).
 
@@ -74,10 +74,10 @@ Further details can be found in [Scratchpad](/docs/rapidplan/signs-and-scratchpa
 
 The Canvas area is the central area in which plans are created.
 
-For canvas movement and zooming, see [Canvas navigation](./canvas-navigation.md). For print regions and output setup, see [Printing and export](/category/exporting-plans).
+For canvas movement and zooming, see [Canvas navigation](./canvas-navigation.md). For **print regions** and output setup, see [Printing and export](/category/exporting-plans).
 
 For details on how to manipulate objects on the canvas, click [here](/docs/rapidplan/object-properties-and-transformations/).
 
-Or for information on importing mapping to the canvas area, click [here](/docs/rapidplan/integrated-mapping/).
+Or for information on importing mapping to the **canvas area**, click [here](/docs/rapidplan/integrated-mapping/).
 
 

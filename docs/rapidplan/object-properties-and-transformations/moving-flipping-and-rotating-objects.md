@@ -10,7 +10,7 @@ tags:
 
 ## Moving Objects
 
-Of course there will be times when you will need to move a placed object  on the RapidPlan canvas. This is accomplished using the move handle.
+Of course there will be times when you will need to move a placed object  on the **RapidPlan** canvas. This is accomplished using the move handle.
 
 ### Moving one or more objects on the plan
 
@@ -37,4 +37,4 @@ Frequently it will be necessary to rotate an item on a plan. There are three met
 
     ![Rotate_selected_object](./assets/Rotate_selected_object.png)
 
-    **Note:** You can rotate one or more selected objects at the time.
+    **Note:** You can rotate one or more **selected objects** at the time.

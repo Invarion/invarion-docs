@@ -33,7 +33,7 @@ A lower opacity value will make that part of the vehicle more opaque. Opacity of
 - **Start** - The vehicle is only visible at the start of the path.
 - **End** - The vehicle is only visible at the end of the path.
 - **Both** - The vehicle is visible at the start and end of the path.
-- **All** - The vehicle is visible at every control point placed in the swept path.
+- **All** - The vehicle is visible at every **control point** placed in the swept path.
 
 **Note** that the initial vehicle placed on plan (from which the swept path was initiated) is a separate object to the swept path. If you would like this vehicle to not be visible in your plan, it will need to be removed by selecting and omitting it on the canvas.
 
@@ -57,13 +57,13 @@ Predictably, **Outline** controls the appearance of the outline of the swept pat
 
 ## Clearance section
 
-The initial envelope of the swept path displays the path of the vehicle if a driver navigates the space without error or any unexpected factors. To allow for variables, a **clearance** envelope around the original swept path envelope can be added.
+The initial envelope of the swept path displays the path of the vehicle if a driver navigates the space without error or any unexpected factors. To allow for variables, a **clearance** envelope around the original swept **path envelope** can be added.
 
 As for other variables, the **Show** drop down menu can set the the **clearance** area to:
 
 - **Filled** - Show the clearance fill and outline.
-- **Outline** - Online show the clearance envelope's outline.
-- **None** - Do not include the clearance envelope.
+- **Outline** - Online show the **clearance envelope**'s outline.
+- **None** - Do not include the **clearance envelope**.
 
 ![Clearance Envelope and its offset settings in the Object Properties window](./images/Clearance_Envelope_and_its_offset_settings_in_the_Object_Properties_window.png)
 
@@ -90,8 +90,8 @@ Directional arrows are a valid aesthetic choice if preferred, and can be valuabl
 
 **Show** options:
 
-- **Regular** - display the arrows in solid fill at every control point in the swept path.
-- **Stop** - displays the arrows in solid color every time the vehicle stops, and an outline of the arrow at every control point where the vehicle doesn't stop (keeping in mind if [turn on stop](./preparing-swept-path-analysis.md/#editing-an-existing-vehicle) is engaged for a control point, this will make the arrow solid).
+- **Regular** - display the arrows in solid fill at every **control point** in the swept path.
+- **Stop** - displays the arrows in solid color every time the vehicle stops, and an outline of the arrow at every **control point** where the vehicle doesn't stop (keeping in mind if [turn on stop](./preparing-swept-path-analysis.md/#editing-an-existing-vehicle) is engaged for a **control point**, this will make the arrow solid).
 - **None** - arrows are not visible.
 
 **Stroke**'s sub-settings **Width** alters the width of the outline of the arrows, and **color** controls the color of the arrow.

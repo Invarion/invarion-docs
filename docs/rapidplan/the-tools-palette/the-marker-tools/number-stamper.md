@@ -7,9 +7,9 @@ tags:
 ---
 # Number Stamper
 
-Use the number stamper to quickly annotate objects on your traffic control plan.
+Use the number stamper to quickly annotate objects on your **traffic control plan**.
 
-To use the number stamper it's just a matter of clicking the Number stamper tool, located under Annotations, in the Tools palette.
+To use the number stamper it's just a matter of clicking the Number stamper tool, located under Annotations, in the **Tools palette**.
 
 Once selected, you can then annotate objects on your plan, by **Left clicking** next to each object in sequence (e.g., 1, 2, 3, 4)
 

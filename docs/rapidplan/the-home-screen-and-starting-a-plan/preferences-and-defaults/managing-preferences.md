@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 1
 tags:
   - getting-started
@@ -41,7 +41,7 @@ Appearance settings include reduced eye strain options such as **Night Light** a
 
 ## Layout manager
 
-Use the Layout Manager to control the position and visibility of RapidPlan palettes such as Tools, Properties, Layers, and History.
+Use the Layout Manager to control the position and visibility of **RapidPlan** palettes such as Tools, Properties, Layers, and History.
 
 You can drag palettes by their header bars, dock them to the available drop targets, hide them, or restore a saved layout.
 

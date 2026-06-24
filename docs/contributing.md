@@ -10,7 +10,7 @@ Contribution to this project may come in different forms: writing a new article,
 
 ## Before you begin
 
-Define the goal of your task. It should be clear what you want to achieve. The rule of thumb that the task should be small enough to be completed in between half a day and two days but big enough to be meaningful and provide value for the readers of the Help Centre. E.g. "write an article about new feature in RapidPlan", "split one large article into smaller ones", "fix typos", "update obsolete screenshots in **one** article".
+Define the goal of your task. It should be clear what you want to achieve. The rule of thumb that the task should be small enough to be completed in between half a day and two days but big enough to be meaningful and provide value for the readers of the Help Centre. E.g. "write an article about new feature in **RapidPlan**", "split one large article into smaller ones", "fix typos", "update obsolete screenshots in **one** article".
 
 Having reasonably small goals would help to avoid merge conflicts, prevent the writer from slipping into wrong direction, fail fast and what's the most important - making review process possible because the reviewer can only work with the changes that are small enough to be reviewed in a reasonable time.
 
@@ -132,7 +132,7 @@ Generally this shouldn't happen and ought to be avoided, but if there is a case 
 
 '#' and '##' tier headings have all words capitalised that aren't little conjunction/definite article words (like 'as', 'and, 'in', 'a', 'the' etc.), unless the little word is at the start of the sentence.
 
-'###' and (if necessary) 'four tier **bold**' headings are made up of words in lower case, unless they start the sentence or are the name of a product/feature ('Scratchpad' etc.).
+'###' and (if necessary) 'four tier **bold**' headings are made up of words in lower case, unless they start the sentence or are the name of a product/feature ('**Scratchpad**' etc.).
 
 ### Referring to buttons
 

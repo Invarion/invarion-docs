@@ -18,8 +18,8 @@ TODO: images withing tables are not supported in Markdown. Refactor this
 
 ## Create the Base Roads
 
-1.Select the Road tool from the Road Tools tab and draw an east west road. Change it to four lanes
-2.With the Road tool already in use, draw a north south road that intersects the 4-lane road and change it to a 3-lane road as shown.
+1.Select the **Road tool** from the Road Tools tab and draw an east west road. Change it to four lanes
+2.With the **Road tool** already in use, draw a north south road that intersects the 4-lane road and change it to a 3-lane road as shown.
 
 ![Crossroad_Intersection_step_1_and_2](./assets/Crossroad_Intersection_step_1_and_2.png)
 
@@ -32,14 +32,14 @@ TODO: images withing tables are not supported in Markdown. Refactor this
 
 ![Crossroad Intersection steps 3, 4, 5 and 6](./assets/Crossroad_Intersection_steps_3_4_5_and_6.png)
 
-7.Using the **Lane Marker** tool, draw two new lane markings to replace the ones masked out on the southern approach. They will be drawn as type solid color yellow by default. **Double click** on them and change their type so that they appear as  below.
+7.Using the **Lane Marker** tool, draw two new **lane markings** to replace the ones masked out on the southern approach. They will be drawn as type solid color yellow by default. **Double click** on them and change their type so that they appear as  below.
 
 ![Crossroad_Intersection_step_7](./assets/Crossroad_Intersection_step_7.png)
 
 ## Adding the Stop Bar and Turning Arrows
 
 8.Using the **Rectangle** tool in the Shapes tab, create stop bars in the appropriate places. Ensure that your rectangle stroke color is white (it will be black by default).
-9.Select a **Left turn** or **straight arrow** from the Furniture tab of the Signs Palette and place it on the plan somewhere. Ensure it is selected, then flip it using the flip horizontal button on the Flip toolbar. Drag it into one of the two required places.
+9.Select a **Left turn** or **straight arrow** from the Furniture tab of the **Signs Palette** and place it on the plan somewhere. Ensure it is selected, then flip it using the flip horizontal button on the Flip toolbar. Drag it into one of the two required places.
 10.Duplicate your modified arrow. Drag the duplicate onto the other side of the intersection as shown.
 11.Now select a Left turn arrow and place it in both required places. Make sure you flip it accordingly.
 

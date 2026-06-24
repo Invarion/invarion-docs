@@ -1,4 +1,4 @@
-﻿---
+---
 
 sidebar_position: 3
 tags:
@@ -6,11 +6,11 @@ tags:
 
 ---
 # Managing Company Accounts
-  
-Once you have logged in to your account, you will be taken to the My Account page.
 
- This page shows your account details including:  
-  
+Once you have logged in to your account, you will be taken to the **My Account** page.
+
+ This page shows your account details including:
+
 - Your email address or username
 - Your role within the system, whether you are a Company admin or standard user
 - Your company name
@@ -20,13 +20,13 @@ Once you have logged in to your account, you will be taken to the My Account pag
 
 ## Access types
 
-If you have standard access, you can view the licenses and add-ons linked to your profile.
+If you have **standard access**, you can view the licenses and add-ons linked to your profile.
 
-If you have Administrator access, you will be able to view, edit and manage all of the employees and licenses your company owns. You will also have the ability to purchase additional products for your company account.
+If you have **Administrator access**, you will be able to view, edit and manage all of the employees and licenses your company owns. You will also have the ability to purchase additional products for your company account.
 
 ## Managing users
 
-Navigate to the Company page.
+Navigate to the **Company** page.
 
 If you have Administrator access, you will see a list of all current user profiles on your account under the company section, here.
 
@@ -40,4 +40,4 @@ Under "Company information" you can edit your company name and add a contact per
 
 ## Adding new users
 
-To add new employees to your account, simply share this "Company invite" link with the people you wish to add. This link will enable them to register a user profile that is automatically linked to your company account. Once the new employee has created an Invarion profile, they will appear in the Company members list and can be assigned licenses and add-ons.
+To add new employees to your account, simply share this **Company invite** link with the people you wish to add. This link will enable them to register a user profile that is automatically linked to your company account. Once the new employee has created an Invarion profile, they will appear in the Company members list and can be assigned licenses and add-ons.

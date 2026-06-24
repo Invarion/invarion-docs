@@ -16,13 +16,13 @@ There are three geometries to choose from:
 
 ### Line Geometry
 
-Line Geometry takes a direct path between control points.
+Line Geometry takes a direct path between **control points**.
 
 ![line geometry](./assets/geometry-line.png)
 
 ### Spline Geometry
 
-Spline Geometry smooths the path between control points.
+Spline Geometry smooths the path between **control points**.
 
 ![spline geometry](./assets/geometry-spline.png)
 
@@ -36,14 +36,14 @@ Bezier Geometry allows for the highest degree of customisation, allowing you to 
 
 An object set to Bezier Geometry will appear as if the same as Line Geometry initially, but once an object is set to bezier you are able to create up to 2 Tangent Points per [control point](./control-points-and-snapping.md):
 
-Tangent Points are used to create a smoothed curvature on either side of an object at a chosen control point.
+Tangent Points are used to create a smoothed curvature on either side of an object at a chosen **control point**.
 
-As shown in the image below, a tangent point will create curvature; more smooth and extended when placed further from a control point, or more immediate and shorter when placed nearby.
+As shown in the image below, a tangent point will create curvature; more smooth and extended when placed further from a **control point**, or more immediate and shorter when placed nearby.
 
 ![bezier geometry](./assets/geometry-bezier.png)
 
-There can be up to two Tangent Points per control point, and appear blue with a line between each of them and the red control point.
+There can be up to two Tangent Points per **control point**, and appear blue with a line between each of them and the red **control point**.
 
-**To create a Tangent Point** on an object set to Bezier Geometry: Simply hold **Ctrl**, while clicking and dragging a red control point.
+**To create a Tangent Point** on an object set to Bezier Geometry: Simply hold **Ctrl**, while clicking and dragging a red **control point**.
 
 If needed, a Tangent Point can be reset (as if to delete it) by *Right-Clicking it > 'Reset Control Point'*.

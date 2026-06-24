@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 1
 tags:
   - print-export
@@ -36,7 +36,7 @@ This is the best option when you are:
 - printing one region at a time
 - working interactively on the current plan
 
-For multiple plans or print regions, use [Batch print and export](./batch-print-and-export.md).
+For multiple plans or **print regions**, use [Batch print and export](./batch-print-and-export.md).
 
 ## Related output workflows
 

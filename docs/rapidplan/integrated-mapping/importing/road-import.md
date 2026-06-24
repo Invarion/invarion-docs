@@ -1,4 +1,4 @@
-﻿---
+---
 
 sidebar_position: 6
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
 # Importing roads
 
-Importing roads onto integrated mapping creates a **road object** with properties that can be manipulated.
+Importing roads onto **integrated mapping** creates a **road object** with properties that can be manipulated.
 
 There are three ways of importing your roads;
 
@@ -20,7 +20,7 @@ There are three ways of importing your roads;
 
 ## Matching the Width of Imported Roads
 
-As you have a set scale, you can accurately measure the width of the satellite road with a **distance marker** tool and adjust the road object properties accordingly.
+As you have a set scale, you can accurately measure the width of the satellite road with a **distance marker** tool and adjust the **road object** properties accordingly.
 To make this easier, lower the opacity of the layer your roads are on.
 
 ![Measuring_and_Adjust_Road_Width](../assets/Measuring_and_Adjust_Road_Width.jpg)
@@ -31,7 +31,7 @@ Once your road widths are adequate, you may need to make some manual adjustments
 
 **To adjust the road objects to match the satellite image:**
 
- 1. First, adjust the road layer **opacity** in the layers list to see the satellite image through the road object. This will make transferring lane markings much easier.
+ 1. First, adjust the road layer **opacity** in the layers list to see the satellite image through the **road object**. This will make transferring **lane markings** much easier.
 
 ![Changing_Road_Opacity_to_see_Satellite_Image_Below](../assets/Changing_Road_Opacity_to_see_Satellite_Image_Below.jpg)
 
@@ -45,11 +45,11 @@ Once your road widths are adequate, you may need to make some manual adjustments
 
  **Note:** The Road Corners were placed with the satellite provider to trace the exact shape.
 
-3.When you are satisfied with your roads, add other necessary features such as lane markings.
+3.When you are satisfied with your roads, add other necessary features such as **lane markings**.
 
 ![Completed_Plan_Satellite_on_Show_(Left)*Completed_Plan_No_Satellite*(Right)](../assets/Completed_Plan_Satellite_on_Show_(Left)_Completed_Plan_No_Satellite_(Right).png)
 
-4.Once your base road layout is drawn up, you can print it, use the fax mode icon to convert it or start adding your traffic management information.
+4.Once your base road layout is drawn up, you can print it, use the **fax mode** icon to convert it or start adding your traffic management information.
 
 ## Importing Road Names and Speed Limits
 

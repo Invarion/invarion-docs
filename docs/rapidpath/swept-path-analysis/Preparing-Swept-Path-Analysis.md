@@ -10,17 +10,17 @@ tags:
 
 ## Adding a vehicle to the plan
 
-The first step in creating the Swept Path Analysis is adding a vehicle to your plan. To do this, open the Vehicle Library by selecting the Vehicle tool from the Tools Palette. In the Vehicle Library window, choose the standard and vehicle you are interested in and click the "Add" button at the bottom of the window. Now place the vehicle onto your plan with the left mouse button.
+The first step in creating the **Swept Path Analysis** is adding a vehicle to your plan. To do this, open the **Vehicle Library** by selecting the Vehicle tool from the **Tools Palette**. In the **Vehicle Library** window, choose the standard and vehicle you are interested in and click the "Add" button at the bottom of the window. Now place the vehicle onto your plan with the left mouse button.
 
 ![Adding Vehicle](./images/Adding_Vehicle.png)
 
-If you want to use different vehicle's parameters you can change them in Vehicle Library before clicking the "Add" button. These changes will not be saved into the Library, they will only apply to the vehicle that will be added to the plan.
+If you want to use different vehicle's parameters you can change them in **Vehicle Library** before clicking the "Add" button. These changes will not be saved into the Library, they will only apply to the vehicle that will be added to the plan.
 
-Vehicles in RapidPath can be positioned and rotated just like any other object. But, their size is automatically adjusted to the plan's scale and cannot be changed. You can also copy/cut and paste vehicles.
+Vehicles in **RapidPath** can be positioned and rotated just like any other object. But, their size is automatically adjusted to the plan's scale and cannot be changed. You can also copy/cut and paste vehicles.
 
 ![Vehicle object on the plan](./images/Vehicle_object_on_the_plan.png)
 
-When clicking on a vehicle you can check its most important parameters inside the Object Properties window.
+When clicking on a vehicle you can check its most important parameters inside the **Object Properties** window.
 
 ## Editing an existing vehicle
 
@@ -28,7 +28,7 @@ To edit the existing vehicle **Double click** on it with the left mouse button. 
 
 ![Edit Vehicle window](./images/Edit_Vehicle_window.png)
 
-If you want to only edit the "Lock to Lock" parameter you can select the vehicle and do it inside an Object Properties window. Object Properties can also be used to style the vehicle which is very useful when using multiple vehicles with similar shapes on the same plan.
+If you want to only edit the "Lock to Lock" parameter you can select the vehicle and do it inside an **Object Properties** window. **Object Properties** can also be used to style the vehicle which is very useful when using multiple vehicles with similar shapes on the same plan.
 
 ![Vehicle's properties inside the Object Properties window](./images/Vehicle_object_and_its_properties.png)
 
@@ -49,13 +49,13 @@ When in the process of drawing a path, a special window called **Section Details
 
 - **Speed** - Vehicle speed.
 - **Friction** - Lateral friction factor dependent on the vehicle speed and calculated according to the chosen standard. To set a custom value disable speed and friction dependency by clicking on the link/unlink toggle button on the left and enter the desired value in the field.
-- **Turn on Stop** - Turning this option on ("True") allows the vehicle to make a stop and turn the front wheels between different sections (at control points) of the Vehicle Path.
+- **Turn on Stop** - Turning this option on ("True") allows the vehicle to make a stop and turn the front wheels between different sections (at **control points**) of the Vehicle Path.
 
 Information such as:
 
 - **Min radius** - Minimum turning radius (centerline) of the vehicle at the given speed and friction.
 - **Max angle** - Maximum turn angle of the vehicle at the given speed and friction.
-- **Max speed** - Maximum speed for the vehicle taking into account standard guidelines, given speed, friction and current turn radius.
+- **Max speed** - Maximum speed for the vehicle taking into account standard guidelines, given speed, friction and current **turn radius**.
 
 As well as settings for altering the appearance of the **Predicted Movement Area Cloud**:
 
@@ -68,7 +68,7 @@ As well as settings for altering the appearance of the **Predicted Movement Area
 
 ## Drawing the vehicle path
 
-After setting the speed, friction and "Turn on Stop" option you can start drawing the path. To do this, indicate the points on the canvas area by clicking the left mouse button. These points are called "Control Points" and can be adjusted later. Each point creates another section of the Vehicle Path.
+After setting the speed, friction and "Turn on Stop" option you can start drawing the path. To do this, indicate the points on the **canvas area** by clicking the left mouse button. These points are called "Control Points" and can be adjusted later. Each point creates another section of the Vehicle Path.
 Each section can have different parameters such as speed, friction and turn on stop setting.
 You can adjust section parameters before making each point to create a path that consists of sections with different speeds, friction and other parameters.
 Alternatively, the section parameters can be adjusted after drawing the path. To do so, select the whole path, then while holding **Ctrl**, click the section you would like to alter to select it. Once a sepecific section of the path is selected, changes made in the **section details** dialog box will apply to that section specifically.
@@ -92,8 +92,8 @@ After the Vehicle Path is finished you can edit and adjust it using these method
 
 ![Selected section of the vehicle path](./images/Selected_section_of_the_vehicle_path.png)
 
-1. **Editing control points** - You can change Vehicle Path's geometry by moving control points. Select the path, then click on one of the red circles and drag while holding the left mouse button. It is possible that you won't be able to move it freely because its position can be bounded by vehicle's manoeuvrability capabilities (sections' properties, other control points).
-You can also remove the control point by clicking on it with the right mouse button and choosing "Remove control point" option from the context menu.
+1. **Editing control points** - You can change Vehicle Path's geometry by moving **control points**. Select the path, then click on one of the red circles and drag while holding the left mouse button. It is possible that you won't be able to move it freely because its position can be bounded by vehicle's manoeuvrability capabilities (sections' properties, other **control points**).
+You can also remove the **control point** by clicking on it with the right mouse button and choosing "Remove **control point**" option from the context menu.
 
 1. **Continuing the path** - You can continue drawing already finished path. To do this simply click with the right mouse button on the path you want to expand, then choose the "Continue path" option from the "Vehicle path" sub-menu. Continuing the path works the same way as drawing the path.
 
@@ -116,8 +116,8 @@ You can add additional vehicle objects to the path to:
 - Better visualize results of your analysis;
 - Check position/behavior of the vehicle and trailers at a specific point along the path; and
 - Start a new analysis from a selected point on the existing path to make multiple connected analyses or different route variants.
-  
-To add additional vehicles to the path, click on it with the right mouse button and choose the "Add vehicle" option from the "Vehicle path" sub-menu. Now place the vehicles along the path by clicking with the left mouse button. When finished press the right mouse button or "Esc" key. These are ordinary vehicle objects that can be moved, edited and even replaced with other vehicles. You can also start a new swept path analysis from them.
+
+To add additional vehicles to the path, click on it with the right mouse button and choose the "Add vehicle" option from the "Vehicle path" sub-menu. Now place the vehicles along the path by clicking with the left mouse button. When finished press the right mouse button or "Esc" key. These are ordinary vehicle objects that can be moved, edited and even replaced with other vehicles. You can also start a new **swept path analysis** from them.
 
 ![Additional vehicles added to the existing vehicle path](./images/Additional_vehicles_added_to_the_existing_vehicle_path.png)
 

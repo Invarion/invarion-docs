@@ -6,7 +6,7 @@ tags:
 
 # Running multiple windows
 
-RapidPlan can run multiple application windows at the same time.
+**RapidPlan** can run multiple application windows at the same time.
 
 ![running multiple instances](../release-notes/assets/multiple_instances.png)
 
@@ -20,9 +20,9 @@ Multiple windows help when you want to:
 
 ## Open a new window
 
-Use **File** > **New window** to open another RapidPlan window.
+Use **File** > **New window** to open another **RapidPlan** window.
 
-There is also a keyboard shortcut for this command in current RapidPlan releases.
+There is also a keyboard shortcut for this command in current **RapidPlan** releases.
 
 ## Open a plan in a new window
 

@@ -7,9 +7,9 @@ tags:
 ---
 # New Plan Wizard
 
-The first step in RapidPlan is choosing a canvas to work on. The New Plan Wizard allows you to select a type of plan and specify details of your plan (such as scale, print region, etc.) before you begin (which a **New Default Plan** does not).
+The first step in **RapidPlan** is choosing a canvas to work on. The New Plan Wizard allows you to select a type of plan and specify details of your plan (such as scale, print region, etc.) before you begin (which a **New Default Plan** does not).
 
-The New Plan Wizard can be accessed from the **Quick Start** section of the Welcome to RapidPlan tab. If this tab is closed, the wizard can also be accessed by going to **File > New Plan Wizard**.
+The New Plan Wizard can be accessed from the **Quick Start** section of the Welcome to **RapidPlan** tab. If this tab is closed, the wizard can also be accessed by going to **File > New Plan Wizard**.
 
 ![The_New_Plan_Wizard](./assets/The_New_Plan_Wizard.png)
 
@@ -25,7 +25,7 @@ Once you have selected the **New Plan Wizard** option, you will have four plan t
 
 After you select your plan type, **step 2** allows you to enter plan details, such as a title, author, comments and relevant job dates. You can also choose a print region, set a scale and enter your job location site.
 
-If you choose not to enter any details here, a default print region and scale will be set and any details can be changed at any time from the Properties Palette.
+If you choose not to enter any details here, a default print region and scale will be set and any details can be changed at any time from the **Properties Palette**.
 
 ## Blank Canvas
 
@@ -33,7 +33,7 @@ Selecting the **blank canvas** option will provide you with a plain canvas to dr
 
 **To create a Blank Canvas Plan:**
 
-- Select **New Plan Wizard** in the Quick Start section of the Welcome to RapidPlan page.
+- Select **New Plan Wizard** in the Quick Start section of the Welcome to **RapidPlan** page.
 - In **step 1**, select **Blank Canvas**.
 - In **step 2** enter your plan's details and choose a print region and scale if needed.
 - In this step, if you scroll down you can also add a **job location** to make the plan searchable by location.
@@ -41,7 +41,7 @@ Selecting the **blank canvas** option will provide you with a plain canvas to dr
 
     ![Enter_Plan_Details](./assets/Enter_Plan_Details.png)
 
-    **Note**: Selecting a job location with this plan type only makes it searchable by location, if you want to use the integrated mapping feature, see **Base Map** below.
+    **Note**: Selecting a job location with this plan type only makes it searchable by location, if you want to use the **integrated mapping** feature, see **Base Map** below.
 
 ## Base Map
 
@@ -49,13 +49,13 @@ Select this plan type if you're drawing a plan for a specific job site. It will 
 
 **Creating a New Plan from a Base Map:**
 
-- Select **New Plan Wizard** in the Quick Start section of the Welcome to RapidPlan page.
+- Select **New Plan Wizard** in the Quick Start section of the Welcome to **RapidPlan** page.
 - In **step 1**, select **Base Map**.
 - In **step 2** enter your plan details and choose a print region and scale, or leave them as default.
 - Scroll down to **Job Location** and type in the address for your job in the search bar and click **Search**.
 - Select **Create Plan** and your plan will load on your canvas as shown in the image below.
 
-    **Note**: in the Properties Palette you can change the provider of the map from omniscale, satellite and hybrid.
+    **Note**: in the **Properties Palette** you can change the provider of the map from omniscale, satellite and hybrid.
 
     ![Job_location_search](./assets/Job_location_search.png)
 
@@ -75,7 +75,7 @@ The base map bearing can also be adjusted in the properties tab on the right han
 
 **Note:** To fine tune the bearing adjustment hold down the **Ctrl** key and click and drag the mouse around on the map to get the desired position.
 
-**Note:** Changing the bearing of the map after initiating your plan will readjust the positions of print regions, to ensure that they are accurately centered on the intended location.
+**Note:** Changing the bearing of the map after initiating your plan will readjust the positions of **print regions**, to ensure that they are accurately centered on the intended location.
 
 ![Base_map_bearing_properties](./assets/Base_map_bearing_properties.png)
 
@@ -85,7 +85,7 @@ This creates a new plan from an external PDF document used as a background for y
 
 ![Select_Plan_Type](./assets/Select_Plan_Type.png)
 
-You will now be at the **step 2** window where you can enter your plan details. You can keep the default settings or enter your own details. Once these are entered, select **Create Plan** and the PDF will appear on your canvas area.
+You will now be at the **step 2** window where you can enter your plan details. You can keep the default settings or enter your own details. Once these are entered, select **Create Plan** and the PDF will appear on your **canvas area**.
 
 ## Static Template
 
@@ -93,7 +93,7 @@ This creates a new plan base on a TCP template selected from a library of typica
 
 ## Creating a New Plan from Template
 
-- Select **New Plan Wizard** in the Quick Start section of the Welcome to RapidPlan page.
+- Select **New Plan Wizard** in the Quick Start section of the Welcome to **RapidPlan** page.
 - In **step 1**, select **Static Template**.
 - A **New Plan From Template** window will appear as shown in the image below, where you can select your regional template package and your template.
 - Once you have chosen your template, click **Select Template**.

@@ -8,15 +8,15 @@ tags:
 ---
 # Road tool properties
 
-Of all the tools in RapidPlan, the Road has by far the most power and flexibility. Accordingly, there are a great many settings you can alter to set your road up as you require. You can change:
+Of all the tools in **RapidPlan**, the Road has by far the most power and flexibility. Accordingly, there are a great many settings you can alter to set your road up as you require. You can change:
 
 - Road color, geometry and auto merge
-- Lane number, width, color and lane markings
+- Lane number, width, color and **lane markings**
 - Left side/right side edge line, shoulder and sidewalk widths and colors
 - Distance markers
-- Legend and manifest preferences
+- Legend and **manifest** preferences
 
-All of the above settings are accessed through the road properties screen. You can access the properties screen by **Double clicking** on the road you need to change from the Quick Edit mode or from the Properties palette.
+All of the above settings are accessed through the road properties screen. You can access the properties screen by **Double clicking** on the road you need to change from the Quick Edit mode or from the **Properties palette**.
 
 ## Alter Geometry and Color
 
@@ -37,7 +37,7 @@ The **auto merge** feature controls whether a new road will automatically merge 
 
 ## Lanes
 
-In this section you can edit the number of lanes, lane width and lane markings (including width color and style).
+In this section you can edit the number of lanes, lane width and **lane markings** (including width color and style).
 
 ![Lane_Properties](./assets/Lane_Properties.png)
 
@@ -90,9 +90,9 @@ This section allows you to activate distance markers on the road. On the image b
 
 ## Legend and Manifest
 
-By default, roads are not included in **Legend** and **Manifest**. To change this you to activate the road object on a **Legend & Manifest** section.
+By default, roads are not included in **Legend** and **Manifest**. To change this you to activate the **road object** on a **Legend & Manifest** section.
 
-There you can also choose the manifest value as **Default** or **Dimensions** and set custom **Entry name** (see the image below)
+There you can also choose the **manifest** value as **Default** or **Dimensions** and set custom **Entry name** (see the image below)
 
 **To activate road on your plan's legend and/or manifest:**
 

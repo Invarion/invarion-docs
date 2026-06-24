@@ -8,7 +8,7 @@ tags:
 ---
 # Slip lanes
 
-One of the most important skills in RapidPlan is learning to make slip lanes. Fortunately, they are very simple to do.
+One of the most important skills in **RapidPlan** is learning to make slip lanes. Fortunately, they are very simple to do.
 
 |Slip lane                                     |             |
 |----------------------------------------------|-------------|
@@ -26,7 +26,7 @@ One of the most important skills in RapidPlan is learning to make slip lanes. Fo
 
     ![Slip_Lanes_Intersection_step_2](./assets/Slip_Lanes_Intersection_step_2.png)
 
-3.Move half way along the Turn Lane, **Right click** and select **Insert control point**. Move the control point to shape the road to a fluid curve as shown.
+3.Move half way along the Turn Lane, **Right click** and select **Insert control point**. Move the **control point** to shape the road to a fluid curve as shown.
 
     ![Slip_Lanes_Intersection_step_3](./assets/Slip_Lanes_Intersection_step_3.png)
 

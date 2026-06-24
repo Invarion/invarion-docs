@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 2
 tags:
   - print-export
@@ -13,11 +13,11 @@ Print frames let you place page-space content such as titleboxes, notes, legends
 - **Reusing standard TCP annotations** - if your TCPs need to have a similar titlebox layout (company logo, job details, planner signature, permit number), you can extract these annotations into a print frame and reuse the frame for different TCPs, only adjusting the necessary details.
 - **Adjusting annotations to page size** - print frames automatically adjust to the current print page size and can auto-rotate their content to ensure annotations are printed in the same position regardless of whether you're printing in portrait or landscape orientation.
 - **Aligning annotations with page edges** - when the proportions of your print region don't exactly match the proportions of the page printable area, you're often left with additional margins between the page border and the content that's scaled to fit inside. Anchoring annotations to frame edges ensured they're aligned with printout borders.
-- **Preventing annotations from obscuring other print regions** - when drawing plans with multiple overlapping print regions, extracting annotations to print frames prevents them from obscuring contents of other regions.
+- **Preventing annotations from obscuring other print regions** - when drawing plans with multiple overlapping **print regions**, extracting annotations to print frames prevents them from obscuring contents of other regions.
 
 ## Creating print frames
 
-Print frames can be defined either for individual print regions or for the whole plan (in which case the same frame will be used for all print regions). To create a plan frame, use the toolbar button. To create a print region frame, **Double click** on the region's print frame icon. A popup dialog appears, confirming that you're about to create a new print frame. Once a print frame is created the corresponding icon changes color and can be used to open the frame editor view.
+Print frames can be defined either for individual **print regions** or for the whole plan (in which case the same frame will be used for all **print regions**). To create a plan frame, use the toolbar button. To create a print region frame, **Double click** on the region's print frame icon. A popup dialog appears, confirming that you're about to create a new print frame. Once a print frame is created the corresponding icon changes color and can be used to open the frame editor view.
 
 ![Creating_print_frames](../../the-canvas-area/assets/Creating_print_frames.png)
 
@@ -49,20 +49,20 @@ Going back to the full print frame example presented above, let's anchor each ob
 
 ![Anchor_example](../../the-canvas-area/assets/Anchor_example.jpg)
 
-It is sometimes desirable that the frame rotates its objects when page orientation changes, for example when the plan is using a single frame but has multiple print regions of different orientations. Frame rotation can be done manually with the button located on the Print Frame Editor panel, or by selecting an Auto-rotation mode from the frame Properties.
+It is sometimes desirable that the frame rotates its objects when page orientation changes, for example when the plan is using a single frame but has multiple **print regions** of different orientations. Frame rotation can be done manually with the button located on the Print Frame Editor panel, or by selecting an Auto-rotation mode from the frame Properties.
 
 ![Rotate_frame_elements](../../the-canvas-area/assets/Rotate_frame_elements.png)
 
 ## Overriding print options
 
-By default, when printing or exporting TCPs RapidPlan uses the application-wide settings specified in the **File** > **Print** > **Print Options** dialog. However, when creating a print frame it is possible to make it override the default settings and use its own options (for example when a specific print region should be printed to a different paper size). While editing a print frame, go to its **Properties palette**, change **Print options** to **Custom**, then click **Edit**.
+By default, when printing or exporting TCPs **RapidPlan** uses the application-wide settings specified in the **File** > **Print** > **Print Options** dialog. However, when creating a print frame it is possible to make it override the default settings and use its own options (for example when a specific print region should be printed to a different paper size). While editing a print frame, go to its **Properties palette**, change **Print options** to **Custom**, then click **Edit**.
 This will open a print options dialog that lets you specify settings to be used when printing the current plan or region only (depending on whether your frame is defined for the plan or region).
 
 ![Overriding_print_options](../../the-canvas-area/assets/Overriding_print_options.png)
 
 ## Reusing print frames
 
-Frames you create for specific plans and print regions are saved together with the plan. The print frame editor additionally allows saving frame contents to separate .tcpf files, so they can be reused on other plans. If you have one or more standard sets of annotations you use for your TCP documents, paste each of them on a print frame and save the frames to separate files.
+Frames you create for specific plans and **print regions** are saved together with the plan. The print frame editor additionally allows saving frame contents to separate .tcpf files, so they can be reused on other plans. If you have one or more standard sets of annotations you use for your TCP documents, paste each of them on a print frame and save the frames to separate files.
 Then anytime you create a new plan, you can load the appropriate pre-saved frame file and only upload the plan-specific details like job location or permit number.
 
 ![Save_frame_to_file](../../the-canvas-area/assets/Save_frame_to_file.png)

@@ -15,6 +15,6 @@ Grouping and un-grouping objects is an important technique to learn. The benefit
 
 ![Group Objects](./assets/Group_Objects.png)
 
-Once grouped you can adjust the group of objects as one. You can also add the grouped objects to your Scratchpad for later use.
+Once grouped you can adjust the group of objects as one. You can also add the **grouped objects** to your **Scratchpad** for later use.
 
 To **Un-group** the objects, simply **Right click** on the objects and select **Un-group**.

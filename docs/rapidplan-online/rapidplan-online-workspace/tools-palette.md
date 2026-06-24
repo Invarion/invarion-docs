@@ -7,7 +7,7 @@ tags:
 ---
 # Tools Palette
 
-The Tools palette contains most of the elements required to draw a plan. The tools are separated into three categories, detailed in the Tables below:
+The **Tools palette** contains most of the elements required to draw a plan. The tools are separated into three categories, detailed in the Tables below:
 
 ## Road tools
 

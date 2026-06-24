@@ -7,7 +7,7 @@ tags:
 
 # Where can I find installation, license, and Launcher help?
 
-Installation, licensing, Launcher, firewall/proxy, offline access, and license transfer information now lives in [Accounts & Setup](/accounts-setup/Welcome).
+Installation, licensing, Launcher, firewall/proxy, offline access, and license transfer information now lives in [**Accounts & Setup**](/accounts-setup/Welcome).
 
 Use these pages if you need to:
 

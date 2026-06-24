@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 1
 tags:
   - print-export
@@ -8,7 +8,7 @@ tags:
 
 Print regions define what part of a plan will be printed or exported on each page.
 
-They are one of the core output tools in RapidPlan, especially when:
+They are one of the core output tools in **RapidPlan**, especially when:
 
 - a single plan needs several pages
 - different parts of a large site need separate sheets
@@ -29,7 +29,7 @@ Everything inside the region is included in print or export output. Content outs
 
 ## Work with multiple regions
 
-You can add multiple print regions to the same plan.
+You can add multiple **print regions** to the same plan.
 
 This is useful for:
 
@@ -43,7 +43,7 @@ Each region can be activated, resized, moved, rotated, styled, printed, or expor
 
 ## Ordering and batch output
 
-Recent RapidPlan versions use a single consistent ordering system for print regions.
+Recent **RapidPlan** versions use a single consistent ordering system for **print regions**.
 
 The order shown in the **Print Regions** window is the default order used by batch output workflows. If page order matters, arrange the regions there before printing or exporting.
 
@@ -63,8 +63,8 @@ Each print region can have its own bearing. This is useful on curved or angled s
 
 You can rotate a region by:
 
-- selecting the region and dragging its rotation handles
-- entering an exact bearing in the Properties palette
+- selecting the region and dragging its **rotation handles**
+- entering an exact bearing in the **Properties palette**
 
 ![Rotating_print_regions](../../the-canvas-area/assets/Rotating_print_regions.png)
 
@@ -72,5 +72,5 @@ You can rotate a region by:
 
 - Use [Print frames](./print-frames.md) for titleboxes and reusable page layout.
 - Use [In-place print preview](./in-place-print-preview.md) to check how plan content sits on the page.
-- Use [Printing plans](../print-and-export-operations/printing-plans.md) for single-plan and batch print workflows.
+- Use [Printing plans](../print-and-export-operations/printing-plans.md) for single-plan and **batch print** workflows.
 

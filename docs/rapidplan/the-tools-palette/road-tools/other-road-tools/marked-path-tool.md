@@ -8,7 +8,7 @@ tags:
 ---
 # Marked Path tool
 
-By using the marked path tool you can outline the way a direction of traffic will flow in a clear and easy to read visual.
+By using the **marked path** tool you can outline the way a direction of traffic will flow in a clear and easy to read visual.
 
 ![Marked_path_tool](./assets/Marked_path_tool.png)
 

@@ -10,7 +10,7 @@ tags:
 
 Once a vehicle's path has been designed as discussed [here](./preparing-swept-path-analysis.md), the vehicle's movement through that route can be recorded to be shared as a .gif file.
 
-Among other use cases, vehicle path animation can be a valuable means of demonstrating expected routing to a trainee driver, as an easily understood method to communicate a layout concept, or as a way to add color to a presentation.
+Among other use cases, **vehicle path** animation can be a valuable means of demonstrating expected routing to a trainee driver, as an easily understood method to communicate a layout concept, or as a way to add color to a presentation.
 
 ## Recording a vehicle's path
 
@@ -37,7 +37,7 @@ Like our plan exports use **print regions**, our animation exports use **Recordi
 To set a recording region, click the file icon, located between the **Play** and **Save** icons in the **Vehicle Animation** interface.
 
 Then, like drawing a rectangle, click the two far corners of where you would like the recording region to be located on the canvas.
-Once placed the corners can be relocated using control points, and if preferred you can click the **Set Recording Region** icon again to replace the region you have drawn.
+Once placed the corners can be relocated using **control points**, and if preferred you can click the **Set Recording Region** icon again to replace the region you have drawn.
 
 ## Exporting the vehicle animation
 

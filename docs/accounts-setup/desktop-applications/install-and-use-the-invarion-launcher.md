@@ -6,7 +6,7 @@ tags:
 
 # Install and use the Invarion Launcher
 
-The Invarion Launcher installs, updates, and opens Invarion desktop applications such as RapidPlan and RapidPath.
+The **Invarion Launcher** installs, updates, and opens Invarion **desktop applications** such as **RapidPlan** and **RapidPath**.
 
 ## Install the Launcher
 
@@ -14,7 +14,7 @@ Download the Launcher installer:
 
 [Download Invarion Launcher](https://invarion.com/downloads/InvarionLauncherSetup.exe)
 
-The Launcher usually does not require administrator access. Install it separately for each Windows user who will run Invarion desktop applications.
+The Launcher usually does not require administrator access. Install it separately for each Windows user who will run Invarion **desktop applications**.
 
 Contact [Invarion Technical Support](https://invarion.com/support/) if your organization needs an MSI-based deployment or has custom installation requirements.
 
@@ -34,7 +34,7 @@ If you have forgotten your password, use the **Forgot your password** link on th
 
 ## Open an application
 
-After you sign in, the Launcher shows the Invarion desktop applications assigned to your account, such as RapidPlan and RapidPath. The applications you see depend on your licenses and add-ons.
+After you sign in, the Launcher shows the Invarion **desktop applications** assigned to your account, such as **RapidPlan** and **RapidPath**. The applications you see depend on your licenses and add-ons.
 
 Select **Open** next to the application you want to use.
 
@@ -64,6 +64,6 @@ In Settings, you can change the default folder used for downloaded application f
 
 The Launcher also includes advanced settings. The Launcher warning for those settings is:
 
-> The settings below are used for advanced debugging and troubleshooting. To avoid getting locked out, please consult Invarion Technical Support before editing them.
+> The settings below are used for advanced debugging and troubleshooting. To avoid getting locked out, please consult Invarion **Technical Support** before editing them.
 
 If you have a technical issue with the Launcher or an Invarion desktop application, see [Troubleshoot Launcher issues](./troubleshoot-launcher-issues.md).

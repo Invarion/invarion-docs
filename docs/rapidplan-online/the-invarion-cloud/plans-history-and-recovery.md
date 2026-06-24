@@ -7,7 +7,7 @@ tags:
 ---
 # Plan's History and Recovery
 
-Invarion Cloud keeps track of every modification made to the plan. Anytime the plan autosaves a new recovery point is made. Thanks to this you can easily go back to any previous version of the plan undoing some unwanted changes made by yourself or other collaborators. It is like turning back the clock.
+**Invarion Cloud** keeps track of every modification made to the plan. Anytime the plan autosaves a new recovery point is made. Thanks to this you can easily go back to any previous version of the plan undoing some unwanted changes made by yourself or other collaborators. It is like turning back the clock.
 
 Version History may also come in handy when something unexpected happens to your plan. You can then retrieve the last correctly working version of the plan.
 
@@ -21,7 +21,7 @@ In addition to that each one has unique number, timestamp and user responsible f
 **Tip:** Plan's history may also come in handy when something unexpected happens to your plan. You can then retrieve last correctly working version of the plan.
 
 ---
-Invarion Cloud keeps track of every modification made to the plan. Anytime the plan autosaves a new recovery point is made. Thanks to this you can easily go back to any previous version of the plan, undoing some unwanted changes made by yourself or other collaborators. It is like turning back the clock.
+**Invarion Cloud** keeps track of every modification made to the plan. Anytime the plan autosaves a new recovery point is made. Thanks to this you can easily go back to any previous version of the plan, undoing some unwanted changes made by yourself or other collaborators. It is like turning back the clock.
 
 **To use recovery options with the plan open:** Select Open History from the Main Menu, or click the Autosave Icon at the top of the screen, and then click View History in the pop up menu.
 
@@ -32,7 +32,7 @@ Alternatively, you can **open the Plan History menu from the Invarion Cloud**, b
 Once the Plan History dialog menu is open, you can view **Saved Versions** or **Local Backups** of your plan:
 
 - **Saved Versions** are saved into the cloud.
-- **Local Backups** are created in the event that there’s a disruption in your connection.
+- **Local Backups** are created in the event that thereâ€™s a disruption in your connection.
 
 Recovery points listed in the Version dialogue are listed by date. Each one also has a unique number, timestamp and user responsible for the modification made to the plan.
 Select the saved version from either of these menus, and when ready choose one of two options:
@@ -44,4 +44,4 @@ If you restore a previous version of the plan, you will still have access to the
 
 ### Note on Local Backups
 
-Upon reopening your plan, if RapidPlan Online notices that there is a Local Backup with further edits than the most recently saved version in Invarion Cloud, you will be asked if you would like to restore the plan from your local backups. You can click on the status icon to view saved versions of your plan and restore a previous version.
+Upon reopening your plan, if **RapidPlan Online** notices that there is a Local Backup with further edits than the most recently saved version in **Invarion Cloud**, you will be asked if you would like to restore the plan from your local backups. You can click on the status icon to view saved versions of your plan and restore a previous version.

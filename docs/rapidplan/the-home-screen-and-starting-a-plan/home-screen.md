@@ -7,7 +7,7 @@ tags:
 ---
 # Home screen
 
-When you open RapidPlan, you will land on the Home Screen:
+When you open **RapidPlan**, you will land on the Home Screen:
 
 ![home screen](./assets/home-screen.png)
 
@@ -35,7 +35,7 @@ Both New Local Plan and New Cloud Plan create default plans: These Bypass the Pl
 
 ![default plan preferences](./assets/default-plan-preferences.png)
 
-## Open Local Plan  
+## Open Local Plan
 
 Opens plans save locally (not in the cloud).
 
@@ -45,17 +45,17 @@ Like **New Local Plan**, New Cloud Plan creates a *default plan*, but saves it t
 
 ## Browse Invarion Cloud
 
-Opens an Invarion Cloud tab in RapidPlan, where plans can be reviewed, managed and opened.
+Opens an **Invarion Cloud** tab in **RapidPlan**, where plans can be reviewed, managed and opened.
 
 ## Quick Access
 
 Quick Access features:
 
-- **What's New**: Brings you to the [Release Notes](/docs/rapidplan/release-notes/release-notes-rapidplan.md) section of the RapidPlan Help Center.
-- **Preferences**: Opens a [Preferences](/docs/rapidplan/the-home-screen-and-starting-a-plan/preferences-and-defaults/managing-preferences.md) tab in RapidPlan.
-- **Keyboard Shortcuts**: Opens a tab in RapidPlan listing enabled keyboard shortcuts.
+- **What's New**: Brings you to the [Release Notes](/docs/rapidplan/release-notes/release-notes-rapidplan.md) section of the **RapidPlan** Help Center.
+- **Preferences**: Opens a [Preferences](/docs/rapidplan/the-home-screen-and-starting-a-plan/preferences-and-defaults/managing-preferences.md) tab in **RapidPlan**.
+- **Keyboard Shortcuts**: Opens a tab in **RapidPlan** listing enabled keyboard shortcuts.
 - **Plan Locations Map**: Opens a mapped view of your plans, as this can sometimes be easier than seeking your plans' filenames.
 
 ## Online Resources
 
-Online resources brings you here to the Invarion Help Center, where you can learn all about how to use RapidPlan to its fullest.
+Online resources brings you here to the Invarion Help Center, where you can learn all about how to use **RapidPlan** to its fullest.

@@ -1,4 +1,4 @@
-﻿---
+---
 
 sidebar_position: 7
 tags:
@@ -8,11 +8,11 @@ tags:
 ---
 # Measurement tools
 
-The measurement tools will enable you to quickly measure distances, angles and areas on your plan. Measurements are precise, zoom-independent and can be saved as marker objects.
+The **measurement tools** will enable you to quickly measure distances, angles and areas on your plan. Measurements are precise, zoom-independent and can be saved as marker objects.
 
 ![Measurement tools button](../the-canvas-area/assets/Measurement_tools_button.png)
 
-Click on to the measurement tools button to bring up the toolbar - there are 6 different measurement tools to work with as well as appropriate measurement units to apply.
+Click on to the **measurement tools** button to bring up the toolbar - there are 6 different **measurement tools** to work with as well as appropriate measurement units to apply.
 
 Each measurement tool just requires a click and then another click at desired point/s to find the measurement between different points.
 

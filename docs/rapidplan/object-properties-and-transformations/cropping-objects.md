@@ -14,13 +14,13 @@ To begin cropping an object, simply **Right click** on the object you wish to cr
 
 ![Edit_crop](./assets/Edit_crop.png)
 
-This will then display a dialog box that allows you to change your crop mode. You can select between: **Rectangular region**, which allows you to select and crop a rectangular region; or **Polygon region**, which allows you to add multiple control points to create the crop shape.
+This will then display a dialog box that allows you to change your crop mode. You can select between: **Rectangular region**, which allows you to select and crop a rectangular region; or **Polygon region**, which allows you to add multiple **control points** to create the crop shape.
 
 ![Crop_box](./assets/Crop_box.png)
 
 Once the desired crop region has been added, click the green tick button in the dialog box to apply the cropping.
 
-**Note:** The crop object size/shape can be adjusted at any time by moving it's green control points.
+**Note:** The crop object size/shape can be adjusted at any time by moving it's green **control points**.
 
 ![Cropped_image](./assets/Cropped_image.png)
 

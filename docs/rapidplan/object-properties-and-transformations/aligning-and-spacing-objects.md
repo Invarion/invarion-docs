@@ -10,7 +10,7 @@ tags:
 
 ## Alignment
 
-This function in [Application toolbars](/docs/rapidplan/workspace-navigation/application-toolbars.md) allows you to align boundaries of selected objects, signs, roads, etc.
+This function in [Application toolbars](/docs/rapidplan/workspace-navigation/application-toolbars.md) allows you to align boundaries of **selected objects**, signs, roads, etc.
 
 Note it only becomes clickable when more than one object is selected.
 
@@ -18,7 +18,7 @@ Note it only becomes clickable when more than one object is selected.
 
 ## Spacing Toolbar
 
-The Distribute button (spacing) in [Application toolbars](/docs/rapidplan/workspace-navigation/application-toolbars.md) allows you to distribute any selected objects horizontally or vertically, with equal distances between each object.
+The Distribute button (spacing) in [Application toolbars](/docs/rapidplan/workspace-navigation/application-toolbars.md) allows you to distribute any **selected objects** horizontally or vertically, with equal distances between each object.
 
 Likewise, note this toolbar only becomes visible when multiple objects (three and more) are selected.
 
