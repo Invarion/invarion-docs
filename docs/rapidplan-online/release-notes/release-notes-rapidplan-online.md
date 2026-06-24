@@ -1,4 +1,10 @@
-# Release Notes
+﻿# Release Notes
+
+## June 2026
+
+### Bug fixes
+
+- Fixed an issue where complex scratchpad objects could fail to sync or appear incorrectly when added to a plan.
 
 ## May 2026
 
