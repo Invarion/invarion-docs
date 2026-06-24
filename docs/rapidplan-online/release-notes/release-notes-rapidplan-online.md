@@ -2,6 +2,8 @@
 
 ## June 2026
 
+- Added a guide line while drawing arc objects, making it easier to position arc control points accurately.
+
 ### Bug fixes
 
 - Fixed an issue where plans could fail to save after adding certain SVG objects from the Scratchpad.
