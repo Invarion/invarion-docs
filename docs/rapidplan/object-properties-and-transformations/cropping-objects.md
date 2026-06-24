@@ -3,7 +3,7 @@
 sidebar_position: 12
 
 ---
-# Cropping Objects
+# Cropping objects
 
 Crop images and other objects to any desired shape, edit individual points and segments in existing crop geometries.
 

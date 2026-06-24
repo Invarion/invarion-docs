@@ -3,7 +3,7 @@
 sidebar_position: 4
 
 ---
-# Divided Roads
+# Divided roads
 
 There are two ways to make divided roadways. The first method is simply to draw another carriageway next to your first. The second method, which we will describe is more powerful.
 

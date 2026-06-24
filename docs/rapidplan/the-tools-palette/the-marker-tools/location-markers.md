@@ -4,7 +4,7 @@ sidebar_position: 10.5
 
 ---
 
-# The Location Marker
+# Location Marker
 
 The Location Marker is an annotion tool in the form of a small labelled pin that can be used to indicate the location of particular points of interests on a plan.
 

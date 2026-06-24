@@ -3,7 +3,7 @@
 sidebar_position: 5
 
 ---
-# LUMS Board (Australian Version Only)
+# LUMS Board (Australian version only)
 
 This tool helps you create a Lanes Use Management System (LUMS) across a roadway on your plan. There are 10 different LUMS styles available for your plan.
 

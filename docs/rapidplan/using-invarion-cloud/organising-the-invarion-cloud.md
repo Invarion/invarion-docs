@@ -3,9 +3,9 @@
 sidebar_position: 2
 
 ---
-# Organising the Invarion Cloud
+# Organising Invarion Cloud
 
-The Invarion Cloud can be opened by clicking **Browse Invarion Cloud** on the [Home screen](/docs/rapidplan/the-home-screen-and-starting-a-plan/the-home-screen.md), or the button by the same name in the [Toolbar](/docs/rapidplan/the-toolbar/the-toolbar.md) under *File*.
+The Invarion Cloud can be opened by clicking **Browse Invarion Cloud** on the [Home screen](/docs/rapidplan/the-home-screen-and-starting-a-plan/home-screen.md), or the button by the same name in [Application toolbars](/docs/rapidplan/workspace-navigation/application-toolbars.md) under *File*.
 
 Here we will discuss how to sort, view and arrange plans in the Invarion Cloud.
 
@@ -59,7 +59,7 @@ To access a plan's **Plan Details Side Panel**, simply **click its preview image
 
 |**Feature**|**Details**|
 |-|-|
-|**Details** and **Comments** toggle|Switch between the *Details* section (discussed here), and the [Comments](./comments-in-the-invarion-cloud.md) section.|
+|**Details** and **Comments** toggle|Switch between the *Details* section (discussed here), and the [comments](./commenting-on-cloud-plans.md) section.|
 |**Plan Title**|Can be clicked to rename the plan.|
 |**'X' icon**|Seen next to the plan's title, clicking this closes the side panel.|
 |**'Created at'**|Shows the date the plan was created.|

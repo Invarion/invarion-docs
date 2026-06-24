@@ -1,12 +1,37 @@
 ---
-
 sidebar_position: 3
-
 ---
+
 # What file formats are supported when importing to RapidPlan?
 
-RapidPlan can add images that are in **BMP**, **JPEG**, **GIF**, and **PNG** format, including the ability to import **DXF** and **ERSI** files.
+RapidPlan supports several different import workflows, so the supported formats depend on what you are importing.
 
-**For BMP, JPEG, PNG and GIF images**, just go to Primitive Objects, and select Image In the Files of Type drop down menu and you will see the image formats RapidPlan can place on a plan.
+## Images
 
-**For DXF and ERSI images**, go to Tools, then Import.
+For regular placed images, RapidPlan supports common formats such as:
+
+- `BMP`
+- `GIF`
+- `JPEG`
+- `PNG`
+
+Use the **Image** tool from the Tools palette to place these on a plan.
+
+## Spatial data and CAD
+
+For mapped or spatially referenced source data, use **Tools** > **Import** > **Spatial Data**.
+
+That workflow supports:
+
+- `DWG`
+- `DXF`
+- `KML`
+- `KMZ`
+- `SHP`
+
+## Georeferenced imagery
+
+RapidPlan can also work with georeferenced imagery in dedicated workflows. See:
+
+- [Georeferenced image import](/docs/rapidplan/integrated-mapping/importing/georeferenced-image-import.md)
+- [Georeferenced image export](/docs/rapidplan/exporting-plans/print-and-export-operations/georeferenced-image-export.md)

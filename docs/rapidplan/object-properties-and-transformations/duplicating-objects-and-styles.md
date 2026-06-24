@@ -3,7 +3,7 @@
 sidebar_position: 11
 
 ---
-# Duplicating Objects and Styles
+# Duplicating objects and styles
 
 RapidPlan has made it simple to duplicate objects and/or an items property  onto another item.
 

@@ -3,7 +3,7 @@
 sidebar_position: 8
 
 ---
-# Moving, Flipping and Rotating Objects
+# Moving, flipping and rotating objects
 
 ## Moving Objects
 

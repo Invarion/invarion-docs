@@ -3,7 +3,7 @@
 sidebar_position: 4
 
 ---
-# Road Infrastructure Tools
+# Road infrastructure tools
 
 These tools enable you to add infrastructure to your road plans. They can be found in the **Infrastructure** tab of the Tools Palette.
 

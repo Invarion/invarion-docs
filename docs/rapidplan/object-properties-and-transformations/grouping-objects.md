@@ -3,7 +3,7 @@
 sidebar_position: 9
 
 ---
-# Grouping Objects
+# Grouping objects
 
 One of the most important techniques to master is grouping. By grouping objects together, you can manipulate them as one item. Grouping is also necessary if you wish to create and save your own signs. You can group any of the RapidPlan elements together and the technique is the same, regardless of which elements you choose to group.
 
@@ -40,4 +40,4 @@ There are two ways to group objects
 
 Every sign in RapidPlan is made of a group of primitive objects - the most simple of which consist purely of a colored rectangle or square with text. These can be edited using the techniques shown above to create new signs.
 
-For more details, see [Creating Your Own Signs](/rapidplan/creating-your-own-signs/).
+For more details, see [Create your own signs](/docs/rapidplan/signs-and-scratchpad/creating-your-own-signs/creating-your-own-signs.md).

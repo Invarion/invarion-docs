@@ -4,7 +4,7 @@ sidebar_position: 3
 
 ---
 
-# Rich Text Editor
+# Rich Text editor
 
 The Rich Text Editor allows for a more vibrant and varied mix of formatting and arrangements. It also allows for in-line image importing and table creation.
 

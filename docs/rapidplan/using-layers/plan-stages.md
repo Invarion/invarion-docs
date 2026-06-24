@@ -3,7 +3,7 @@
 sidebar_position: 5
 
 ---
-# Plan Stages
+# Plan stages
 
 Several phases of works at one location can now be included in a single traffic plan, using the Plan Stages feature.
 

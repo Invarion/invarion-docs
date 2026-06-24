@@ -3,7 +3,7 @@
 sidebar_position: 5
 
 ---
-# Marked Path Tool
+# Marked Path tool
 
 By using the marked path tool you can outline the way a direction of traffic will flow in a clear and easy to read visual.
 

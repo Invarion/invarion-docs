@@ -1,6 +1,6 @@
 {
-  "label": "Object Properties & Transformations",
-  "position":  3,
+  "label": "Drawing, snapping and editing",
+  "position": 5,
   "link": {
     "type": "generated-index"
   }

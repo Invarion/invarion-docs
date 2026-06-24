@@ -3,7 +3,7 @@
 sidebar_position: 15
 
 ---
-# Distance Markers
+# Distance markers
 
 There are six distance markers used for indicating spatial information on your plan, the Distance Marker, the Combined Distance Marker, the Offset Distance Marker, the Angle Marker, the Area Marker and the Combined Offset Distance Marker.
 

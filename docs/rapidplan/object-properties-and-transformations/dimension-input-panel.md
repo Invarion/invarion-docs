@@ -3,7 +3,7 @@
 sidebar_position: 6.1
 
 ---
-# The Dimensions Input Panel
+# Dimensions Input panel
 
 The Dimensions Input Panel tool allows you to:
 

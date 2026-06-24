@@ -3,7 +3,7 @@
 sidebar_position: 2
 
 ---
-# Features Accessed by Selecting an Object
+# Features accessed by selecting an object
 
 Once you have selected your object, a number of new tools become available. Its important that you understand what each tool does as you will come to rely upon them heavily.
 

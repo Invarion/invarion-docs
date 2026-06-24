@@ -3,7 +3,7 @@
 sidebar_position: 1
 
 ---
-# Drawing a Road
+# Drawing a road
 
 ## Components of the RapidPlan Road
 

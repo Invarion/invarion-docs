@@ -1,105 +1,118 @@
 ---
-
-sidebar_position: 5
-
+sidebar_position: 4
 ---
-# Control Points and Snapping
 
-Almost every element in RapidPath has at least one control point. A control point is a handle that allows you to alter the shape of an object. They appear in RapidPath as small red circles. Control points do different things to different kinds of objects, and different objects have different numbers of control points.
+# Control points and snapping
 
-The control points along the road enable you to adjust its shape.
+Almost every drawable object in RapidPlan has one or more control points. These are the handles you use to shape geometry, align objects, and connect one object to another.
+
+The control points along a road let you adjust its shape.
 
 ![Control_Points](./assets/Control_Points.png)
 
-Callout boxes have two control points - one to position the head and one for the tail.
+Callout boxes have two control points: one for the head and one for the tail.
 
 ![Callout_Box_Control_Points](./assets/Callout_Box_Control_Points.png)
 
-To view an object's control points you must select it. Once you have selected an object, you can move its control points around to change the shape and of the object.
+To view an object's control points, select it first.
 
-## Keeping Control Points straight
+## Keep control points straight
 
-Irrespective of what item you are drawing or altering, you can keep your control points in a perfectly straight line by holding down the **Shift** key as you are drawing. The same applies if you are moving an existing control point.
+Hold **Shift** while drawing or moving a control point to keep the segment straight.
 
-This technique is especially helpful when drawing straight roadways.
+This is especially useful when drawing straight roads, work areas, or marker geometry.
 
-## Adding/Deleting a Control Point
+## Add or remove control points
 
-You can add a control point to an object, for example if you want to add a curve to a train track, by selecting the object, **Right clicking** and selecting **Insert Control Point**.
+You can insert extra control points into supported objects by right-clicking the object and choosing **Insert Control Point**.
 
-**Note:** This option will only appear for objects that can utilize extra control points.
+Likewise, you can remove them with **Remove Control Point**.
 
-Similarly, you can remove control points by selecting the object, **Right clicking** and selecting **Remove Control Point**.
+## Point snapping
 
-## Control Point Snapping
+Once you have selected an object and can view its control points, you can connect objects by snapping into existing control points. Hold **Ctrl** while point-snapping roads, work areas, or other geometry and RapidPlan will merge them cleanly.
 
-Once you have selected an object and can view its control points, you can seamlessly connect objects to one another by snapping into existing control points. Hold the **Ctrl** key while point-snapping roads/work areas or other objects and their geometries will merge.
-
-This feature will help you to create a neat and straight-lined work area.
-
-**Tip:** If you want to snap control points across multiple layers/stages, hold **Ctrl + Alt** while drawing or transforming objects. This is particularly useful when drawing complex plans with multiple stages, as it allows hassle free snapping to base stage objects like road lanes and edges.
+If you want to snap across visible layers or stages, hold **Ctrl + Alt** while drawing or transforming. That temporarily enables multi-layer snapping so you can align to objects outside the active layer.
 
 ![Snapping_between_control_points](./assets/Snapping_between_control_points.png)
 
-**Note:** You can also snap points and align drawn segments not only at control points, but anywhere along a snap geometry as shown in Figure 5.12 below.
+## Multi-layer snapping
+
+Multi-layer snapping lets you snap to objects on all visible layers, not only the active layer. This is useful on staged plans where the base stage contains roads, lanes, or permanent markings that should guide objects drawn on another stage.
+
+Hold **Ctrl + Alt** while drawing or transforming objects to snap to objects on visible layers that are not hidden.
+
+You can also snap not just to control points, but anywhere along a snappable geometry.
 
 ![Snap_along_geometry](./assets/Snap_along_geometry.png)
 
-### Advanced Snapping
+### Advanced snapping
 
-For additional snapping options, press the **Alt** key while snapping to a geometry to enable guides for tangent and perpendicular lines as well as geometry midpoints.
+Press **Alt** while snapping to a geometry to reveal additional guides such as:
+
+- tangent lines
+- perpendicular lines
+- midpoints
 
 ![Advanced_snapping](./assets/Advanced_snapping.png)
 
-### Drawing along Geometries
+### Drawing along geometries
 
-Snap to an existing geometry when drawing an object and RapidPath will automatically create control points to fit the desired curve.
+Snap to an existing geometry while drawing and RapidPlan can automatically fit your new object to that geometry.
 
-This is useful when needing to draw delineation devices or a work area along a curved geometry.
+This is especially useful for drawing:
 
-To being drawing along a geometry, simply **Left click** your device along the red geometry where you want the device to begin. The tool will then follow the curve you draw out.
+- delineators
+- lane or edge-related objects
+- work areas
+- markers that need to follow an existing curve
+
+Start by clicking on the geometry where you want the object to begin, then continue drawing along it.
 
 ![Geometry_snapping](./assets/Geometry_snapping.png)
 
-While drawing an object you can snap its segments to different geometries as well. This can be done by snapping points to existing geometries and tracing the drawing along it.
+While drawing, you can also move from one geometry to another by snapping successive points onto different existing objects.
 
 ![Geometry_lines](./assets/Geometry_lines.png)
 
-### Snapping to bounds selection
+### Snapping to bounds
 
-When moving or scaling objects and print regions, their bounds edges and centers snap to each other for quick and precise positioning.
+When moving or scaling objects and print regions, their bounds edges and centers can snap to each other for quick alignment.
 
-This can be particularly useful when trying to align objects to Print region borders or when creating custom signs (see the image below).
+This is useful when aligning objects to:
 
-The bound edges or centers will be indicated by a red dotted line.
+- print region edges
+- page layout elements
+- custom sign artwork
+- other rectangular objects
 
 ![Snap_to_bounds](./assets/Snap_to_bounds.png)
 
-## Offsetting the Geometry
+## Offsetting geometry
 
 Use the Offset Geometry tool to further adjust the position of an object.
 
-To utilize the offset tool, simply complete your drawing along the geometry, once completed, **Right click** and select 'Offset geometry' in the **Right click** menu displayed.
+To use it, finish drawing the object, then right-click and choose **Offset geometry**.
 
 ![Offset_geometry](./assets/Offset_geometry.png)
 
-Simply click and drag to your desired offset, or type your desired offset value in the offset dialogue box.
+Drag to the desired offset, or type an exact value in the offset dialog.
 
 ![Create_offset](./assets/Create_offset.png)
 
-Once the offset has been created, **Right click** to save your changes.
+Right-click to save the offset when you are done.
 
 ### Offset settings
 
-In the offset dialog box you'll find two buttons on the right:
+The offset dialog includes:
 
-- **Round Corners:** If set to True, this smooths curves in the offset object as it is extrapolated out further.
-- **Object Offset Copy:** If set to True, this the creation of an offset object will copy the original object, rather than replace it.
+- **Round Corners** to smooth the resulting offset geometry
+- **Object Offset Copy** to create a copy instead of replacing the original
 
-## Tangent Points (Bezier Geometry)
+## Tangent points in Bezier geometry
 
-Tangent Points visible only when Bezier Geometry is engaged. They are used to create a smoothed curvature of the line object/edge of an object either side of the control point.
+Tangent points are visible only when an object uses Bezier geometry. They let you shape smooth curves on either side of a control point.
 
-There can be up to two Tangent Points per control point, and appear blue with a line between each of them and the red control point.
+There can be up to two tangent points per control point.
 
-For full details on how to use Bezier Geometry/Tangent Points, please see the [Properties](/docs/rapidplan/object-properties-and-transformations/object-geometry.md) section.
+For more detail, see [Object geometry](/docs/rapidplan/object-properties-and-transformations/object-geometry.md).

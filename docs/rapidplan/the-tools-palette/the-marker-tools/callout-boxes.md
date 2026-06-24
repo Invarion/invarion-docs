@@ -3,7 +3,7 @@
 sidebar_position: 17
 
 ---
-# Callout Boxes
+# Callout boxes
 
 The Callout box is a great way to draw attention to important items on your plan that need to be noticed. They look great and are simple to use. You can change their color, shape, fill style and text type to make your message clearly stand out.
 

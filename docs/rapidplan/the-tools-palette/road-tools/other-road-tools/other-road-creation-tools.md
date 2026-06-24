@@ -3,7 +3,7 @@
 sidebar_position: 1
 
 ---
-# Other Road Creation Tools
+# Other road creation tools
 
 Often, the road tool alone will be all you need to create your roadway. Other times you will need some extra pieces to make your road look the way it should. RapidPlan has many more tools which compliment the road tool and allow you more options in your plan creation. They can be found in the Roads tab of the Tools Palette.
 

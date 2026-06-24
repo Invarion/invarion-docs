@@ -3,7 +3,7 @@
 sidebar_position: 3
 
 ---
-# Object Properties and Styles
+# Object properties and styles
 
 ## Properties
 
@@ -78,4 +78,4 @@ As explained in the **'Setting a Style'** section, the Object Styles dialog wind
 
 Once the style is found, you can change it's details and/or properties before saving it.
 
-Using the buttons next to the **Save** button, a style can also be **deleted** using the red cross icon, **copied** to create a matching style that can then be altered, or **added to [Scratchpad](/docs/rapidplan/the-rapidplan-screen/the-scratch-pad.md)**.
+Using the buttons next to the **Save** button, a style can also be **deleted** using the red cross icon, **copied** to create a matching style that can then be altered, or **added to [Scratchpad](/docs/rapidplan/signs-and-scratchpad/scratchpad/scratchpad.md)**.

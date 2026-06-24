@@ -3,7 +3,7 @@
 sidebar_position: 5
 
 ---
-# Slip Lanes
+# Slip lanes
 
 One of the most important skills in RapidPlan is learning to make slip lanes. Fortunately, they are very simple to do.
 

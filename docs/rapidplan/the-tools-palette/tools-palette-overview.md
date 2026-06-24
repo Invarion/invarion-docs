@@ -3,7 +3,7 @@
 sidebar_position: 1
 
 ---
-# Tools Palette Overview
+# Tools palette overview
 
 The Tools Palette contains most of the tools you will use to construct the features of your plan.
 
@@ -13,7 +13,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
 
  1. **Roads** - This displays each of the tools you can use to construct your road way.
 
-    *The section [The Road Tool](/docs/rapidplan/the-tools-palette/road-tools/the-road-tool/drawing-a-road.md) covers this tool set.*
+    *See [Drawing a road](/docs/rapidplan/the-tools-palette/road-tools/the-road-tool/drawing-a-road.md).*
 
     |                      Roads                       |                     |                                               |             |
     | :----------------------------------------------: | ------------------- | :-------------------------------------------: | ----------- |
@@ -24,7 +24,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
 
  2. **Infrastructure** - This displays infrastructure you may need to construct your plan including train tracks, bicycle lanes, etc.
 
-    *The section [Other Road Tools](/docs/rapidplan/the-tools-palette/road-tools/other-road-tools/road-infrastructure-tools.md) covers this tool set.*
+    *See [Road infrastructure tools](/docs/rapidplan/the-tools-palette/road-tools/other-road-tools/road-infrastructure-tools.md).*
 
     |Infrastructure                                          |             |                                                 |               |
     |:---------------------------------------------:|-------------|:-----------------------------------------------:|---------------|
@@ -34,7 +34,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
 
  3. **Devices** - This displays devices such as delineators, arrow board and lane status.
 
-    *The section [The Marker Tools](/docs/rapidplan/the-tools-palette/the-marker-tools/delineators.md) covers this tool set*
+    *See [Delineators](/docs/rapidplan/the-tools-palette/the-marker-tools/delineators.md) and the devices pages in this category.*
 
     |Devices                                          |             |                                                           |                     |
     |:---------------------------------------------:|-------------|:---------------------------------------------------------:|---------------------|
@@ -45,7 +45,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
 
  4. **Markings** - This displays various lane markings.
 
-    *The section [Other Road Tools](/docs/rapidplan/the-tools-palette/road-tools/other-road-tools/road-marking-tools.md) covers this tool set*
+    *See [Road marking tools](/docs/rapidplan/the-tools-palette/road-tools/other-road-tools/road-marking-tools.md).*
 
     |Markings                                                |                       |                                                           |                     |
     |:-----------------------------------------------------:|-----------------------|:---------------------------------------------------------:|---------------------|
@@ -55,7 +55,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
 
  5. **Zones** - This includes a work area zone and a safety zone.
 
-    *The section [Work and Safety Zone Tools](/docs/rapidplan/the-tools-palette/the-marker-tools/the-work-area-and-safety-zone-tools.md) covers this tool set*
+    *See [Work Area and Safety Zone tools](/docs/rapidplan/the-tools-palette/the-marker-tools/work-area-and-safety-zone-tools.md).*
 
     |Zones                                                |                       |                                                           |                     |
     |:---------------------------------------------------:|-----------------------|:---------------------------------------------------------:|---------------------|
@@ -63,7 +63,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
 
  6. **Annotations** - This includes necessary annotation features for your plan such as a scale marker and a legend box.
 
-    *The section [The Marker Tools](/docs/rapidplan/the-tools-palette/the-marker-tools/the-north-arrow.md) covers this tool set*
+    *See the annotation pages in [Devices, Markers and Annotations](/category/devices-markers-and-annotations).*
 
     |                    Annotations                    |                 |                                                      |                |
     | :-----------------------------------------------: | --------------- | :--------------------------------------------------: | -------------- |
@@ -74,7 +74,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
 
  7. **Markers** - This displays distance markers, an area marker and an angle marker.
 
-    *The section [The Marker Tools](/docs/rapidplan/the-tools-palette/the-marker-tools/distance-markers.md) covers this tool set.*
+    *See [Distance markers](/docs/rapidplan/the-tools-palette/the-marker-tools/distance-markers.md) and [Chainage markers](/docs/rapidplan/the-tools-palette/the-marker-tools/chainage-markers.md).*
 
     |Markers                                                    |                       |                                                                   |                     |
     |:---------------------------------------------------------:|-----------------------|:-----------------------------------------------------------------:|---------------------|
@@ -84,7 +84,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
 
  8. **Lines** - This displays various line shapes that can be used.
 
-    *The section [The Basic Tools](/docs/rapidplan/the-tools-palette/shape-and-line-tools/line-and-shape-tools.md) covers this tool set*
+    *See [Line and shape tools](/docs/rapidplan/the-tools-palette/shape-and-line-tools/line-and-shape-tools.md).*
 
     |Lines                                                |                       |                                                           |                     |
     |:---------------------------------------------------:|-----------------------|:---------------------------------------------------------:|---------------------|
@@ -94,7 +94,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
 
  9. **Shapes** - These simple shape tools allow you to create your own objects and signs for your plans.
 
-    *The section [Shape and line Tools](./shape-and-line-tools/line-and-shape-tools.md) covers this tool set*
+    *See [Line and shape tools](./shape-and-line-tools/line-and-shape-tools.md).*
 
     |                       Shapes                        |                   |                                                 |               |
     | :-------------------------------------------------: | ----------------- | :---------------------------------------------: | ------------- |
@@ -106,7 +106,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
 
  10. **Text** - These text options can allow you to add a text box, name roads, hyperlinks and create signs.
 
-     *The section [Text Tools](./text-tools/the-text-tools.md) covers this tool set*
+     *See [Text tools](./text-tools/text-tools.md).*
 
      |                     Text                      |             |                                              |            |
      | :-------------------------------------------: | ----------- | :------------------------------------------: | ---------- |

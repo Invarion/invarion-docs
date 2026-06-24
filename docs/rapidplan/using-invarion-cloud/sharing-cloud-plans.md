@@ -3,7 +3,7 @@
 sidebar_position: 3
 
 ---
-# Sharing Cloud Plans
+# Sharing cloud plans
 
 The integrated Invarion Cloud system allows for seamless sharing of plans: <br />Either granting other users permission to make changes and adding comments by adding coworkers as **Collaborating Users**.<br />Or sharing a *view-only* copy of the plan with non-contributing stakeholders, by sharing a **Public Plan Access Link**.
 

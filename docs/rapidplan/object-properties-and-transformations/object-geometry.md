@@ -3,7 +3,7 @@
 sidebar_position: 3.1
 
 ---
-# Object Geometry
+# Object geometry
 
 ## Object Geometry Types
 

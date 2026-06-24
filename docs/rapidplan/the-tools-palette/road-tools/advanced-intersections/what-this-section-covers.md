@@ -3,7 +3,7 @@
 sidebar_position: 1
 
 ---
-# What this Section Covers
+# What this section covers
 
 We will be creating five different intersections of increasing complexity. In order to present as much information as possible in the shortest space, this chapter will assume that you have all of the required knowledge from previous Chapters.
 
