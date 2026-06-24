@@ -8,8 +8,98 @@
 /*
 Hide color mode toggle in small viewports
  */
+:global(.navbar__brand) {
+  min-width: 0;
+  margin-right: 1rem;
+  color: var(--ifm-navbar-link-color);
+}
+
+:global(.navbar__brand:hover) {
+  color: var(--ifm-navbar-link-hover-color);
+  text-decoration: none;
+}
+
+:global(.navbar__logo) {
+  width: 32px;
+  height: 32px;
+  margin-right: 0.5rem;
+}
+
+:global(.navbar__logo img) {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+
+:global(.navbar__title) {
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+:global(.navbar__link.helpCenterSectionLink) {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
+}
+
+:global(.navbar__link.helpCenterSectionLink + .navbar__link.helpCenterSectionLink::before) {
+  position: absolute;
+  left: -0.1rem;
+  color: var(--ifm-navbar-link-color);
+  content: '|';
+  font-weight: 400;
+  opacity: 0.45;
+}
+
+:global(.navbar__link.helpCenterSectionLink.navbar__link--active) {
+  color: var(--ifm-color-primary);
+  font-weight: 600;
+}
+
+:global(.navbar__link.helpCenterSectionLink.navbar__link--active::after) {
+  position: absolute;
+  right: 0.75rem;
+  bottom: 0.2rem;
+  left: 0.75rem;
+  height: 2px;
+  border-radius: 2px;
+  background: var(--ifm-color-primary);
+  content: '';
+}
+
+:global(.navbar__items--right [class*='navbarSearchContainer']),
+:global(.navbar__items--right .navbar__search) {
+  margin-right: 0.35rem;
+  margin-left: 0;
+}
+
 @media (max-width: 996px) {
   .colorModeToggle {
+    display: none;
+  }
+
+  :global(.navbar__brand) {
+    margin-right: 0;
+  }
+
+  :global(.navbar__title) {
+    max-width: 42vw;
+  }
+
+  :global(.navbar__link.helpCenterSectionLink) {
+    display: none;
+  }
+
+  :global(.navbar__link.helpCenterSectionLink + .navbar__link.helpCenterSectionLink::before),
+  :global(.navbar__link.helpCenterSectionLink.navbar__link--active::after) {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  :global(html:not(.homepage) .navbar__title) {
     display: none;
   }
 }

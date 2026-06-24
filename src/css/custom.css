@@ -40,6 +40,10 @@ html[data-theme='dark'] footer {
   color: black
 }
 
+.footer .footer__link-item svg {
+  display: none;
+}
+
 /* Homepage hero search */
 html.homepage [class*='navbarSearchContainer'] {
   display: none;

@@ -146,65 +146,55 @@ const config = {
         },
       ],
       navbar: {
+        title: 'Invarion Help Center',
         logo: {
           alt: 'Invarion logo',
-          src: 'img/logo.svg',
-          srcDark: 'img/logo-dark.svg',
-          href: 'https://invarion.com/',
+          src: 'img/help-center-logo.png',
+          srcDark: 'img/help-center-logo.png',
+          href: '/',
+          width: 32,
+          height: 32,
         },
         items: [
           {
             position: 'left',
-            label: 'Help Center',
-            to: '/',
-            className: 'text-black',
+            label: 'RapidPlan',
+            to: '/rapidplan/Welcome',
+            activeBaseRegex: '^/rapidplan(?:/|$)',
+            className: 'helpCenterSectionLink',
           },
           {
-            type: 'dropdown',
-            label: 'Sections',
             position: 'left',
-            items: [
-              {
-                type: 'doc',
-                label: 'RapidPlan',
-                docId: 'rapidplan/Welcome',
-              },
-              {
-                type: 'doc',
-                label: 'RapidPath',
-                docId: 'rapidpath/Welcome',
-              },
-              {
-                type: 'doc',
-                label: 'RapidPlan Online',
-                docId: 'rapidplan-online/Welcome',
-              },
-              {
-                type: 'doc',
-                label: 'RapidPath Online',
-                docId: 'rapidpath-online/Welcome',
-              },
-              {
-                type: 'doc',
-                label: 'Accounts & Setup',
-                docId: 'accounts-setup/Welcome',
-              },
-            ],
+            label: 'RapidPath',
+            to: '/rapidpath/Welcome',
+            activeBaseRegex: '^/rapidpath(?:/|$)',
+            className: 'helpCenterSectionLink',
+          },
+          {
+            position: 'left',
+            label: 'RapidPlan Online',
+            to: '/rapidplan-online/Welcome',
+            activeBaseRegex: '^/rapidplan-online(?:/|$)',
+            className: 'helpCenterSectionLink',
+          },
+          {
+            position: 'left',
+            label: 'RapidPath Online',
+            to: '/rapidpath-online/Welcome',
+            activeBaseRegex: '^/rapidpath-online(?:/|$)',
+            className: 'helpCenterSectionLink',
+          },
+          {
+            position: 'left',
+            label: 'Accounts & Setup',
+            to: '/accounts-setup/Welcome',
+            activeBaseRegex: '^/accounts-setup(?:/|$)',
+            className: 'helpCenterSectionLink',
           },
           {
             position: 'right',
-            label: 'Book a demo',
-            to: 'https://invarion.com/contact/',
-          },
-          {
-            position: 'right',
-            label: 'Contact Support',
+            label: 'Support',
             to: 'https://invarion.com/support/',
-          },
-          {
-            position: 'right',
-            label: 'Sign up',
-            to: 'https://accounts.invarion.com/manage/my-account',
           },
         ],
       },
@@ -214,18 +204,21 @@ const config = {
             title: 'Company',
             items: [
               {
+                html: '<a class="footer__link-item" href="https://invarion.com/" target="_self" rel="noopener noreferrer">Home (invarion.com)</a>',
+              },
+              {
                 label: 'About Us',
-                to: 'https://invarion.com/about/',
+                href: 'https://invarion.com/about/',
                 target: '_self',
               },
               {
                 label: 'Our History',
-                to: 'https://invarion.com/history/',
+                href: 'https://invarion.com/history/',
                 target: '_self',
               },
               {
                 label: 'Our Guarantee',
-                to: 'https://invarion.com/guarantee/',
+                href: 'https://invarion.com/guarantee/',
                 target: '_self',
               },
               {
