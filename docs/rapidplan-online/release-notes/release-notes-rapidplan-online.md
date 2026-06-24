@@ -1,5 +1,11 @@
 # Release Notes
 
+## June 2026
+
+### Bug fixes
+
+- Fixed an issue where plans could fail to save after adding certain SVG objects from the Scratchpad.
+
 ## May 2026
 
 - Fixed an issue where plans with a bearing value other than **0** could display differently in preview and export.
