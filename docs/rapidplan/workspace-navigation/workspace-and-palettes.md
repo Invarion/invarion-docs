@@ -2,7 +2,7 @@
 
 sidebar_position: 1
 tags:
-  - **workspace**
+  - workspace
 
 ---
 # Workspace and palettes
@@ -79,5 +79,4 @@ For canvas movement and zooming, see [Canvas navigation](./canvas-navigation.md)
 For details on how to manipulate objects on the canvas, click [here](/docs/rapidplan/object-properties-and-transformations/).
 
 Or for information on importing mapping to the **canvas area**, click [here](/docs/rapidplan/integrated-mapping/).
-
 

@@ -2,7 +2,7 @@
 
 sidebar_position: 1
 tags:
-  - **workspace**
+  - workspace
 
 ---
 # Application toolbars
@@ -86,5 +86,4 @@ This section is larger, so we'll partition it in two:
 |![copy](../the-toolbar/assets/copy.jpg) |**Copy**   |Copy the selected object/text.  |
 |![cut](../the-toolbar/assets/cut.jpg) |**Cut**   |Cut the selected object/text.  |
 |![past](../the-toolbar/assets/paste.jpg) |**Paste**   |Paste from your clipboard to the canvas.  |
-
 

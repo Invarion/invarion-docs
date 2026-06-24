@@ -2,7 +2,7 @@
 
 sidebar_position: 3
 tags:
-  - **workspace**
+  - workspace
   - drawing-editing
 
 ---
@@ -68,5 +68,4 @@ It has a range of printing options which allow you to print either your entire p
 To view or edit your plan properties just use the **Properties Palette** located to the right of the canvas. Properties can also be accessed through **Edit > Plan Properties** or default shortcut key **F2**.
 
 ![Unrestricted_Canvas](../the-canvas-area/assets/Unrestricted_Canvas.png)
-
 
