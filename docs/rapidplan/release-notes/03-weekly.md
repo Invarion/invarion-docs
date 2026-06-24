@@ -14,7 +14,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 * Bugfixes.
 
 ### Version 4.4.24 (17 June 2026)
-* Updated to **RapidPlan** 4.4, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
+* Updated to RapidPlan 4.4, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
 
 ### Version 4.4.19 (16 June 2026)
 * Fixed MetroMap surveys issue.
@@ -28,7 +28,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 * Adjusted MetroMap provider.
 
 ### Version 4.4.1 (03 June 2026)
-* **RapidPlan** 4.4 pre-release version.
+* RapidPlan 4.4 pre-release version.
 
 ### Version 4.3.229 (02 June 2026)
 * Redesigned Spatial Data Import with ArcGIS Feature Service support.
@@ -37,7 +37,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 * Custom Service base map provider (WMTS & ArcGIS).
 
 ### Version 4.3.199 (26 May 2026)
-* Using Cloud to open plans from newer **RapidPlan** versions.
+* Using Cloud to open plans from newer RapidPlan versions.
 
 ### Version 4.3.195 (22 May 2026)
 * Updated .Net runtime and libraries.
@@ -79,7 +79,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 * Bugfixes.
 
 ### Version 4.3.15 (15 January 2026)
-* Updated to **RapidPlan** 4.3, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
+* Updated to RapidPlan 4.3, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
 
 ### Version 4.3.12 (13 January 2026)
 * Bugfixes.
@@ -92,7 +92,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 
 ### Version 4.2.187 (19 December 2025)
 * Custom symbols for: **North Arrow**, LUMS board, **Arrow Board**, Bicycle lane, Sign stand, Location marker.
-* Opening multiple **RapidPlan** windows.
+* Opening multiple RapidPlan windows.
 
 ### Version 4.2.162 (10 December 2025)
 * Icons for **manifest** box items.
@@ -121,13 +121,13 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 * Added comments to Print Region
 
 ### Version 4.2.8 (03 September 2025)
-* Updated to **RapidPlan** 4.2, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
+* Updated to RapidPlan 4.2, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
 
 ### Version 4.2.2 (27 August 2025)
 * Support for standard sign size adjustment attribute.
 
 ### Version 4.2.1 (02 August 2025)
-* **RapidPlan** 4.2 pre-release version.
+* RapidPlan 4.2 pre-release version.
 
 ### Version 4.1.126 (29 July 2025)
 * Google Maps improvements: annotation styles, road level details.
@@ -141,7 +141,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 * New **Marked Path** path drawing mode: Tails.
 
 ### Version 4.1.85 (09 July 2025)
-* Support for advanced web proxy settings (requires **Invarion Launcher** 1.233 or newer).
+* Support for advanced web proxy settings (requires Invarion Launcher 1.233 or newer).
 * Allow opening web links in an external browser.
 
 ### Version 4.1.70 (16 June 2025)
@@ -154,7 +154,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 * Bugfixes.
 
 ### Version 4.1.23 (23 Apr 2025)
-* First official **RapidPlan** 4.1 build, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/)
+* First official RapidPlan 4.1 build, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/)
 
 ### Version 4.1.14 (01 Apr 2025)
 * Bugfixes.
@@ -164,14 +164,14 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 
 
 ### Version 4.1.2 (19 Mar 2025)
-* **RapidPlan** 4.1 pre-release version.
+* RapidPlan 4.1 pre-release version.
 * Georeferenced CAD import tool.
 * New object - Location Marker.
 * Allow **Zoomed View Box** to show contents from a selected stage.
 * New **Batch Export** options - one file per stage, individual file page numbering.
 * Adjustable object styling for Roads Import tool.
 * New print region styling options.
-* [**RapidPath**] Tool for measuring **vehicle path** radius.
+* [RapidPath] Tool for measuring **vehicle path** radius.
 
 
 ### Version 4.0.134 (24 Jan 2025)
@@ -180,7 +180,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 
 
 ### Version 4.0.111 (13 Jan 2025)
-* [**RapidPath**] Added option to loop exported swept path animation.
+* [RapidPath] Added option to loop exported swept path animation.
 * Improved efficiency of downloading aerial tiles.
 * Added option to force disk flush when saving plans.
 * Increased default value of the "Max number of tasks" setting.
@@ -189,7 +189,7 @@ _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see 
 * Bugfixes
 
 ### Version 4.0.59 (28 Nov 2024)
-* Official release of **RapidPlan** 4.0.
+* Official release of RapidPlan 4.0.
 
 
 

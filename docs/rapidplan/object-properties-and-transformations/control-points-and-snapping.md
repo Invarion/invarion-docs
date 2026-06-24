@@ -7,7 +7,7 @@ tags:
 
 # Control points and snapping
 
-Almost every drawable object in **RapidPlan** has one or more **control points**. These are the handles you use to shape geometry, align objects, and connect one object to another.
+Almost every drawable object in RapidPlan has one or more **control points**. These are the handles you use to shape geometry, align objects, and connect one object to another.
 
 The **control points** along a road let you adjust its shape.
 
@@ -33,7 +33,7 @@ Likewise, you can remove them with **Remove Control Point**.
 
 ## Point snapping
 
-Once you have selected an object and can view its **control points**, you can connect objects by snapping into existing **control points**. Hold **Ctrl** while point-snapping roads, work areas, or other geometry and **RapidPlan** will merge them cleanly.
+Once you have selected an object and can view its **control points**, you can connect objects by snapping into existing **control points**. Hold **Ctrl** while point-snapping roads, work areas, or other geometry and RapidPlan will merge them cleanly.
 
 If you want to snap across visible layers or stages, hold **Ctrl + Alt** while drawing or transforming. That temporarily enables multi-layer snapping so you can align to objects outside the active layer.
 
@@ -61,7 +61,7 @@ Press **Alt** while snapping to a geometry to reveal additional guides such as:
 
 ### Drawing along geometries
 
-Snap to an existing geometry while drawing and **RapidPlan** can automatically fit your new object to that geometry.
+Snap to an existing geometry while drawing and RapidPlan can automatically fit your new object to that geometry.
 
 This is especially useful for drawing:
 

@@ -11,7 +11,7 @@ tags:
 
 Before starting to create plans, we recommend getting to know your way around the **workspace**. It has been designed to be intuitive, easy to follow and to allow you the maximum available working space to create your traffic plan.
 
-There are four main components of the **RapidPlan Online** **workspace**:
+There are four main components of the RapidPlan Online **workspace**:
 
 - [Canvas area](./canvas-area.md)
 - [Main menu](./main-menu.md)

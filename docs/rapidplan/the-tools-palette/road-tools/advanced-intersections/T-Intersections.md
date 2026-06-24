@@ -8,7 +8,7 @@ tags:
 ---
 # T-Intersections
 
-T-intersections are the easiest of intersections to create in **RapidPlan** because the **Roads** tools make the task of joining roads at angles simple.
+T-intersections are the easiest of intersections to create in RapidPlan because the **Roads** tools make the task of joining roads at angles simple.
 
 |T-intersection                                     |                            |
 |---------------------------------------------------|----------------------------|

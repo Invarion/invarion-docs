@@ -8,7 +8,7 @@ tags:
 
 Print regions define what part of a plan will be printed or exported on each page.
 
-They are one of the core output tools in **RapidPlan**, especially when:
+They are one of the core output tools in RapidPlan, especially when:
 
 - a single plan needs several pages
 - different parts of a large site need separate sheets
@@ -43,7 +43,7 @@ Each region can be activated, resized, moved, rotated, styled, printed, or expor
 
 ## Ordering and batch output
 
-Recent **RapidPlan** versions use a single consistent ordering system for **print regions**.
+Recent RapidPlan versions use a single consistent ordering system for **print regions**.
 
 The order shown in the **Print Regions** window is the default order used by batch output workflows. If page order matters, arrange the regions there before printing or exporting.
 

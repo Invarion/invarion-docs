@@ -33,7 +33,7 @@ Creating a title box is a simple matter of selecting, filling and placing on the
 
 ![Filling_in_the_Title_Box_in_Quick_Edit](./assets/Filling_in_the_Title_Box_in_Quick_Edit.png)
 
- **Note**: As always in **RapidPlan**, this editing can be done from the Properites Palette.
+ **Note**: As always in RapidPlan, this editing can be done from the Properites Palette.
 
 ## Manipulating the Title Box
 

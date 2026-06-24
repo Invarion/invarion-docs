@@ -18,7 +18,7 @@ If you become lost in your unrestricted canvas, you can simply click the **Scrol
 
 ## Scrolling
 
-Scrolling used around the **RapidPlan** canvas is very simple, and there are two main ways to do so.
+Scrolling used around the RapidPlan canvas is very simple, and there are two main ways to do so.
 
 ### The Canvas-Shift Technique
 
@@ -26,7 +26,7 @@ Holding down the **SPACE BAR**, then dragging on the canvas with the mouse will 
 
 ### The Scroll Bars
 
-Using the scroll bars like virtually all desktop publishing programs (and virtually all other Windows applications) **RapidPlan** has a set of scroll bars along the edge of the canvas allowing you to move up, down and across the canvas. This will be the primary way that you will move around in **RapidPlan**.
+Using the scroll bars like virtually all desktop publishing programs (and virtually all other Windows applications) RapidPlan has a set of scroll bars along the edge of the canvas allowing you to move up, down and across the canvas. This will be the primary way that you will move around in RapidPlan.
 
 ![Scroll_Bars](../the-canvas-area/assets/Scroll_Bars.png)
 
@@ -62,7 +62,7 @@ Alternatively:
 
 ## Unrestricted Canvas
 
-**RapidPlan** offers an unrestricted canvas. Virtually limitless in size, this canvas allows you to draw anywhere from a small simple plan to enormous **traffic management plans** when you need to. With no restriction on size, it's ideal for applications like races, parades or large scale, multi-block road closures.
+RapidPlan offers an unrestricted canvas. Virtually limitless in size, this canvas allows you to draw anywhere from a small simple plan to enormous **traffic management plans** when you need to. With no restriction on size, it's ideal for applications like races, parades or large scale, multi-block road closures.
 It has a range of printing options which allow you to print either your entire plan, or just certain sections as you need. This is especially useful for large jobs which have multiple traffic treatments which you may wish to print into individual plans.
 
 To view or edit your plan properties just use the **Properties Palette** located to the right of the canvas. Properties can also be accessed through **Edit > Plan Properties** or default shortcut key **F2**.

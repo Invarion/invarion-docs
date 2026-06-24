@@ -8,7 +8,7 @@ tags:
 
 # Navigating the Plan Canvas
 
-The **RapidPlan Online** canvas provides comprehensive navigation controls designed to facilitate efficient interaction with your **traffic management plans**. This document outlines the available navigation methods for desktop and laptop devices.
+The RapidPlan Online canvas provides comprehensive navigation controls designed to facilitate efficient interaction with your **traffic management plans**. This document outlines the available navigation methods for desktop and laptop devices.
 
 For touch-enabled mobile devices, please refer to the [Using Mobile Devices](../using-mobile-devices/using-mobile-devices.md) guide.
 
@@ -39,7 +39,7 @@ When using a laptop trackpad or external trackpad device, the following gestures
 
 ## Configuring Interaction Mode
 
-**RapidPlan Online** allows you to optimize navigation controls based on your input device. To switch between mouse and trackpad interaction modes:
+RapidPlan Online allows you to optimize navigation controls based on your input device. To switch between mouse and trackpad interaction modes:
 
 1. Access the Settings menu
 2. Navigate to the Interaction Mode section

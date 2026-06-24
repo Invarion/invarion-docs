@@ -70,4 +70,4 @@ The Coordinates setting in the Dimension Input Panel allow you to select the loc
 
 For example, '*35.1561, -90.0519*'.
 
-**Note:** Latitude and longitude of a given point on the canvas in **RapidPlan** can be copied to your clipboard by **Right clicking** at the point > **Copy Coordinates**.
+**Note:** Latitude and longitude of a given point on the canvas in RapidPlan can be copied to your clipboard by **Right clicking** at the point > **Copy Coordinates**.

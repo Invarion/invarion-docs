@@ -11,7 +11,7 @@ tags:
 
 ## The Lane Marker tool
 
-The automatic **lane markings** on the road always perfectly follow the curve of the road. Sometimes you will need to create something different, so **RapidPlan** has a custom lane marker tool. In a lot of cases, you will use the **Lane Marker** tool in conjunction with the lane mask tool. The example below will show you how to combine the two.
+The automatic **lane markings** on the road always perfectly follow the curve of the road. Sometimes you will need to create something different, so RapidPlan has a custom lane marker tool. In a lot of cases, you will use the **Lane Marker** tool in conjunction with the lane mask tool. The example below will show you how to combine the two.
 
 In this example we will replace the current dash lane marker with the solid double line lane marker.
 

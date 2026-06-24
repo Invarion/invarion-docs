@@ -21,7 +21,7 @@ while you drag your sign.)
 
 ## Rotating placed Signs
 
-As is the case for most **RapidPlan** items, once a sign is placed on the canvas, there are three ways to rotate it.
+As is the case for most RapidPlan items, once a sign is placed on the canvas, there are three ways to rotate it.
 
 Whilst free rotate is probably the easiest to do, it probably isn't ideal if you are aligning more than 1 sign. It
 can be fiddly to get signs all pointing in precisely the same direction, so often you are better off using the
@@ -50,7 +50,7 @@ right-click Rotate option, or **Ctrl + R**.
 
 ## Resizing Signs
 
-Resizing signs in **RapidPlan** is no different to resizing any other object. Its achieved using the **resize handles** which appear when the sign is selected.
+Resizing signs in RapidPlan is no different to resizing any other object. Its achieved using the **resize handles** which appear when the sign is selected.
 
 ![Resize_Handles](./assets/Resize_Handles.png)
 

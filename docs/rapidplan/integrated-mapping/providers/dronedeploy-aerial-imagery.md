@@ -7,17 +7,17 @@ tags:
 ---
 # DroneDeploy aerial imagery
 
-DroneDeploy is a powerful platform for colating and arranging drone-recorded imagery. With the steps below, DroneDeploy projects can now be ported to **RapidPlan** directly.
+DroneDeploy is a powerful platform for colating and arranging drone-recorded imagery. With the steps below, DroneDeploy projects can now be ported to RapidPlan directly.
 
 ## Adding DroneDeploy as a basemap provider
 
-To start using DroneDeploy as a basemap provider in **RapidPlan**, please ensure you have a current DroneDeploy subscription. An account can be created at [https://dronedeploy.com/](https://dronedeploy.com/).
+To start using DroneDeploy as a basemap provider in RapidPlan, please ensure you have a current DroneDeploy subscription. An account can be created at [https://dronedeploy.com/](https://dronedeploy.com/).
 
-There are two ways to integrate DroneDeploy with **RapidPlan**: Organization and Single project, each option will be discussed below.
+There are two ways to integrate DroneDeploy with RapidPlan: Organization and Single project, each option will be discussed below.
 
-Follow these steps to integrate **RapidPlan** with DroneDeploy:
+Follow these steps to integrate RapidPlan with DroneDeploy:
 
-1. Create a **RapidPlan** plan that includes a *Base map*;
+1. Create a RapidPlan plan that includes a *Base map*;
 2. Navigate to the *Base map* section of the **Properties palette**;
 
 ![properties basemap](../assets/1-properties-basemap.png)
@@ -74,7 +74,7 @@ To add Single project service, click Edit in the **Properties palette** > Base m
 
 ![dronedeploy ui](../assets/8-dronedeploy-ui.png)
 
-- Then return to **RapidPlan** and paste the link as a Single Project:
+- Then return to RapidPlan and paste the link as a Single Project:
 
 ![single project integration](../assets/9-single-project-integrating.png)
 

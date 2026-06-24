@@ -14,7 +14,7 @@ hide_title: true
 * Fixed **Signs palette** reopening after license validation checks.
 
 ### Version 4.4.23 (17 June 2026)
-* Updated to **RapidPlan** 4.4, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
+* Updated to RapidPlan 4.4, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
 * Fixed exporting small geometries with thick stroke to image.
 
 ### Version 4.3.233 (03 June 2026)
@@ -74,7 +74,7 @@ hide_title: true
 * Fixed issue with exporting **Zoomed View Box**.
 
 ### Version 4.3.14 (15 January 2026)
-* Updated to **RapidPlan** 4.3, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
+* Updated to RapidPlan 4.3, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
 * Fixed issue with user manual link.
 * Fixed issue with perpendicular snapping.
 * Fixed issue with importing map image.
@@ -129,7 +129,7 @@ hide_title: true
 * Fixed exporting Lane marker, Crosswalk and Bicycle lane to CAD.
 
 ### Version 4.2.7 (03 September 2025)
-* Updated to **RapidPlan** 4.2, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
+* Updated to RapidPlan 4.2, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/).
 * Fixed menu items reporting mouse gesture shortcuts.
 * Fixed loading plans with invalid intersections.
 * Fixed low memory warning dialog appearing in the background.
@@ -147,7 +147,7 @@ hide_title: true
 * Fixed print region border dragging.
 * Fixed diagram editor focus issues.
 * Fixed message boxes not displayed on top of main window.
-* [**RapidPath**] Fixed vehicle profile text trimming.
+* [RapidPath] Fixed vehicle profile text trimming.
 
 ### Version 4.1.68 (13 June 2025)
 * Fixed Google basemap max zoom level issue.
@@ -162,10 +162,10 @@ hide_title: true
 * Fixed ungrouping objects on print frames.
 * Fixed duplicated print frames after copying print region.
 * Fixed **Zoomed View Box** layer visibility during **batch export**.
-* [**RapidPath**] Fixed tire positions after adjusting vehicle width.
+* [RapidPath] Fixed tire positions after adjusting vehicle width.
 
 ### Version 4.1.23 (23 Apr 2025)
-* First official **RapidPlan** 4.1 build, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/)
+* First official RapidPlan 4.1 build, see release notes [HERE](https://help.invarion.com/rapidplan/release-notes/official/)
 
 ### Version 4.0.194 (19 Mar 2025)
 * Fixed **PDF export** issues.
@@ -175,7 +175,7 @@ hide_title: true
 * Fixed saving **custom signs**.
 
 ### Version 4.0.125 (20 Jan 2025)
-* [**RapidPath**] Fixed fixed **vehicle path** drawing issues.
+* [RapidPath] Fixed fixed **vehicle path** drawing issues.
 
 ### Version 4.0.106 (09 Jan 2025)
 * Fixed print frame auto scaling issues.
@@ -190,7 +190,7 @@ hide_title: true
 * Fixed KML import issue.
 
 ### Version 4.0.59 (28 Nov 2024)
-* Official **RapidPlan** 4.0 release.
+* Official RapidPlan 4.0 release.
 
 
 

@@ -7,11 +7,11 @@ tags:
 ---
 # Arrow Board
 
-They come by many names, flashing arrow boards, sequential arrow boards, arrow trailers or even illuminated trailer mounted sequential flashing arrow systems. In **RapidPlan** they are referred to as Arrow Boards. They are simple to place and use and come with various configurations for the required site setting.
+They come by many names, flashing arrow boards, sequential arrow boards, arrow trailers or even illuminated trailer mounted sequential flashing arrow systems. In RapidPlan they are referred to as Arrow Boards. They are simple to place and use and come with various configurations for the required site setting.
 
 ![An_Arrow_Board_at_the_End_of_a_Transitional_Taper](./assets/An_Arrow_Board_at_the_End_of_a_Transitional_Taper.png)
 
-There are six different **Arrow Board** patterns available in **RapidPlan**:
+There are six different **Arrow Board** patterns available in RapidPlan:
 
 |Patterns                                     |           |                                             |           |
 |---------------------------------------------|-----------|---------------------------------------------|-----------|

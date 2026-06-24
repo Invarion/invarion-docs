@@ -36,7 +36,7 @@ You can also right-click a mapped area and select **Import Aerial Photo** to imp
 
 ## Working with imported tiles
 
-**RapidPlan** keeps aerial photo tiles on the Aerial Photos layer so it can preserve their mapped location.
+RapidPlan keeps aerial photo tiles on the Aerial Photos layer so it can preserve their mapped location.
 
 If you need to transform a tile like a normal image, copy it to another layer first:
 

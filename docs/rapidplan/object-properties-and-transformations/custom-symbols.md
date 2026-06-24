@@ -38,11 +38,11 @@ Support can expand over time, so check the **Properties palette** on the object 
 2. In the Properties Grid, enable **Custom symbol**.
 3. Choose the symbol you want to use from the custom symbol picker.
 
-The object keeps behaving like its normal **RapidPlan** object, but its built-in symbol is replaced by your chosen custom one.
+The object keeps behaving like its normal RapidPlan object, but its built-in symbol is replaced by your chosen custom one.
 
 ## When to use this feature
 
-Custom symbols work well when the symbol itself should stay consistent, but the object still needs **RapidPlan** behavior such as:
+Custom symbols work well when the symbol itself should stay consistent, but the object still needs RapidPlan behavior such as:
 
 - snapping
 - geometry or placement logic

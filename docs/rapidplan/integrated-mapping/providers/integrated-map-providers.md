@@ -6,7 +6,7 @@ tags:
 
 # Integrated map providers
 
-**RapidPlan**'s mapping tools start with a **Base Map** plan. Once a plan has a location and scale, you can use live basemaps, import aerial photos, bring in road or GIS data, and use location-aware tools.
+RapidPlan's mapping tools start with a **Base Map** plan. Once a plan has a location and scale, you can use live basemaps, import aerial photos, bring in road or GIS data, and use location-aware tools.
 
 ## Create a base map plan
 
@@ -29,13 +29,13 @@ Use the **Base map** section in the **Properties palette** to:
 - adjust the map opacity
 - open the provider list and enable additional providers
 
-**RapidPlan** includes global providers such as Google, Bing, and ArcGIS, plus regional and subscription-based providers that depend on your country version and connected services.
+RapidPlan includes global providers such as Google, Bing, and ArcGIS, plus regional and subscription-based providers that depend on your country version and connected services.
 
 ![Base_map_providers](../assets/Base_map_providers.png)
 
 ## Google basemaps
 
-Google is one of the main basemap options for current **RapidPlan** workflows:
+Google is one of the main basemap options for current RapidPlan workflows:
 
 - **Google Roadmap** is useful when you want road layout and labels.
 - **Google Satellite** is useful when you need aerial context.
@@ -56,9 +56,9 @@ If a provider is not visible in the main dropdown, open **More providers...** an
 
 ## Custom Service provider
 
-**RapidPlan** also supports a **Custom Service** basemap provider for compatible tiled services.
+RapidPlan also supports a **Custom Service** basemap provider for compatible tiled services.
 
-Use it when you need to connect **RapidPlan** to:
+Use it when you need to connect RapidPlan to:
 
 - a WMTS service
 - an ArcGIS MapServer tile service

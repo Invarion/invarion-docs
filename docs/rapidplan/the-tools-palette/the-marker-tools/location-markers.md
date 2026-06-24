@@ -46,7 +46,7 @@ Adjust appearance of the line connecting the text box to the pin.
 
 ## Batch Edit Location Markers
 
-In **RapidPlan** coordinates are tracked in the WGS84 coordinate system, in either 'Decimal Degrees', or 'Degrees, Minutes, Seconds'. There are however circumstances in which you might choose to refer to a coordinate point on your plan by a different coordinate system.<br/> The Batch Edit Location Markers tool has been designed for such a scenario.
+In RapidPlan coordinates are tracked in the WGS84 coordinate system, in either 'Decimal Degrees', or 'Degrees, Minutes, Seconds'. There are however circumstances in which you might choose to refer to a coordinate point on your plan by a different coordinate system.<br/> The Batch Edit Location Markers tool has been designed for such a scenario.
 
 To use it, first place location markers in your chosen locations, then select them all (perhaps by selecting one and then clicking **Ctrl+Shift+A** to select all 'like' objects).<br/>aThen click **Tools > Advanced Tools > Batch Edit Location Markers**.
 ![batch edit location markers - toolbar](./assets/batch%20edit%20location%20markers%20-%20menu.png)
@@ -74,7 +74,7 @@ In the top-left, toggle Input to **WGS84**, and paste the coordinates into the '
 3. Click **Convert**, before copying Output type required on the right, selecting the entire contents of the text box before copying all of it at once.
 ![mobile roads conversion 2](./assets/mobile%20roads%20conversion%202.png)
 
-4. Returning to **RapidPlan**, **Paste** the converted coordinates into the field on the right.
+4. Returning to RapidPlan, **Paste** the converted coordinates into the field on the right.
 ![mobile roads conversion 3](./assets/mobile%20roads%20conversion%203.png)
 
 Once you click **Ok**, the converted coordinates will appear above the corresponding location markers.

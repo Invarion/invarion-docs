@@ -6,7 +6,7 @@ tags:
 
 # Install and use the Invarion Launcher
 
-The **Invarion Launcher** installs, updates, and opens Invarion **desktop applications** such as **RapidPlan** and **RapidPath**.
+The Invarion Launcher installs, updates, and opens Invarion **desktop applications** such as RapidPlan and RapidPath.
 
 ## Install the Launcher
 
@@ -34,7 +34,7 @@ If you have forgotten your password, use the **Forgot your password** link on th
 
 ## Open an application
 
-After you sign in, the Launcher shows the Invarion **desktop applications** assigned to your account, such as **RapidPlan** and **RapidPath**. The applications you see depend on your licenses and add-ons.
+After you sign in, the Launcher shows the Invarion **desktop applications** assigned to your account, such as RapidPlan and RapidPath. The applications you see depend on your licenses and add-ons.
 
 Select **Open** next to the application you want to use.
 

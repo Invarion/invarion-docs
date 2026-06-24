@@ -8,7 +8,7 @@ tags:
 ---
 # Editing the shape of an existing road
 
-Like any other object in **RapidPlan**, the shape of the road once drawn can very easily be edited by shifting it's **control points**.
+Like any other object in RapidPlan, the shape of the road once drawn can very easily be edited by shifting it's **control points**.
 
 **To edit the roads shape:**
 

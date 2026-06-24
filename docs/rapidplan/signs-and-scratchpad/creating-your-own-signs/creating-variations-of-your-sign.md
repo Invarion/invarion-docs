@@ -7,9 +7,9 @@ tags:
 ---
 # Creating variations of your sign
 
-Creating variations for your **custom sign** is made very simple using the Sign Editor Palette in **RapidPlan**.
+Creating variations for your **custom sign** is made very simple using the Sign Editor Palette in RapidPlan.
 
-In **RapidPlan** you can quickly edit text in signs. Just double-click on any text object that's part of a group or sign to edit it in-place.
+In RapidPlan you can quickly edit text in signs. Just double-click on any text object that's part of a group or sign to edit it in-place.
 
 ![Double_click_to_edit_sign_text](./assets/Double_click_to_edit_sign_text.png)
 
@@ -38,7 +38,7 @@ To open a sign in the Sign Editor you have two options;
  1. **Select "Open Sign" option** - use to access saved files from your computer
  2. **Select "Import Sign Variation From Diagram" option** - use to open a sign from your canvas
 
-Once you have constructed your base sign in **RapidPlan**, select the sign on the canvas and select **Import Sign Variation From Diagram** in the Sign Editor. As you can see the editor will immediately provide a Fax Mode version of your sign for you.
+Once you have constructed your base sign in RapidPlan, select the sign on the canvas and select **Import Sign Variation From Diagram** in the Sign Editor. As you can see the editor will immediately provide a Fax Mode version of your sign for you.
 
 ![Importing_Sign_From_Canvas_to_the_Sign_Editor](./assets/Importing_Sign_From_Canvas_to_the_Sign_Editor.png)
 
@@ -50,7 +50,7 @@ To do this either click on the desired sign directly in Sign Editor which will t
 
 ![Quick_Edit_Sign_Variation_Option](./assets/Quick_Edit_Sign_Variation_Option.png)
 
-As shown above, the **Quick Edit** window is the same as discussed in other sections of **RapidPlan**, where you change the object's properties as usual.
+As shown above, the **Quick Edit** window is the same as discussed in other sections of RapidPlan, where you change the object's properties as usual.
 
 **Adding Sign Description, Codes and Sizes to your Sign**
 Adding a description for you sign, and/or codes and sign sizes is very easy in the Sign Editor.
@@ -75,7 +75,7 @@ In the Sign Editor you can save your sign and variations to your computer by sel
 
 ## A Faster Way to Save Signs (Right Click > Save)
 
-**RapidPlan** has a much faster and easier way to save signs when you don't need to save and edit different variations.
+RapidPlan has a much faster and easier way to save signs when you don't need to save and edit different variations.
 
 Using **Save** from the context menu allows you to save a group as a sign to the **Custom** tab of the **Signs Palette**. It is a simple process, but doesn't afford the power or flexibility that the Sign Editor allows.
 

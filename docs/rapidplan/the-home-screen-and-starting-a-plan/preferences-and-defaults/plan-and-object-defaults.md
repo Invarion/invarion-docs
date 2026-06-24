@@ -7,13 +7,13 @@ tags:
 
 # Plan and object defaults
 
-The **Defaults** section in Preferences controls the values **RapidPlan** uses when it creates new plans, objects, signs, brushes, fonts, and text objects.
+The **Defaults** section in Preferences controls the values RapidPlan uses when it creates new plans, objects, signs, brushes, fonts, and text objects.
 
 Open it from **Tools** > **Preferences** > **Defaults**.
 
 ## New default plan
 
-Use the new-plan defaults to set values **RapidPlan** should apply when a new default plan is created.
+Use the new-plan defaults to set values RapidPlan should apply when a new default plan is created.
 
 Common defaults include:
 
@@ -34,7 +34,7 @@ Use brush defaults to control default line and shape styling.
 
 ## Fonts and text
 
-By default, **RapidPlan** creates text with its default font settings. To change the default text style:
+By default, RapidPlan creates text with its default font settings. To change the default text style:
 
 1. Open **Tools** > **Preferences**.
 2. Select **Defaults**.

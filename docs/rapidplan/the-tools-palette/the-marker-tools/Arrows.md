@@ -7,7 +7,7 @@ tags:
 ---
 # Arrows
 
-Frequently, you will need to draw attention to items on the plan, but will not want to use a **callout box**. **RapidPlan** provides two arrow tools for this purpose:
+Frequently, you will need to draw attention to items on the plan, but will not want to use a **callout box**. RapidPlan provides two arrow tools for this purpose:
 
 - The Arrow Tool
 - The Arrow Text Tool

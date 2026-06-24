@@ -8,7 +8,7 @@ tags:
 ---
 # Editing the Road
 
-Like any other object in **RapidPlan Online**, the shape of the road can be edited by shifting it's **control points**. Also akin to other objects in **RapidPlan Online** - its Properties can be changed as well.
+Like any other object in RapidPlan Online, the shape of the road can be edited by shifting it's **control points**. Also akin to other objects in RapidPlan Online - its Properties can be changed as well.
 
 ## To edit the roads shape
 

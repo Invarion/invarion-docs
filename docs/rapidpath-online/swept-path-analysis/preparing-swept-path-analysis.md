@@ -12,7 +12,7 @@ tags:
 
 The first step in creating the **Swept Path Analysis** is adding a vehicle to your plan. To do this, navigate to the **Vehicle Library**. In the **Vehicle Library** palette, choose the library and vehicle you are interested in and left-click. Now, place the vehicle onto your plan with the left mouse button.
 
-Vehicles in **RapidPath** Online can be positioned and rotated just like any other object. But, their size is automatically adjusted to the plan's scale and cannot be changed.
+Vehicles in RapidPath Online can be positioned and rotated just like any other object. But, their size is automatically adjusted to the plan's scale and cannot be changed.
 
 ![Select_vehicle](./assets/Select_vehicle.png)
 

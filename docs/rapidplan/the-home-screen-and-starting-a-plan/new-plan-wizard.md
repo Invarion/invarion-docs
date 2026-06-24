@@ -7,9 +7,9 @@ tags:
 ---
 # New Plan Wizard
 
-The first step in **RapidPlan** is choosing a canvas to work on. The New Plan Wizard allows you to select a type of plan and specify details of your plan (such as scale, print region, etc.) before you begin (which a **New Default Plan** does not).
+The first step in RapidPlan is choosing a canvas to work on. The New Plan Wizard allows you to select a type of plan and specify details of your plan (such as scale, print region, etc.) before you begin (which a **New Default Plan** does not).
 
-The New Plan Wizard can be accessed from the **Quick Start** section of the Welcome to **RapidPlan** tab. If this tab is closed, the wizard can also be accessed by going to **File > New Plan Wizard**.
+The New Plan Wizard can be accessed from the **Quick Start** section of the Welcome to RapidPlan tab. If this tab is closed, the wizard can also be accessed by going to **File > New Plan Wizard**.
 
 ![The_New_Plan_Wizard](./assets/The_New_Plan_Wizard.png)
 
@@ -33,7 +33,7 @@ Selecting the **blank canvas** option will provide you with a plain canvas to dr
 
 **To create a Blank Canvas Plan:**
 
-- Select **New Plan Wizard** in the Quick Start section of the Welcome to **RapidPlan** page.
+- Select **New Plan Wizard** in the Quick Start section of the Welcome to RapidPlan page.
 - In **step 1**, select **Blank Canvas**.
 - In **step 2** enter your plan's details and choose a print region and scale if needed.
 - In this step, if you scroll down you can also add a **job location** to make the plan searchable by location.
@@ -49,7 +49,7 @@ Select this plan type if you're drawing a plan for a specific job site. It will 
 
 **Creating a New Plan from a Base Map:**
 
-- Select **New Plan Wizard** in the Quick Start section of the Welcome to **RapidPlan** page.
+- Select **New Plan Wizard** in the Quick Start section of the Welcome to RapidPlan page.
 - In **step 1**, select **Base Map**.
 - In **step 2** enter your plan details and choose a print region and scale, or leave them as default.
 - Scroll down to **Job Location** and type in the address for your job in the search bar and click **Search**.
@@ -93,7 +93,7 @@ This creates a new plan base on a TCP template selected from a library of typica
 
 ## Creating a New Plan from Template
 
-- Select **New Plan Wizard** in the Quick Start section of the Welcome to **RapidPlan** page.
+- Select **New Plan Wizard** in the Quick Start section of the Welcome to RapidPlan page.
 - In **step 1**, select **Static Template**.
 - A **New Plan From Template** window will appear as shown in the image below, where you can select your regional template package and your template.
 - Once you have chosen your template, click **Select Template**.

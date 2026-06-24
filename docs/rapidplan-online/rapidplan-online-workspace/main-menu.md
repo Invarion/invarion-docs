@@ -7,7 +7,7 @@ tags:
 ---
 # Main Menu
 
-The Main menu contains a number of options to assist plan creation. The image below shows the main tools of the **RapidPlan Online** menu.
+The Main menu contains a number of options to assist plan creation. The image below shows the main tools of the RapidPlan Online menu.
 
 ![Main Menu](./Assets/main-menu.jpg)
 

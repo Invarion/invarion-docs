@@ -16,7 +16,7 @@ The first step in creating the **Swept Path Analysis** is adding a vehicle to yo
 
 If you want to use different vehicle's parameters you can change them in **Vehicle Library** before clicking the "Add" button. These changes will not be saved into the Library, they will only apply to the vehicle that will be added to the plan.
 
-Vehicles in **RapidPath** can be positioned and rotated just like any other object. But, their size is automatically adjusted to the plan's scale and cannot be changed. You can also copy/cut and paste vehicles.
+Vehicles in RapidPath can be positioned and rotated just like any other object. But, their size is automatically adjusted to the plan's scale and cannot be changed. You can also copy/cut and paste vehicles.
 
 ![Vehicle object on the plan](./images/Vehicle_object_on_the_plan.png)
 

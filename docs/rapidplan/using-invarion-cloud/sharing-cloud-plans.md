@@ -7,7 +7,7 @@ tags:
 ---
 # Sharing cloud plans
 
-The integrated **Invarion Cloud** system allows for seamless sharing of plans: <br />Either granting other users permission to make changes and adding comments by adding coworkers as **Collaborating Users**.<br />Or sharing a *view-only* copy of the plan with non-contributing stakeholders, by sharing a **Public Plan Access Link**.
+The integrated Invarion Cloud system allows for seamless sharing of plans: <br />Either granting other users permission to make changes and adding comments by adding coworkers as **Collaborating Users**.<br />Or sharing a *view-only* copy of the plan with non-contributing stakeholders, by sharing a **Public Plan Access Link**.
 
 To share a plan you will first need to open the **Plan Sharing Dialog Box**: To do so, in the [Invarion Cloud](./organising-the-invarion-cloud.md) click the **Actions Button** (![actions button](./assets/ic-icon.png)) of a plan > click **Share**.
 
@@ -21,7 +21,7 @@ A collaborating user must have a valid Invarion license.<br />Note that only one
 
 The initial creator of a plan will remain the plan **Owner**, as displayed on a plan. The plan Owner is free to remove a Collaborating User's access to the plan at any time.<br />Keep in mind that a Collaborating User is free to make their own duplicate of a plan while they have access.
 
-A Collaborating User will be able to find plans shared with them quickly, by navigating to the aptly name section of the **Invarion Cloud** file tree - **Shared with me**.
+A Collaborating User will be able to find plans shared with them quickly, by navigating to the aptly name section of the Invarion Cloud file tree - **Shared with me**.
 
 ### Adding and removing Collaborating Users
 
