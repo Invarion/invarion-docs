@@ -7,7 +7,7 @@ tags:
 ---
 # Creating your sign
 
-You should now have a good understanding of what is inside a RapidPlan sign file, so now we can go ahead and make one.
+You should now have a good understanding of what is inside a **RapidPlan** sign file, so now we can go ahead and make one.
 
 The basic steps for creating a sign are:
 
@@ -35,7 +35,7 @@ If your new sign is to be similar in appearance to an existing sign, or even if 
 If you want to start from scratch, there are a couple of guidelines you should adhere to:
 
 - **Sign frame**: You should ensure that the line stroke width for the frame of your sign is 1.5 pt or above.
-- **Size**: Try and keep you signs roughly the same size as the original ones packaged with RapidPlan.
+- **Size**: Try and keep you signs roughly the same size as the original ones packaged with **RapidPlan**.
 - **Font**: Whilst the font isn't critical, the size is. Try to keep your font to a minimum 8pt or above,
 bold setting (all the default signs use Arial).
 
@@ -45,4 +45,4 @@ You aren't limited to just using the frame of other signs - if there is a graphi
 
 ### Completing your Sign
 
-When you have finished creating your sign, drag a selection box around your sign and select the **Group** objects icon in the toolbar ![Group_icon](./assets/Group_icon.png), **Ctrl + G** or **Right click** and select **Group objects**.
+When you have finished creating your sign, drag a **selection box** around your sign and select the **Group** objects icon in the toolbar ![Group_icon](./assets/Group_icon.png), **Ctrl + G** or **Right click** and select **Group objects**.

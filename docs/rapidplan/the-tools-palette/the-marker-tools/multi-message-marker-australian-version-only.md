@@ -30,7 +30,7 @@ When this tool is selected, a **Multi Message Sign Wizard** box will appear wher
 
 **Multi Message sign placement:**
 
-- Select the **Multi Message Sign** tool from the Devices tab in the Tools Palette
+- Select the **Multi Message Sign** tool from the Devices tab in the **Tools Palette**
 - Toggle through the size tabs to view the signs available in each size category and preview the placement of each sign in the preview pane on the right
 - Select the signs and placement you want to add to the message board
 - Click **Create** to update the marker

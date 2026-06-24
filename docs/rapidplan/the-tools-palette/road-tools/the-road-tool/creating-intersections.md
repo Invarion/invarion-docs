@@ -8,11 +8,11 @@ tags:
 ---
 # Creating intersections
 
-The real power of RapidPlan lies in its ability to quickly create intersections. They are formed by "adding" new roads to existing ones. RapidPlan will automatically remove edge lines, shoulders, and sidewalks to blend at the intersecting point where a road is overlapping another road.
+The real power of **RapidPlan** lies in its ability to quickly create intersections. They are formed by "adding" new roads to existing ones. **RapidPlan** will automatically remove edge lines, shoulders, and sidewalks to blend at the intersecting point where a road is overlapping another road.
 
 **To form an intersection:**
 
-- Select the Road tool from the Road Tools tab.
+- Select the **Road tool** from the Road Tools tab.
 - Draw your first road.
 - Now draw a second road overlapping the first road.
 

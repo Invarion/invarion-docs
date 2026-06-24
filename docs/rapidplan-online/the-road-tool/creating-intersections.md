@@ -8,11 +8,11 @@ tags:
 ---
 # Creating Intersections
 
-The real power of RapidPlan Online lies in its ability to quickly create intersections. They are formed by **adding** new roads to existing ones. RapidPlan Online will automatically remove edge lines, shoulders, and sidewalks to blend at the intersecting point where a road is overlapping another road.
+The real power of **RapidPlan Online** lies in its ability to quickly create intersections. They are formed by **adding** new roads to existing ones. **RapidPlan Online** will automatically remove edge lines, shoulders, and sidewalks to blend at the intersecting point where a road is overlapping another road.
 
 **To form an intersection:**
 
-- Select the Road tool from the Tools palette;
+- Select the **Road tool** from the **Tools palette**;
 
 - Draw your first road;
 
@@ -22,7 +22,7 @@ The real power of RapidPlan Online lies in its ability to quickly create interse
 
 **To cover up lane markings:**
 
-- Select the tool from the Road tools in the Tools palette;
+- Select the tool from the Road tools in the **Tools palette**;
 - Start using the tool as you would use the Work zone tool drawing a perimeter of the road mask enclosing all the lane markers you want;
 - **Right click** to finish.
 

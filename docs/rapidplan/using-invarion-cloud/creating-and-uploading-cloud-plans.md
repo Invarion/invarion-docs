@@ -7,13 +7,13 @@ tags:
 ---
 # Creating and uploading cloud plans
 
-RapidPlan now features incorporated cloud functionality, allowing you to:
+**RapidPlan** now features incorporated cloud functionality, allowing you to:
 
 - Store your library of plans securely, and access them from anywhere.
 - Seamlessly collaborate with team members or clients by adding them to a plan and providing editing or view-only access.
 - Add comments and create comment threads to discuss aspects of your plan during the design process.
 - Quickly share a link to your plan so relevant stakeholders can view a read-only version on their mobile devices.
-- Plan files created in the desktop applications can be opened and edited by our web applications, and vice versa.
+- Plan files created in the **desktop applications** can be opened and edited by our web applications, and vice versa.
 
 ## Creating a cloud plan
 
@@ -31,7 +31,7 @@ If you have a plan or plans saved locally they can be saved to the cloud in one 
 
 ### From the workspace
 
-To save a local plan that you have open in RapidPlan to the cloud: Simply click the **Invarion Cloud Plan Details** button in the Toolbar on the top-right, highlighted below.
+To save a local plan that you have open in **RapidPlan** to the cloud: Simply click the **Invarion Cloud Plan Details** button in the Toolbar on the top-right, highlighted below.
 
 ![toolbar cloud button](./assets/ic-open-local-plan.png)
 
@@ -43,6 +43,6 @@ Now that the plan is a saved to the cloud, **Invarion Cloud Plan Details** menu 
 
 Doing this will leave the locally saved copy of your plan as is. Changes and saves to the cloud file you create will not be applied to the local file.
 
-If you want to return to working on the local version, you will find it in the same location in your computer's File Explorer. It can also be spotted in your Recent Plans in the RapidPlan [Home screen](/docs/rapidplan/the-home-screen-and-starting-a-plan/home-screen.md) - note the *cloud* icon indicating which version of the file is saved to the cloud.
+If you want to return to working on the local version, you will find it in the same location in your computer's File Explorer. It can also be spotted in your Recent Plans in the **RapidPlan** [Home screen](/docs/rapidplan/the-home-screen-and-starting-a-plan/home-screen.md) - note the *cloud* icon indicating which version of the file is saved to the cloud.
 
 ![home screen saved plans](./assets/ic-homepage-cloud-copy.png)

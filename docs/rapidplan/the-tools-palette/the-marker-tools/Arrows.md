@@ -7,7 +7,7 @@ tags:
 ---
 # Arrows
 
-Frequently, you will need to draw attention to items on the plan, but will not want to use a callout box. RapidPlan provides two arrow tools for this purpose:
+Frequently, you will need to draw attention to items on the plan, but will not want to use a **callout box**. **RapidPlan** provides two arrow tools for this purpose:
 
 - The Arrow Tool
 - The Arrow Text Tool
@@ -18,7 +18,7 @@ As the names suggest, the latter carries a text component at  its base. The arro
 
 ## Creating an Arrow
 
-- Select the **Arrow** tool from the Lines tab in the Tools Palette.
+- Select the **Arrow** tool from the Lines tab in the **Tools Palette**.
 - Click to place the head of the arrow.
 - Click again for each subsequent turn point that you require.
 - When you have placed your final point, **Right click**.
@@ -26,10 +26,10 @@ As the names suggest, the latter carries a text component at  its base. The arro
 
 ## Creating an Arrow Text
 
-- Select the **Arrow Text** tool from the Text tab in the Tools Palette.
+- Select the **Arrow Text** tool from the Text tab in the **Tools Palette**.
 - Click to place the head of the arrow.
 - Click again for each subsequent turn point that you require.
-- When you have placed your final point, **Right click** and a text cursor will appear for you to write your text in (**Note**: This can be edited in the Properties Palette).
+- When you have placed your final point, **Right click** and a text cursor will appear for you to write your text in (**Note**: This can be edited in the **Properties Palette**).
 
     ![Adding_Text_to_the_Text_Arrow](./assets/Adding_Text_to_the_Text_Arrow.png)
 

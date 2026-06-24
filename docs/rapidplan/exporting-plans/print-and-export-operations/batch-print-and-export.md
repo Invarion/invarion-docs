@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 2
 tags:
   - print-export
@@ -6,7 +6,7 @@ tags:
 
 # Batch print and export
 
-Use batch output when you need to print or export several print regions, plans, or stages in one operation.
+Use batch output when you need to print or export several **print regions**, plans, or stages in one operation.
 
 ## Batch printing
 
@@ -14,7 +14,7 @@ Open **File** > **Print** > **Batch Print** to add files or open plans, choose r
 
 ![Batch_Printing](../assets/Batch_Printing.png)
 
-For each added plan, RapidPlan lets you choose whether to print:
+For each added plan, **RapidPlan** lets you choose whether to print:
 
 - the active region only
 - all regions on the plan
@@ -28,7 +28,7 @@ For each added plan, RapidPlan lets you choose whether to print:
 
 ## Batch export
 
-Use batch export when you need files rather than printer output.
+Use **batch export** when you need files rather than printer output.
 
 Batch export supports workflows such as:
 
@@ -40,5 +40,5 @@ Batch export supports workflows such as:
 
 ## Region order
 
-The order in the Print Regions window defines the default region order for batch output. Arrange print regions there before running batch print or export when page order matters.
+The order in the **Print Regions** window defines the default region order for batch output. Arrange **print regions** there before running **batch print** or export when page order matters.
 

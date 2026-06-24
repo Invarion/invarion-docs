@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Accounts & Setup
 
-Use this section to set up your Invarion account, manage users and licenses, install Invarion desktop applications, and resolve Launcher access issues.
+Use this section to set up your Invarion account, manage users and licenses, install Invarion **desktop applications**, and resolve Launcher access issues.
 
 ## Account management
 

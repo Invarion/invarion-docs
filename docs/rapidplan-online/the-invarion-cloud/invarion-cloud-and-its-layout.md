@@ -9,13 +9,13 @@ tags:
 
 ## What is the Invarion Cloud?
 
-Invarion Cloud is an online application for storing all your plans and related documents. It is also the entry point to the RapidPlan Online and other web-based Invarion applications.
+**Invarion Cloud** is an online application for storing all your plans and related documents. It is also the entry point to the **RapidPlan Online** and other web-based Invarion applications.
 
-**Note:** Invarion Cloud has superseded our old storage application, the RapidPlan Cloud.
+**Note:** **Invarion Cloud** has superseded our old storage application, the **RapidPlan** Cloud.
 
 ## Its Layout
 
-The Invarion Cloud is a dynamic web-application that consists of for main elements:
+The **Invarion Cloud** is a dynamic web-application that consists of for main elements:
 
 |Element|Description|
 |-----------|-----------|
@@ -26,4 +26,4 @@ The Invarion Cloud is a dynamic web-application that consists of for main elemen
 
 ![Layout](./assets/Invarion_Cloud_Layout.png)
 
-**Note:** Even though Invarion Cloud is a single page application, it stores your current folder location in your web browser search bar. Thanks to that, you can successfully create browser bookmarks for your favourite or commonly used sections.
+**Note:** Even though **Invarion Cloud** is a single page application, it stores your current folder location in your web browser search bar. Thanks to that, you can successfully create browser bookmarks for your favourite or commonly used sections.

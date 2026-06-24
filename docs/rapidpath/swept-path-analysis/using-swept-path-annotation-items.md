@@ -9,7 +9,7 @@ tags:
 
 ## Adding a Vehicle Profile
 
-It is always a good idea to add the description of the vehicle used for the Swept Path Analysis to your document. You can easily do this by clicking with the right mouse button on the vehicle or Vehicle Path and choosing "Add profile" from the appropriate sub-menu ("Vehicle" or "Vehicle path").
+It is always a good idea to add the description of the vehicle used for the **Swept Path Analysis** to your document. You can easily do this by clicking with the right mouse button on the vehicle or Vehicle Path and choosing "Add profile" from the appropriate sub-menu ("Vehicle" or "Vehicle path").
 
 ![Vehicle profile option in the context menu](./images/Vehicle_profile_option_in_the_context_menu.png)
 
@@ -17,11 +17,11 @@ The **Vehicle Profile** displays the:
 
 - Vehicle's name;
 - Vehicle's side view with the most important dimensions; and
-- Vehicle's properties crucial for the Swept Path Analysis.
+- Vehicle's properties crucial for the **Swept Path Analysis**.
 
 ![Vehicle profile added to the plan](./images/Vehicle_profile_added_to_the_plan.png)
 
-You can ungroup the vehicle profile, then edit and style its parts - just like you would any other RapidPlan objects.
+You can ungroup the vehicle profile, then edit and style its parts - just like you would any other **RapidPlan** objects.
 
 ![Styled vehicle profile](./images/Styled_vehicle_profile.png)
 
@@ -45,7 +45,7 @@ Changes to the **Vehicle** section of its properties will decide whether a copy 
 Changes to the **Style** section of the cloud's properties will alter the fill and stroke of the cloud itself.
 
 Changes to the **Parameters** section of the cloud's properties will alter the behavior of the vehicle that is implied by the cloud.
-When the cloud is initially generated, it will mimic the properties of the vehicle at the selected section of the swept path envelope. Because of this you will likely not need to alter **Parameters**.
+When the cloud is initially generated, it will mimic the properties of the vehicle at the selected section of the swept **path envelope**. Because of this you will likely not need to alter **Parameters**.
 
 Modifiable **Parameters** include:
 

@@ -7,7 +7,7 @@ tags:
 
 # Chainage markers
 
-The Chainage Marker tool creates chainage references along a line, spline, or Bezier path.
+The **Chainage Marker** tool creates chainage references along a line, spline, or Bezier path.
 
 ![chainage marker](../../release-notes/assets/chainage.png)
 
@@ -26,13 +26,13 @@ This is useful for roads, corridors, paths, and other long linear features where
 1. Select the **Chainage Marker** tool.
 2. Draw or define the path it should follow.
 3. Set the tick spacing.
-4. Adjust label position, alignment, and orientation in the Properties palette.
+4. Adjust label position, alignment, and orientation in the **Properties palette**.
 
 ## Why use chainage instead of distance markers
 
 Use a regular [Distance Marker](./distance-markers.md) when you need one measured span or a small set of spans.
 
-Use a Chainage Marker when you need a continuous sequence of references along a route.
+Use a **Chainage Marker** when you need a continuous sequence of references along a route.
 
 ## Related snapping behavior
 

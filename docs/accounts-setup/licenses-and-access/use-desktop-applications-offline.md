@@ -6,13 +6,13 @@ tags:
 
 # Use desktop applications offline
 
-RapidPlan and RapidPath can be used without an internet connection for limited periods, depending on the license type.
+**RapidPlan** and **RapidPath** can be used without an internet connection for limited periods, depending on the license type.
 
 ## Single-machine licenses
 
 Single-machine license holders can use the assigned desktop application without an internet connection for up to 14 days at a time.
 
-This 14-day period resets each time the Invarion Launcher is opened while the computer is connected to the internet.
+This 14-day period resets each time the **Invarion Launcher** is opened while the computer is connected to the internet.
 
 ## Multi-machine licenses
 

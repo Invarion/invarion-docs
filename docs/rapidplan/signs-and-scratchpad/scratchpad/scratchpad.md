@@ -8,11 +8,11 @@ tags:
 ---
 # Scratchpad
 
-Scratchpad is used to store objects that you commonly use to make them easily accessible.
+**Scratchpad** is used to store objects that you commonly use to make them easily accessible.
 
 ![scratchpad](./assets/scratchpad-eg.png)
 
-To place an object in Scratchpad, select the object then **Right click** and select **Add to Scratchpad**.
+To place an object in **Scratchpad**, select the object then **Right click** and select **Add to Scratchpad**.
 
 ![add object to scratch pad](./assets/Add_object_to_Scratch_Pad.png)
 

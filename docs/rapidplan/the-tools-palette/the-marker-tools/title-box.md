@@ -27,13 +27,13 @@ Creating a title box is a simple matter of selecting, filling and placing on the
 
 **To place a Title Box:**
 
-- Select the **Title Box** from the Annotations tab in the Properties Palette and place the box on the plan.
+- Select the **Title Box** from the Annotations tab in the **Properties Palette** and place the box on the plan.
 - **Double click** on the Title Box to open **Quick Edit**.
 - Fill in each of the required fields and click **Save**.
 
 ![Filling_in_the_Title_Box_in_Quick_Edit](./assets/Filling_in_the_Title_Box_in_Quick_Edit.png)
 
- **Note**: As always in RapidPlan, this editing can be done from the Properites Palette.
+ **Note**: As always in **RapidPlan**, this editing can be done from the Properites Palette.
 
 ## Manipulating the Title Box
 
@@ -61,7 +61,7 @@ Naming the fields is simple, first click on the **Add** icon  and enter the appr
 
 The north marker is a handy tool to give your audience an idea of the plan orientation. Its also very easy to use.
 
-In the North Arrow tab of the Properties, simply click on the **Show** section to make it **True**, then adjust the direction of the arrow with the **Angle** bar as shown below.
+In the **North Arrow** tab of the Properties, simply click on the **Show** section to make it **True**, then adjust the direction of the arrow with the **Angle** bar as shown below.
 
 ![Displaying_the_North_Arrow_in_the_Title_Box](./assets/Displaying_the_North_Arrow_in_the_Title_Box.png)
 

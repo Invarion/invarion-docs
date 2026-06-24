@@ -96,6 +96,6 @@ A column's width can also be adjusted by clicking and dragging it.
 
 Once your work is complete, click **OK** to place the rich text object on your plan. You can still edit its contents once placed by double-clicking it.
 
-Once it is on the canvas area, it has the normal control handles to rotate and resize it.
+Once it is on the **canvas area**, it has the normal control handles to rotate and resize it.
 
-If you would like to alter the Rich Text object's aspect ratio, such as portrait or landscape, this can be manipulated without stretching by using the two control points in the top-left and bottom-right corners.
+If you would like to alter the Rich Text object's aspect ratio, such as portrait or landscape, this can be manipulated without stretching by using the two **control points** in the top-left and bottom-right corners.

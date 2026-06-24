@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 3
 tags:
   - print-export
@@ -6,7 +6,7 @@ tags:
 
 # Export formats
 
-RapidPlan supports several output formats. Choose the format based on what the recipient needs to do with the file.
+**RapidPlan** supports several output formats. Choose the format based on what the recipient needs to do with the file.
 
 ## PDF
 
@@ -17,7 +17,7 @@ PDF is usually the right format when you need:
 - a stable page layout
 - print frames and titleblocks
 - one file per plan or stage
-- output that is easy to share outside RapidPlan
+- output that is easy to share outside **RapidPlan**
 
 ## Image
 

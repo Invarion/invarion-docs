@@ -43,8 +43,8 @@ This also includes parameters such as sign spacing and sign placing. These param
 
 ![Enter_Plan_Details](./assets/Enter_Plan_Details.png)
 
-- You will then be presented with your auto template on the canvas area. In the top left of your canvas area you will be presented with a dialogue box, this just confirms your widths and tapers. You can adjust them further, if required.
+- You will then be presented with your auto template on the **canvas area**. In the top left of your **canvas area** you will be presented with a dialogue box, this just confirms your widths and tapers. You can adjust them further, if required.
 - Clicking the **Invert** button will switch your works to the opposite side of the road. **Reset** will set the parameters back to their defaults.
-- When all the information is correct, hit **Complete** and the final template is generated on the canvas area.
+- When all the information is correct, hit **Complete** and the final template is generated on the **canvas area**.
 
 ![Apply_Auto_Template](./assets/Apply_Auto_Template.png)

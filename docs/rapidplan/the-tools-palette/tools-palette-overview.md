@@ -7,7 +7,7 @@ tags:
 ---
 # Tools palette overview
 
-The Tools Palette contains most of the tools you will use to construct the features of your plan.
+The **Tools Palette** contains most of the tools you will use to construct the features of your plan.
 
 ![tools](./assets/Tools.png)
 
@@ -34,7 +34,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |![island icon](./assets/Island_icon.png)       | Island      |![bicycle lane icon](./assets/Bicycle_lane_icon.png)   |Bicycle lane   |
     |![parking bay icon](./assets/Parking_bay_icon.png)  | Parking bay |![sidewalk icon](./assets/Sidewalk_icon.png)       |Sidewalk       |
 
- 3. **Devices** - This displays devices such as delineators, arrow board and lane status.
+ 3. **Devices** - This displays devices such as delineators, **arrow board** and lane status.
 
     *See [Delineators](/docs/rapidplan/the-tools-palette/the-marker-tools/delineators.md) and the devices pages in this category.*
 
@@ -45,7 +45,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |![lane status icon](./assets/Lane_status_icon.png)  | Lane status |![lums board icon](./assets/LUMS_board_icon.png)               | LUMS board          |
     |![mms icon](./assets/MMS_icon.png)          |Multi message sign   | ||
 
- 4. **Markings** - This displays various lane markings.
+ 4. **Markings** - This displays various **lane markings**.
 
     *See [Road marking tools](/docs/rapidplan/the-tools-palette/road-tools/other-road-tools/road-marking-tools.md).*
 
@@ -63,7 +63,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |:---------------------------------------------------:|-----------------------|:---------------------------------------------------------:|---------------------|
     |![work area icon](./assets/Work_area_icon.png)          | Work area             |![safety zone icon](./assets/Safety_zone_icon.png)              | Safety zone         |
 
- 6. **Annotations** - This includes necessary annotation features for your plan such as a scale marker and a legend box.
+ 6. **Annotations** - This includes necessary annotation features for your plan such as a **scale marker** and a **legend** box.
 
     *See the annotation pages in [Devices, Markers and Annotations](/category/devices-markers-and-annotations).*
 

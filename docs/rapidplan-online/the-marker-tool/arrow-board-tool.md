@@ -7,9 +7,9 @@ tags:
 ---
 # Arrow Board Tool
 
-They come by many names, flashing arrow boards, sequential arrow boards, arrow trailers or even illuminated trailer mounted sequential flashing arrow systems. In RapidPlan Online they are referred to as Arrow Boards. They are simple to place and use and come with various configurations for the required site setting.
+They come by many names, flashing arrow boards, sequential arrow boards, arrow trailers or even illuminated trailer mounted sequential flashing arrow systems. In **RapidPlan Online** they are referred to as Arrow Boards. They are simple to place and use and come with various configurations for the required site setting.
 
-There are six different Arrow Board patterns available, as shown below.
+There are six different **Arrow Board** patterns available, as shown below.
 
 | Patterns                                   |         |                                               |            |
 | ------------------------------------------ | ------- | --------------------------------------------- | ---------- |
@@ -19,7 +19,7 @@ There are six different Arrow Board patterns available, as shown below.
 
 ## Placing an Arrow Board
 
-- Select the Arrow Board from the Devices tab in the Tools Palette;
+- Select the **Arrow Board** from the Devices tab in the **Tools Palette**;
 
 - Drop it into position on the plan;
 

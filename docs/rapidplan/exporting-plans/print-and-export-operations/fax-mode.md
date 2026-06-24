@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 6
 tags:
   - print-export
@@ -12,7 +12,7 @@ Fax mode converts plan content into a higher-contrast black-and-white version th
 | :--------: | :------: |
 | ![Images_in_Color](../assets/Images_in_Color.png) | ![Images_in_Fax_Mode](../assets/Images_in_Fax_Mode.png) |
 
-Toggle it with the color/fax mode button on the toolbar.
+Toggle it with the color/**fax mode** button on the toolbar.
 
 ![Toggle_Color-Fax_mode](../assets/Toggle_Color-Fax_mode.png)
 

@@ -6,18 +6,18 @@ tags:
 
 # What file formats are supported when importing to RapidPlan?
 
-RapidPlan supports several different import workflows, so the supported formats depend on what you are importing.
+**RapidPlan** supports several different import workflows, so the supported formats depend on what you are importing.
 
 ## Images
 
-For regular placed images, RapidPlan supports common formats such as:
+For regular placed images, **RapidPlan** supports common formats such as:
 
 - `BMP`
 - `GIF`
 - `JPEG`
 - `PNG`
 
-Use the **Image** tool from the Tools palette to place these on a plan.
+Use the **Image** tool from the **Tools palette** to place these on a plan.
 
 ## Spatial data and CAD
 
@@ -33,7 +33,7 @@ That workflow supports:
 
 ## Georeferenced imagery
 
-RapidPlan can also work with georeferenced imagery in dedicated workflows. See:
+**RapidPlan** can also work with georeferenced imagery in dedicated workflows. See:
 
 - [Georeferenced image import](/docs/rapidplan/integrated-mapping/importing/georeferenced-image-import.md)
 - [Georeferenced image export](/docs/rapidplan/exporting-plans/print-and-export-operations/georeferenced-image-export.md)

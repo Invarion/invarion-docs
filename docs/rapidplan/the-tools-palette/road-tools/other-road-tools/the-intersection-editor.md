@@ -12,15 +12,15 @@ The Intersections Editor tool can be used to create complex intersections with j
 
 ## Creating and Editing Intersections
 
-The Intersection tool is available from the Tools palette, in the Roads category. After selecting the tool, the first click positions the center of the intersection, then subsequent clicks add roads to the intersection. Once you've placed 3 or more roads, right-click to finish drawing, right-click again to release the tool, then click on the intersection to select it (TIP: alternatively, double-click when placing the last road - this will finish the drawing and select your object in one go).  
+The Intersection tool is available from the **Tools palette**, in the Roads category. After selecting the tool, the first click positions the center of the intersection, then subsequent clicks add roads to the intersection. Once you've placed 3 or more roads, right-click to finish drawing, right-click again to release the tool, then click on the intersection to select it (TIP: alternatively, double-click when placing the last road - this will finish the drawing and select your object in one go).
 
-When an intersection object is selected, Control Points are available to adjust the length and position of incoming roads, and the Intersection Editor panel is displayed - this is where you will be editing intersection elements. To change style of an incoming road, for example to change the number of lanes, select it in the editor list and its style options will be exposed in the Properties panel.  
+When an **intersection object** is selected, Control Points are available to adjust the length and position of incoming roads, and the **Intersection Editor** panel is displayed - this is where you will be editing intersection elements. To change style of an incoming road, for example to change the number of lanes, select it in the editor list and its style options will be exposed in the Properties panel.
 
  ![Selecting_intersection_tool](./assets/Selecting_intersection_tool.png)
 
 ## Adding and Selecting Intersection Elements
 
-Note the 4 icons at the top of the Intersection Editor panel - these can be used to switch between the available editor modes:
+Note the 4 icons at the top of the **Intersection Editor** panel - these can be used to switch between the available editor modes:
 
 - Road properties - adding and editing incoming roads,
 
@@ -34,7 +34,7 @@ To add an intersection element, switch to the required category and click one of
 
  ![Adding_intersection_elements](./assets/Adding_intersection_elements.png)
 
-Once an intersection element is added, it appears on the elements list in its category. You can select an intersection element directly from the list, or by holding the **Ctrl + Alt** keys and clicking on the required element of the intersection object. The selected element gets highlighted with a red outline. TIP: to select more than one element hold the **Ctrl** key when selecting from the editor list, or **Ctrl + Alt + Shift** when clicking on the intersection object.  
+Once an intersection element is added, it appears on the elements list in its category. You can select an intersection element directly from the list, or by holding the **Ctrl + Alt** keys and clicking on the required element of the **intersection object**. The selected element gets highlighted with a red outline. TIP: to select more than one element hold the **Ctrl** key when selecting from the editor list, or **Ctrl + Alt + Shift** when clicking on the **intersection object**.
 
  ![Selecting_intersection_elements](./assets/Selecting_intersection_elements.png)
 
@@ -55,7 +55,7 @@ but for some other road layouts it'll be important to understand the difference 
 
 ## Ungrouping Intersections
 
-The intersection editor is designed to assist in drawing typical intersections. If any additional adjustments are required for more complex intersection layouts, an intersection can be ungrouped, allowing all its elements to be freely edited (ungrouped elements become regular plan objects, exposing adjustable control points and properties). To ungroup, simply select an intersection and hit **Ctrl + U**.
+The intersection editor is designed to assist in drawing typical intersections. If any additional adjustments are required for more complex intersection layouts, an intersection can be ungrouped, allowing all its elements to be freely edited (ungrouped elements become regular plan objects, exposing adjustable **control points** and properties). To ungroup, simply select an intersection and hit **Ctrl + U**.
 
 Sometimes, instead of ungrouping the whole object, you might want to detach a specific element from the intersection. To achieve this, select one or more elements, right-click and select Edit intersection elements -> Detach from intersection. This will remove the elements from the intersection and replace them with identical object added directly to the plan. See an example below:
 
@@ -63,6 +63,6 @@ Sometimes, instead of ungrouping the whole object, you might want to detach a sp
 
 ## Connecting Incoming Roads
 
-The intersection object exposes control points at the end of each of its roads. These points can be snapped to when drawing a road object or adjusting control points of an existing road. Holding down the **Ctrl** key while snapping to intersection enables automatic road alignment - RapidPlan will automatically adjust the shape of the road so that it seamlessly merges with the intersection object.
+The **intersection object** exposes **control points** at the end of each of its roads. These points can be snapped to when drawing a **road object** or adjusting **control points** of an existing road. Holding down the **Ctrl** key while snapping to intersection enables automatic road alignment - **RapidPlan** will automatically adjust the shape of the road so that it seamlessly merges with the **intersection object**.
 
  ![Connecting_roads](./assets/Connecting_roads.png)

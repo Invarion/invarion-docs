@@ -1,4 +1,4 @@
-﻿---
+---
 
 sidebar_position: 1
 tags:
@@ -7,7 +7,7 @@ tags:
 ---
 # Accessing Your Account
 
-To access your account, head to the Invarion website and click "Account", as shown here.
+To access your account, head to the **Invarion website** and click "Account", as shown here.
 
 ![accounts section](./assets/accounts-section.jpg)
 
@@ -15,4 +15,4 @@ If you are a new customer - sign up for a new account.
 
 If you are an existing customer, login using your existing username and password.
 
-If you are a new user for our products but your company has subscriptions to our products, please contact your company administrator or our Technical Support team.
+If you are a new user for our products but your company has subscriptions to our products, please contact your **company administrator** or our **Technical Support** team.

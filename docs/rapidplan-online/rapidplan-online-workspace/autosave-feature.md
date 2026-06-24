@@ -18,7 +18,7 @@ There are three states of the saving process:
 | **Saving** | ![Saving](./Assets/ro-saving.jpg) | The file is saving to RapidPlan Cloud. It is recommended you don't exit the page while the plan is saving. |
 | **Up to Date**          | ![up to date](./Assets/ro-up-to-date.jpg)| Your plan is now saved. It is now safe to exit the page. |
 
-Panning across the map or changing plan location will not trigger the autosave function. You must draw or place an object on the canvas area to initial the autosave.
+Panning across the map or changing **plan location** will not trigger the autosave function. You must draw or place an object on the **canvas area** to initial the autosave.
 
 **Note** that by clicking on this icon you can learn details of the last saved version of your plan, how long it has been since a local backup has been created, as well as how many versions of the plan have been saved locally.
 You will also find a link to view the history of your [saved versions](/rapid-online/restoring-previous-version-of-the-plan/).

@@ -8,7 +8,7 @@ tags:
 ---
 # Road infrastructure tools
 
-These tools enable you to add infrastructure to your road plans. They can be found in the **Infrastructure** tab of the Tools Palette.
+These tools enable you to add infrastructure to your road plans. They can be found in the **Infrastructure** tab of the **Tools Palette**.
 
 ## The Train Tracks
 
@@ -16,7 +16,7 @@ The Train Tracks tool allows you to quickly add train or tram (light rail) lines
 
 **To place a train line:**
 
-- Select the **Train Tracks** tool from the Infrastructure tab in the Tools Palette
+- Select the **Train Tracks** tool from the Infrastructure tab in the **Tools Palette**
 - Click once to start your rail line.
 - Click at each turn point.
 - **Right click** to stop drawing.
@@ -34,17 +34,17 @@ The Crosswalk tool is a handy tool that creates crosswalks on roads, arcs, and r
 **To create a crosswalk:**
 
 - Draw your road
-- Select the **Crosswalk** tool from the Infrastructure tab in the Tools palette
+- Select the **Crosswalk** tool from the Infrastructure tab in the **Tools palette**
 - Place your cursor where you want the crosswalk to start and **Left click** your mouse once to start drawing
 - **Right click** to finish drawing
 
     ![Crosswalks](./assets/Crosswalks.png)
 
-Three different types of crosswalks have been created in the screen print above. Crosswalk type can be changed on the Properties palette.
+Three different types of crosswalks have been created in the screen print above. Crosswalk type can be changed on the **Properties palette**.
 
 ## Traffic Islands
 
-Learning how to create traffic islands/refuge points and center medians is important. There are two tools that you can use in RapidPlan to create them - the Polygon tool and the island tool.
+Learning how to create traffic islands/refuge points and center medians is important. There are two tools that you can use in **RapidPlan** to create them - the Polygon tool and the island tool.
 
 **Islands with the Polygon:**
 
@@ -77,34 +77,34 @@ There are two main differences between using the polygon and Island tool:
 
 **Note that you should never start your island on a steep corner point (anything greater than about 45 degrees). This is because it can cause the shoulder lines to cross over.**
 
-The technique for creating control points is simple but requires some practice.
+The technique for creating **control points** is simple but requires some practice.
 
 **To create a curved island:**
 
 - Draw your island as normal
 - Ensure your cursor is clear of the Island Tool by **Right clicking**
 - Now select the Island that you've drawn by clicking on it once
-- Move your cursor over the control point that you wish to curve and hold down the **Ctrl** button on the keyboard. The control points will then turn from red to blue and display curve handles
-- Drag the curve handles out (away from the control point) to increase the radius of the curve until you are happy with the islands shape
+- Move your cursor over the **control point** that you wish to curve and hold down the **Ctrl** button on the keyboard. The **control points** will then turn from red to blue and display curve handles
+- Drag the curve handles out (away from the **control point**) to increase the radius of the curve until you are happy with the islands shape
 
     ![Curving_Island](./assets/Curving_Island.png)
 
 ## The Bicycle Lane Tool
 
-The Bike Lane tool works similarly to tools like the Polyline and the Road tool. The bike image can be changed from a Standard (as shown below) to a Shared lane symbol in Properties.
+The Bike Lane tool works similarly to tools like the Polyline and the **Road tool**. The bike image can be changed from a Standard (as shown below) to a Shared lane symbol in Properties.
 
 ![Bike_Lanes_on_a_Road](./assets/Bike_Lanes_on_a_Road.png)
 
 **To place the bike lane:**
 
-- Select the **Bike Lane** tool from the Infrastructure tab in the Tools Palette.
+- Select the **Bike Lane** tool from the Infrastructure tab in the **Tools Palette**.
 - Click to start the bike lane.
-- Hold **Shift** to create a straight lane, or click to create control points to adjust the lane's shape.
+- Hold **Shift** to create a straight lane, or click to create **control points** to adjust the lane's shape.
 - **Right click** to finish.
 
 ## The Parking Bay Tool
 
-This tool makes it simple to add parking bays to your plan. In the items Properties Palette you have a selection of Parking styles. As you can see below, they include sides & corners, full, sides, and corners.
+This tool makes it simple to add parking bays to your plan. In the items **Properties Palette** you have a selection of Parking styles. As you can see below, they include sides & corners, full, sides, and corners.
 
 |Parking Bay type options                   |Parking Bays along a road                      |
 |:-----------------------------------------:|:---------------------------------------------:|
@@ -112,13 +112,13 @@ This tool makes it simple to add parking bays to your plan. In the items Propert
 
 **To place a parking bay:**
 
-- Select the **Parking Bay** tool from the Infrastructure tab in the Tools Palette.
+- Select the **Parking Bay** tool from the Infrastructure tab in the **Tools Palette**.
 - Click at the first corner and drag out a line (hold **Shift** to keep straight).
 - Click again to make the second corner then drag the parking bays out to make their full shape.
 - Click a third time to complete it, and **Right click** to finish.
 
 ## The Sidewalk Tool
 
-The **Sidewalk** tool is used like any **Polyline** tool. In the example below, you can see that the Road tool's sidewalk and the Sidewalk tool's sidewalk are visually the same, however, you have more control over the Sidewalk tool as it is an individual item, such as putting a sidewalk through a grassy patch like in the example below.
+The **Sidewalk** tool is used like any **Polyline** tool. In the example below, you can see that the **Road tool**'s sidewalk and the Sidewalk tool's sidewalk are visually the same, however, you have more control over the Sidewalk tool as it is an individual item, such as putting a sidewalk through a grassy patch like in the example below.
 
 ![The_Sidewalk_Tool_vs_the_Road_Tool_Sidewalk](./assets/The_Sidewalk_Tool_vs_the_Road_Tool_Sidewalk.png)

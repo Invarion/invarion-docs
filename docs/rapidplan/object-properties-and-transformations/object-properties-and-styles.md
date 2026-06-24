@@ -10,7 +10,7 @@ tags:
 
 ## Properties
 
-An important feature accessed through selecting an object is editing the object's properties. Every single object in RapidPlan has a set of Properties which determine how that object appears on the canvas, that can be viewed and altered from the Properties [Palette](/docs/rapidplan/the-rapidplan-screen/your-workspace.md).
+An important feature accessed through selecting an object is editing the object's properties. Every single object in **RapidPlan** has a set of Properties which determine how that object appears on the canvas, that can be viewed and altered from the Properties [Palette](/docs/rapidplan/the-rapidplan-screen/your-workspace.md).
 
 ![the properties palette](./assets/The-Properties-Palette.png)
 
@@ -46,7 +46,7 @@ We can also set a **default style**, so that the next time you use that object, 
 
 ### Setting a Style
 
-Once you have a altered the properties of an object on the Canvas Area, with the object selected you will see the two icons pictured below:
+Once you have a altered the properties of an object on the **Canvas Area**, with the object selected you will see the two icons pictured below:
 
 ![styles buttons](./assets/styles-eg.jpg)
 
@@ -55,7 +55,7 @@ Once you have a altered the properties of an object on the Canvas Area, with the
 ![set style](./assets/set-style.png)
 
 - **Save as Default Style** will without further input set that style to default.
-- **Reset Default Style** will reset the default style for that object type to the bedrock, original default default that RapidPlan came with.
+- **Reset Default Style** will reset the default style for that object type to the bedrock, original default default that **RapidPlan** came with.
 - **Save as New Style** will open the **Object Styles dialog window**:
 
 The **Styles Dialog Window** pictured below is used for saving new styles, and updating/managing existing ones.
@@ -69,9 +69,9 @@ It can be vertically divided into two sections:
 
 ### Applying an existing style
 
-**To apply a style to an existing object:** With the object selected, in the Properties palette click the button on the left in the Styles section. A list of all styles for that object will appear, and you can simply click the style you need.
+**To apply a style to an existing object:** With the object selected, in the **Properties palette** click the button on the left in the Styles section. A list of all styles for that object will appear, and you can simply click the style you need.
 
-**To select a style that you'll use to create a new object:** Find the object you plan to create in the Tools Palette (hover over the category of object and find the object in the drop down menu), right-click the object and find the preferred style under the 'Use Style' heading. Select this, and then then begin placing the control points of your object as you normally would.
+**To select a style that you'll use to create a new object:** Find the object you plan to create in the **Tools Palette** (hover over the category of object and find the object in the drop down menu), right-click the object and find the preferred style under the 'Use Style' heading. Select this, and then then begin placing the **control points** of your object as you normally would.
 
 ### Altering and managing existing styles
 

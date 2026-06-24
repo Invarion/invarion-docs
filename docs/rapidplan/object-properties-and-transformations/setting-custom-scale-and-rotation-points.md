@@ -15,7 +15,7 @@ tags:
 - **Right click** on an object > Transform > Scale.
 - Select either Scale from Center, or Select Scale Point.
 
-Once you do this, a red control point will appear for that object. This can be dragged to any point in relation to the object, even to points outside of it.
+Once you do this, a red **control point** will appear for that object. This can be dragged to any point in relation to the object, even to points outside of it.
 Wherever that point is in relation to the object will remain constant while resizing.
 
 Note that the point will disengage if you deselect the object and select it again.
