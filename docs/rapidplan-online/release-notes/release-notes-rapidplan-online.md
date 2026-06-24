@@ -5,6 +5,7 @@
 ### Bug fixes
 
 - Fixed an issue where plans could fail to save after adding certain SVG objects from the Scratchpad.
+- Fixed an issue where opacity settings for grouped objects could be lost or displayed incorrectly.
 
 ## May 2026
 
