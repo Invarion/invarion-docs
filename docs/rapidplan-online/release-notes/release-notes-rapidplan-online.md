@@ -5,6 +5,7 @@
 ### Bug fixes
 
 - Fixed an issue where placing certain Scratchpad items, including SVG-based objects, could cause plan saving to fail.
+- Restored the temporary guide line shown while drawing arc-based objects.
 
 ## May 2026
 
