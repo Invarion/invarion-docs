@@ -1,5 +1,11 @@
 # Release Notes
 
+## June 2026
+
+### Bug fixes
+
+- Fixed an issue where placing certain Scratchpad items, including SVG-based objects, could cause plan saving to fail.
+
 ## May 2026
 
 - Fixed an issue where plans with a bearing value other than **0** could display differently in preview and export.
@@ -437,7 +443,7 @@ One can now resize the size of the box, thus having a multi-column layout.
 
 ### Default paper sizes based on user's country
 
-Default paper size in print dialog is selected based on the user license country.
+Default paper size in print dialog is selected based on user license country.
 
 ### New feature: Object Styles
 
