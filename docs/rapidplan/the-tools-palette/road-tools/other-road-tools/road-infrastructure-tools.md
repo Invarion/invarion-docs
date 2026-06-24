@@ -44,7 +44,7 @@ Three different types of crosswalks have been created in the screen print above.
 
 ## Traffic Islands
 
-Learning how to create traffic islands/refuge points and center medians is important. There are two tools that you can use in **RapidPlan** to create them - the Polygon tool and the island tool.
+Learning how to create traffic islands/refuge points and center medians is important. There are two tools that you can use in RapidPlan to create them - the Polygon tool and the island tool.
 
 **Islands with the Polygon:**
 

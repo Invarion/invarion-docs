@@ -7,7 +7,7 @@ tags:
 ---
 # Using Mobile Devices
 
-**RapidPlan Online** can be used on any mobile device that has an web browser. The application will simply adjust the screen to fit, based on the device you are using.
+RapidPlan Online can be used on any mobile device that has an web browser. The application will simply adjust the screen to fit, based on the device you are using.
 
 ## Creating objects
 

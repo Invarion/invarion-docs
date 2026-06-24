@@ -8,7 +8,7 @@ tags:
 ---
 # Using the Vehicle Library
 
-To open the **RapidPath** **Vehicle Library** you need to select the Vehicle tool from the **Tools Palette**.
+To open the RapidPath **Vehicle Library** you need to select the Vehicle tool from the **Tools Palette**.
 
 ![Swept Path tool in Tools Palette](./images/Swept_Path_tool_in_Tools_Palette.png)
 

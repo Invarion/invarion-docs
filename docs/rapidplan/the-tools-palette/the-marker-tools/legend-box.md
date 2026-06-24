@@ -27,6 +27,6 @@ In the example below, a delineator has been set to **True**, so it will appear i
 
 ## Changing the Legend's Properties
 
-Like any other item in **RapidPlan**, the Legend can be customized through the **Properties Palette**, including title, size, color, etc. as you can see below.
+Like any other item in RapidPlan, the Legend can be customized through the **Properties Palette**, including title, size, color, etc. as you can see below.
 
 ![Legend_Box_Properties](./assets/Legend_Box_Properties.png)

@@ -5,9 +5,9 @@ sidebar_position: 4
 ---
 # Shared RapidPlan Online Docs
 
-**RapidPath** Online shares many cloud, **workspace**, drawing, plan management, mapping, export, and general plan-editing tools with **RapidPlan Online**.
+RapidPath Online shares many cloud, **workspace**, drawing, plan management, mapping, export, and general plan-editing tools with RapidPlan Online.
 
-The links below open the relevant **RapidPlan Online** documentation sections. Use them for functionality that is not specific to **swept path analysis**.
+The links below open the relevant RapidPlan Online documentation sections. Use them for functionality that is not specific to **swept path analysis**.
 
 - [Getting Started](/category/getting-started)
 - [The Invarion Cloud](/category/the-invarion-cloud)

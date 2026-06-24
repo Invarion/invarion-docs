@@ -7,7 +7,7 @@ tags:
 ---
 # Cloud plan file size management
 
-When editing a cloud plan in **RapidPlan**, you might notice an indicator in the **Cloud Plan Details** dialog box (accessed by clicking ![IC icon](./assets/ic-icon.png) button in the top-right of [Application toolbars](/docs/rapidplan/workspace-navigation/application-toolbars.md)), displaying what percentage of the potential size of a plan has been used.
+When editing a cloud plan in RapidPlan, you might notice an indicator in the **Cloud Plan Details** dialog box (accessed by clicking ![IC icon](./assets/ic-icon.png) button in the top-right of [Application toolbars](/docs/rapidplan/workspace-navigation/application-toolbars.md)), displaying what percentage of the potential size of a plan has been used.
 
 ![storage space](./assets/ic-file-size.png)
 
@@ -20,7 +20,7 @@ However this is most often not necessary, as it is likely that your file's size 
 
 The dominant factor that determines a plan's file size is the images that are placed on the plan. Therefore, by controlling the size of these images, a plan's file size can be reduced.
 
-A common contributing factor is that if you start with a large image and then resize it in **RapidPlan**, this will not in turn reduce the file size of that image in your plan.<br />For example, in the image below I have duplicated the larger image before reducing the size on canvas of one copy - both of these without modification will occupy the same amount of storage space.
+A common contributing factor is that if you start with a large image and then resize it in RapidPlan, this will not in turn reduce the file size of that image in your plan.<br />For example, in the image below I have duplicated the larger image before reducing the size on canvas of one copy - both of these without modification will occupy the same amount of storage space.
 
 ![size eg](./assets/import-size-eg.png)
 

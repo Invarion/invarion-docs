@@ -9,7 +9,7 @@ tags:
 
 ## Home
 
-When you first open the **Invarion Cloud**, the Home section is where you land. Here you can see your recently created/modified plans but also plans that have been shared to you recently. Home is divided into three parts:
+When you first open the Invarion Cloud, the Home section is where you land. Here you can see your recently created/modified plans but also plans that have been shared to you recently. Home is divided into three parts:
 
 - **Quick Access** - most recently created, modified or shared to you plans.
 - **This Week** - plans that were active this week.
@@ -30,7 +30,7 @@ All Plans is an special section that shows all plans that you have access to. Th
 
 ## Shared with Me
 
-In this section you can see all the plans that were shared with you by other **RapidPlan Online** users.
+In this section you can see all the plans that were shared with you by other RapidPlan Online users.
 
 ![Shared With Me](./assets/Shared_With_Me.png)
 

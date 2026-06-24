@@ -10,7 +10,7 @@ tags:
 
 ## Properties
 
-An important feature accessed through selecting an object is editing the object's properties. Every single object in **RapidPlan** has a set of Properties which determine how that object appears on the canvas, that can be viewed and altered from the Properties [Palette](/docs/rapidplan/the-rapidplan-screen/your-workspace.md).
+An important feature accessed through selecting an object is editing the object's properties. Every single object in RapidPlan has a set of Properties which determine how that object appears on the canvas, that can be viewed and altered from the Properties [Palette](/docs/rapidplan/the-rapidplan-screen/your-workspace.md).
 
 ![the properties palette](./assets/The-Properties-Palette.png)
 
@@ -55,7 +55,7 @@ Once you have a altered the properties of an object on the **Canvas Area**, with
 ![set style](./assets/set-style.png)
 
 - **Save as Default Style** will without further input set that style to default.
-- **Reset Default Style** will reset the default style for that object type to the bedrock, original default default that **RapidPlan** came with.
+- **Reset Default Style** will reset the default style for that object type to the bedrock, original default default that RapidPlan came with.
 - **Save as New Style** will open the **Object Styles dialog window**:
 
 The **Styles Dialog Window** pictured below is used for saving new styles, and updating/managing existing ones.

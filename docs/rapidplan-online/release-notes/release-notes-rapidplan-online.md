@@ -24,12 +24,12 @@
 
 ## December 2025
 
-- **Invarion Cloud** now allows you to export **manifest** data from a plan directly to PDF. To use this feature, open the plan details tab and click the button next to the **Manifest data** row.
+- Invarion Cloud now allows you to export **manifest** data from a plan directly to PDF. To use this feature, open the plan details tab and click the button next to the **Manifest data** row.
 
 ## July 2025
 
 - Marked path tool has now a **Tails** model. It allows you to draw a path made of many arrows.
-- **Invarion Cloud** now allows you to download many plans at once. You can enter 'Select many' mode and select multiple plans to download them.
+- Invarion Cloud now allows you to download many plans at once. You can enter 'Select many' mode and select multiple plans to download them.
 - Improve map view. Now map view works the same way as table view. You see the same plans as in the table view, but in a map format.
 
 ### Bug fixes
@@ -43,7 +43,7 @@
 - Plan name is now shown on page title.
 - Map provider can be changed on read-only plans.
 - Job start and job end dates use range picker for date selection.
-- Add filter for plans in the **Invarion Cloud**. You can filter plans by name, job start date, job end date.
+- Add filter for plans in the Invarion Cloud. You can filter plans by name, job start date, job end date.
 
 ### Bug fixes
 
@@ -51,11 +51,11 @@
 
 ## May 2025
 
-- **Invarion Cloud**: **Job start** and **Job end** dates are now displayed in the plan's side panel and table view. You can sort plans by these dates in the **Invarion Cloud**.
+- Invarion Cloud: **Job start** and **Job end** dates are now displayed in the plan's side panel and table view. You can sort plans by these dates in the Invarion Cloud.
 
 ### Bug fixes
 
-- Fix bug when one file could be uploaded twice to the **Invarion Cloud**.
+- Fix bug when one file could be uploaded twice to the Invarion Cloud.
 
 ## April 2025
 
@@ -63,9 +63,9 @@
 
 ### Bug fixes
 
-- Right panel stays open when user restores plan from trash on **Invarion Cloud**.
-- Correct error message is shown when uploading a large plan to **Invarion Cloud**.
-- Fix error when right panel stays open when user moves a folder to trash on **Invarion Cloud**.
+- Right panel stays open when user restores plan from trash on Invarion Cloud.
+- Correct error message is shown when uploading a large plan to Invarion Cloud.
+- Fix error when right panel stays open when user moves a folder to trash on Invarion Cloud.
 
 ## March 2025
 
@@ -84,12 +84,12 @@ Fix bug when a user with read-only access could not add a comment to a plan.
 A notification in the corner of a users screen will display if a plan's size exceeds 25mb, including details on how to effectively reduce a file's size in the
 [Autosave Notification Panel](/docs/rapidplan-online/rapidplan-online-workspace/autosave-feature.md).
 
-When uploading a plan that contains broken objects, the **Invarion Cloud** will try to fix them.<br />A warning message is shown when this situation arises.
+When uploading a plan that contains broken objects, the Invarion Cloud will try to fix them.<br />A warning message is shown when this situation arises.
 
 ### Bug fixes
 
 - An issue with Signs and Multi-Message Signs not appearing correctly in the Legend and Manifest during **PDF export** has been resolved.
-- Resolved issue that prevented folders from being restored from Trash when deleted in the **Invarion Cloud**.
+- Resolved issue that prevented folders from being restored from Trash when deleted in the Invarion Cloud.
 
 ## November 2024
 
@@ -111,7 +111,7 @@ When uploading a plan that contains broken objects, the **Invarion Cloud** will 
 
 ### New feature: Tips and Tricks screen
 
-**RapidPlan Online** or **RapidPath** Online shows a Tips and Tricks screen upon loading a plan. This screen provides demonstrations of different tools and features available in the application.
+RapidPlan Online or RapidPath Online shows a Tips and Tricks screen upon loading a plan. This screen provides demonstrations of different tools and features available in the application.
 
 ### New feature: Highlight object on hover
 
@@ -119,11 +119,11 @@ When hovering over an object, it will be highlighted with a border.
 
 ### New feature: Drag and drop plans between files
 
-Plans in the **Invarion Cloud** can now be clicked and dragged into a different folder (found in the left panel).
+Plans in the Invarion Cloud can now be clicked and dragged into a different folder (found in the left panel).
 
 ### Bug fixe
 
-- Plans created while a certain folder is open in the **Invarion Cloud** will now be initially stored in the open folder.
+- Plans created while a certain folder is open in the Invarion Cloud will now be initially stored in the open folder.
 
 ## September 2024
 
@@ -221,7 +221,7 @@ Small rotation degree indicator is shown when an object is being rotated.
 ### Bug fixes
 
 - Correct values now shown for Hatch Spacing and Thickness in the property grid for the objects with fill property.
-- **Invarion Cloud**: fix bug when uploading a plan when Shared With Me section is active causes this plan to show up in the section. (It's only UI problem, the actual **plan location** was correct).
+- Invarion Cloud: fix bug when uploading a plan when Shared With Me section is active causes this plan to show up in the section. (It's only UI problem, the actual **plan location** was correct).
 - Proper handling of **Right click** on **control point**.
 - Resolved incorrect zooming in print preview dialog.
 - Fix cursor type when dragging append **control point** handle.
@@ -282,7 +282,7 @@ QR Code creation modal has a button which allows to create **public link** to th
 - Fixed when selecting multiple signs the property panel shows incorrect value for `Code`.
 - Fix problem when objects are snapped to **Print Regions** even if they are invisible.
 - Exported plans now respect updates in Print dialog.
-- **Right clicking** when context menu has been opened now opens **RapidPlan Online** menu rather than native browser context menu.
+- **Right clicking** when context menu has been opened now opens RapidPlan Online menu rather than native browser context menu.
 - **Scratchpad** preview issue on mobile devices resolved.
 - Code property of sign issue when selecting multiple signs resolved.
 - Job Start/Job End dates can be emptied. New plan start with empty start and end job dates.
@@ -297,11 +297,11 @@ It now clearly indicates that you are placing **control points**.
 
 ### Folder uploading
 
-Upload an entire folder of plans into the **Invarion Cloud**.
+Upload an entire folder of plans into the Invarion Cloud.
 
 ### Plan sharing link management improvement
 
-One can manage a plan's **public link** directly in its side panel menu in the **Invarion Cloud**.
+One can manage a plan's **public link** directly in its side panel menu in the Invarion Cloud.
 
 ### New tool: QR Code
 
@@ -379,7 +379,7 @@ Click Open Street view to view Google Street View in a new tab.
 
 - Fix bug when incorrect map type is selected during switching between map providers.
 - Multi message sign tools now is shown only in Australia (because it's only used in Australia).
-- Fix `Shared with me` section when Map view is selected in **Invarion Cloud**.
+- Fix `Shared with me` section when Map view is selected in Invarion Cloud.
 - Fix bug when location search panel works incorrectly when user changes **plan location** multiple times.
 - Add confirmation dialog when user tries to create a style with the same name as existing style.
 
@@ -419,7 +419,7 @@ One can now apply style to many objects in the selection if those objects are of
 
 An interactive onboarding tutorial has been added for new users.
 
-Pre-existing users also can see it through the main menu of **RapidPlan Online**.
+Pre-existing users also can see it through the main menu of RapidPlan Online.
 
 ### Android devices have 'Download PDF' button instead of preview in print dialog
 
@@ -497,7 +497,7 @@ Allows you to draw an arrowed path to indicate the direction of travel of someth
 
 ### Update manual links
 
-Update manual links in the application menu to point to different manuals for **RapidPlan Online** and **RapidPath** Online.
+Update manual links in the application menu to point to different manuals for RapidPlan Online and RapidPath Online.
 
 ### Improved progress bar on application startup
 
@@ -545,7 +545,7 @@ Add text with an arrow pointing to a specific location on the map.
 ### Improve user experience on iPhones
 
 - Implemented 'Add To Home Screen' functionality for mobile devices
-- Added 'Home' page which opens when you open **RapidPlan Online** from Home screen of mobile device.
+- Added 'Home' page which opens when you open RapidPlan Online from Home screen of mobile device.
 - Focus on input fields on iPhones no longer triggers zooming in.
 - Added +/- buttons into Transform -> Custom panel input fields for touch devices so that one can change the value without using virtual keyboard.
 

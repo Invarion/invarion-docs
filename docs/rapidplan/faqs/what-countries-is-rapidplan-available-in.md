@@ -7,7 +7,7 @@ tags:
 ---
 # What countries is RapidPlan available in?
 
-**RapidPlan** is currently available in the following countries. Each country version includes all up-to-date traffic signage and templates (standard setups) available for that region. For more information, contact our [sales team](https://invarion.com/contact).
+RapidPlan is currently available in the following countries. Each country version includes all up-to-date traffic signage and templates (standard setups) available for that region. For more information, contact our [sales team](https://invarion.com/contact).
 
  **Africa**
         -Morocco

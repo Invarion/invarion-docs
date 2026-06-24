@@ -8,7 +8,7 @@ tags:
 ---
 # Bezier tools
 
-One of the trickier techniques to master in **RapidPlan** is the drawing of a Bezier. Beziers offer a powerful way to create curves with great precision.
+One of the trickier techniques to master in RapidPlan is the drawing of a Bezier. Beziers offer a powerful way to create curves with great precision.
 
 There are two components of a Bezier curve:
 

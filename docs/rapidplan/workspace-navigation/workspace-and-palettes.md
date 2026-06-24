@@ -9,9 +9,9 @@ tags:
 
 For the purpose of this explanation we will be using the **New Default Plan** in the following section
 
-Before you get started with **RapidPlan**, you should probably get to know your way around the main screen. It has been designed to be intuitive, easy to follow and to allow you the maximum available working space to create your traffic plan.
+Before you get started with RapidPlan, you should probably get to know your way around the main screen. It has been designed to be intuitive, easy to follow and to allow you the maximum available working space to create your traffic plan.
 
-There are three main components of the **RapidPlan** **workspace**:
+There are three main components of the RapidPlan **workspace**:
 
 - The toolbar
 - The palettes

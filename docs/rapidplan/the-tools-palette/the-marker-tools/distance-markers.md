@@ -79,7 +79,7 @@ This tool enables you to show angle degrees on your plan.
 
     ![Placing_the_Angle_Marker](./assets/Placing_the_Angle_Marker.png)
 
-    **Note:** Like any item in **RapidPlan**, the angle marker, once made, can be moved and adjusted, with the degrees changing accordingly.
+    **Note:** Like any item in RapidPlan, the angle marker, once made, can be moved and adjusted, with the degrees changing accordingly.
 
 ### The Area Marker Tool
 

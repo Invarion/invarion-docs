@@ -7,19 +7,19 @@ tags:
 ---
 # Organising Invarion Cloud
 
-The **Invarion Cloud** can be opened by clicking **Browse Invarion Cloud** on the [Home screen](/docs/rapidplan/the-home-screen-and-starting-a-plan/home-screen.md), or the button by the same name in [Application toolbars](/docs/rapidplan/workspace-navigation/application-toolbars.md) under *File*.
+The Invarion Cloud can be opened by clicking **Browse Invarion Cloud** on the [Home screen](/docs/rapidplan/the-home-screen-and-starting-a-plan/home-screen.md), or the button by the same name in [Application toolbars](/docs/rapidplan/workspace-navigation/application-toolbars.md) under *File*.
 
-Here we will discuss how to sort, view and arrange plans in the **Invarion Cloud**.
+Here we will discuss how to sort, view and arrange plans in the Invarion Cloud.
 
 ## The Invarion Cloud Layout
 
-The **Invarion Cloud** screen will display in a new tab within **RapidPlan**, as seen below.
+The Invarion Cloud screen will display in a new tab within RapidPlan, as seen below.
 
 ![IC homescreen](./assets/ic-home-overview.jpg)
 
 ## Invarion Cloud file tree
 
-A file tree is visible on the left side of the **Invarion Cloud** page:
+A file tree is visible on the left side of the Invarion Cloud page:
 
 |**File Tree Heading**|**Details**|
 |-|-|

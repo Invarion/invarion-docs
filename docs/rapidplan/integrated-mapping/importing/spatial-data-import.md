@@ -7,7 +7,7 @@ tags:
 
 # Spatial data import
 
-**RapidPlan** 4.4 replaced the older separate KML, Shapefile, and CAD import workflows with a unified **Spatial Data Import** tool.
+RapidPlan 4.4 replaced the older separate KML, Shapefile, and CAD import workflows with a unified **Spatial Data Import** tool.
 
 Use it when you want to preview spatial data over your plan before importing it.
 
@@ -30,7 +30,7 @@ You can start the workflow in any of these ways:
 
 - **Tools** > **Import** > **Spatial Data**
 - the **Add Import Provider** action in the import window
-- drag and drop a supported file onto **RapidPlan**
+- drag and drop a supported file onto RapidPlan
 
 ## How the workflow works
 
@@ -79,7 +79,7 @@ This makes it easier to:
 
 ## What gets imported
 
-Depending on the source data, **RapidPlan** can import:
+Depending on the source data, RapidPlan can import:
 
 - point data
 - lines and paths

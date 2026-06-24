@@ -14,9 +14,9 @@ hide_title: true
 
 The import workflow for spatial data has been redesigned and consolidated into a single interface - the Spatial Data Import tool.
 
-ArcGIS support was added, allowing **RapidPlan** to connect to ArcGIS Feature Services. Individual ArcGIS layers can be selected and added as data providers in the new import tool, where their data can be previewed over the current plan and imported to it. For more details on specific services you can access, see related article on [Finding ArcGIS Feature Services](/docs/rapidplan/integrated-mapping/importing/finding-arcgis-feature-services.md).
+ArcGIS support was added, allowing RapidPlan to connect to ArcGIS Feature Services. Individual ArcGIS layers can be selected and added as data providers in the new import tool, where their data can be previewed over the current plan and imported to it. For more details on specific services you can access, see related article on [Finding ArcGIS Feature Services](/docs/rapidplan/integrated-mapping/importing/finding-arcgis-feature-services.md).
 
-**RapidPlan** continues to support CAD, KML and Shapefile formats - such files can now be added as providers in the Spatial Data Import tool.
+RapidPlan continues to support CAD, KML and Shapefile formats - such files can now be added as providers in the Spatial Data Import tool.
 
 Multiple providers of all supported formats can be added at the same time, providing a flexible way to combine their data and import it to your plans.
 
@@ -24,7 +24,7 @@ Multiple providers of all supported formats can be added at the same time, provi
 
 ![custom service base maps](./assets/custom_service.png)
 
-WMTS support is now available in **RapidPlan**. To use a WMTS service as the basemap layer and for importing aerial photos, simply select the Custom Service map provider and specify the service URL. **RapidPlan** will automatically detect and display all compatible configurations available from the service.
+WMTS support is now available in RapidPlan. To use a WMTS service as the basemap layer and for importing aerial photos, simply select the Custom Service map provider and specify the service URL. RapidPlan will automatically detect and display all compatible configurations available from the service.
 
 The Custom Service map provider supports both WMTS and ArcGIS MapServer services, replacing the previous Custom ArcGIS Service provider and allowing different service types to be configured through a single interface.
 
@@ -32,9 +32,9 @@ Compatible tiled map services need to use the Web Mercator coordinate reference 
 
 ### More Changes
 
-**TCR Integration** - **RapidPlan** can now connect to TCR jobs, use job information in plan properties and text variables, and attach exported plans to jobs as images or PDFs. Contact us for more information about this integration.
+**TCR Integration** - RapidPlan can now connect to TCR jobs, use job information in plan properties and text variables, and attach exported plans to jobs as images or PDFs. Contact us for more information about this integration.
 
-**Cloud Forward Compatibility for Local Plans** - Local plans created in newer **RapidPlan** versions can now be opened more easily in older installed versions. When needed, **RapidPlan** can upload the plan to the Cloud and convert it into a format compatible with the installed application version.
+**Cloud Forward Compatibility for Local Plans** - Local plans created in newer RapidPlan versions can now be opened more easily in older installed versions. When needed, RapidPlan can upload the plan to the Cloud and convert it into a format compatible with the installed application version.
 
 **Other Improvements** - Several usability and workflow enhancements have been made across the application, including improvements to multi-window workflows, custom symbol management, and moving objects between layers and stages.
 
@@ -74,13 +74,13 @@ This update makes it easier to reuse standardized symbols across different objec
 
 ![running multiple instances](./assets/multiple_instances.png)
 
-Multiple **RapidPlan** instances can now run on the same machine, allowing parallel work with multiple plans or workflows.
+Multiple RapidPlan instances can now run on the same machine, allowing parallel work with multiple plans or workflows.
 
 A new instance can be started in the following ways:
-- New window (Ctrl + Alt + N) â€“ Available in the File section of the main menu. Opens a new, empty **RapidPlan** window.
+- New window (Ctrl + Alt + N) â€“ Available in the File section of the main menu. Opens a new, empty RapidPlan window.
 - Open in new Window â€“ Available from a planâ€™s context menu. Opens the selected plan in a separate window (the plan must be saved).
 
-Additionally, saved open plans can be dragged and dropped into a new **RapidPlan** window using a dedicated drag handle.
+Additionally, saved open plans can be dragged and dropped into a new RapidPlan window using a dedicated drag handle.
 
 ### Print Region sorting
 
@@ -130,25 +130,25 @@ View box is the zoomed view of plan content within the source region.
 
 ![cad export](./assets/cad_export.png)
 
-Following the success of the new CAD Import functionality added in the previous release, **RapidPlan** 4.2 now lets you close the loop and export traffic control plans to CAD files (DXF or DWG format). Modelspace and paperspace are both supported, for your worksite drawings and print frame contents respectively. Georeferencing options allow you adjust the spatial reference and make sure the data exported from **RapidPath** can be easily integrated with your existing CAD files.
+Following the success of the new CAD Import functionality added in the previous release, RapidPlan 4.2 now lets you close the loop and export traffic control plans to CAD files (DXF or DWG format). Modelspace and paperspace are both supported, for your worksite drawings and print frame contents respectively. Georeferencing options allow you adjust the spatial reference and make sure the data exported from RapidPath can be easily integrated with your existing CAD files.
 
 ### Google Road Level Details
 
 ![road level detail](./assets/road_level_detail.png)
 
-Google's new Road Level Details view is now available in **RapidPlan** with the Google Roadmap basemap provider. In selected locations around the world, you can now zoom in to reveal an extraordinary level of road details - curb geometries, turn lanes, **lane markings**, pedestrian crossings and more. NOTE: subject to Google data availability at specific locations.
+Google's new Road Level Details view is now available in RapidPlan with the Google Roadmap basemap provider. In selected locations around the world, you can now zoom in to reveal an extraordinary level of road details - curb geometries, turn lanes, **lane markings**, pedestrian crossings and more. NOTE: subject to Google data availability at specific locations.
 
 ### Adjustable Google annotations
 
 ![annotation styles](./assets/annotation_styles.png)
 
-With **RapidPlan** 4.2, you control what you see on your basemap. Both Google Roadmap and Google Satellite providers now come with an adjustable level of annotations. Select None if you want just want the plain map, Light for road names and public transport locations, or Full to see all Google map labels, including marked places of interest.
+With RapidPlan 4.2, you control what you see on your basemap. Both Google Roadmap and Google Satellite providers now come with an adjustable level of annotations. Select None if you want just want the plain map, Light for road names and public transport locations, or Full to see all Google map labels, including marked places of interest.
 
 ### Plan comments with locations
 
 ![location comments](./assets/location_comments.png)
 
-For plans stored in the **Invarion Cloud**, you can now annotate specific locations with comments. This will come handy when collaborating on shared plans: reviewing, asking for adjustments or highlighting potential site risks to planners. Additionally the feature comes with comment threads, responses and marking specific issues as resolved.
+For plans stored in the Invarion Cloud, you can now annotate specific locations with comments. This will come handy when collaborating on shared plans: reviewing, asking for adjustments or highlighting potential site risks to planners. Additionally the feature comes with comment threads, responses and marking specific issues as resolved.
 
 ### More changes
 
@@ -158,7 +158,7 @@ For plans stored in the **Invarion Cloud**, you can now annotate specific locati
 
 **New Crosswalk type: Ladder** - The Ladder Crosswalk style is now natively supported without having to draw the outer edges manually.
 
-**Advanced web proxy settings** - The 4.2 release makes **RapidPlan** fully compatible with the new web proxy settings available in the current version of the **Invarion Launcher**.
+**Advanced web proxy settings** - The 4.2 release makes RapidPlan fully compatible with the new web proxy settings available in the current version of the Invarion Launcher.
 
 
 ## RapidPlan 4.1
@@ -169,7 +169,7 @@ For plans stored in the **Invarion Cloud**, you can now annotate specific locati
 
 ![geocad](./assets/geocad.png)
 
-CAD Import has been integrated into **RapidPlan**'s georeferenced import tool (previously used for KML/SHP files only), allowing you to seamlessly integrate CAD road layouts with georeferenced traffic control plans. All EPSG spatial projections are supported, with CAD data reprojected on the fly for instant overlay over your TCP basemap.
+CAD Import has been integrated into RapidPlan's georeferenced import tool (previously used for KML/SHP files only), allowing you to seamlessly integrate CAD road layouts with georeferenced traffic control plans. All EPSG spatial projections are supported, with CAD data reprojected on the fly for instant overlay over your TCP basemap.
 
 ### Location Marker Object
 
@@ -204,16 +204,16 @@ Use the Batch Edit Location Markers tool to export position coordinates of your 
 
 ### Invarion Cloud Integration
 
-**RapidPlan** 4.0 is integrated with **Invarion Cloud**, allowing users to:
+RapidPlan 4.0 is integrated with Invarion Cloud, allowing users to:
 
-* Store their **traffic management plans** on the **Invarion Cloud** instead of local files.
-* Open and edit the same plans in **RapidPlan** as well as **RapidPlan Online** (users who have licenses for both applications).
-* Use **Invarion Cloud**'s collaboration features: share plans with other users, add comments.
-* Share plans with users who don't have a **RapidPlan** license - they will still be able to open them in **read-only mode**.
+* Store their **traffic management plans** on the Invarion Cloud instead of local files.
+* Open and edit the same plans in RapidPlan as well as RapidPlan Online (users who have licenses for both applications).
+* Use Invarion Cloud's collaboration features: share plans with other users, add comments.
+* Share plans with users who don't have a RapidPlan license - they will still be able to open them in **read-only mode**.
 
-*NOTE: In the weeks following **RapidPlan** 4.0 official release, integration with **Invarion Cloud** will be gradually made available for users based on their company size and region.*
+*NOTE: In the weeks following RapidPlan 4.0 official release, integration with Invarion Cloud will be gradually made available for users based on their company size and region.*
 
-**Invarion Cloud** can also be accessed directly from your web browser by opening [cloud.invarion.com](https://cloud.invarion.com)
+Invarion Cloud can also be accessed directly from your web browser by opening [cloud.invarion.com](https://cloud.invarion.com)
 
 
 ## RapidPlan 3.11
@@ -224,7 +224,7 @@ Use the Batch Edit Location Markers tool to export position coordinates of your 
 
 ![rich text](./assets/rich-text-editor.png)
 
-Use **RapidPlan**'s new advanced text formatting capabilities to create TCP notes and documentation as well as custom titleboxes directly on your plan. The new Rich Text tool is based on  a powerful yet simple to use editor that allows using different text styles, paragraphs, lists, tables, images and more - all in one object. Additionally, the editor allows pasting externally created content, e.g. from Microsoft Office or Google Docs.
+Use RapidPlan's new advanced text formatting capabilities to create TCP notes and documentation as well as custom titleboxes directly on your plan. The new Rich Text tool is based on  a powerful yet simple to use editor that allows using different text styles, paragraphs, lists, tables, images and more - all in one object. Additionally, the editor allows pasting externally created content, e.g. from Microsoft Office or Google Docs.
 
 ### Imaging Georeferencing
 
@@ -242,13 +242,13 @@ ESRI Shapefiles can now be imported to TCPs using the same interface as KML impo
 
 ![geometry distance input](./assets/geometry-input.png)
 
-Need to draw a 50m taper along a curved road? Use distance input and geometry snapping tools and let **RapidPlan** do the measurement for you.
+Need to draw a 50m taper along a curved road? Use distance input and geometry snapping tools and let RapidPlan do the measurement for you.
 
 ### Reduced Eye Strain Mode
 
 ![eye strain mode](./assets/night-light.png)
 
-**RapidPlan** 3.11 introduces new settings that adjust the color temperature for content displayed in the plan editor, reducing your eye fatigue when drawing and editing TCPs.
+RapidPlan 3.11 introduces new settings that adjust the color temperature for content displayed in the plan editor, reducing your eye fatigue when drawing and editing TCPs.
 
 ### QR Code Generator
 
@@ -260,7 +260,7 @@ Using the new QR Code tool lets you quickly add QR codes to your TCPs, allowing 
 
 **Keyboard shortcuts on menu items** - commands in the application menu as well as in all context menus present their assigned keyboard shortcuts.
 
-**Auto detect pasted hyperlinks** - **RapidPlan** will automatically detect when pasted text is a hyperlink and paste it as a Hyperlink instead of a regular text object.
+**Auto detect pasted hyperlinks** - RapidPlan will automatically detect when pasted text is a hyperlink and paste it as a Hyperlink instead of a regular text object.
 
 **Dedicated Paste Image and Paste Text commands** - when the clipboard contains data in multiple formats, rich text will be selected automatically. If you wish to paste as image or text instead, use these dedicated paste commands.
 
@@ -304,7 +304,7 @@ Using the newly added "Select scale/rotate point" options, you can now scale or 
 
 ![perf small](./assets/133288014545860473-perf_small.png)
 
-**RapidPlan**'s core rendering engine has been redesigned to provide significant performance and memory usage improvements, so you can enjoy a faster and more reliable drawing experience.
+RapidPlan's core rendering engine has been redesigned to provide significant performance and memory usage improvements, so you can enjoy a faster and more reliable drawing experience.
 
 ### More changes
 
@@ -384,7 +384,7 @@ One of the most requested and long awaited features is finally available - Googl
 
 ![invarion launcher](./assets/132779949904982976-launcher.png)
 
-The Launcher is the new distribution channel for desktop versions of **RapidPlan**, ensuring your Invarion software is always up to date.
+The Launcher is the new distribution channel for desktop versions of RapidPlan, ensuring your Invarion software is always up to date.
 
 ### Hyperlink Tool
 
@@ -396,7 +396,7 @@ Use the Hyperlink text tool on your plans to reference online resources and othe
 
 ![performance and stability](./assets/132779950452095920-PerformanceImprovements.png)
 
-The underlying platform used by **RapidPlan** was updated to improve performance and stability, as well as ensure long term support for our core features.
+The underlying platform used by RapidPlan was updated to improve performance and stability, as well as ensure long term support for our core features.
 
 ## RapidPlan 3.7
 
@@ -434,7 +434,7 @@ The **Zoomed View Box** can now be styled to present its content in an ellipse o
 
 #### More changes
 
-**New LINZ Basemaps** - **RapidPlan** users in New Zealand will now benefit from the new LINZ Aerial Imagery Basemap service.
+**New LINZ Basemaps** - RapidPlan users in New Zealand will now benefit from the new LINZ Aerial Imagery Basemap service.
 
 **Sign stand arrows** - sign stand connectors can now be styled to with arrow pointers.
 
@@ -528,11 +528,11 @@ Advanced sign search and replace tool allows quickly finding and updating signs,
 
 **Disable latest autosave check** - when not desirable, users can disable checking for the most recent autosaved version of a plan.
 
-**Minimize/move splash screen** - the **RapidPlan** Splash Screen can now be moved to the side or minimized while **RapidPlan** is initializing.
+**Minimize/move splash screen** - the RapidPlan Splash Screen can now be moved to the side or minimized while RapidPlan is initializing.
 
-**Validate saved plans** - to prevent data loss caused by plans getting corrupt when the saving process is interrupted (e.g. when writing to a network location), **RapidPlan** 3.6 will validate TCP files right after they're saved and warn the user if any issues are detected.
+**Validate saved plans** - to prevent data loss caused by plans getting corrupt when the saving process is interrupted (e.g. when writing to a network location), RapidPlan 3.6 will validate TCP files right after they're saved and warn the user if any issues are detected.
 
-**MetroMap provider** - following the recent acquisition of EagleView by MetroMap, we've updated our basemap provider. MetroMap users can access the imagery in **RapidPlan** using their username/password or the MetroMap API Key.
+**MetroMap provider** - following the recent acquisition of EagleView by MetroMap, we've updated our basemap provider. MetroMap users can access the imagery in RapidPlan using their username/password or the MetroMap API Key.
 
 ## RapidPlan 3.5
 
@@ -548,7 +548,7 @@ Several phases of works at one location can now be included in a single TCP, usi
 
 ![Auto Templates](./assets/132265940039896867-auto_template.png)
 
-**RapidPlan** can now lay out required devices and signage for a selected set of simple typical jobs. Pick the location, specify worksite dimensions and let our algorithms do the rest.
+RapidPlan can now lay out required devices and signage for a selected set of simple typical jobs. Pick the location, specify worksite dimensions and let our algorithms do the rest.
 
 ### Selection Preview
 
@@ -620,7 +620,7 @@ Ever lost work because you accidentally closed a plan without saving it? Use Fil
 
 ![Advanced Geometry Drawing](./assets/132059304203892127-GeometrySnapping.png)
 
-Snap to an existing geometry when drawing an object and **RapidPlan** will automatically create **control points** to fit the desired curve. Use the Offset Geometry tool to further adjust object position. Drawing delineators, **lane markings**, work zones along road and lane edges becomes easier than ever. NOTE: use F3 to quickly toggle snapping on/off or **Right click** the toolbar button to individually toggle snapping to points and/or geometries.
+Snap to an existing geometry when drawing an object and RapidPlan will automatically create **control points** to fit the desired curve. Use the Offset Geometry tool to further adjust object position. Drawing delineators, **lane markings**, work zones along road and lane edges becomes easier than ever. NOTE: use F3 to quickly toggle snapping on/off or **Right click** the toolbar button to individually toggle snapping to points and/or geometries.
 
 ### Snap to Bounds
 
@@ -656,7 +656,7 @@ Plans and **print regions** can now be arranged by drag-dropping the items, then
 
 ![NearMap Integration](./assets/132059307457589842-NearMap.png)
 
-NearMap subscribers in USA, Australia and New Zealand can now access NearMap aerials as base map layer in **RapidPlan**. Requires a NearMap API key - please [read instructions for obtaining one](https://docs.nearmap.com/display/ND/API+Key+Authentication).
+NearMap subscribers in USA, Australia and New Zealand can now access NearMap aerials as base map layer in RapidPlan. Requires a NearMap API key - please [read instructions for obtaining one](https://docs.nearmap.com/display/ND/API+Key+Authentication).
 
 #### More changes
 
@@ -672,7 +672,7 @@ NearMap subscribers in USA, Australia and New Zealand can now access NearMap aer
 
 **Print Frame Auto Scaling** - print frames can now automatically scale their objects to preserve their horizontal or vertical proportions to the page size when printing to different pages sizes.
 
-**RapidPlan Cloud drag&drop files** - **RapidPlan** Cloud (formerly Share Online) now supports moving files by drag-dropping them between folders.
+**RapidPlan Cloud drag&drop files** - RapidPlan Cloud (formerly Share Online) now supports moving files by drag-dropping them between folders.
 
 **Ctrl + B/I for Bold/Italic Text** - all text objects now support **Ctrl + B** and **Ctrl + I** keyboard shortcuts to toggle Bold and Italic text style respectively.
 
@@ -748,9 +748,9 @@ The Manifest Export tool can now include location coordinates for signs and othe
 
 **New Plan Here tool** - right-click anywhere on an existing plan and use the "New Plan Here" tool to create new plans in selected locations.
 
-**JPEG2000 support** - **RapidPlan** now supports the JPEG2000 format both for import and export.
+**JPEG2000 support** - RapidPlan now supports the JPEG2000 format both for import and export.
 
-**New base map providers [AUS & NZ]** - high quality aerial photos from Land Information New Zealand (LINZ), Land Information System Tasmania (Orthomaps Tasmania). Additionally, Spookfish enterpsise license holders can now access Spookfish maps directly from **RapidPlan**.
+**New base map providers [AUS & NZ]** - high quality aerial photos from Land Information New Zealand (LINZ), Land Information System Tasmania (Orthomaps Tasmania). Additionally, Spookfish enterpsise license holders can now access Spookfish maps directly from RapidPlan.
 
 ## RapidPlan 3.2
 
@@ -878,13 +878,13 @@ The Multi Message Sign dialog loads faster, shows panel codes and lets you bookm
 
 **Apply Predefined Styles** - predefined styles can now be applied to new and existing objects alike.
 
-***\*Multipage Printing Guides\**** - when printing to multiple pages, **RapidPlan** can automatically draw page guide lines that make it easier to join pages.
+***\*Multipage Printing Guides\**** - when printing to multiple pages, RapidPlan can automatically draw page guide lines that make it easier to join pages.
 
 ***\*TIFF Support\**** - Tagged Image File Format (TIFF) is now supported in all image import and export tools.
 
 **Adjustable Mouse Buttons** - if your mouse device has additional buttons (Middle, X1, X2), you can use them as shortcuts for selected commands.
 
-**Autosave Improvements** - plans autosaved in previous **RapidPlan** sessions can now be restored for up to 14 days.
+**Autosave Improvements** - plans autosaved in previous RapidPlan sessions can now be restored for up to 14 days.
 
 ## RapidPlan 3.0
 
@@ -896,7 +896,7 @@ The Multi Message Sign dialog loads faster, shows panel codes and lets you bookm
 
 ![Integrated Base Maps](./assets/131460791504765237-IntegratedMapsShort.png)
 
-**RapidPlan** can now display a dynamic base map preview on the plan drawing canvas, download aerial tiles as plan background, import road network data and display lat/lng coordinates of any point on the plan. All you need to do to enable these features is specify **plan location** and scale. You can toggle between maps provided by Bing, ArcGIS and Omniscale, but we're planning to add even more providers in future **RapidPlan** releases.
+RapidPlan can now display a dynamic base map preview on the plan drawing canvas, download aerial tiles as plan background, import road network data and display lat/lng coordinates of any point on the plan. All you need to do to enable these features is specify **plan location** and scale. You can toggle between maps provided by Bing, ArcGIS and Omniscale, but we're planning to add even more providers in future RapidPlan releases.
 
 ### New Plan Wizard
 
@@ -934,7 +934,7 @@ All objects containing text can now be easily edited on-canvas. Simply **Double 
 
 ![Performance Improvements](./assets/131460793367381357-PerformanceImprovements.png)
 
-**RapidPlan** has been redesigned to make the most out of your computer's capabilities. It is now quicker, more responsive, uses less memory and loads TCPs up to 10 times faster than before!
+RapidPlan has been redesigned to make the most out of your computer's capabilities. It is now quicker, more responsive, uses less memory and loads TCPs up to 10 times faster than before!
 
 ### Distance Markers
 
@@ -960,7 +960,7 @@ You can now specify job location coordinates for each **traffic control plan** y
 
 **Improved diagram rulers** - accurate rulers that help you measure Site, Page or Pixel distances on your plan.
 
-**Non-blocking background operations** - load, save, print, export and autosave operations are much quicker and run in the background without blocking the **RapidPlan** window.
+**Non-blocking background operations** - load, save, print, export and autosave operations are much quicker and run in the background without blocking the RapidPlan window.
 
 **Swap zoom & pan keys** - if you prefer using the Control key over Shift for mouse-wheel zooming, you can now enable this option in Preferences.
 

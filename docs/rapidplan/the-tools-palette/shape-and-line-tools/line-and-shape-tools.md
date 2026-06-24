@@ -30,7 +30,7 @@ Rectangles, Rounded Rectangles and Ellipses form special cases - holding **Shift
 
 ## Properties of these Basic Tools
 
-As is the case with all objects in **RapidPlan**, you can view and change the properties of a basic tool by **Double clicking** on it to open the **Quick Edit** screen or from within the **Properties Palette**.
+As is the case with all objects in RapidPlan, you can view and change the properties of a basic tool by **Double clicking** on it to open the **Quick Edit** screen or from within the **Properties Palette**.
 
 The properties for the **Lines** are very similar. This is also the case with the **Shapes**. Regardless of type, all the basic tools have the option to be rotated or flipped vertically and horizontally by using **CTRL + R** to rotate and the flip toolbar to flip the objects.
 
@@ -64,13 +64,13 @@ One of the color settings for lines, shapes and text is **transparent**. In the 
 
 ## The Spline-Based Tools
 
-The **Spline** and **Filled Spline** have an extra property. They are different because they are built around what is known as a spline curve. Spline curves are formed by placing points along a desired path - **RapidPlan** uses a predefined curve radius and creates the curved line. (The road tool also is a spline curve).
+The **Spline** and **Filled Spline** have an extra property. They are different because they are built around what is known as a spline curve. Spline curves are formed by placing points along a desired path - RapidPlan uses a predefined curve radius and creates the curved line. (The road tool also is a spline curve).
 
 ![The_Spline_Tool_on_the_Left_and_the_Filled_Spline_on_the_Right](./assets/The_Spline_Tool_on_the_Left_and_the_Filled_Spline_on_the_Right.png)
 
 ## The Bezier Tools
 
-One of the trickier techniques to master in **RapidPlan** is the drawing of a Bezier. Beziers offer a powerful way to create curves with great precision.
+One of the trickier techniques to master in RapidPlan is the drawing of a Bezier. Beziers offer a powerful way to create curves with great precision.
 
 There are two components of a Bezier curve:
 
@@ -83,7 +83,7 @@ For full details on how to use the Bezier tool, see [Bezier tools](./bezier-tool
 
 ## The Arc Tools
 
-There are three arc-based tools in **RapidPlan**, the **Arc** tool, the **Pie Arc** tool and the **Road Arc** tool. All of these tools are created from a radius, making perfect curves.
+There are three arc-based tools in RapidPlan, the **Arc** tool, the **Pie Arc** tool and the **Road Arc** tool. All of these tools are created from a radius, making perfect curves.
 
 **To use an arc tool:**
 

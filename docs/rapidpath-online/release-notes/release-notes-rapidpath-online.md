@@ -78,7 +78,7 @@ Small rotation degree indicator is shown when an object is being rotated.
 ### Bug fixes
 
 - Correct values now shown for Hatch Spacing and Thickness in the property grid for the objects with fill property.
-- **Invarion Cloud**: fix bug when uploading a plan when Shared With Me section is active causes this plan to show up in the section. (It's only UI problem, the actual **plan location** was correct).
+- Invarion Cloud: fix bug when uploading a plan when Shared With Me section is active causes this plan to show up in the section. (It's only UI problem, the actual **plan location** was correct).
 - Proper handling of **Right click** on **control point**.
 - Resolved incorrect zooming in print preview dialog.
 - Fix cursor type when dragging append **control point** handle.
@@ -132,7 +132,7 @@ QR Code creation modal has a button which allows to create **public link** to th
 
 - Fix problem when objects are snapped to **Print Regions** even if they are invisible.
 - Exported plans now respect updates in Print dialog.
-- **Right clicking** when context menu has been opened now opens **RapidPath** Online menu rather than native browser context menu.
+- **Right clicking** when context menu has been opened now opens RapidPath Online menu rather than native browser context menu.
 - **Scratchpad** preview issue on mobile devices resolved.
 - Code property of sign issue when selecting multiple signs resolved.
 - Job Start/Job End dates can be emptied. New plan start with empty start and end job dates.
@@ -147,11 +147,11 @@ It now clearly indicates that you are placing **control points**.
 
 ### Folder uploading
 
-Upload an entire folder of plans into the **Invarion Cloud**.
+Upload an entire folder of plans into the Invarion Cloud.
 
 ### Plan sharing link management improvement
 
-One can manage a plan's **public link** directly in its side panel menu in the **Invarion Cloud**.
+One can manage a plan's **public link** directly in its side panel menu in the Invarion Cloud.
 
 ### New tool: QR Code
 
@@ -222,7 +222,7 @@ Click Open Street view to view Google Street View in a new tab.
 ### Bug fixes
 
 - Fix bug when incorrect map type is selected during switching between map providers.
-- Fix `Shared with me` section when Map view is selected in **Invarion Cloud**.
+- Fix `Shared with me` section when Map view is selected in Invarion Cloud.
 - Fix bug when location search panel works incorrectly when user changes **plan location** multiple times.
 - Add confirmation dialog when user tries to create a style with the same name as existing style.
 
@@ -257,7 +257,7 @@ One can now apply style to many objects in the selection if those objects are of
 
 An interactive onboarding tutorial has been added for new users.
 
-Pre-existing users also can see it through the main menu of **RapidPath** Online.
+Pre-existing users also can see it through the main menu of RapidPath Online.
 
 ### Android devices have 'Download PDF' button instead of preview in print dialog
 
@@ -322,7 +322,7 @@ Allows you to draw an arrowed path to indicate the direction of travel of someth
 
 ### Update manual links
 
-Update manual links in the application menu to point to different manuals for **RapidPlan Online** and **RapidPath** Online.
+Update manual links in the application menu to point to different manuals for RapidPlan Online and RapidPath Online.
 
 ### Improved progress bar on application startup
 
@@ -366,7 +366,7 @@ Add text with an arrow pointing to a specific location on the map.
 ### Improve user experience on iPhones
 
 - Implemented 'Add To Home Screen' functionality for mobile devices
-- Added 'Home' page which opens when you open **RapidPath** Online from Home screen of mobile device.
+- Added 'Home' page which opens when you open RapidPath Online from Home screen of mobile device.
 - Focus on input fields on iPhones no longer triggers zooming in.
 - Added +/- buttons into Transform -> Custom panel input fields for touch devices so that one can change the value without using virtual keyboard.
 

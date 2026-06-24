@@ -50,7 +50,7 @@ To change the view use the appropriate buttons on the top bar.
 
 ![View Toggler](./assets/Switching_The_View.png)
 
-You can change the view at any moment. It won't reset your current location or search results. The view you last selected will be saved in your browser as your default view. So next time you enter **Invarion Cloud** your preferred view will be shown.
+You can change the view at any moment. It won't reset your current location or search results. The view you last selected will be saved in your browser as your default view. So next time you enter Invarion Cloud your preferred view will be shown.
 
 ## Searching Plans
 

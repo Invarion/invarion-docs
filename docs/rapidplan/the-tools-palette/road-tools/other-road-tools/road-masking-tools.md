@@ -26,7 +26,7 @@ Sometimes, it may be necessary to remove a small section of a **lane marking** o
 
     ![Lane_Masking_tool](./assets/Lane_Masking_tool.png)
 
-The lane mask tool is no different to any other object in **RapidPlan** once it's been placed, you can select it and shift its **control points** if you didn't manage to completely cover the line in the first attempt.
+The lane mask tool is no different to any other object in RapidPlan once it's been placed, you can select it and shift its **control points** if you didn't manage to completely cover the line in the first attempt.
 
 ## The Road Mask Tool
 

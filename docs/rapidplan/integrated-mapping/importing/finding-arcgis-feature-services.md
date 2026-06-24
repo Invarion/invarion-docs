@@ -8,7 +8,7 @@ tags:
 ---
 # Finding public ArcGIS Feature Services
 
-**RapidPlan** can connect directly to ArcGIS Feature Services via the Import Spatial Data tool. This allows accessing transportation, road, traffic, and infrastructure datasets published on ArcGIS Online and ArcGIS Hub portals, as well as servers hosted by many government agencies and public organizations publish.
+RapidPlan can connect directly to ArcGIS Feature Services via the Import Spatial Data tool. This allows accessing transportation, road, traffic, and infrastructure datasets published on ArcGIS Online and ArcGIS Hub portals, as well as servers hosted by many government agencies and public organizations publish.
 
 This page lists locations where you can find compatible public ArcGIS services that can be useful for traffic control planning.
 
@@ -47,5 +47,5 @@ This page lists locations where you can find compatible public ArcGIS services t
 ## Notes
 
 - When browsing ArcGIS Hub or ArcGIS Online portals, look specifically for **Feature Services** or **Feature Layers**.
-- Some portals contain multiple service types (Map Services, Feature Services, WMS, etc.). If so, filter search results to **Feature Services** before copying the service URL into **RapidPlan**.
+- Some portals contain multiple service types (Map Services, Feature Services, WMS, etc.). If so, filter search results to **Feature Services** before copying the service URL into RapidPlan.
 - Transportation-related datasets commonly include roads, traffic counts, roadworks, incidents, speed data, rail infrastructure, transit assets, and administrative boundaries.

@@ -7,7 +7,7 @@ tags:
 ---
 # Toolbar
 
-The Toolbar, located in the top right corner of the **RapidPlan Online** **workspace**, contains a small number of buttons available for quick access.
+The Toolbar, located in the top right corner of the RapidPlan Online **workspace**, contains a small number of buttons available for quick access.
 
 ![toolbar](./Assets/toolbar.jpg)
 

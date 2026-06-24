@@ -7,7 +7,7 @@ tags:
 
 # Firewall and proxy configuration
 
-If your organization filters internet access, allow the services below so the **Invarion Launcher**, **RapidPlan**, and **RapidPath** can sign in, download application files, validate licenses, and access supported online services.
+If your organization filters internet access, allow the services below so the Invarion Launcher, RapidPlan, and RapidPath can sign in, download application files, validate licenses, and access supported online services.
 
 The Launcher uses the proxy settings configured in Windows by default.
 

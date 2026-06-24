@@ -14,7 +14,7 @@ Open **File** > **Print** > **Batch Print** to add files or open plans, choose r
 
 ![Batch_Printing](../assets/Batch_Printing.png)
 
-For each added plan, **RapidPlan** lets you choose whether to print:
+For each added plan, RapidPlan lets you choose whether to print:
 
 - the active region only
 - all regions on the plan

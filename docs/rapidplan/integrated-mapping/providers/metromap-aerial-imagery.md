@@ -7,13 +7,13 @@ tags:
 ---
 # MetroMap aerial imagery
 
-MetroMap is one of the available basemap providers in **RapidPlan**. It provides high-quality aerial photos and coverage of metro and regional areas across Australia.
+MetroMap is one of the available basemap providers in RapidPlan. It provides high-quality aerial photos and coverage of metro and regional areas across Australia.
 
-To access MetroMap content directly from **RapidPlan**, you need an API key linked to your MetroMap account.
+To access MetroMap content directly from RapidPlan, you need an API key linked to your MetroMap account.
 
 ## Setup Steps
 
-Make sure you are running the latest version of **RapidPlan**, then follow these steps to enable the MetroMap provider:
+Make sure you are running the latest version of RapidPlan, then follow these steps to enable the MetroMap provider:
 
 1. Create or open a plan, then open the **Provider** dropdown under **Base map** in the **Properties** palette.
 
@@ -27,7 +27,7 @@ Make sure you are running the latest version of **RapidPlan**, then follow these
 
 ![Providers dialog](../assets/providers_dialog.jpg)
 
-4. **RapidPlan** will ask for authentication information. Enter your API key in the **API key** field, then click **Save**.
+4. RapidPlan will ask for authentication information. Enter your API key in the **API key** field, then click **Save**.
 
 ![MetroMap credentials dialog](../assets/mm_credentials_dialog.jpg)
 
@@ -35,7 +35,7 @@ Make sure you are running the latest version of **RapidPlan**, then follow these
 
 **Please note**: If you have followed the steps above and the background shows "Connection error" or "Out of range", make sure that:
 
-- You are running the latest version of **RapidPlan**.
+- You are running the latest version of RapidPlan.
 - You copied the API key correctly.
 - Your plan points to a location covered by MetroMap.
 
@@ -45,7 +45,7 @@ For ongoing connection issues, contact support@metromap.com.au.
 
 ### Base Map Layer
 
-To use MetroMap as the basemap provider for your **RapidPlan** plan, select it in **Properties** > **Base map** > **Provider**.
+To use MetroMap as the basemap provider for your RapidPlan plan, select it in **Properties** > **Base map** > **Provider**.
 
 The basemap defaults to the **Australia latest** MetroMap layer.
 
@@ -69,7 +69,7 @@ To select a different layer for the next import, go to **Properties** > **Base m
 
 ### Default Map Provider and Additional Settings
 
-To use MetroMap as the default map provider for all new **RapidPlan** plans, go to **Tools** > **Preferences** > **Defaults** > **Base map provider** and select **MetroMap** from the dropdown.
+To use MetroMap as the default map provider for all new RapidPlan plans, go to **Tools** > **Preferences** > **Defaults** > **Base map provider** and select **MetroMap** from the dropdown.
 
 If you only want to use MetroMap for importing tiles and not for the dynamic basemap layer, uncheck **Aerials import provider** > **Use current base map provider**, then select **MetroMap** from the additional dropdown below.
 

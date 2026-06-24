@@ -7,7 +7,7 @@ tags:
 
 # Troubleshoot Launcher issues
 
-Use this page when you cannot sign in to the **Invarion Launcher**, cannot see an application, or cannot open an assigned desktop application.
+Use this page when you cannot sign in to the Invarion Launcher, cannot see an application, or cannot open an assigned desktop application.
 
 ## I cannot sign in to the Launcher
 
@@ -22,7 +22,7 @@ If the issue continues, run **Launcher Diagnostics** and send the report to Inva
 
 The Launcher only shows applications assigned to your account.
 
-If you do not see **RapidPlan** or **RapidPath** after signing in:
+If you do not see RapidPlan or RapidPath after signing in:
 
 - Select the refresh icon in the Launcher.
 - Confirm that you are signed in with the correct Invarion account.
@@ -57,7 +57,7 @@ If the Launcher starts downloading files but fails before the application opens:
 
 ### The application opens, then shows an error or closes unexpectedly
 
-If **RapidPlan** or **RapidPath** starts but then shows an error, crashes, or closes unexpectedly:
+If RapidPlan or RapidPath starts but then shows an error, crashes, or closes unexpectedly:
 
 - Run **Launcher Diagnostics**.
 - During the diagnostic session, open the application and repeat the action that caused the problem.

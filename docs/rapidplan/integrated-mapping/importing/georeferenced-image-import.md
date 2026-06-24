@@ -8,7 +8,7 @@ tags:
 ---
 # Importing georeferenced imagery
 
-Georeferenced aerial imagery is, as the name suggests, paired with data that indicates exactly where the imagery is located. These are stored in compressed zip files, and when imported will be placed in the correct location in a **RapidPlan** plan automatically.
+Georeferenced aerial imagery is, as the name suggests, paired with data that indicates exactly where the imagery is located. These are stored in compressed zip files, and when imported will be placed in the correct location in a RapidPlan plan automatically.
 
 ## Importing Georeferenced Images in RapidPlan
 
@@ -29,7 +29,7 @@ You can also import georeferenced images to blank canvas plans. If such plans do
 
 ## Importing via New Plan Wizard
 
-In **RapidPlan**, go to **File** > **New Plan Wizard**. Select **Base map** as the plan type.
+In RapidPlan, go to **File** > **New Plan Wizard**. Select **Base map** as the plan type.
 
 ![Importing_via_New_Plan_Wizard](../assets/Importing_via_New_Plan_Wizard.jpg)
 
@@ -60,19 +60,19 @@ Note that in order for georeferencing to be accurate, it is best to match the im
 ## Importing Georeferenced Images from NearMap
 
 In order to create georeferenced images from NearMap, open the NearMap viewer, navigate to your desired location and select the area you want to export. Click the **Export** button at the top, select **Georeferenced image** format and make sure the projection is set to **WSG84 / Spherical Mercator**. Click **Download files** - this will download a zip file containing both the exported image and its georeferenced file.
-The zip file can be imported to **RapidPlan** as described above (its contents will get extracted automatically). You can also export multiple adjacent areas into separate zip files, then import them into **RapidPlan** all together.
+The zip file can be imported to RapidPlan as described above (its contents will get extracted automatically). You can also export multiple adjacent areas into separate zip files, then import them into RapidPlan all together.
 
 ![NearMap_export](../assets/NearMap_export.jpg)
 
 ## Importing from MapInfo Pro
 
-In MapInfo Pro, navigate to the area you want to export and click **Output** > **Save Image**. In the options dialog, check the **Create a Geographically Referenced Tab File** box, then click **Save**. The image will be saved together with an accompanying .TAB file, allowing it to be imported to **RapidPlan** as described above. You can also export multiple adjacent areas into separate files, then import them into **RapidPlan** all together.
+In MapInfo Pro, navigate to the area you want to export and click **Output** > **Save Image**. In the options dialog, check the **Create a Geographically Referenced Tab File** box, then click **Save**. The image will be saved together with an accompanying .TAB file, allowing it to be imported to RapidPlan as described above. You can also export multiple adjacent areas into separate files, then import them into RapidPlan all together.
 
 ![Exporting_from_MapInfo_Pro](../assets/Exporting_from_MapInfo_Pro.jpg)
 
 ## Creating Georeferenced Images in RapidPlan
 
-For information about creating georeferenced images in **RapidPlan**, see [Georeferenced image export](/docs/rapidplan/exporting-plans/print-and-export-operations/georeferenced-image-export.md).
+For information about creating georeferenced images in RapidPlan, see [Georeferenced image export](/docs/rapidplan/exporting-plans/print-and-export-operations/georeferenced-image-export.md).
 
 
 

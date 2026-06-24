@@ -8,11 +8,11 @@ tags:
 ---
 # Resizing objects
 
-There will almost always be two different ways of resizing an object in **RapidPlan**. It is important to understand the difference between the two methods, and when to use each.
+There will almost always be two different ways of resizing an object in RapidPlan. It is important to understand the difference between the two methods, and when to use each.
 
 ## Resizing using Control Points
 
-Most of the **RapidPlan** objects can be resized by moving their **control points**. Moving the **control points** changes the shape of the object, rather than just stretching or shrinking it.
+Most of the RapidPlan objects can be resized by moving their **control points**. Moving the **control points** changes the shape of the object, rather than just stretching or shrinking it.
 
 **To resize with control points:**
 

@@ -8,7 +8,7 @@ tags:
 ---
 # Road tool properties
 
-Of all the tools in **RapidPlan**, the Road has by far the most power and flexibility. Accordingly, there are a great many settings you can alter to set your road up as you require. You can change:
+Of all the tools in RapidPlan, the Road has by far the most power and flexibility. Accordingly, there are a great many settings you can alter to set your road up as you require. You can change:
 
 - Road color, geometry and auto merge
 - Lane number, width, color and **lane markings**

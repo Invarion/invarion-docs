@@ -8,7 +8,7 @@ tags:
 ---
 # Slip lanes
 
-One of the most important skills in **RapidPlan** is learning to make slip lanes. Fortunately, they are very simple to do.
+One of the most important skills in RapidPlan is learning to make slip lanes. Fortunately, they are very simple to do.
 
 |Slip lane                                     |             |
 |----------------------------------------------|-------------|
