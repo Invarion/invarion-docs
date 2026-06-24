@@ -1,5 +1,12 @@
 # Release Notes
 
+## June 2026
+
+### Bug fixes
+
+- Arc roads now update correctly when you reverse their direction, so curved road layouts display the selected direction properly on the plan.
+- Scratchpad SVG objects can now be placed on a plan and saved without causing synchronization failures.
+
 ## May 2026
 
 - Fixed an issue where plans with a bearing value other than **0** could display differently in preview and export.
