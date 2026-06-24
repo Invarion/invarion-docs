@@ -1,5 +1,7 @@
 # Release Notes
 
+## June 2026
+
 ## May 2026
 
 - Fixed an issue where plans with a bearing value other than **0** could display differently in preview and export.
@@ -453,7 +455,7 @@ One can show sign codes on the canvas. It can be enabled globally, per plan or i
 
 ### Progress dialog displayed when engine is booting
 
-Engine booting progress bar displayed to visualise load progress.
+Booting progress bar displayed to visualise load progress.
 
 ### New feature: Adjust Plan Location
 
