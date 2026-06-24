@@ -40,7 +40,15 @@ const config = {
       }),
     ],
   ],
-  // plugins: [require.resolve('docusaurus-lunr-search')],
+  plugins: [
+    [
+      require.resolve('docusaurus-lunr-search'),
+      {
+        maxHits: '8',
+        highlightResult: true,
+      },
+    ],
+  ],
   customFields: {
     gettingStartedLinks: [
       {
