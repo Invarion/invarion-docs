@@ -1,5 +1,8 @@
 ---
 sidebar_position: 9
+tags:
+  - drawing-editing
+  - object-properties
 ---
 
 # Custom symbols

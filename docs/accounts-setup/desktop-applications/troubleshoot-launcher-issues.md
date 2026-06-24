@@ -1,5 +1,8 @@
 ---
 sidebar_position: 4
+tags:
+  - launcher
+  - troubleshooting
 ---
 
 # Troubleshoot Launcher issues

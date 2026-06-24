@@ -1,5 +1,8 @@
 ---
 sidebar_position: .8
+tags:
+  - licensing
+  - launcher
 ---
 
 # Where can I find installation, license, and Launcher help?

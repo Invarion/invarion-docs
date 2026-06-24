@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 1
+tags:
+  - drawing-editing
+  - road-tools
 
 ---
 # Other road creation tools

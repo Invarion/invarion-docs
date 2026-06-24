@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 4
+tags:
+  - signs
 
 ---
 # Choosing the displayed variation of a sign

@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 5
+tags:
+  - markers-devices
+  - australia-only
 
 ---
 # LUMS Board (Australian version only)

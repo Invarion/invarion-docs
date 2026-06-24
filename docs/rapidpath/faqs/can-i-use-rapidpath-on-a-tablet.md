@@ -1,5 +1,7 @@
 ---
 sidebar_position: .5
+tags:
+  - mobile
 ---
 
 # Can I use RapidPath on a tablet?

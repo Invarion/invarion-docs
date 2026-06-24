@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 2
+tags:
+  - drawing-editing
+  - object-properties
 
 ---
 # Using line and shape tools

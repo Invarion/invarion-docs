@@ -1,5 +1,7 @@
 ---
 sidebar_position: .2
+tags:
+  - licensing
 ---
 
 # We currently have a license for RapidPlan, how can I access RapidPath?

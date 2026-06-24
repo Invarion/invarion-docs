@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 4
+tags:
+  - cloud-plans
 
 ---
 # Commenting on cloud plans

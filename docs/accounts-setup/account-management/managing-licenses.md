@@ -1,6 +1,9 @@
 ﻿---
 
 sidebar_position: 4
+tags:
+  - account-management
+  - licensing
 
 ---
 # Managing Licenses and Add-ons

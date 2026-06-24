@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 10
+tags:
+  - cloud-plans
 
 ---
 # Settings

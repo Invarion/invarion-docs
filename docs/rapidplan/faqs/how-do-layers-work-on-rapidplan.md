@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 4
+tags:
+  - layers-stages
 
 ---
 # How do layers work on RapidPlan?

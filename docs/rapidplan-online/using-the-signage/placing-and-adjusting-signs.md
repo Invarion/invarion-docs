@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 1
+tags:
+  - signs
 
 ---
 # Placing and Adjusting Signs

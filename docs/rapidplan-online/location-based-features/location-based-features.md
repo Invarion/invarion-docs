@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 1
+tags:
+  - mapping-geospatial
 
 ---
 # Location-Based Features

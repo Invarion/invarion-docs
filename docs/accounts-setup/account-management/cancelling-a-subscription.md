@@ -1,6 +1,9 @@
 ﻿---
 
 sidebar_position: 5
+tags:
+  - account-management
+  - licensing
 
 ---
 # Cancelling A Subscription

@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 13
+tags:
+  - workspace
 
 ---
 # History Palette

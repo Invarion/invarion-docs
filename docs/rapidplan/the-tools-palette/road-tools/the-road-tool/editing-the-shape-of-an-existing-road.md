@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 2
+tags:
+  - drawing-editing
+  - road-tools
 
 ---
 # Editing the shape of an existing road

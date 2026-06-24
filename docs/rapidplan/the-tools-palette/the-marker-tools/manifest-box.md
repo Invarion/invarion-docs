@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 11
+tags:
+  - markers-devices
 
 ---
 # Manifest Box

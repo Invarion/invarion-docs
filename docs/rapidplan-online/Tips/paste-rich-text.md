@@ -1,8 +1,7 @@
 ---
 tags:
-  - rapid online
-  - rapid path online
-  - tips
+  - text-rich-text
+  - import
 ---
 
 # Paste Rich Text

@@ -1,6 +1,8 @@
 ﻿---
 
 sidebar_position: 3
+tags:
+  - print-export
 
 ---
 # In-place print preview

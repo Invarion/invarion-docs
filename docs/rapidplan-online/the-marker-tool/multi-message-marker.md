@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 7
+tags:
+  - markers-devices
+  - australia-only
 
 ---
 # Multi-Message Marker (Australian version only)

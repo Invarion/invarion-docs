@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 3
+tags:
+  - swept-path-analysis
+  - vehicles
 
 ---
 # Using the Vehicle Library

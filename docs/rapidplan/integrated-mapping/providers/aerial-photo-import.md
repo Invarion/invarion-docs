@@ -1,5 +1,8 @@
 ---
 sidebar_position: 3
+tags:
+  - mapping-geospatial
+  - import
 ---
 
 # Aerial photo import

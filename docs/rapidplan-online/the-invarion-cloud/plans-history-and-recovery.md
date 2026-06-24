@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 9
+tags:
+  - cloud-plans
 
 ---
 # Plan's History and Recovery

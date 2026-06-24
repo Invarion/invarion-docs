@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 2
+tags:
+  - layers-stages
 
 ---
 # Moving objects between layers

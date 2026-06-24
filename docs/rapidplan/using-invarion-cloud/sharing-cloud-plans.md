@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 3
+tags:
+  - cloud-plans
 
 ---
 # Sharing cloud plans

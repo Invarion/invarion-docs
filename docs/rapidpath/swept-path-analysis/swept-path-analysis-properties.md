@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 5
+tags:
+  - swept-path-analysis
+  - vehicles
 
 ---
 # Swept Path Analysis Properties

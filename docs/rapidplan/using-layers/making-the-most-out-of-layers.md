@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 4
+tags:
+  - layers-stages
 
 ---
 # Making the most out of layers

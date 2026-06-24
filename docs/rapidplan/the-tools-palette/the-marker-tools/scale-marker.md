@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 9
+tags:
+  - markers-devices
+  - mapping-geospatial
 
 ---
 # Scale Marker

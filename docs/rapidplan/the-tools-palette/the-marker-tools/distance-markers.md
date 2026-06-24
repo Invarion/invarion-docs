@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 15
+tags:
+  - markers-devices
+  - mapping-geospatial
 
 ---
 # Distance markers

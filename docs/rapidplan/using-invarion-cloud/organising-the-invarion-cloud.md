@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 2
+tags:
+  - cloud-plans
 
 ---
 # Organising Invarion Cloud

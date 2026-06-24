@@ -1,6 +1,9 @@
 ﻿---
 
 sidebar_position: 2
+tags:
+  - account-management
+  - licensing
 
 ---
 # Buying A Subscription

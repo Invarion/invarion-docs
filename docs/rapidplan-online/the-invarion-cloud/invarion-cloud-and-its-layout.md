@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 1
+tags:
+  - cloud-plans
 
 ---
 # The Invarion Cloud and its Layout

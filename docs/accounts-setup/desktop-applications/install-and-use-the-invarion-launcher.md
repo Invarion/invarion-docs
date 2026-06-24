@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+tags:
+  - launcher
 ---
 
 # Install and use the Invarion Launcher

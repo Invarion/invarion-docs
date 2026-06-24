@@ -1,6 +1,8 @@
 ﻿---
 
 sidebar_position: 8
+tags:
+  - mapping-geospatial
 
 ---
 # DroneDeploy aerial imagery

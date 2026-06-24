@@ -1,6 +1,9 @@
 ﻿---
 
 sidebar_position: 6
+tags:
+  - mapping-geospatial
+  - import
 
 ---
 # Importing roads

@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 3
+tags:
+  - markers-devices
 
 ---
 # Work Area and Safety Zone Tools

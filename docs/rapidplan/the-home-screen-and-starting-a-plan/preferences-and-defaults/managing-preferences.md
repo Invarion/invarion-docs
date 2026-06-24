@@ -1,5 +1,8 @@
 ﻿---
 sidebar_position: 1
+tags:
+  - getting-started
+  - object-properties
 ---
 
 # Managing preferences

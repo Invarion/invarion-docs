@@ -1,5 +1,8 @@
 ---
 sidebar_position: 5
+tags:
+  - launcher
+  - troubleshooting
 ---
 
 # Run Launcher Diagnostics

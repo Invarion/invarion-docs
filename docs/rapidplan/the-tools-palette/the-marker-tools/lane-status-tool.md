@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 4
+tags:
+  - markers-devices
 
 ---
 # Lane Status tool

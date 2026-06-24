@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+tags:
+  - launcher
 ---
 
 # Minimum system requirements

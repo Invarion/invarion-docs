@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 2
+tags:
+  - swept-path-analysis
+  - vehicles
 
 ---
 # Definitions

@@ -1,5 +1,7 @@
 ---
 sidebar_position: .9
+tags:
+  - troubleshooting
 ---
 
 # How do I report a technical issue?

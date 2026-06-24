@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 10
+tags:
+  - workspace
+  - signs
 
 ---
 # Signs Palette

@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 6
+tags:
+  - swept-path-analysis
 
 ---
 # Using Swept Path Annotation Items

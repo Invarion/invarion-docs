@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 12
+tags:
+  - markers-devices
 
 ---
 # Number Stamper

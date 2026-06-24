@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 2
+tags:
+  - signs
 
 ---
 # Using signage

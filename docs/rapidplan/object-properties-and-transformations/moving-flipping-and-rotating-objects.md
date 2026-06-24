@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 8
+tags:
+  - drawing-editing
+  - object-properties
 
 ---
 # Moving, flipping and rotating objects

@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 4
+tags:
+  - swept-path-analysis
+  - vehicles
 
 ---
 # Preparing Swept Path Analysis

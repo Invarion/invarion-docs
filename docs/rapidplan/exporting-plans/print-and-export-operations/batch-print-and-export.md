@@ -1,5 +1,7 @@
 ﻿---
 sidebar_position: 2
+tags:
+  - print-export
 ---
 
 # Batch print and export

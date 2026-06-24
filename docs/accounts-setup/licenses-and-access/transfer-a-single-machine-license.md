@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+tags:
+  - licensing
 ---
 
 # Transfer a single-machine license

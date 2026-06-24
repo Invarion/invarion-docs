@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 3.1
+tags:
+  - drawing-editing
+  - object-properties
 
 ---
 # Object geometry

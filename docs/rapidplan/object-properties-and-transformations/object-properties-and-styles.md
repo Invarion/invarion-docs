@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 3
+tags:
+  - drawing-editing
+  - object-properties
 
 ---
 # Object properties and styles

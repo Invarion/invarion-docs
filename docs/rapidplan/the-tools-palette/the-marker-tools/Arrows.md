@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 16
+tags:
+  - markers-devices
 
 ---
 # Arrows

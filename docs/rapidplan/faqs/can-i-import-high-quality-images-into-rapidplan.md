@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 2
+tags:
+  - import
 
 ---
 # Can I import high quality images into RapidPlan?

@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 4
+tags:
+  - drawing-editing
 
 ---
 # Grouping and Un-grouping Objects

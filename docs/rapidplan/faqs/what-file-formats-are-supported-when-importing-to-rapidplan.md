@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+tags:
+  - import
 ---
 
 # What file formats are supported when importing to RapidPlan?

@@ -1,5 +1,8 @@
 ---
 sidebar_position: 4
+tags:
+  - drawing-editing
+  - object-properties
 ---
 
 # Control points and snapping

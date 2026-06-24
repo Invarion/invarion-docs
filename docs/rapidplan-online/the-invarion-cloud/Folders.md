@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 5
+tags:
+  - cloud-plans
 
 ---
 # Folders

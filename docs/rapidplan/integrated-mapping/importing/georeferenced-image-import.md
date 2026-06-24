@@ -1,6 +1,9 @@
 ﻿---
 
 sidebar_position: 2
+tags:
+  - mapping-geospatial
+  - import
 
 ---
 # Importing georeferenced imagery

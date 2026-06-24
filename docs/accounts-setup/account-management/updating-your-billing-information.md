@@ -1,6 +1,9 @@
 ﻿---
 
 sidebar_position: 6
+tags:
+  - account-management
+  - licensing
 
 ---
 # Updating Your Billing Information

@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 3
+tags:
+  - text-rich-text
 
 ---
 

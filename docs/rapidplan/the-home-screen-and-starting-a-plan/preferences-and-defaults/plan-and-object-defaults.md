@@ -1,5 +1,8 @@
 ﻿---
 sidebar_position: 2
+tags:
+  - getting-started
+  - object-properties
 ---
 
 # Plan and object defaults

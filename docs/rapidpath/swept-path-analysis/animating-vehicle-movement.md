@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 7
+tags:
+  - swept-path-analysis
+  - vehicles
 
 ---
 # Animating Vehicle Movement

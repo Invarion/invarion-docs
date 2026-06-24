@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 14
+tags:
+  - workspace
+  - layers-stages
 
 ---
 # Layers Palette

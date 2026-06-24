@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 12
+tags:
+  - drawing-editing
+  - object-properties
 
 ---
 # Cropping objects

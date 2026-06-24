@@ -1,5 +1,7 @@
 ---
 sidebar_position: .3
+tags:
+  - licensing
 ---
 
 # What licensing options are available for RapidPath?

@@ -1,6 +1,10 @@
 ---
 
 sidebar_position: 7
+tags:
+  - drawing-editing
+  - object-properties
+  - import
 
 ---
 # Import Image tool

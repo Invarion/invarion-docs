@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 11
+tags:
+  - drawing-editing
+  - object-properties
 
 ---
 # Duplicating objects and styles

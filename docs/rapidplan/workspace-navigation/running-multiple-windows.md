@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+tags:
+  - workspace
 ---
 
 # Running multiple windows

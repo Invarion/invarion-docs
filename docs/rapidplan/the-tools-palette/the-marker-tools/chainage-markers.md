@@ -1,5 +1,8 @@
 ---
 sidebar_position: 15.5
+tags:
+  - markers-devices
+  - mapping-geospatial
 ---
 
 # Chainage markers

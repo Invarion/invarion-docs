@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 15
+tags:
+  - cloud-plans
+  - workspace
 
 ---
 # Autosave Feature

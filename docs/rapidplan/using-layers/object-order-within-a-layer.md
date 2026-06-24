@@ -1,5 +1,7 @@
 ---
 sidebar_position: 6
+tags:
+  - layers-stages
 ---
 
 # Object order within a layer

@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 5
+tags:
+  - markers-devices
+  - mapping-geospatial
 
 ---
 # Train Track Tool

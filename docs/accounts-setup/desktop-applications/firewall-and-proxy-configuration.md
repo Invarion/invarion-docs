@@ -1,5 +1,8 @@
 ---
 sidebar_position: 3
+tags:
+  - launcher
+  - troubleshooting
 ---
 
 # Firewall and proxy configuration

@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 14
+tags:
+  - markers-devices
 
 ---
 # Zoomed View Box tool

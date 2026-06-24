@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 1
+tags:
+  - swept-path-analysis
 
 ---
 # What is Swept Path Analysis?

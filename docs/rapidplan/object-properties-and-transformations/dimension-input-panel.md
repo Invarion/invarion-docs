@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 6.1
+tags:
+  - drawing-editing
+  - object-properties
 
 ---
 # Dimensions Input panel

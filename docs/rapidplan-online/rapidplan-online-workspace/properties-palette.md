@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 12
+tags:
+  - workspace
+  - object-properties
 
 ---
 # Properties Palette

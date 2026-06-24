@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 2
+tags:
+  - markers-devices
+  - mapping-geospatial
 
 ---
 # Creating a Distance Marker

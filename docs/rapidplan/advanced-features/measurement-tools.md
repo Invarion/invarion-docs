@@ -1,6 +1,9 @@
 ﻿---
 
 sidebar_position: 7
+tags:
+  - drawing-editing
+  - mapping-geospatial
 
 ---
 # Measurement tools

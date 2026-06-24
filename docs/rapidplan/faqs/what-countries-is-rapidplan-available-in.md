@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 1
+tags:
+  - licensing
 
 ---
 # What countries is RapidPlan available in?

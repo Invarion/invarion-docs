@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 17
+tags:
+  - markers-devices
 
 ---
 # Callout boxes

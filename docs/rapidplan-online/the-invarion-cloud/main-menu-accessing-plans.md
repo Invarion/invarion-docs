@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 6
+tags:
+  - cloud-plans
 
 ---
 # Main Menu - Accessing Plans

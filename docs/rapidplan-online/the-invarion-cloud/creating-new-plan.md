@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 3
+tags:
+  - cloud-plans
+  - getting-started
 
 ---
 # Creating New Plan

@@ -1,6 +1,9 @@
 ﻿---
 
 sidebar_position: 5
+tags:
+  - print-export
+  - mapping-geospatial
 
 ---
 # Georeferenced image export

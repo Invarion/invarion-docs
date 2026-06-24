@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 7.1
+tags:
+  - drawing-editing
+  - object-properties
 
 ---
 # Setting custom scale and rotation points

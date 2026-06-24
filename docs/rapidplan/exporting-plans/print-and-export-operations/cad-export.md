@@ -1,5 +1,8 @@
 ﻿---
 sidebar_position: 4
+tags:
+  - print-export
+  - mapping-geospatial
 ---
 
 # CAD export

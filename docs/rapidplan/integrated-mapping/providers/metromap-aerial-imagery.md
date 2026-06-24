@@ -1,6 +1,8 @@
 ﻿---
 
 sidebar_position: 9
+tags:
+  - mapping-geospatial
 
 ---
 # MetroMap aerial imagery

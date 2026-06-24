@@ -1,6 +1,9 @@
 ---
 
 sidebar_position: 11
+tags:
+  - mapping-geospatial
+  - import
 
 ---
 # Finding public ArcGIS Feature Services

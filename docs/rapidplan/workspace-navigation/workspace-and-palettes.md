@@ -1,6 +1,8 @@
 ﻿---
 
 sidebar_position: 1
+tags:
+  - workspace
 
 ---
 # Workspace and palettes
