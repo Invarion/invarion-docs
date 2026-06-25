@@ -1,5 +1,16 @@
 # Release Notes
 
+## June 2026
+
+- Added a guide line while drawing arc objects, making it easier to place arcs accurately.
+- Improved object group settings so legend and manifest options, entry names, and opacity are handled more consistently.
+- Improved property grid fields for several objects, including rounded rectangles, callout boxes, location markers, and manifest-related settings.
+
+### Bug fixes
+
+- Fixed an issue where some reverse swept-path preview movements could cause the preview to stop working.
+- Fixed issues that could prevent arc direction and object group settings from being saved or restored correctly.
+
 ## May 2026
 
 - Fixed an issue where plans with a bearing value other than **0** could display differently in preview and export.
