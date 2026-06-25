@@ -43,6 +43,20 @@ Google is one of the main basemap options for current RapidPlan workflows:
 
 In supported locations, the Google Roadmap provider can also show **Road Level Details**, including features such as **lane markings**, turn lanes, crossings, and curb detail when you zoom in far enough.
 
+### Google annotation levels
+
+When you select **Google Roadmap** or **Google Satellite**, the **Base map** section includes an **Annotations** dropdown.
+
+![Google basemap annotations setting](../assets/google-basemap-annotations-setting.png)
+
+Use this setting to control how much Google map labeling appears on the basemap:
+
+- **None** shows a clean map without road labels, points of interest, or place names.
+- **Light** adds road labels and transport stops. With **Google Satellite**, this gives a satellite view with road labels, similar to the older Google Hybrid view.
+- **Full** shows the full Google map labeling, including road labels, points of interest, and place names.
+
+![Google basemap annotation levels comparison](../assets/google-basemap-annotations-comparison.png)
+
 ## Additional providers
 
 Depending on your region and subscriptions, you may also have access to providers such as:
@@ -86,4 +100,3 @@ If you need the imagery to print or export, import aerial photos instead of rely
 - Use [Aerial photo import](./aerial-photo-import.md) when you need basemap imagery included in print or export output.
 - Use [Georeferenced image import](../importing/georeferenced-image-import.md) for already georeferenced map images.
 - Use [Printing and Export](/category/exporting-plans) when you need output files.
-
