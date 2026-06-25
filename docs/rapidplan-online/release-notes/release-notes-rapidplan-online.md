@@ -1,5 +1,13 @@
 # Release Notes
 
+## June 2026
+
+- Added a guide line while drawing arcs and arc roads to make curve placement easier.
+
+### Bug fixes
+
+- Fixed an issue where swept-path preview could crash in certain reverse movements.
+
 ## May 2026
 
 - Fixed an issue where plans with a bearing value other than **0** could display differently in preview and export.
@@ -608,8 +616,6 @@ Added option to show/hide coordinates on the map.
 Set your plan to any scale of your choosing.
 
 Example objects shown during the setting of a plan's scale have also been improved.
-
-## November 2022
 
 ### Scratchpad tabs
 
