@@ -1,5 +1,7 @@
 # Release Notes
 
+## June 2026
+
 ## May 2026
 
 - Fixed an issue where plans with a bearing value other than **0** could display differently in preview and export.
