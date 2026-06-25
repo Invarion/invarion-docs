@@ -99,6 +99,18 @@ html.homepage .homepageHeroSearch .navbar__search-input:focus {
   box-shadow: 0 14px 34px rgba(24, 32, 52, 0.22), 0 0 0 3px rgba(241, 183, 26, 0.28);
 }
 
+html[data-theme='dark'].homepage .homepageHeroSearch .navbar__search-input {
+  border-color: rgba(241, 183, 26, 0.42);
+  background-color: var(--ifm-background-surface-color);
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.42), 0 2px 8px rgba(0, 0, 0, 0.28);
+  color: var(--ifm-font-color-base);
+}
+
+html[data-theme='dark'].homepage .homepageHeroSearch .navbar__search-input:focus {
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.42), 0 0 0 3px rgba(241, 183, 26, 0.28);
+}
+
 html.homepage .homepageHeroSearch .search-icon {
   left: 1rem;
   top: 50%;

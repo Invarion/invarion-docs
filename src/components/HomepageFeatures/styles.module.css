@@ -1,8 +1,38 @@
 .features {
+  --homepage-section-bg: #f6f7fb;
+  --homepage-surface-bg: var(--ifm-background-surface-color);
+  --homepage-card-border: #8f9cc4;
+  --homepage-card-border-strong: var(--ifm-color-primary);
+  --homepage-card-shadow: 0 12px 30px rgba(32, 47, 90, 0.08);
+  --homepage-featured-card-shadow: 0 16px 38px rgba(32, 47, 90, 0.13);
+  --homepage-callout-shadow: 0 10px 24px rgba(32, 47, 90, 0.07);
+  --homepage-icon-bg: #eef2ff;
+  --homepage-text: var(--ifm-heading-color);
+  --homepage-muted-text: var(--ifm-color-content-secondary);
+  --homepage-link: var(--ifm-color-primary);
+  --homepage-link-hover: var(--ifm-color-primary-dark);
+  --homepage-button-bg: #eef2ff;
+  --homepage-button-bg-hover: #e3e9ff;
+  --homepage-button-border: #cfd8f6;
+
   width: 100%;
   padding: 4rem 0 5rem;
   overflow-x: hidden;
-  background: #f6f7fb;
+  background: var(--homepage-section-bg);
+}
+
+html[data-theme='dark'] .features {
+  --homepage-section-bg: var(--ifm-background-color);
+  --homepage-surface-bg: var(--ifm-background-surface-color);
+  --homepage-card-border: rgba(241, 183, 26, 0.28);
+  --homepage-card-border-strong: rgba(241, 183, 26, 0.55);
+  --homepage-card-shadow: 0 12px 30px rgba(0, 0, 0, 0.3);
+  --homepage-featured-card-shadow: 0 16px 38px rgba(0, 0, 0, 0.38);
+  --homepage-callout-shadow: 0 10px 24px rgba(0, 0, 0, 0.24);
+  --homepage-icon-bg: rgba(241, 183, 26, 0.14);
+  --homepage-button-bg: rgba(241, 183, 26, 0.12);
+  --homepage-button-bg-hover: rgba(241, 183, 26, 0.18);
+  --homepage-button-border: rgba(241, 183, 26, 0.34);
 }
 
 .no-padding {
@@ -16,10 +46,10 @@
   gap: 1.5rem;
   margin-bottom: 1.25rem;
   padding: 1rem 1.25rem;
-  border: 1.25px solid #8f9cc4;
+  border: 1.25px solid var(--homepage-card-border);
   border-radius: 8px;
-  background: #ffffff;
-  box-shadow: 0 10px 24px rgba(32, 47, 90, 0.07);
+  background: var(--homepage-surface-bg);
+  box-shadow: var(--homepage-callout-shadow);
 }
 
 .helpItem {
@@ -38,8 +68,8 @@
   width: 2rem;
   height: 2rem;
   border-radius: 50%;
-  background: #eef2ff;
-  color: #293b74;
+  background: var(--homepage-icon-bg);
+  color: var(--homepage-link);
   font-size: 1.1rem;
   font-weight: 800;
 }
@@ -52,20 +82,20 @@
 
 .helpText {
   margin: 0;
-  color: #1d2433;
+  color: var(--homepage-text);
   font-size: 1rem;
   line-height: 1.4;
 }
 
 .helpLink {
-  color: #293b74;
+  color: var(--homepage-link);
   font-weight: 700;
   text-decoration: none;
 }
 
 .helpLink:hover,
 .helpLink:focus {
-  color: #1f2d5e;
+  color: var(--homepage-link-hover);
   text-decoration: underline;
 }
 
@@ -93,17 +123,17 @@
   min-width: 0;
   min-height: 220px;
   padding: 1.35rem;
-  border: 1.25px solid #8f9cc4;
+  border: 1.25px solid var(--homepage-card-border);
   border-radius: 8px;
-  background: #ffffff;
-  box-shadow: 0 12px 30px rgba(32, 47, 90, 0.08);
+  background: var(--homepage-surface-bg);
+  box-shadow: var(--homepage-card-shadow);
 }
 
 .featuredCard {
   min-height: 100%;
   padding: 2.25rem;
-  border-color: #293b74;
-  box-shadow: 0 16px 38px rgba(32, 47, 90, 0.13);
+  border-color: var(--homepage-card-border-strong);
+  box-shadow: var(--homepage-featured-card-shadow);
 }
 
 .textOnlyCard {
@@ -140,7 +170,7 @@
 }
 
 .cardTitle {
-  color: #1d2433;
+  color: var(--homepage-text);
   font-size: 1.4rem;
   font-weight: 750;
   line-height: 1.08;
@@ -158,13 +188,13 @@
 
 .cardTitle:hover,
 .cardTitle:focus {
-  color: #293b74;
+  color: var(--homepage-link);
   text-decoration: none;
 }
 
 .cardDescription {
   margin: 0.15rem 0 1.05rem;
-  color: #667085;
+  color: var(--homepage-muted-text);
   font-size: 0.96rem;
   line-height: 1.38;
 }
@@ -204,10 +234,10 @@
   justify-content: center;
   min-height: 2.25rem;
   padding: 0.36rem 0.82rem;
-  border: 1px solid #cfd8f6;
+  border: 1px solid var(--homepage-button-border);
   border-radius: 8px;
-  background: #eef2ff;
-  color: #293b74;
+  background: var(--homepage-button-bg);
+  color: var(--homepage-link);
   font-size: 0.92rem;
   font-weight: 700;
   line-height: 1.1;
@@ -228,14 +258,14 @@
 
 .buttonLink:hover,
 .buttonLink:focus {
-  border-color: #293b74;
-  background: #e3e9ff;
-  color: #1f2d5e;
+  border-color: var(--homepage-card-border-strong);
+  background: var(--homepage-button-bg-hover);
+  color: var(--homepage-link-hover);
   text-decoration: none;
 }
 
 .textLink {
-  color: #293b74;
+  color: var(--homepage-link);
   font-size: 0.88rem;
   font-weight: 650;
   line-height: 1.25;
@@ -244,7 +274,7 @@
 
 .textLink:hover,
 .textLink:focus {
-  color: #1f2d5e;
+  color: var(--homepage-link-hover);
   text-decoration: underline;
 }
 
