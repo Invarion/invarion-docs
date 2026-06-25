@@ -53,8 +53,14 @@ html.homepage [class*='navbarSearchContainer'] {
   display: none;
 }
 
+html.homepage,
+html.homepage body {
+  overflow-x: hidden;
+}
+
 html.homepage .homepageHeroSearch .navbar__search-input {
   width: 100%;
+  min-width: 0;
   height: 3.25rem;
   border: 1px solid rgba(255, 255, 255, 0.7);
   border-radius: 8px;
@@ -68,6 +74,12 @@ html.homepage .homepageHeroSearch .navbar__search-input {
 html.homepage .homepageHeroSearch .navbar__search,
 html.homepage .homepageHeroSearch .algolia-autocomplete {
   width: 100%;
+  min-width: 0;
+  max-width: 100%;
+}
+
+html.homepage .homepageHeroSearch {
+  max-width: 620px;
 }
 
 html.homepage .homepageHeroSearch .algolia-autocomplete .ds-dropdown-menu {
@@ -96,6 +108,21 @@ html.homepage .homepageHeroSearch .search-icon {
 @media (max-width: 996px) {
   html.homepage .homepageHeroSearch .navbar__search-input {
     height: 3rem;
+  }
+}
+
+@media (max-width: 600px) {
+  html.homepage .homepageHeroSearch {
+    width: calc(100vw - 4rem) !important;
+    max-width: calc(100vw - 4rem) !important;
+    overflow: hidden;
+  }
+
+  html.homepage .homepageHeroSearch .navbar__search,
+  html.homepage .homepageHeroSearch .algolia-autocomplete,
+  html.homepage .homepageHeroSearch .navbar__search-input {
+    width: 100% !important;
+    max-width: 100% !important;
   }
 }
 

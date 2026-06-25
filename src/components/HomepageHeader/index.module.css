@@ -14,6 +14,18 @@
 
 }
 
+.heroDescription {
+  max-width: 760px;
+  margin: 1rem auto 0;
+  color: #eef3ff;
+  font-size: 1.3rem;
+  line-height: 1.45;
+}
+
+.heroBanner :global(.hero__title) {
+  overflow-wrap: anywhere;
+}
+
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem 1.25rem 6rem;
@@ -29,8 +41,31 @@
 .heroSearch {
   position: relative;
   z-index: 5;
-  width: min(620px, 100%);
-  margin: 2.875rem auto 0;
+  width: 100%;
+  max-width: 620px;
+  margin: 2.25rem auto 0;
+}
+
+@media screen and (max-width: 600px) {
+  .heroBanner {
+    padding: 2.75rem 1rem 5.25rem;
+  }
+
+  .heroBanner :global(.hero__title) {
+    font-size: 2.6rem;
+    line-height: 1.12;
+  }
+
+  .heroDescription {
+    max-width: calc(100vw - 2rem);
+    font-size: 1.15rem;
+    overflow-wrap: anywhere;
+  }
+
+  .heroSearch {
+    width: calc(100vw - 4rem);
+    max-width: calc(100vw - 4rem);
+  }
 }
 
 html[data-theme='dark'] .heroBanner {

@@ -1,15 +1,347 @@
 .features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
   width: 100%;
+  padding: 4rem 0 5rem;
+  overflow-x: hidden;
+  background: #f6f7fb;
 }
 
-
 .no-padding {
-  padding: 0px !important
+  padding: 0 !important;
+}
+
+.helpCallout {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 1.25rem;
+  padding: 1rem 1.25rem;
+  border: 1.25px solid #8f9cc4;
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: 0 10px 24px rgba(32, 47, 90, 0.07);
+}
+
+.helpItem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.9rem;
+  min-width: 0;
+}
+
+.helpIcon {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: #eef2ff;
+  color: #293b74;
+  font-size: 1.1rem;
+  font-weight: 800;
+}
+
+.helpIcon svg {
+  width: 1.15rem;
+  height: 1.15rem;
+  fill: currentColor;
+}
+
+.helpText {
+  margin: 0;
+  color: #1d2433;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.helpLink {
+  color: #293b74;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.helpLink:hover,
+.helpLink:focus {
+  color: #1f2d5e;
+  text-decoration: underline;
+}
+
+.productGrid {
+  display: grid;
+  grid-template-columns: minmax(0, 0.98fr) minmax(0, 1.08fr);
+  gap: 2rem;
+  align-items: start;
+  min-width: 0;
+}
+
+.secondaryGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-auto-rows: 1fr;
+  gap: 1.25rem;
+  min-width: 0;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  width: 100%;
+  min-width: 0;
+  min-height: 220px;
+  padding: 1.35rem;
+  border: 1.25px solid #8f9cc4;
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: 0 12px 30px rgba(32, 47, 90, 0.08);
+}
+
+.featuredCard {
+  min-height: 100%;
+  padding: 2.25rem;
+  border-color: #293b74;
+  box-shadow: 0 16px 38px rgba(32, 47, 90, 0.13);
+}
+
+.textOnlyCard {
+  padding-top: 2rem;
+}
+
+.cardHeader {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.85rem;
+  min-width: 0;
+}
+
+.featuredCard .cardHeader {
+  gap: 1.2rem;
+  margin-bottom: 1.25rem;
+}
+
+.logoLink {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  color: inherit;
+  text-decoration: none;
+}
+
+.cardBody {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.cardTitle {
+  color: #1d2433;
+  font-size: 1.4rem;
+  font-weight: 750;
+  line-height: 1.08;
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+
+.cardTitle span {
+  display: block;
+}
+
+.featuredCard .cardTitle {
+  font-size: 2.25rem;
+}
+
+.cardTitle:hover,
+.cardTitle:focus {
+  color: #293b74;
+  text-decoration: none;
+}
+
+.cardDescription {
+  margin: 0.15rem 0 1.05rem;
+  color: #667085;
+  font-size: 0.96rem;
+  line-height: 1.38;
+}
+
+.featuredCard .cardDescription {
+  max-width: 33rem;
+  margin-bottom: 1.75rem;
+  font-size: 1.22rem;
+  line-height: 1.5;
+}
+
+.cardLinks,
+.accountsLinksBlock {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: auto;
+}
+
+.accountsLinksBlock {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin-top: 0.3rem;
+}
+
+.accountsLinks {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  min-width: 0;
+}
+
+.buttonLink {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.25rem;
+  padding: 0.36rem 0.82rem;
+  border: 1px solid #cfd8f6;
+  border-radius: 8px;
+  background: #eef2ff;
+  color: #293b74;
+  font-size: 0.92rem;
+  font-weight: 700;
+  line-height: 1.1;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.featuredCard .buttonLink {
+  min-height: 2.55rem;
+  padding-right: 1.1rem;
+  padding-left: 1.1rem;
+  font-size: 1rem;
+}
+
+.featuredCard .cardLinks {
+  flex-wrap: nowrap;
+}
+
+.buttonLink:hover,
+.buttonLink:focus {
+  border-color: #293b74;
+  background: #e3e9ff;
+  color: #1f2d5e;
+  text-decoration: none;
+}
+
+.textLink {
+  color: #293b74;
+  font-size: 0.88rem;
+  font-weight: 650;
+  line-height: 1.25;
+  text-decoration: none;
+}
+
+.textLink:hover,
+.textLink:focus {
+  color: #1f2d5e;
+  text-decoration: underline;
 }
 
 .logo {
-  transform: scale(0.75);
+  display: block;
+  width: 66px;
+  height: 66px;
+  object-fit: contain;
+}
+
+.tallLogo {
+  width: 86px;
+  height: 86px;
+}
+
+.featuredCard .logo {
+  width: 108px;
+  height: 108px;
+}
+
+@media screen and (max-width: 996px) {
+  .features {
+    padding: 3rem 0 4rem;
+  }
+
+  .productGrid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .secondaryGrid {
+    gap: 1rem;
+  }
+
+  .featuredCard {
+    min-height: 0;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .features :global(.container) {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+
+  .helpCallout {
+    grid-template-columns: 1fr;
+    align-items: stretch;
+    gap: 1rem;
+  }
+
+  .helpItem {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .productGrid,
+  .secondaryGrid,
+  .card,
+  .featuredCard {
+    max-width: calc(100vw - 2rem);
+  }
+
+  .secondaryGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .card,
+  .featuredCard {
+    min-height: 0;
+    padding: 1.35rem;
+  }
+
+  .textOnlyCard {
+    padding-top: 1.35rem;
+  }
+
+  .cardHeader,
+  .featuredCard .cardHeader {
+    gap: 0.85rem;
+    margin-bottom: 1rem;
+  }
+
+  .featuredCard .logo {
+    width: 76px;
+    height: 76px;
+  }
+
+  .cardDescription {
+    overflow-wrap: anywhere;
+  }
+
+  .cardLinks {
+    gap: 0.6rem;
+  }
+
+  .featuredCard .cardLinks {
+    flex-wrap: wrap;
+  }
 }

@@ -223,7 +223,7 @@ const config = {
               },
               {
                 label: 'Blog',
-                href: 'https://invarion.com/blog/',
+                href: 'https://blog.invarion.com/',
                 target: '_self',
               },
             ],
@@ -238,7 +238,7 @@ const config = {
               },
               {
                 label: 'RapidPlan Online',
-                href: 'https://invarion.com/products/rapidplan-online/',
+                href: 'https://invarion.com/products/rapidplanonline/',
                 target: '_self',
               },
               {
@@ -248,7 +248,7 @@ const config = {
               },
               {
                 label: 'RapidPath Online',
-                href: 'https://invarion.com/products/rapidpath-online/',
+                href: 'https://invarion.com/products/rapidpathonline/',
                 target: '_self',
               },
             ],
