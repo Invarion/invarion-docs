@@ -8,6 +8,7 @@
     "start": "docusaurus start",
     "start:poll": "docusaurus start --poll 1000",
     "build": "docusaurus build",
+    "build:sites": "yarn build && node scripts/build-sites-artifact.mjs",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
