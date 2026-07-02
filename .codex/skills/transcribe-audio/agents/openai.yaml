@@ -1,0 +1,4 @@
+interface:
+  display_name: "Transcribe Audio"
+  short_description: "Fast local audio transcription workflow."
+  default_prompt: "Use $transcribe-audio to transcribe the provided audio file efficiently."
