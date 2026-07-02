@@ -19,14 +19,7 @@ The user may provide rough notes from sales, QA, development, or support. Treat 
 
 ## Voice Recordings
 
-If the user provides a voice recording:
-
-1. Check whether local transcription can run.
-2. Read `references/transcription-setup.md` only when transcription setup, verification, or fallback details are needed.
-3. Use `scripts/transcribe_audio.py --check-env` to diagnose the environment.
-4. Diagnose prerequisites separately: Python, `ffmpeg` on `PATH`, `faster-whisper` in `.transcription\libs`, model cache availability for offline use, and access to the audio file.
-5. If transcription is not ready, tell the user only the missing manual setup steps. For example, if `faster-whisper` is installed but `ffmpeg` is missing, only explain how to install `ffmpeg`, add it to `PATH`, and verify it.
-6. Offer the quick fallback: the user can transcribe the recording externally and paste the transcript.
+If the user provides a voice recording, audio file, or video with spoken content, transcribe the audio first, then treat the transcript as source material for the documentation update.
 
 ## Attachments
 
