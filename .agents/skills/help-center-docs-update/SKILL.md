@@ -9,6 +9,10 @@ Use this skill for Invarion Help Center documentation updates in this repository
 
 The user may provide rough notes from sales, QA, development, or support. Treat source material as directional, not publication-ready. Analyze it against the existing docs, clarify only what is ambiguous, make the local changes, verify consistency, and summarize what changed.
 
+For article style, tone, structure, terminology, links, images, Markdown conventions, and page tagging, follow the Help Center style guide at this repo-root-relative path:
+
+`.agents/help-center-style-guide.md`
+
 ## Intake
 
 1. Identify the affected product or section: RapidPlan, RapidPath, RapidPlan Online, RapidPath Online, or Accounts & Setup.
@@ -42,14 +46,12 @@ Before editing:
 5. Check nearby pages in the same category and pages that link to or from the target.
 6. Check shared-documentation relationships. RapidPath often relies on RapidPlan docs for shared workflows; RapidPath Online often relies on RapidPlan Online docs.
 
-## Writing
+## Writing And Source Handling
 
 Write for Help Center readers who want to complete a task or understand a feature.
 
-- Match surrounding page style and terminology.
-- Use practical headings such as "Choose a provider", "Import aerial photos", or "Google annotation levels".
-- Explain what the feature does, when to use it, and how to configure it.
-- Use numbered steps for workflows and concise bullets for option definitions.
+- Apply the Help Center style guide before making content, formatting, image, link, or tag decisions.
+- Match surrounding page terminology and established product behavior.
 - Preserve historical release note wording unless the task explicitly asks to update release notes.
 - Avoid unsupported claims. If behavior is not confirmed by the source material or existing docs, inspect further or ask.
 - Keep scope tight. Do not refactor unrelated content unless needed for consistency.
@@ -58,14 +60,11 @@ Write for Help Center readers who want to complete a task or understand a featur
 
 When adding or updating assets:
 
-1. Store assets near related documentation, following existing folder conventions.
-2. Use descriptive lowercase hyphenated filenames for new assets unless the surrounding directory clearly follows another convention.
-3. Use attached assets as-is when the user asks for that.
-4. Process assets when requested or when a derived artifact clearly improves the documentation, such as a mosaic comparing several views.
-5. Keep processed images readable at normal Help Center page width.
-6. Visually inspect generated or edited images before referencing them.
-7. Add concise alt text in Markdown image references.
-8. Do not include every supplied screenshot automatically; select assets that support the documentation goal.
+1. Follow the style guide's image and asset conventions.
+2. Use attached assets as-is when the user asks for that.
+3. Process assets when requested or when a derived artifact clearly improves the documentation, such as a mosaic comparing several views.
+4. Visually inspect generated or edited images before referencing them.
+5. Do not include every supplied screenshot automatically; select assets that support the documentation goal.
 
 ## Consistency Review
 

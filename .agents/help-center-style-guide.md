@@ -90,6 +90,7 @@ Recommended structure:
 - Avoid vague titles such as "Overview", "Introduction", and "What this section covers" unless the page is a category landing page.
 - Do not refer to "chapter", "manual", or "section" unless quoting legacy product UI.
 - Use headings to separate tasks, symptoms, or concepts, not to create artificial hierarchy.
+- Use concrete headings that name the task, option, or state, such as "Choose a provider", "Import aerial photos", or "Google annotation levels".
 
 ## Standard Terms
 
@@ -143,6 +144,7 @@ Use product names exactly:
 - Use bullets for unordered options, checks, or requirements.
 - Include prerequisites before steps when missing setup would block the task.
 - Include the expected result after complex steps.
+- For feature articles, explain what the feature does, when to use it, and how to configure it before covering edge cases.
 - Do not mix tutorial, troubleshooting, and reference content in one long article if separate articles would be easier to scan.
 
 ## Notes, Warnings, And Support Escalation
@@ -169,13 +171,16 @@ When escalation is needed, state exactly what to provide:
 - Check that link text describes the destination. Avoid "click here".
 - Do not overload articles with long lists of loosely related links. Use a "Related articles" section when helpful.
 
-## Images
+## Images And Assets
 
 - Use images to confirm UI location, expected output, or visually complex steps.
 - Add meaningful alt text that identifies the UI or result.
 - Place the image near the step it supports.
 - Do not rely on screenshots alone. The surrounding text must still explain the action.
 - Remove outdated screenshots when UI labels, layout, or icons have changed.
+- Store assets near the related article, following existing folder conventions.
+- Use descriptive lowercase hyphenated filenames for new assets unless the surrounding directory clearly follows another convention.
+- Keep processed images readable at normal Help Center page width.
 
 ## Markdown And Docusaurus
 
@@ -219,6 +224,7 @@ For any changed article, check:
 - Product names and UI terms match this guide.
 - Procedures use numbered lists and each step renders correctly.
 - Screenshots are still relevant and placed near the matching step.
+- New or edited image assets follow the repository's location and filename conventions.
 - Links resolve to current Help Center routes.
 - Tags support topic discovery and cross-product workflows.
 - The article does not refer to "chapter", "manual", or outdated navigation.
