@@ -65,7 +65,7 @@ const productCards: ProductCard[] = [
     image: '/img/rapidplan-online-symbol.svg',
     imageClassName: styles.tallLogo,
     to: '/rapidplan-online/Welcome',
-    releaseNotesTo: '/rapidplan-online/release-notes/release-notes-rapidplan-online',
+    releaseNotesTo: '/rapidplan-online/release-notes/',
   },
   {
     title: 'RapidPath',
@@ -82,7 +82,7 @@ const productCards: ProductCard[] = [
       'Check vehicle movements on integrated mapping in a browser without needing CAD software.',
     image: '/img/rapidpath-online-symbol.svg',
     to: '/rapidpath-online/Welcome',
-    releaseNotesTo: '/rapidpath-online/release-notes/release-notes-rapidpath-online',
+    releaseNotesTo: '/rapidpath-online/release-notes/',
   },
 ];
 

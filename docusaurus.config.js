@@ -121,7 +121,7 @@ const config = {
         text: 'Release Notes - RapidPlan',
       },
       {
-        to: '/rapidplan-online/release-notes/release-notes',
+        to: '/rapidplan-online/release-notes/',
         text: 'Release Notes - RapidPlan Online',
       },
       {
@@ -129,7 +129,7 @@ const config = {
         text: 'Release Notes - RapidPath',
       },
       {
-        to: '/rapidpath-online/release-notes/release-notes',
+        to: '/rapidpath-online/release-notes/',
         text: 'Release Notes - RapidPath Online',
       },
     ],
