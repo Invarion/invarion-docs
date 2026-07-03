@@ -14,7 +14,7 @@ hide_title: true
 
 The import workflow for spatial data has been redesigned and consolidated into a single interface - the Spatial Data Import tool.
 
-ArcGIS support was added, allowing RapidPlan to connect to ArcGIS Feature Services. Individual ArcGIS layers can be selected and added as data providers in the new import tool, where their data can be previewed over the current plan and imported to it. For more details on specific services you can access, see related article on [Finding ArcGIS Feature Services](/docs/rapidplan/integrated-mapping/importing/finding-arcgis-feature-services.md).
+ArcGIS support was added, allowing RapidPlan to connect to ArcGIS Feature Services. Individual ArcGIS layers can be selected and added as data providers in the new import tool, where their data can be previewed over the current plan and imported to it. For more details on specific services you can access, see related article on [Finding ArcGIS Feature Services](/rapidplan/basemaps-and-spatial-data/importing-external-data/finding-arcgis-feature-services).
 
 RapidPlan continues to support CAD, KML and Shapefile formats - such files can now be added as providers in the Spatial Data Import tool.
 
@@ -77,8 +77,8 @@ This update makes it easier to reuse standardized symbols across different objec
 Multiple RapidPlan instances can now run on the same machine, allowing parallel work with multiple plans or workflows.
 
 A new instance can be started in the following ways:
-- New window (Ctrl + Alt + N) â€“ Available in the File section of the main menu. Opens a new, empty RapidPlan window.
-- Open in new Window â€“ Available from a planâ€™s context menu. Opens the selected plan in a separate window (the plan must be saved).
+- New window (Ctrl + Alt + N) - Available in the File section of the main menu. Opens a new, empty RapidPlan window.
+- Open in new Window - Available from a plan's context menu. Opens the selected plan in a separate window (the plan must be saved).
 
 Additionally, saved open plans can be dragged and dropped into a new RapidPlan window using a dedicated drag handle.
 
@@ -88,7 +88,7 @@ Additionally, saved open plans can be dragged and dropped into a new RapidPlan w
 
 Print region management has been simplified with a single, consistent ordering system.
 
-Whatâ€™s changed:
+What's changed:
 - Print regions can now be reordered directly in the **Print Regions** window using drag-and-drop
 - The list order defines the default output order for actions such as **batch export**
 
@@ -171,7 +171,7 @@ For plans stored in the Invarion Cloud, you can now annotate specific locations 
 
 CAD Import has been integrated into RapidPlan's georeferenced import tool (previously used for KML/SHP files only), allowing you to seamlessly integrate CAD road layouts with georeferenced traffic control plans. All EPSG spatial projections are supported, with CAD data reprojected on the fly for instant overlay over your TCP basemap.
 
-### Location Marker Object
+### Location marker Object
 
 ![location markers](./assets/location_markers.png)
 
@@ -310,27 +310,27 @@ RapidPlan's core rendering engine has been redesigned to provide significant per
 
  **Import and export text variables as CSV** - We've added support for CSV (Comma-Separated Values) format, which is commonly used in spreadsheets. By using CSV format, you can easily import and export text variables between our software and other spreadsheet applications, streamlining your workflow and saving you time.
 
-**Batch export one PDF per plan** - The new **batch export** option â€œOne file per planâ€ allows exporting multiple plans in a single batch while saving each into a separate file.
+**Batch export one PDF per plan** - The new **batch export** option "One file per plan" allows exporting multiple plans in a single batch while saving each into a separate file.
 
 **Conversion between a Text Objects and Text Boxes** - Seamlessly convert text objects to text boxes and vice versa.
 
-**Copy and paste multiple layers** - Right-click in the Layers panel and select â€œCopy visible layersâ€ from the context menu to copy all currently visible layers. Then paste them by selecting â€œPaste layersâ€ from the same menu.
+**Copy and paste multiple layers** - right-click in the Layers panel and select "Copy visible layers" from the context menu to copy all currently visible layers. Then paste them by selecting "Paste layers" from the same menu.
 
 **Sidewalk offset color** - Sidewalk offset color can now be changed in all Road Tools.
 
 **Print regions position on bearing change** - Changing the bearing of the map readjusts the positions of **print regions** to ensure that they are accurately centered on the intended location.
 
-**Reset page numbers** - Find this option in â€œAdvanced toolsâ€ to recalculate **print regions**â€™ page numbers (this will also resets any manual changes to the page numbers).
+**Reset page numbers** - Find this option in "Advanced tools" to recalculate **print regions**' page numbers (this will also resets any manual changes to the page numbers).
 
 **Zoomed View Box - drag source area** - With the **Zoomed View Box** object selected, you can now easily change the position of its source region by clicking on its border and dragging it to a new location.
 
-**Snapping in the Edit crop tool** - Snap to other objects while defining the objectâ€™s crop.
+**Snapping in the Edit crop tool** - Snap to other objects while defining the object's crop.
 
 **Base stage layers reordering** - You can now conveniently rearrange the order of base stage layers while working on a different stage.
 
 **Multiline stage names** - Stage names now support multiline text.
 
-**Multi Message Sign dialog size** - The size of the MMS dialog is now saved in your application settings. This means that the next time you open the dialog, it will automatically open to the same size you previously used.
+**Multi-message Sign dialog size** - The size of the MMS dialog is now saved in your application settings. This means that the next time you open the dialog, it will automatically open to the same size you previously used.
 
 ## RapidPlan 3.9
 
@@ -354,7 +354,7 @@ A dockable panel listing all **Print Regions** on the current plan allows access
 
 ![plan location tools](./assets/133034891694724289-planLocationTools.png)
 
-**Right click** on any location while drawing a base map plan and use the location coordinates to look it up in a number of external services including Google Maps and Street View.
+right-click on any location while drawing a base map plan and use the location coordinates to look it up in a number of external services including Google Maps and Street View.
 
 #### More changes
 
@@ -463,7 +463,7 @@ The **Zoomed View Box** can now be styled to present its content in an ellipse o
 * Transport for NSW TCAWS Signs update
 * Queensland MUTCD Q-Series Signs update
 * South Australia DPTI Templates 2020
-* South Australia DPTI Multi Message Signs update
+* South Australia DPTI Multi-message Signs update
 * Ireland DOT TTM Layout update
 * UK Department for Transport/Highways Agency Templates update
 * NZTA Signs Update
@@ -488,7 +488,7 @@ The Recent Plans list can now display up to 50 items, highlights selected item o
 
 ![Show Street View](./assets/132418122568605100-street_view.png)
 
-Right-click on a map location and select Show Google Street View to see on-site photos in your web browser (subject to Street View image availability at the specific location).
+right-click on a map location and select Show Google Street View to see on-site photos in your web browser (subject to Street View image availability at the specific location).
 
 ### Advanced Snapping
 
@@ -568,13 +568,13 @@ Capture Modes
 
 ![select contained](./assets/132265972642441432-SelectContained.png) Contained objects (default)
 
-![select intersecting](./assets/132265972767013513-SelectIntersecting.png) Intersecting objects (use right mouse button)
+![select intersecting](./assets/132265972767013513-SelectIntersecting.png) Intersecting objects (use right-click)
 
 ### Spellcheck improvements
 
 ![Spellcheck Improvements](./assets/132265940280538350-spellcheck.png)
 
-Right-click on an underlined word when editing text and quickly add it to the spellcheck dictionary, so it doesn't get highlighted in the future.
+right-click on an underlined word when editing text and quickly add it to the spellcheck dictionary, so it doesn't get highlighted in the future.
 
 ### Inverted Crop
 
@@ -596,11 +596,11 @@ Ever lost work because you accidentally closed a plan without saving it? Use Fil
 
 **Toggle Text Alignment** - use **Ctrl + Alt + C** to quickly toggle between the available text alignment modes in all selected text objects.
 
-**Quick load print frame file** - if you've saved your standard Print Frame to a file, you will now be able to apply it to new plans quicker. Right-click on the print frame icon and select Create print frame -> From file...
+**Quick load print frame file** - if you've saved your standard Print Frame to a file, you will now be able to apply it to new plans quicker. right-click on the print frame icon and select Create print frame -> From file...
 
 **Drag group by control point** - with an objects group selected, press the Alt key to highlight the **grouped objects**' snapable **control points**. You can now use them to move the whole object and snap to other points on the plan.
 
-**Quick-adjust intersection masks** - **Right click** on an **intersection object**, select Edit intersection elements -> Show mask offset handles. The intersection gets decorated with points you can drag in order to mask out default markings to the desired distance along incoming roads.
+**Quick-adjust intersection masks** - right-click on an **intersection object**, select Edit intersection elements -> Show mask offset handles. The intersection gets decorated with points you can drag in order to mask out default markings to the desired distance along incoming roads.
 
 **Default aerial tiles provider setting** - you can now set the default aerials import tile provider independently of the default base map provider. This is useful if you normally use cartograpic maps as your plan canvas background, but import tiles from a satellite imagery provider.
 
@@ -620,7 +620,7 @@ Ever lost work because you accidentally closed a plan without saving it? Use Fil
 
 ![Advanced Geometry Drawing](./assets/132059304203892127-GeometrySnapping.png)
 
-Snap to an existing geometry when drawing an object and RapidPlan will automatically create **control points** to fit the desired curve. Use the Offset Geometry tool to further adjust object position. Drawing delineators, **lane markings**, work zones along road and lane edges becomes easier than ever. NOTE: use F3 to quickly toggle snapping on/off or **Right click** the toolbar button to individually toggle snapping to points and/or geometries.
+Snap to an existing geometry when drawing an object and RapidPlan will automatically create **control points** to fit the desired curve. Use the Offset Geometry tool to further adjust object position. Drawing delineators, **lane markings**, work zones along road and lane edges becomes easier than ever. NOTE: use F3 to quickly toggle snapping on/off or right-click the toolbar button to individually toggle snapping to points and/or geometries.
 
 ### Snap to Bounds
 
@@ -666,7 +666,7 @@ NearMap subscribers in USA, Australia and New Zealand can now access NearMap aer
 
 **Skew Objects** - create pseudo perspective views by holding **Ctrl + Alt** to turn object scale handles into skew handles.
 
-**Independent Control Point Tangents** - right-click on a Bezier control oint and check the "Independent tangents" option. This will make both tangent points independent of each other, allowing more complex geometry shapes.
+**Independent Control Point Tangents** - right-click on a Bezier control point and check the "Independent tangents" option. This will make both tangent points independent of each other, allowing more complex geometry shapes.
 
 **Merge Layer Down** - select a layer and use the Merge Down button to move all its objects to the layer underneath.
 
@@ -678,7 +678,7 @@ NearMap subscribers in USA, Australia and New Zealand can now access NearMap aer
 
 **Downward Text Orientation** - change Text Object's Text->Orientation property to Vertical to make it draw letters top-to-bottom instead of left-to-right.
 
-**MMS Panels and Frames in Manifest** - the Multi Message Sign can now report it's panels and frame to the Manifest individually, to allow counting the number of specific panels required for a job site.
+**MMS Panels and Frames in Manifest** - the Multi-message Sign can now report it's panels and frame to the Manifest individually, to allow counting the number of specific panels required for a job site.
 
 **Adjustable Island Edges** - the Island tool now has a full set of Edge, Shoulder and Sidewalk properties that can be matched with **road objects**.
 
@@ -736,11 +736,11 @@ The Manifest Export tool can now include location coordinates for signs and othe
 
 #### More changes
 
- **Double-click to repeat last tool -** double-click on a blank space on the drawing canvas to repeat the last operation (e.g. draw another text object)
+ **Double-click to repeat last tool -** double-click on a blank space on the canvas to repeat the last operation (e.g. draw another text object)
 
 **Rotate and scale multiple objects individually** - when multiple objects are selected, you can press the Alt key to change transformation mode from collective to individual. The scale and rotate handles will then transform each object individually (in place).
 
-**Importing road names and speed limits** - After using the Roads Import tool, right-click on the imported roads and select "Import road data". If the required data is available in OpenStreetMaps, your roads will get annotated with names and speed limit signs.
+**Importing road names and speed limits** - After using the Roads Import tool, right-click on the imported roads and select "Import road data". If the required data is available in OpenStreetMap, your roads will get annotated with names and speed limit signs.
 
 **Zoomed View Box improvements** - The **Zoomed View Box** can now outline the source region and lets you select which layers it is displaying.
 
@@ -780,7 +780,7 @@ Import and automatically position aerial imagery from external applications that
 
 The **Zoomed View Box** tool allows you to create insets presenting specific site areas at a higher level of detail. The tool is available in the Annotations category of the **Tools palette**.
 
-### Export Manifest Tool
+### Export manifest tool
 
 ![Export Manifest Tool](./assets/131739808394353257-ExportManifest.png)
 
@@ -862,7 +862,7 @@ Files produced by exporting your base map plans to PDF are now much smaller and 
 
 ![Multi-Message Bookmarks](./assets/131596207813089033-mms.png)
 
-The Multi Message Sign dialog loads faster, shows panel codes and lets you bookmark your most used panels for instant access.
+The Multi-message Sign dialog loads faster, shows panel codes and lets you bookmark your most used panels for instant access.
 
 #### More changes
 
@@ -896,7 +896,7 @@ The Multi Message Sign dialog loads faster, shows panel codes and lets you bookm
 
 ![Integrated Base Maps](./assets/131460791504765237-IntegratedMapsShort.png)
 
-RapidPlan can now display a dynamic base map preview on the plan drawing canvas, download aerial tiles as plan background, import road network data and display lat/lng coordinates of any point on the plan. All you need to do to enable these features is specify **plan location** and scale. You can toggle between maps provided by Bing, ArcGIS and Omniscale, but we're planning to add even more providers in future RapidPlan releases.
+RapidPlan can now display a dynamic base map preview on the plan canvas, download aerial tiles as plan background, import road network data and display lat/lng coordinates of any point on the plan. All you need to do to enable these features is specify **plan location** and scale. You can toggle between maps provided by Bing, ArcGIS and Omniscale, but we're planning to add even more providers in future RapidPlan releases.
 
 ### New Plan Wizard
 
@@ -908,7 +908,7 @@ Use the New Plan Wizard to quickly specify all properties of a new plan you're c
 
 ![Unrestricted Canvas](./assets/131460778029969993-UnrestrictedCanvas.png)
 
-The plan drawing canvas is now fully unrestricted. Scroll to its edges and it'll expand automatically. Use **print regions** to indicate which parts of the canvas you want to include on printouts.
+The plan canvas is now fully unrestricted. Scroll to its edges and it'll expand automatically. Use **print regions** to indicate which parts of the canvas you want to include on printouts.
 TIP: the "Scroll to origin" button will help you quickly go back to diagram center.
 
 ### Copying Object Styles
@@ -922,7 +922,7 @@ TIP: use the Duplicate Style tool (**Ctrl + Shift + D**) to draw an object using
 
 ![Editing Text](./assets/131460779045204977-EditingText.png)
 
-All objects containing text can now be easily edited on-canvas. Simply **Double click** on the text you want to change and start typing.
+All objects containing text can now be easily edited on-canvas. Simply double-click on the text you want to change and start typing.
 
 ### Batch Print
 
@@ -952,9 +952,9 @@ You can now specify job location coordinates for each **traffic control plan** y
 
  **Custom spellchecker dictionary** - add words and phrases you often use so that SpellCheck knows they're valid.
 
-**Properties panel improvements** - advanced editors for Stroke, Fill, Text and other properties. Adjustable ordering and searching.
+**Properties palette improvements** - advanced editors for Stroke, Fill, Text and other properties. Adjustable ordering and searching.
 
-**Redesigned Quick Edit dialog** - if you prefer the dialog over the Properties panel, the new Quick Edit tool now allows you to edit all **object properties**.
+**Redesigned Quick Edit dialog** - if you prefer the dialog over the Properties palette, the new Quick Edit tool now allows you to edit all **object properties**.
 
 **Reorganized toolbars, menus and keyboard shortcuts** - quick access to the tools you use the most.
 

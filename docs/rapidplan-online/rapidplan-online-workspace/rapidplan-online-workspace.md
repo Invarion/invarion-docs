@@ -13,10 +13,10 @@ Before starting to create plans, we recommend getting to know your way around th
 
 There are four main components of the RapidPlan Online **workspace**:
 
-- [Canvas area](./canvas-area.md)
-- [Main menu](./main-menu.md)
-- [Toolbar](./toolbar.md)
-- [Palettes](./palettes.md)
+- [Canvas area](./canvas)
+- [Main menu](./main-menu)
+- [Toolbar](./Toolbar)
+- [Palettes](./Palettes)
 
 These **workspace** components are highlighted in the image below.
 

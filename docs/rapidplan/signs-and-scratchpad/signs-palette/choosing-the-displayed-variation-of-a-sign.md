@@ -11,10 +11,10 @@ Because there are often multiple versions of the same sign, you need to tell Rap
 
 **To set a different variation of a selected sign:**
 
-- Select the sign and go to the **Properties Palette**.
+- Select the sign and go to the **Properties palette**.
 
-- Make changes to **sign variations** as necessary. I will change the sign to allow Fax Mode (no color) and to show it's sign code as follows.
+- Change **sign variations** as needed. The example below changes the sign to allow Fax mode with no color and to show its sign code.
 
 ![Changing_a_Signs_Properties](./assets/Changing_a_Signs_Properties.png)
 
-**Note**: To change the variations to all your signs within the plan, simply use the Toolbar and click on Toggle Color/Fax mode or Sign Designation as explained [Special Canvas Modes](/docs/rapidplan/the-canvas/special-canvas-modes-fax-mode-and-sign-designation-mode.md) of this User Manual. This option will save you lots of time if all the signs are to be changed
+**Note:** To change variations for all signs in the plan, use **Toggle Color/Fax mode** or **Sign Designation** on the toolbar. See [Fax mode](/rapidplan/printing-and-export/print-and-export-operations/fax-mode) for related output behavior.

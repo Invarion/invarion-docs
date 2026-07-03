@@ -35,5 +35,5 @@ That workflow supports:
 
 RapidPlan can also work with georeferenced imagery in dedicated workflows. See:
 
-- [Georeferenced image import](/docs/rapidplan/integrated-mapping/importing/georeferenced-image-import.md)
-- [Georeferenced image export](/docs/rapidplan/exporting-plans/print-and-export-operations/georeferenced-image-export.md)
+- [Georeferenced image import](/rapidplan/basemaps-and-spatial-data/importing-external-data/georeferenced-image-import)
+- [Georeferenced image export](/rapidplan/printing-and-export/print-and-export-operations/georeferenced-image-export)

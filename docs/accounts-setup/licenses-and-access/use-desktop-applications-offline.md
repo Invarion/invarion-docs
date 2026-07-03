@@ -20,4 +20,4 @@ Multi-machine license holders require internet access while the license is in us
 
 ## Limited connectivity environments
 
-If your organization has limited connectivity, firewall restrictions, or proxy requirements, see [Firewall and proxy configuration](../desktop-applications/firewall-and-proxy-configuration.md).
+If your organization has limited connectivity, firewall restrictions, or proxy requirements, see [Firewall and proxy configuration](../desktop-applications/firewall-and-proxy-configuration).

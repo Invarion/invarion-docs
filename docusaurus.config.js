@@ -56,7 +56,7 @@ const config = {
         text: 'Install the Invarion Launcher',
       },
       {
-        to: '/rapidplan-online/the-invarion-cloud/invarion-cloud-and-its-layout',
+        to: '/rapidplan-online/the-invarion-cloud/invarion-cloud-layout',
         text: 'Using the Invarion Cloud',
       },
       {
@@ -64,8 +64,8 @@ const config = {
         text: 'The RapidPlan Online Workspace',
       },
       {
-        to: '/rapidplan/integrated-mapping/accessing-integrated-mapping',
-        text: 'Accessing Integrated Mapping',
+        to: '/rapidplan/basemaps-and-spatial-data/integrated-maps/integrated-map-providers',
+        text: 'Integrated map providers',
       },
     ],
     faqsLinks: [
@@ -99,19 +99,19 @@ const config = {
     ],
     accountManagementLinks: [
       {
-        to: '/accounts-setup/account-management/managing-licenses',
+        to: '/accounts-setup/account-management/manage-licenses-and-add-ons',
         text: 'Managing Licenses and Add-ons',
       },
       {
-        to: '/accounts-setup/account-management/managing-company-accounts',
+        to: '/accounts-setup/account-management/manage-company-accounts',
         text: 'Managing Users',
       },
       {
-        to: '/accounts-setup/account-management/buying-a-subscription',
+        to: '/accounts-setup/account-management/buy-a-subscription',
         text: 'Purchasing New Licenses',
       },
       {
-        to: '/accounts-setup/account-management/updating-your-billing-information',
+        to: '/accounts-setup/account-management/update-your-billing-information',
         text: 'Updating Your Billing Information',
       },
     ],
@@ -121,7 +121,7 @@ const config = {
         text: 'Release Notes - RapidPlan',
       },
       {
-        to: '/rapidplan-online/release-notes/release-notes-rapidplan-online',
+        to: '/rapidplan-online/release-notes/release-notes',
         text: 'Release Notes - RapidPlan Online',
       },
       {
@@ -129,7 +129,7 @@ const config = {
         text: 'Release Notes - RapidPath',
       },
       {
-        to: '/rapidpath-online/release-notes/release-notes-rapidpath-online',
+        to: '/rapidpath-online/release-notes/release-notes',
         text: 'Release Notes - RapidPath Online',
       },
     ],

@@ -6,7 +6,7 @@ tags:
   - vehicles
 
 ---
-# Swept Path Analysis Properties
+# Swept path analysis properties
 
 A Swept Path's properties can be updated in order to:
 
@@ -91,7 +91,7 @@ Directional arrows are a valid aesthetic choice if preferred, and can be valuabl
 **Show** options:
 
 - **Regular** - display the arrows in solid fill at every **control point** in the swept path.
-- **Stop** - displays the arrows in solid color every time the vehicle stops, and an outline of the arrow at every **control point** where the vehicle doesn't stop (keeping in mind if [turn on stop](./preparing-swept-path-analysis.md/#editing-an-existing-vehicle) is engaged for a **control point**, this will make the arrow solid).
+- **Stop** - displays the arrows in solid color every time the vehicle stops, and an outline of the arrow at every **control point** where the vehicle doesn't stop (keeping in mind if [turn on stop](./prepare-swept-path-analysis#editing-an-existing-vehicle) is engaged for a **control point**, this will make the arrow solid).
 - **None** - arrows are not visible.
 
 **Stroke**'s sub-settings **Width** alters the width of the outline of the arrows, and **color** controls the color of the arrow.

@@ -5,7 +5,7 @@ tags:
   - cloud-plans
 
 ---
-# The Navigation Menu
+# Navigation menu
 
 ## Home
 

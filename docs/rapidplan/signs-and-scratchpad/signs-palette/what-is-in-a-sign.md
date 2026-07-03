@@ -7,7 +7,7 @@ tags:
 ---
 # What is in a sign?
 
-We won't bother going into too much detail about the composition of a sign here - that's what the next chapter is for. However, it does help to know a little bit about how the signs are built as it will give you an understanding of what they can do.
+This article explains how RapidPlan signs are stored and why a sign can have multiple variations. Understanding this helps when you need to choose or create a sign variation.
 
 Each sign in RapidPlan has its own sign file saved on your computer, and almost every sign file contains multiple variations of the same sign. A typical sign has four variations.
 

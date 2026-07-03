@@ -12,13 +12,13 @@ tags:
 
 ![scratchpad](./assets/scratchpad-eg.png)
 
-To place an object in **Scratchpad**, select the object then **Right click** and select **Add to Scratchpad**.
+To place an object in **Scratchpad**, select the object then right-click and select **Add to Scratchpad**.
 
 ![add object to scratch pad](./assets/Add_object_to_Scratch_Pad.png)
 
 ## Scratchpad management
 
-**Right clicking** on an object *inside* the scratch pad will allow you to remove it or **reorder buttons**.
+right-clicking on an object *inside* the scratch pad will allow you to remove it or **reorder buttons**.
 In the reorder buttons menu you will be able to click and drag scratch pad items into different orders, as well as using the slidebar control at the bottom to change the size of icons in the scratch pad.
 Once you are finished in the reorder screen, click OK done to finish.
 
@@ -26,6 +26,6 @@ Once you are finished in the reorder screen, click OK done to finish.
 
 ## Scratchpad folder management
 
-Folders can be added in the scratch pad by clicking the **plus icon** in the top right. Folders can be renamed or deleted by **Right clicking** on them.
+Folders can be added in the scratch pad by clicking the **plus icon** in the top right. Folders can be renamed or deleted by right-clicking on them.
 
 ![folder management](./assets/folder%20management%20scratchpad.png)

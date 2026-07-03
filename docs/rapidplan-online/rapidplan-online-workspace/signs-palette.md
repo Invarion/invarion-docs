@@ -6,7 +6,7 @@ tags:
   - signs
 
 ---
-# Signs Palette
+# Signs palette
 
 The sign palette is the repository for each of the signs in RapidPlan Online. Aside from the signs themselves, the signs palette has three main components:
 
@@ -16,8 +16,8 @@ The sign palette is the repository for each of the signs in RapidPlan Online. As
 
 ![Sign Palette](./Assets/Sign_Palette.png)
 
-There is also an option where you can manually adjust the scale of the signs before dropping them on the **canvas area**.
+There is also an option where you can manually adjust the scale of the signs before dropping them on the canvas.
 
 ## Adjusting sign scale
 
-All of the signs in the **Signs palette** have a default size, which is relative to the **canvas area** zoom level. In some instances you might need to adjust the scale of signs before placing them on the **canvas area**. To do this, click the gear icon on the **Signs palette**. This will open a scale slider. Simply move the slider to adjust the scale of the sign.
+All of the signs in the **Signs palette** have a default size, which is relative to the canvas zoom level. In some instances you might need to adjust the scale of signs before placing them on the canvas. To do this, click the gear icon on the **Signs palette**. This will open a scale slider. Simply move the slider to adjust the scale of the sign.

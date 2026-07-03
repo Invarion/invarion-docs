@@ -9,11 +9,11 @@ tags:
 
 Users who master using layers will find themselves considerably more productive than those who do not. As described earlier, the main (but not sole) advantage offered by layers is the ability to produce multiple plans on the same road base map, but more experienced users will figure out more productive ways to utilize layer functionality.
 
-## General Guidelines When Using Layers
+## General guidelines for layers
 
 Here are a few general guidelines that will help you make the most out of the layer functions.
 
-### Always Keep Your Roadway the Background
+### Keep your roadway in the background
 
 Keeping your road on the background is almost always the most sensible place. Reordering layers in RapidPlan is possible as described above, but keeping your roads on the background will be easiest since whichever layer is listed at the top of the list will always be drawn on the canvas first - all other items on following layers are drawn in subsequent order. This means that unless you want your signs and devices to appear under the road, it should be on the bottom layer.
 
@@ -41,7 +41,7 @@ Two weeks after drawing the plan you will probably remember what each of the 6 s
 - Footpath closure for re-concreting
 - Aftercare signage before spray seal
 
-### Don't have different Road Sections on different Layers
+### Do not place different road sections on different layers
 
 It's never wise to have more than one road section in the same file. Doing so is likely to lead to confusion, when you have say 4 road sections, with 3 traffic schemes each. Unless you name your layers very carefully, you are likely to loose track of which layer scheme corresponds to which road base.
 

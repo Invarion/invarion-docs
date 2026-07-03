@@ -15,7 +15,7 @@ Objects in the same layer are drawn in an order, often called their z-order. Cha
 To change object order with the context menu:
 
 1. Select the object.
-2. Right-click the object.
+2. right-click the object.
 3. Open **Arrange**.
 4. Choose **Bring to front**, **Bring forward**, **Send backward**, or **Send to back**.
 

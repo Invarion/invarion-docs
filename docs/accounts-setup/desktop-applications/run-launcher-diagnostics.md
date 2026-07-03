@@ -5,7 +5,7 @@ tags:
   - troubleshooting
 ---
 
-# Run Launcher Diagnostics
+# Run Launcher diagnostics
 
 The Invarion Launcher includes a Diagnostics tool that collects information Invarion **Technical Support** can use to investigate Launcher, connectivity, download, licensing, RapidPlan, and RapidPath issues.
 

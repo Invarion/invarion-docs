@@ -8,22 +8,22 @@ Use this section to set up your Invarion account, manage users and licenses, ins
 
 ## Account management
 
-- [Access your account](./account-management/accessing-your-account.md)
-- [Manage company accounts and users](./account-management/managing-company-accounts.md)
-- [Manage licenses and add-ons](./account-management/managing-licenses.md)
-- [Buy a subscription](./account-management/buying-a-subscription.md)
-- [Update your billing information](./account-management/updating-your-billing-information.md)
-- [Cancel a subscription](./account-management/cancelling-a-subscription.md)
+- [Access your account](./account-management/access-your-account)
+- [Manage company accounts and users](./account-management/manage-company-accounts)
+- [Manage licenses and add-ons](./account-management/manage-licenses-and-add-ons)
+- [Buy a subscription](./account-management/buy-a-subscription)
+- [Update your billing information](./account-management/update-your-billing-information)
+- [Cancel a subscription](./account-management/cancel-a-subscription)
 
 ## Desktop applications
 
-- [Install and use the Invarion Launcher](./desktop-applications/install-and-use-the-invarion-launcher.md)
-- [Minimum system requirements](./desktop-applications/minimum-system-requirements.md)
-- [Firewall and proxy configuration](./desktop-applications/firewall-and-proxy-configuration.md)
-- [Troubleshoot Launcher issues](./desktop-applications/troubleshoot-launcher-issues.md)
-- [Run Launcher Diagnostics](./desktop-applications/run-launcher-diagnostics.md)
+- [Install and use the Invarion Launcher](./desktop-applications/install-and-use-the-invarion-launcher)
+- [Minimum system requirements](./desktop-applications/minimum-system-requirements)
+- [Firewall and proxy configuration](./desktop-applications/firewall-and-proxy-configuration)
+- [Troubleshoot Launcher issues](./desktop-applications/troubleshoot-launcher-issues)
+- [Run Launcher Diagnostics](./desktop-applications/run-launcher-diagnostics)
 
 ## Licenses and access
 
-- [Use desktop applications offline](./licenses-and-access/use-desktop-applications-offline.md)
-- [Transfer a single-machine license](./licenses-and-access/transfer-a-single-machine-license.md)
+- [Use desktop applications offline](./licenses-and-access/use-desktop-applications-offline)
+- [Transfer a single-machine license](./licenses-and-access/transfer-a-single-machine-license)

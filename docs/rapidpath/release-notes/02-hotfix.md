@@ -6,4 +6,4 @@ hide_title: true
 
 ## RapidPath Hotfix changelog
 
-**NOTE: RapidPath shares its Hotfix channel with RapidPlan, see changelog [HERE](/rapidplan/release-notes/hotfix/).**
+**Note:** RapidPath shares its Hotfix channel with RapidPlan. See the [RapidPlan Hotfix changelog](/rapidplan/release-notes/hotfix).

@@ -17,9 +17,9 @@ RapidPlan now features incorporated cloud functionality, allowing you to:
 
 ## Creating a cloud plan
 
-As discussed in [Home screen](/docs/rapidplan/the-home-screen-and-starting-a-plan/home-screen.md), a cloud plan can be created in a number of ways:
+As discussed in [Home screen](/rapidplan/home-screen-and-starting-a-plan/home-screen), a cloud plan can be created in a number of ways:
 
-[New Plan Wizard](/docs/rapidplan/the-home-screen-and-starting-a-plan/new-plan-wizard.md), found on the home screen as well as in [Application toolbars](/docs/rapidplan/workspace-navigation/application-toolbars.md), can be used to create cloud and local plans. In the final step of creating a plan using New Plan Wizard, the button highlighted below will decide whether a plan is saved to the cloud or locally.
+[New Plan Wizard](/rapidplan/home-screen-and-starting-a-plan/new-plan-wizard), found on the home screen as well as in [Application toolbars](/rapidplan/workspace-and-navigation/application-toolbars), can be used to create cloud and local plans. In the final step of creating a plan using New Plan Wizard, the button highlighted below will decide whether a plan is saved to the cloud or locally.
 
 ![new plan wizard cloud toggle](./assets/ic-new-plan-wizard.jpg)
 
@@ -37,12 +37,12 @@ To save a local plan that you have open in RapidPlan to the cloud: Simply click 
 
 Then click **Transfer to Invarion Cloud**, choose the file name you would like to use initially for that plan in the cloud, and which folder you would like to save it to (these can be updated later if need be).
 
-Now that the plan is a saved to the cloud, **Invarion Cloud Plan Details** menu will display information about the plan, its [collaborators](./sharing-cloud-plans.md) who have editing privileges, and [comments](./commenting-on-cloud-plans.md) added to the plan.
+Now that the plan is a saved to the cloud, **Invarion Cloud Plan Details** menu will display information about the plan, its [collaborators](./sharing-cloud-plans) who have editing privileges, and [comments](./commenting-on-cloud-plans) added to the plan.
 
 ![cloud plan details](./assets/ic-plan-details.png)
 
 Doing this will leave the locally saved copy of your plan as is. Changes and saves to the cloud file you create will not be applied to the local file.
 
-If you want to return to working on the local version, you will find it in the same location in your computer's File Explorer. It can also be spotted in your Recent Plans in the RapidPlan [Home screen](/docs/rapidplan/the-home-screen-and-starting-a-plan/home-screen.md) - note the *cloud* icon indicating which version of the file is saved to the cloud.
+If you want to return to working on the local version, you will find it in the same location in your computer's File Explorer. It can also be spotted in your Recent Plans in the RapidPlan [Home screen](/rapidplan/home-screen-and-starting-a-plan/home-screen) - note the *cloud* icon indicating which version of the file is saved to the cloud.
 
 ![home screen saved plans](./assets/ic-homepage-cloud-copy.png)

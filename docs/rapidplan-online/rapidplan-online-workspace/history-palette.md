@@ -5,7 +5,7 @@ tags:
   - workspace
 
 ---
-# History Palette
+# History palette
 
 The **History palette** contains the list of changes that you have made on the plan. On the top right of the palette, there are two arrows that represent undo and redo operations.
 

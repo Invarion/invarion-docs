@@ -23,7 +23,7 @@ These values are a bare minimum. For a comfortable experience when editing compl
 
 Install the latest version of the Invarion Launcher before opening RapidPlan or RapidPath. The Launcher installs and updates the Invarion **desktop applications** assigned to your account.
 
-See [Install and use the Invarion Launcher](./install-and-use-the-invarion-launcher.md).
+See [Install and use the Invarion Launcher](./install-and-use-the-invarion-launcher).
 
 ## Running on a Mac
 

@@ -64,10 +64,10 @@ Allow access to the services used by your region or subscription:
 
 ## Offline access
 
-Some license types can continue working for a limited time without an internet connection. See [Use desktop applications offline](../licenses-and-access/use-desktop-applications-offline.md).
+Some license types can continue working for a limited time without an internet connection. See [Use desktop applications offline](../licenses-and-access/use-desktop-applications-offline).
 
 ## If connectivity issues continue
 
 If you still cannot sign in, download, update, or open an application after configuring your firewall or proxy, run **Launcher Diagnostics** and send the report to Invarion **Technical Support**.
 
-See [Run Launcher Diagnostics](./run-launcher-diagnostics.md).
+See [Run Launcher Diagnostics](./run-launcher-diagnostics).

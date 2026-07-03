@@ -5,7 +5,7 @@ tags:
   - cloud-plans
 
 ---
-# Off-Canvas Panel
+# Off-canvas panel
 
 Plan's or folder's details can be shown in the hideable panel on the right side of the screen. To see them click on a plan that interests you or open the folder. If you already are inside the folder which the details you want to see, click on the folder's name in the top bar.
 

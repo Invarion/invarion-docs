@@ -44,7 +44,7 @@ If the application needs to be installed or updated, the Launcher downloads the 
 
 Select the refresh icon in the Launcher to check for updates or refresh the list of available applications.
 
-If an application is missing, ask your account administrator to check that the correct license or add-on is assigned to your user. See [Manage licenses and add-ons](../account-management/managing-licenses.md).
+If an application is missing, ask your account administrator to check that the correct license or add-on is assigned to your user. See [Manage licenses and add-ons](../account-management/manage-licenses-and-add-ons).
 
 ## Check version and add-on details
 
@@ -52,7 +52,7 @@ Open the application details to see the installed version and assigned add-ons.
 
 ![Launcher application details](./assets/Launcher_add_ons.png)
 
-Add-ons are assigned from your Invarion account. See [Manage licenses and add-ons](../account-management/managing-licenses.md).
+add-ons are assigned from your Invarion account. See [Manage licenses and add-ons](../account-management/manage-licenses-and-add-ons).
 
 ## Launcher settings
 
@@ -66,4 +66,4 @@ The Launcher also includes advanced settings. The Launcher warning for those set
 
 > The settings below are used for advanced debugging and troubleshooting. To avoid getting locked out, please consult Invarion **Technical Support** before editing them.
 
-If you have a technical issue with the Launcher or an Invarion desktop application, see [Troubleshoot Launcher issues](./troubleshoot-launcher-issues.md).
+If you have a technical issue with the Launcher or an Invarion desktop application, see [Troubleshoot Launcher issues](./troubleshoot-launcher-issues).

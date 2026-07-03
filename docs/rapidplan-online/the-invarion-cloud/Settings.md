@@ -11,10 +11,10 @@ To enter settings use the **Settings** button at the bottom of the navigation me
 
 ![Settings](./assets/Settings.png)
 
-## Logging Out and Contact
+## Sign out and contact
 
-To Log out of the Invarion Cloud click on the **your initials** button in the top-right corner of the screen and choose **Logout**.
+To sign out of the Invarion Cloud select the **your initials** button in the top-right corner of the screen and choose **Logout**.
 
 ![Logout](./assets/Settings.png)
 
-If you have any questions about Invarion Cloud, or you would like to see a particular feature added, please feel free to contact us. To open contact page click on the **your initials** button in the top-right corner of the screen and choose **Support**.
+If you have any questions about Invarion Cloud, or you would like to see a particular feature added, please feel free to contact us. To open contact page select the **your initials** button in the top-right corner of the screen and choose **Support**.

@@ -7,7 +7,7 @@ tags:
 ---
 # Commenting on cloud plans
 
-Plans stored in the cloud can have comments pinned to them - useful as a means of writing notes for yourself or to other [collaborating users](./sharing-cloud-plans.md).
+Plans stored in the cloud can have comments pinned to them - useful as a means of writing notes for yourself or to other [collaborating users](./sharing-cloud-plans).
 
 To see or add comments: Simply open a plan and click the **Invarion Cloud Plan Details** button in the top-right of the toolbar, as pictured below:
 

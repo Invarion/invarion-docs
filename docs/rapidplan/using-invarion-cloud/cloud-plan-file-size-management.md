@@ -7,7 +7,7 @@ tags:
 ---
 # Cloud plan file size management
 
-When editing a cloud plan in RapidPlan, you might notice an indicator in the **Cloud Plan Details** dialog box (accessed by clicking ![IC icon](./assets/ic-icon.png) button in the top-right of [Application toolbars](/docs/rapidplan/workspace-navigation/application-toolbars.md)), displaying what percentage of the potential size of a plan has been used.
+When editing a cloud plan in RapidPlan, you might notice an indicator in the **Cloud Plan Details** dialog (accessed by clicking ![IC icon](./assets/ic-icon.png) button in the top-right of [Application toolbars](/rapidplan/workspace-and-navigation/application-toolbars)), displaying what percentage of the potential size of a plan has been used.
 
 ![storage space](./assets/ic-file-size.png)
 
@@ -30,7 +30,7 @@ If an image is set so that it will be small on the plan, for example the lower c
 
 The quality of the images on a plan can be optimized by clicking **Tools** > **Advanced Tools** > **Optimize Images**.<br />You will need to have saved the plan prior to doing this, and note that it will apply to *all* images in the plan. If there are any images in the plan that you would prefer to not be optimized, simply remove them temporarily:
 
-Remove images you don't want optimized by selecting them and cutting them (**CTRL** + **X**), or adding them to [Scratchpad](/docs/rapidplan/signs-and-scratchpad/scratchpad/scratchpad.md) temporarily (**Right-click** + **Add to Scratchpad**). <br />Alternatively, you might choose to move the images you *do* want to optimize to a blank plan that you will later delete - optimize them there, and then return them to your working plan.
+Remove images you don't want optimized by selecting them and cutting them (**Ctrl** + **X**), or adding them to [Scratchpad](/rapidplan/signs-and-scratchpad/scratchpad) temporarily (right-click + **Add to Scratchpad**). <br />Alternatively, you might choose to move the images you *do* want to optimize to a blank plan that you will later delete - optimize them there, and then return them to your working plan.
 
 Once **Optimize Images** is clicked, you will be able to choose to which degree you would like to optimize images:
 

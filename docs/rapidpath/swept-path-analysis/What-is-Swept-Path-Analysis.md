@@ -5,7 +5,7 @@ tags:
   - swept-path-analysis
 
 ---
-# What is Swept Path Analysis?
+# What is swept path analysis?
 
 **Swept Path Analysis** calculates and examines the behavior of a moving vehicle, with all its parts, during turning manoeuvres. This is required to determine whether the surrounding infrastructure provides the vehicle enough space to navigate through safely.
 
