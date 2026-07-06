@@ -1,5 +1,14 @@
 # Release Notes
 
+## July 2026
+
+- Added an arc guide line while drawing arcs, making it easier to place and shape arc objects accurately.
+
+### Bug fixes
+
+- Basemaps and PDF exports now respect non-zero plan bearings more consistently.
+- Swept path previews now handle invalid reverse movements without crashing.
+
 ## May 2026
 
 - Fixed an issue where plans with a bearing value other than **0** could display differently in preview and export.
