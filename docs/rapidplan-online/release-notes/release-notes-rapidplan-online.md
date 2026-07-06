@@ -460,7 +460,7 @@ One can show sign codes on the canvas. It can be enabled globally, per plan or i
 
 ## May 2023
 
-### Progress dialog displayed when engine booting
+### Progress dialog displayed when engine is booting
 
 Engine booting progress bar displayed to visualise load progress.
 
