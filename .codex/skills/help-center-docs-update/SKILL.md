@@ -7,10 +7,10 @@ description: Update Invarion Help Center documentation from rough natural-langua
 
 This is a discovery wrapper for the canonical repository skill.
 
-Before taking any task action, read the canonical skill file completely:
+Before taking any task action, read the canonical skill file completely at this repository-root-relative path:
 
-`D:\src\invarion-docs\.agents\skills\help-center-docs-update\SKILL.md`
+`.agents/skills/help-center-docs-update/SKILL.md`
 
-Follow that canonical skill as the source of truth. Resolve any relative paths referenced by the canonical skill relative to:
+Follow that canonical skill as the source of truth. Resolve any relative paths referenced by the canonical skill relative to this repository-root-relative path:
 
-`D:\src\invarion-docs\.agents\skills\help-center-docs-update`
+`.agents/skills/help-center-docs-update`
