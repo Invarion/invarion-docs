@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.4.52 (13 July 2026)
+* Fixed issue with disabling location option.
+
 ### Version 4.4.44 (29 June 2026)
 * Fixed plan location's icon tooltip not showing.
 * Fixed issue with empty text box.
