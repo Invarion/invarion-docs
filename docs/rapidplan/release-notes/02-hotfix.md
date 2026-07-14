@@ -9,9 +9,12 @@ hide_title: true
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
 
-### Version 4.4.58 (14 July 2026)
+### Version 4.4.60 (14 July 2026)
 * Fixed issue with exporting titile boxes to PDF.
 * Fixed issue with OSM geocoding.
+* Fixed an incorrect selection box for invalid objects.
+* Restored the checkered background for custom symbols preview.
+* Prevent the save dialog from appearing when opening a sign in an empty Sign Editor.
 
 ### Version 4.4.52 (13 July 2026)
 * Fixed issue with disabling location option.
