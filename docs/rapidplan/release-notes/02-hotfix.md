@@ -8,6 +8,8 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.4.64 (15 July 2026)
+* Fixed an issue where the message displayed for unavailable base maps could be incorrectly rotated on plans with bearing.
 
 ### Version 4.4.60 (14 July 2026)
 * Fixed issue with exporting titile boxes to PDF.
