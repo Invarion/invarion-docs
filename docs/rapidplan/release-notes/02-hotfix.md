@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.4.71 (17 July 2026)
+* Prevent diagonal hatches clipping during image export.
+
 ### Version 4.4.67 (16 July 2026)
 * Restore missing drag handle in Edit Print Region Sizes dialog.
 
@@ -15,7 +18,7 @@ hide_title: true
 * Fixed an issue where the message displayed for unavailable base maps could be incorrectly rotated on plans with bearing.
 
 ### Version 4.4.60 (14 July 2026)
-* Fixed issue with exporting titile boxes to PDF.
+* Fixed issue with exporting title boxes to PDF.
 * Fixed issue with OSM geocoding.
 * Fixed an incorrect selection box for invalid objects.
 * Restored the checkered background for custom symbols preview.
