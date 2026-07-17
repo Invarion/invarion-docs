@@ -10,6 +10,9 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.4.69 (17 July 2026)
+* Fixed plan locations map issues.
+
 ### Version 4.4.68 (16 July 2026)
 * Bugfixes.
 
