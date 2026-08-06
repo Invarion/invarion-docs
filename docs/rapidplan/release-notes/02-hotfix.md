@@ -8,8 +8,10 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
-### Version 4.4.91 (06 August 2026)
+### Version 4.4.93 (06 August 2026)
 * Fixed tool palette popups not closing when “Auto tools palette popups” is disabled.
+* Restored the missing icons for the Use Styles button.
+* Fixed the offset of the Tools context menu buttons.
 
 ### Version 4.4.89 (05 August 2026)
 * Fixed an issue with importing aerial photos from NearMap.
