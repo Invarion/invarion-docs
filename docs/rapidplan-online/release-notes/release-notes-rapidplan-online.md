@@ -1,5 +1,13 @@
 # Release Notes
 
+## August 2026
+
+- Read-only plans can now be panned by dragging with the left mouse button or one finger, making navigation easier on desktop and touch devices.
+
+### Bug fixes
+
+- Undoing changes while dragging a control point no longer causes RapidOnline to crash.
+
 ## July 2026
 
 - Added an arc guide line while drawing arcs, making it easier to place and shape arc objects accurately.
