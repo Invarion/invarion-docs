@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.4.105 (14 August 2026)
+* Fixed scrolling of the third-party components list in the About window on small screens.
+
 ### Version 4.4.95 (07 August 2026)
 * Restored missing Ungroup recursively menu icon.
 
