@@ -204,27 +204,24 @@ const config = {
             title: 'Company',
             items: [
               {
-                html: '<a class="footer__link-item" href="https://invarion.com/" target="_self" rel="noopener noreferrer">Home (invarion.com)</a>',
+                label: 'Home (invarion.com)',
+                href: 'https://invarion.com/',
               },
               {
                 label: 'About Us',
                 href: 'https://invarion.com/about/',
-                target: '_self',
               },
               {
                 label: 'Our History',
                 href: 'https://invarion.com/history/',
-                target: '_self',
               },
               {
                 label: 'Our Guarantee',
                 href: 'https://invarion.com/guarantee/',
-                target: '_self',
               },
               {
                 label: 'Blog',
                 href: 'https://blog.invarion.com/',
-                target: '_self',
               },
             ],
           },
@@ -234,22 +231,18 @@ const config = {
               {
                 label: 'RapidPlan',
                 href: 'https://invarion.com/products/rapidplan/',
-                target: '_self',
               },
               {
                 label: 'RapidPlan Online',
                 href: 'https://invarion.com/products/rapidplanonline/',
-                target: '_self',
               },
               {
                 label: 'RapidPath',
                 href: 'https://invarion.com/products/rapidpath/',
-                target: '_self',
               },
               {
                 label: 'RapidPath Online',
                 href: 'https://invarion.com/products/rapidpathonline/',
-                target: '_self',
               },
             ],
           },
@@ -259,22 +252,18 @@ const config = {
               {
                 label: 'Invarion Cloud',
                 href: 'https://cloud.invarion.com/',
-                target: '_self',
               },
               {
                 label: 'My Account',
                 href: 'https://accounts.invarion.com/manage/my-account',
-                target: '_self',
               },
               {
                 label: 'Manage Company',
                 href: 'https://accounts.invarion.com/manage/my-company',
-                target: '_self',
               },
               {
                 label: 'Manage Licenses',
                 href: 'https://accounts.invarion.com/manage/license',
-                target: '_self',
               },
             ],
           },
@@ -284,27 +273,22 @@ const config = {
               {
                 label: 'Technical Support',
                 href: 'https://invarion.com/support/',
-                target: '_self',
               },
               {
                 label: 'FAQs',
                 href: 'https://invarion.com/faqs/',
-                target: '_self',
               },
               {
                 label: 'Video Tutorials',
                 href: 'https://www.youtube.com/user/invarionsupport',
-                target: '_self',
               },
               {
                 label: 'Download',
                 href: 'https://invarion.com/install/',
-                target: '_self',
               },
               {
                 label: 'Contact',
                 href: 'https://invarion.com/contact/',
-                target: '_self',
               },
             ],
           },
