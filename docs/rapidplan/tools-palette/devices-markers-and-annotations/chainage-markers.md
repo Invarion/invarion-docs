@@ -15,9 +15,9 @@ The **Chainage Marker** tool creates chainage references along a line, spline, o
 
 Chainage markers automatically generate:
 
-- ticks at a chosen spacing
-- labels showing chainage values
-- a path that can follow linear geometry on the plan
+- Ticks at a chosen spacing.
+- Labels showing chainage values.
+- A path that can follow linear geometry on the plan.
 
 This is useful for roads, corridors, paths, and other long linear features where you need repeated position references rather than a single measurement.
 
@@ -38,6 +38,6 @@ Use a **Chainage Marker** when you need a continuous sequence of references alon
 
 Chainage markers work best when the source path is drawn accurately. Use [Control points and snapping](/rapidplan/drawing-snapping-and-editing/control-points-and-snapping) to:
 
-- snap onto existing geometry
-- follow curved alignments
-- position labels and ticks more precisely
+- Snap onto existing geometry.
+- Follow curved alignments.
+- Position labels and ticks more precisely.

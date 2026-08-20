@@ -8,7 +8,7 @@ tags:
 ---
 # Drawing a road
 
-## Components of the RapidPlan Road
+## Components of a RapidPlan road
 
 The road has a number of different parts. It is well worth familiarizing yourself with them.
 
@@ -16,25 +16,25 @@ The road has a number of different parts. It is well worth familiarizing yoursel
 
 ## Basic drawing techniques
 
-Drawing using the road tool is very simple. As you move the mouse after you have clicked to start drawing, the roadway will "snake" behind the cursor. Each time you click the mouse on the canvas, a new turning point for the road is placed. The turning point is represented by a **control point**.
+Drawing with the **Road** tool is simple. As you move the pointer after you start drawing, the roadway follows the pointer. Each time you select the canvas, RapidPlan places a new turning point represented by a **control point**.
 
-### To draw a Road
+### Draw a road
 
-- Select the **Road** from the **Tools palette**.
-- Move your mouse to the canvas and click once to start drawing your road.
-- Move the mouse around the canvas, clicking at each turning point.
-- When you have placed your final point, right-click to stop drawing.
-- If you don't want to draw another road, right-click again to drop the road tool.
+1. Select the **Road** tool from the **Tools palette**.
+2. Select the canvas to start drawing the road.
+3. Select each turning point.
+4. Right-click to stop drawing.
+5. Right-click again to drop the **Road** tool.
 
 ### Keep sections straight
 
 A simple trick allows you to draw perfectly straight roads. By holding **Shift**, RapidPlan will make sure that each **control point** is placed in a perfectly straight line.
 
-### Setting the number of Lanes on the Carriageway
+### Set the number of lanes
 
 There are two simple ways to add and remove lanes to roadways:
 
-1. double-click on the road to be altered to bring up the Quick Edit screen
+1. Double-click the road to open the Quick Edit dialog.
 2. Select the object and change the number of lanes from the **Properties palette** within the right pane.
 
 ![road properties lanes](./assets/Road_Properties_Lanes.png)

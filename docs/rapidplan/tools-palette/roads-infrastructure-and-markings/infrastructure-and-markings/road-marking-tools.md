@@ -19,24 +19,24 @@ Firstly, we need to remove part of the existing lines. We do this with the lane 
 
 Next we select the lane marker tool and draw in the edge merge the line.
 
-**To create a new lane marking:**
+To create a lane marking:
 
 - Hover your cursor over **Markings** in the **Tools palette**.
 - Select the **Lane Marker** tool.
 - Click once on your road where you want to start.
 - Move the mouse, clicking to place turn points as required.
 - When you are finished, right-click to stop drawing.
-- right-click again to clear the cursor.
+- Right-click again to clear the pointer.
 
     ![Using_a_Lane_Marker](./assets/Using_a_Lane_Marker.png)
 
 You can change the lane marker to any of the standard lane styles (Dashed, Solid, SolidDash, DashSolid and Double) or change its color by accessing its properties screen. You can also set **Lane Marker** Defaults the same way you set the Road Defaults as specified in section [Setting a Default Style](/rapidplan/drawing-snapping-and-editing/object-properties-and-styles).
 
-**To change the properties of a lane marking:**
+To change the properties of a lane marking:
 
-- double-select the **lane marking**
-- On its properties screen, make any required alterations to the type and color of the line
-- Click Ok to accept the changes
+1. Double-click the **lane marking**.
+2. Change the line type and color.
+3. Select **OK** to apply the changes.
 
 ## Flush Median tool
 
@@ -48,11 +48,11 @@ This tool works like any Polygon where you click to place each of its corners an
 
 This tool also works like a polygon, with the first click forming the tip of the chevron.
 
-**To place the chevron flush median tool:**
+To place a chevron flush median:
 
-- Select the Chevron Flush Median tool from the Markings tab in the **Tools palette**
-- Your first click will be the top point of the shape (in the direction of the chevron)
-- Then click for all other consecutive points
-- right-click to finish
+1. Select the **Chevron Flush Median** tool from the Markings tab in the **Tools palette**.
+2. Select the top point of the shape in the direction of the chevron.
+3. Select each remaining point.
+4. Right-click to finish.
 
     ![Chevron_Flush_Median_tool](./assets/Chevron_Flush_Median_tool.png)

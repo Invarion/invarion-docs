@@ -17,10 +17,10 @@ Use the new-plan defaults to set values RapidPlan should apply when a new defaul
 
 Common defaults include:
 
-- author
-- base map provider
-- aerial import provider
-- plan setup values used by default-plan workflows
+- Author.
+- Basemap provider.
+- Aerial import provider.
+- Plan setup values used by default-plan workflows.
 
 The aerial import provider can be different from the visible basemap provider. This is useful when you draw over a free cartographic map but want imported aerial tiles to come from a paid imagery provider such as NearMap or MetroMap.
 

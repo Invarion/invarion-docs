@@ -19,9 +19,9 @@ Both tools are simple polygons that are drawn on the plan. Aside from the way th
 
 **To place a Work Area or Safety Zone on a plan:**
 
-- Select the appropriate tool from the Zones tab in the **Tools palette**.
-- Click at the first corner point of your required area and continue clicking to set corner points (see below).
-- When the final point is placed, right-click to stop drawing.
-- right-click to clear the cursor.
+1. Select the **Work Area** or **Safety Zone** tool from the Zones tab in the **Tools palette**.
+2. Click the first corner of the required area, then continue clicking to add corner points.
+3. After placing the final point, right-click to stop drawing.
+4. Right-click to clear the cursor.
 
     ![A_Click_Pattern_for_a_Simple_Buffer_Area](./assets/A_Click_Pattern_for_a_Simple_Buffer_Area.png)

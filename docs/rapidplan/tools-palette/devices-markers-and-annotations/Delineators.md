@@ -21,26 +21,26 @@ All delineator lines start by default as Barrels with a size of 6 units and a sp
 
 **To create a basic delineator line:**
 
-- Select the Delineator from the Devices tab in the **Tools palette**.
-- Click once where you wish to start drawing (don't hold).
-- Click at each corner for your line.
-- After you have placed the end point, right-click to stop drawing.
-- right-click to clear the cursor.
+1. Select the **Delineator** tool from the Devices tab in the **Tools palette**.
+2. Click once where you want to start drawing.
+3. Click at each corner of the line.
+4. After you place the endpoint, right-click to stop drawing.
+5. Right-click to clear the cursor.
 
     ![Delineator_Line](./assets/Delineator_Line.png)
 
-## Changing the Type of your Delineator
+## Change the delineator type
 
 Once your line is on the plan, you can change the type of delineator that you use from the list on the previous page.
 
 **To change delineator types:**
 
-- Select the delineator line on the plan and observe the **Properties palette**.
-- Click on the Devices tab and choose the type of delineator required from the Type drop down box.
+1. Select the delineator line on the plan and locate its settings in the **Properties palette**.
+2. On the Devices tab, select the required delineator from the Type drop-down list.
 
     ![Changing_Delineator_Type](./assets/Changing_Delineator_Type.png)
 
-## Changing the Properties for the Delineator
+## Change delineator properties
 
 As always, more in depth editing is done via the **Properties palette**. The following properties can be edited for each delineator:
 
@@ -52,6 +52,6 @@ As always, more in depth editing is done via the **Properties palette**. The fol
 
 ## Buffered delineator tool
 
-The Buffered Delineator tool works much the same as the Delineator tool with an added buffer zone. It can be manipulated to the shape you need and you can change the delineator.
+The **Buffered Delineator** tool works much like the **Delineator** tool but adds a buffer zone. You can adjust its shape and change the delineator type.
 
 ![The_Buffered_Delineator](./assets/The_Buffered_Delineator.png)

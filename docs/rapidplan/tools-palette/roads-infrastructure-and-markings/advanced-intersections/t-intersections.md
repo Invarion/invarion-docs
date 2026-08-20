@@ -28,25 +28,25 @@ T-intersections are the easiest of intersections to create in RapidPlan because 
 
 ## Change the lane markers
 
-5. Select the **Lane Marker** tool in the Markings tab and draw a **lane marking** for the turning lane.
+1. Select the **Lane Marker** tool in the Markings tab and draw a **lane marking** for the turning lane.
 
-6. Now double-click on the north-south road, select the Lanes tab and change the lane marker to double in the Markings section.
+2. Now double-click on the north-south road, select the Lanes tab and change the lane marker to double in the Markings section.
 
    ![intersection_Steps_5_and_6](./assets/T-intersection_Steps_5_and_6.png)
 
 ## Configure the road markings
 
-7. With the **Lane Mask** tool, mask out the broken line on the east west road across the intersection. (To make this clearer, we have drawn the lane mask in Black for this tutorial).
+1. With the **Lane Mask** tool, mask out the broken line on the east west road across the intersection. (To make this clearer, we have drawn the lane mask in Black for this tutorial).
 
     ![T-intersection_Step_7](./assets/T-intersection_Step_7.png)
 
 ## Add the stop bar and turning arrows
 
-8. Select the **Rectangle** tool from the Shapes tab in the **Tools palette** and draw a rectangle for a stop bar. It pays to zoom right in when doing this.
-9. double-click on your drawn rectangle and change the **Stroke** color to white.
+1. Select the **Rectangle** tool from the Shapes tab in the **Tools palette** and draw a rectangle for a stop bar. It pays to zoom right in when doing this.
+2. Double-click the rectangle and change the **Stroke** color to white.
 
     ![T-intersection_Steps_8_and_9](./assets/T-intersection_Steps_8_and_9.png)
 
-10. Select a **turn arrow** from the Furniture tab located within the **Signs palette** and place it in the left lane. Select another and place it in the other northbound lane. You will need to flip this one horizontally using the flip function on the Flip toolbar as shown.
+3. Select a **turn arrow** from the Furniture tab located within the **Signs palette** and place it in the left lane. Select another and place it in the other northbound lane. You will need to flip this one horizontally using the flip function on the Flip toolbar as shown.
 
     ![T-intersection_Step_10](./assets/T-intersection_Step_10.png)

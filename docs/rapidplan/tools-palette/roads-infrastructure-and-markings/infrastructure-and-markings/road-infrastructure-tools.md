@@ -12,14 +12,14 @@ These tools enable you to add infrastructure to your road plans. They can be fou
 
 ## Train Tracks tool
 
-The Train Tracks tool allows you to quickly add train or tram (light rail) lines to your plan.
+The **Train Tracks** tool adds train or tram lines to your plan.
 
 **To place a train line:**
 
-- Select the **Train Tracks** tool from the Infrastructure tab in the **Tools palette**
+- Select the **Train Tracks** tool from the Infrastructure tab in the **Tools palette**.
 - Click once to start your rail line.
 - Click at each turn point.
-- right-click to stop drawing.
+- Right-click to stop drawing.
 
     ![Train_Tracks_and_Tram_Tracks](./assets/Train_Tracks_and_Tram_Tracks.png)
 
@@ -27,22 +27,22 @@ To place a tram line on **Properties palette** change **Type** value from **Trai
 
 ![Train_Tracks_tool_types](./assets/Train_Tracks_tool_types.png)
 
-## The Crosswalk
+## Crosswalk tool
 
 The Crosswalk tool is a handy tool that creates crosswalks on roads, arcs, and roundabouts. There are a few options available when editing the crosswalk. You can change the crosswalk width and type to parallel or hatched. The stripe width and spacing can also be changed to accommodate your specifications.
 
-**To create a crosswalk:**
+To create a crosswalk:
 
-- Draw your road
-- Select the **Crosswalk** tool from the Infrastructure tab in the **Tools palette**
-- Place your cursor where you want the crosswalk to start and left-click your mouse once to start drawing
-- right-click to finish drawing
+1. Draw the road.
+2. Select the **Crosswalk** tool from the Infrastructure tab in the **Tools palette**.
+3. Select where you want the crosswalk to start.
+4. Right-click to finish drawing.
 
     ![Crosswalks](./assets/Crosswalks.png)
 
 Three different types of crosswalks have been created in the screen print above. Crosswalk type can be changed on the **Properties palette**.
 
-## Traffic Islands
+## Traffic islands
 
 Learning how to create traffic islands/refuge points and center medians is important. There are two tools that you can use in RapidPlan to create them - the Polygon tool and the island tool.
 
@@ -52,24 +52,24 @@ Creating islands with the polygon is as simple as tracing out the shape of your 
 
 To create an island with the polygon:
 
-- Select the Polygon tool from the Shapes tab in the tools palette
+- Select the **Polygon** tool from the Shapes tab in the **Tools palette**.
 
-- It is best to start your island at one of its corners. Click once to start drawing
+- Start the island at one of its corners.
 
-- Move in either a clockwise, or anti-clockwise order, clicking at each of your island's corner points (Note: Remember, you can hold **Shift** to keep the corners of your island perfectly straight)
+- Continue clockwise or counterclockwise, selecting each corner point. Hold **Shift** to keep the island edges straight.
 
-- When you have placed your last point, right-click to stop drawing, and then right-click to drop the Polygon tool
+- Right-click to stop drawing, then right-click again to drop the **Polygon** tool.
 
 ![Polygon traffic island](./assets/Creating_an_Island_with_a_Polygon.png)
 
 The picture above shows an example of a click sequence to create an island. Polygon is a free form tool, you can make islands of virtually any shape.
 
-**To create an island with the island tool:**
+To create an island with the **Island** tool:
 
-- Select the **Island** tool from the Infrastructure tab in the tools palette
-- Start your island at the smallest corner, click once to start drawing
-- Move in either a clockwise, or anti-clockwise order, clicking at each of your island's corner points (**Note**: Remember, you can hold **Shift** to keep the corners of your island perfectly straight)
-- When you have placed your last point, right-click to stop drawing, and then right-click to drop the Island tool
+- Select the **Island** tool from the Infrastructure tab in the **Tools palette**.
+- Start the island at its smallest corner.
+- Continue clockwise or counterclockwise, selecting each corner point. Hold **Shift** to keep the island edges straight.
+- Right-click to stop drawing, then right-click again to drop the **Island** tool.
 
     ![The_Island_Tool_verses_Polygon_Tool](./assets/The_Island_Tool_verses_Polygon_Tool.png)
 
@@ -79,19 +79,19 @@ There are two main differences between using the polygon and Island tool:
 
 The technique for creating **control points** is simple but requires some practice.
 
-**To create a curved island:**
+To create a curved island:
 
-- Draw your island as normal
-- Ensure your cursor is clear of the Island Tool by right-clicking
-- Now select the Island that you've drawn by clicking on it once
-- Move your cursor over the **control point** that you wish to curve and hold down the **Ctrl** button on the keyboard. The **control points** will then turn from red to blue and display curve handles
-- Drag the curve handles out (away from the **control point**) to increase the radius of the curve until you are happy with the islands shape
+1. Draw the island.
+2. Right-click to drop the **Island** tool.
+3. Select the island.
+4. Point to the **control point** you want to curve and hold **Ctrl**. The **control points** turn from red to blue and display curve handles.
+5. Drag the curve handles away from the **control point** until the island has the required shape.
 
     ![Curving_Island](./assets/Curving_Island.png)
 
-## Bicycle Lane tool
+## Bike Lane tool
 
-The Bike Lane tool works similarly to tools like the Polyline and the **Road tool**. The bike image can be changed from a Standard (as shown below) to a Shared lane symbol in Properties.
+The **Bike Lane** tool works similarly to the **Polyline** and **Road** tools. In the **Properties palette**, you can change the bike image from Standard to Shared.
 
 ![Bike_Lanes_on_a_Road](./assets/Bike_Lanes_on_a_Road.png)
 
@@ -100,7 +100,7 @@ The Bike Lane tool works similarly to tools like the Polyline and the **Road too
 - Select the **Bike Lane** tool from the Infrastructure tab in the **Tools palette**.
 - Click to start the bike lane.
 - Hold **Shift** to create a straight lane, or click to create **control points** to adjust the lane's shape.
-- right-click to finish.
+- Right-click to finish.
 
 ## Parking Bay tool
 

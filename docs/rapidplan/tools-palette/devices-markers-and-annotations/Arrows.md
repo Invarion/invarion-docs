@@ -9,28 +9,28 @@ tags:
 
 Frequently, you will need to draw attention to items on the plan, but will not want to use a **callout box**. RapidPlan provides two arrow tools for this purpose:
 
-- The Arrow Tool
-- The Arrow Text Tool
+- **Arrow** tool.
+- **Arrow Text** tool.
 
 As the names suggest, the latter carries a text component at  its base. The arrows can be curved or straight, as shown.
 
 ![The_Arrow_tool_and_The_Arrow_Text_Tool](./assets/The_Arrow_tool_and_The_Arrow_Text_Tool.png)
 
-## Creating an Arrow
+## Create an arrow
 
-- Select the **Arrow** tool from the Lines tab in the **Tools palette**.
-- Click to place the head of the arrow.
-- Click again for each subsequent turn point that you require.
-- When you have placed your final point, right-click.
-- right-click to clear the cursor.
+1. Select the **Arrow** tool from the Lines tab in the **Tools palette**.
+2. Click to place the head of the arrow.
+3. Click again for each turn point that you require.
+4. After placing the final point, right-click.
+5. Right-click to clear the cursor.
 
-## Creating an Arrow Text
+## Create an Arrow Text object
 
-- Select the **Arrow Text** tool from the Text tab in the **Tools palette**.
-- Click to place the head of the arrow.
-- Click again for each subsequent turn point that you require.
-- When you have placed your final point, right-click and a text cursor will appear for you to write your text in (**Note**: This can be edited in the **Properties palette**).
+1. Select the **Arrow Text** tool from the Text tab in the **Tools palette**.
+2. Click to place the head of the arrow.
+3. Click again for each turn point that you require.
+4. After placing the final point, right-click. Enter the text when the text cursor appears. You can edit the text later in the **Properties palette**.
 
     ![Adding_Text_to_the_Text_Arrow](./assets/Adding_Text_to_the_Text_Arrow.png)
 
-    **Note**: To create a straight arrow, hold **Shift** whilst drawing the arrow.
+    **Note:** To create a straight arrow, hold **Shift** while drawing it.

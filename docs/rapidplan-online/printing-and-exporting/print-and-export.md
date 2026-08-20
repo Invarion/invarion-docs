@@ -7,7 +7,7 @@ tags:
 ---
 # Print and export
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6s_StQTBn7w?si=sZyKpa-ifr0GNfCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Watch the print and export video on YouTube](https://www.youtube.com/watch?v=6s_StQTBn7w).
 
 The areas you print in your plan is dictated by the location of your [Print Regions](/rapidplan-online/rapidplan-online-workspace/layers-palette). When your plan is ready for Printing or Exporting, simply select the **Print** option in the Main Menu, or click the printer icon (![print icon](./assets/printicon.png)) in the toolbar. Once selected, the following print dialog window opens, containing several options to customize your document.
 
@@ -28,6 +28,20 @@ The areas you print in your plan is dictated by the location of your [Print Regi
 * **Page margins:** Adjust the page margins.
 
 * **Print or export:** When ready to print, simply select the **Get PDF** button to download your plan as a .PDF file, or select **Get Image** to download the plan as a .PNG file.
+
+## Print a plan on multiple pages
+
+Use a separate print region for each page you want to include in the output.
+
+1. Open **Print Regions** in the **Layers palette**.
+2. Select the plus icon to create a print region for each page.
+3. Move and resize each print region to cover the required area of the plan.
+4. Review the page size and orientation for the print regions.
+5. Select the printer icon at the top of **Print Regions** to print all regions.
+6. In the print dialog, review the pages and adjust their order if needed.
+7. Select **Get PDF** to create the multi-page PDF.
+
+For details about creating and adjusting print regions, see [Layers palette](/rapidplan-online/rapidplan-online-workspace/layers-palette#print-regions).
 
 ## Exporting to PDF
 

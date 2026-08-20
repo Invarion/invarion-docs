@@ -29,14 +29,14 @@ The Text Box is created in a similar way to the Text Object tool but the product
 
 ## Text pair tool
 
-The Text Pair tool operates similar to the regular text tool but with limited editing capabilities. For instance, you cannot set a background color with the text pair tool nor can you set your fonts to bold. This tool only provides a Label and a Value to be set thereby giving it it's name as a text pair.
+The **Text Pair** tool works similarly to the regular text tool but has limited editing options. It provides a label and value without background-color or bold-font options.
 
 ### Use the Text Pair tool
 
 - Select the **Text Pair** tool from the Text tab.
-- Click on your canvas to place the text box and enter your desired text for your Label. (In the example the **Label** is Invarion).
-- Enter your desired text for your Value. (Plan 456 is the **Value** in the example).
-- Use the **Properties palette** to set the orientation of the text. (Horizontal or Vertical)
+- Select the canvas to place the text box, then enter the **Label**. In the example, the label is `Invarion`.
+- Enter the **Value**. In the example, the value is `Plan 456`.
+- Use the **Properties palette** to set the orientation to **Horizontal** or **Vertical**.
 
     ![Text_Pair_Properties_Palette_and_Outcome](./assets/Text_Pair_Properties_Palette_and_Outcome.png)
 

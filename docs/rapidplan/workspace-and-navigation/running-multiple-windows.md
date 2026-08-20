@@ -14,9 +14,9 @@ RapidPlan can run multiple application windows at the same time.
 
 Multiple windows help when you want to:
 
-- compare plans side by side
-- keep reference material open while editing another plan
-- work on separate jobs without constantly switching tabs
+- Compare plans side by side.
+- Keep reference material open while editing another plan.
+- Work on separate jobs without constantly switching tabs.
 
 ## Open a new window
 

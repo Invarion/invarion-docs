@@ -14,7 +14,7 @@ Whilst being one of the least frequently created arrangements, understanding how
 |---------------------------------------------------------------|-------------|
 |![Overpasses_and_Underpasses_table](./assets/Overpasses_and_Underpasses_table.png)  | **This Overpasses Plan makes use of the following items:** - Road tool  - Ordering Canvas Objects  - Polyline tool  - Control Points  - Layers               |
 
-## Create the Base Road
+## Create the base road
 
 1. Select the **Road** tool from the Roads tab and create an east-west road of 2 lanes.
 
@@ -22,26 +22,26 @@ Whilst being one of the least frequently created arrangements, understanding how
 
    ![Overpasses_and_Underpasses_steps_1_and_2](./assets/Overpasses_and_Underpasses_steps_1_and_2.png)
 
-## Create the next Road using Layers
+## Create the bridge layer
 
-3. Go to **View** from the status tool bar and tick the check box next to Layers List. The **Layers palette** will now be visible beneath the **Properties palette**. Add a new layer and name it Bridge as shown.
+1. Go to **View** from the status tool bar and tick the check box next to Layers List. The **Layers palette** will now be visible beneath the **Properties palette**. Add a new layer and name it Bridge as shown.
 
    ![Overpasses_and_Underpasses_step_3](./assets/Overpasses_and_Underpasses_step_3.png)
 
-4. Now stay on the **Bridge** layer and draw a 2-lane road that runs north south between the extended roads drawn in step 2.
+2. Now stay on the **Bridge** layer and draw a 2-lane road that runs north south between the extended roads drawn in step 2.
 
-5. Add two roads, convert them to single lanes and add 1 **control point** half way along each of the new side roads as shown.
+3. Add two roads, convert them to single lanes and add 1 **control point** half way along each of the new side roads as shown.
 
    ![Overpasses_and_Underpasses_steps_4_and_5](./assets/Overpasses_and_Underpasses_steps_4_and_5.png)
 
-6. Using the two **control points** on the side roads, shape them both down until they meet neatly with the side entrances to the east-west road. We have left a gap in the top one so that you can see how we have done it.
+4. Using the two **control points** on the side roads, shape them both down until they meet neatly with the side entrances to the east-west road. We have left a gap in the top one so that you can see how we have done it.
 
    ![Overpasses_and_Underpasses_step_6](./assets/Overpasses_and_Underpasses_step_6.png)
 
-7. double-click the bridge road and change the **lane markings** to double.
+5. Double-click the bridge road and change the **lane markings** to double.
 
-## Drawing in Bridge Rails
+## Draw the bridge rails
 
-8. Using the **Polyline** tool from the Lines tab, draw in the bridge rails.
+1. Using the **Polyline** tool from the Lines tab, draw in the bridge rails.
 
    ![Overpasses_and_Underpasses_steps_7_and_8](./assets/Overpasses_and_Underpasses_steps_7_and_8.png)

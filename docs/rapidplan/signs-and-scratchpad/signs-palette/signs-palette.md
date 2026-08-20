@@ -9,9 +9,9 @@ tags:
 
 The **Signs palette** is the repository for each of the signs in RapidPlan. Aside from the signs themselves, the **Signs palette** has three main components:
 
-- Sign library
-- Sign categories
-- Search signs
+- Sign library.
+- Sign categories.
+- Search signs.
 
 ![Signs_Palette](./assets/Signs_Palette.png)
 
@@ -28,11 +28,19 @@ signs for each category. You can view and example of the categories in the image
 
 ## Search signs
 
-New version of RapidPlan allows you to search entire **signs library** by a keyword, phrase, sign name or sign code. For example, if you were looking for a **STOP** sign, you can search it by name **stop** or by code **R1-1**.
+Use the search field to find signs by keyword, phrase, sign name, or sign code. For example, you can find a STOP sign by entering `stop` or its local sign code, such as `R1-1` in Australia.
 
-![Sign_search](./assets/Sign_search.png)
+![STOP sign search result in the Signs palette](./assets/Sign_search.png)
 
-**Note:** R1-1 is code for STOP sign in Australia, other countries codes may vary
+Use the search scope menu to choose where RapidPlan searches:
+
+- **Search all libraries** searches every installed sign library.
+- **Search current library** searches the sign library currently selected in the Signs palette.
+- **Search current category** searches only the category currently open in the selected sign library.
+
+![Search scope menu in the Signs palette](./assets/sign-search-scopes.png)
+
+**Note:** Sign codes vary by country and sign library.
 
 ## Setting the sign icon size in the palette
 

@@ -18,11 +18,11 @@ This tool helps you create a Lanes Use Management System (LUMS) across a roadway
 |![Exit_left_LUMS_table](./assets/Exit_left_LUMS_table.png)  | Exit left |![Exit_right_LUMS_table](./assets/Exit_right_LUMS_table.png) | Exit right    |
 |![Cross_LUMS_table](./assets/Cross_LUMS_table.png)      | Cross     |![Blank_LUMS_table](./assets/Blank_LUMS_table.png)      | Blank         |
 
-## Creating an LUMS Board
+## Create a LUMS Board
 
-- Select the **LUMS Board** tool in the Devices tab in the **Tools palette**.
-- Click once to place an LUMS Board the first lane, continue this for each lane.
-- Once all of your LUMS Boards are set, you can select each one and change its style in the **Properties palette** under the **Style** tab and the **Icon** drop down menu.
-- right-click to finish
+1. Select the **LUMS Board** tool from the Devices tab in the **Tools palette**.
+2. Click once to place a LUMS Board over the first lane, then repeat for each lane.
+3. Select each LUMS Board and choose its style from **Style** > **Icon** in the **Properties palette**.
+4. Right-click to finish.
 
     ![LUMS_Board_Properties_Palette](./assets/LUMS_Board_Properties_Palette.png)
