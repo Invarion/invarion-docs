@@ -28,11 +28,24 @@ signs for each category. You can view and example of the categories in the image
 
 ## Search signs
 
-New version of RapidPlan allows you to search entire **signs library** by a keyword, phrase, sign name or sign code. For example, if you were looking for a **STOP** sign, you can search it by name **stop** or by code **R1-1**.
+Use the search field to find signs by keyword, phrase, sign name, or sign code. For example, enter `stop` or the applicable sign code to find a stop sign.
 
 ![Sign_search](./assets/Sign_search.png)
 
-**Note:** R1-1 is code for STOP sign in Australia, other countries codes may vary
+### Advanced search
+
+You can control how broadly RapidPlan searches when a sign library contains many signs.
+
+1. Enter a search term in the **Search** field.
+1. Right-click **Go**.
+1. Choose a search scope:
+   - **Search all libraries** searches every installed sign library.
+   - **Search current library** searches only the selected sign library.
+   - **Search current category** searches only the open category in the selected sign library.
+
+RapidPlan displays matching signs on the **Search Results** tab. Use a narrower scope to reduce the number of results.
+
+![Advanced sign search scope options](./assets/advanced-sign-search-options.png)
 
 ## Setting the sign icon size in the palette
 
