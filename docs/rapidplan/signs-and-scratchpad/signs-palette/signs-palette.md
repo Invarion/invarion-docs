@@ -32,7 +32,7 @@ Use the search field to find signs by keyword, phrase, sign name, or sign code. 
 
 ![Sign_search](./assets/Sign_search.png)
 
-### Choose where to search
+### Advanced search
 
 You can control how broadly RapidPlan searches when a sign library contains many signs.
 
