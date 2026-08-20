@@ -47,8 +47,6 @@ RapidPlan displays matching signs on the **Search Results** tab. Use a narrower 
 
 ![Advanced sign search scope options](./assets/advanced-sign-search-options.png)
 
-**Note:** Sign codes vary by country and sign library.
-
 ## Setting the sign icon size in the palette
 
 You can change the size of the signs in the palette. This is helpful when using a screen at very high resolution, or just for users who are having difficulty with the small icons. By default the sign icon size on the palette is set to medium.
