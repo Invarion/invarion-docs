@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.4.118 (25 August 2026)
+* Enabled scrolling through saved tool styles in the Tools panel when the list contains many items.
+  
 ### Version 4.4.105 (14 August 2026)
 * Fixed scrolling of the third-party components list in the About window on small screens.
 
