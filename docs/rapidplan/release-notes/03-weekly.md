@@ -10,6 +10,9 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.4.119 (25 August 2026)
+* Bugfixes.
+
 ### Version 4.4.106 (14 August 2026)
 * Bugfixes.
 
