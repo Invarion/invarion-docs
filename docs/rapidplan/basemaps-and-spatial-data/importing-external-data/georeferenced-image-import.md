@@ -52,7 +52,7 @@ If you do want to edit or change the order of the **georeferenced image**:
 
 ### Place an image for georeferenced image export
 
-The most effective way to place your image is using the [Fit Objects tool](/rapidplan/advanced-features/fit-objects-tool).
+The most effective way to place your image is using the [Fit objects tool](/rapidplan/advanced-features/fit-objects-tool).
 If you would rather manually resize, rotate, and fit an image to background mapping, it is advisable to lower the opacity of the layer you are working in, using the slide bar on the [Layers palette](/rapidplan/using-layers/). This pass-through vision allows easier matching of landmarks between the image and the background mapping.
 
 Note that in order for georeferencing to be accurate, it is best to match the imported image to **integrated mapping**, or to mapping that has been correctly georeferenced itself.

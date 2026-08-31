@@ -13,7 +13,7 @@ Any print region or image placed or imported on a RapidPlan plan that has a base
 To export a print region as a **georeferenced image**:
 
 - right-click on the printer icon in the lower-left corner of the Print Region.
-- select **Save** > As Georeferenced Image.
+- Select **Export this region** > **To Georeferenced Image...**.
 
 To export an image as a **georeferenced image**:
 
