@@ -36,3 +36,8 @@ Once the **Get PDF** button has been selected, you will be able to Print or Down
 ![Print Output](./assets/Print_Output.png)
 
 As shown in the image above, selecting **Download PDF** button will allow you to save your plan as a PDF file. This will then open your default PDF application and show you a preview of your downloaded plan. Clicking **Print plan** will open your default printer dialog.
+
+## Related articles
+
+* [Printing multiple pages](./printing-multiple-pages)
+* [Fit print regions to the page size](../Tips/fit-print-regions-to-the-page-size)

@@ -22,7 +22,7 @@ While it is named the **Layers palette** in light of its core and original use c
 In the top row of buttons in the **Print Regions** section of the Layers palette:
 
 - **Plus icon**: Create a new Print Region.
-- **Printer icon**: Print *all* **Print Regions**.
+- **Printer icon**: Print all **Print Regions**. See [Printing multiple pages](/rapidplan-online/printing-and-exporting/printing-multiple-pages).
 
 There is also the three dots icon, which opens a dropdown menu with the following buttons:
 
