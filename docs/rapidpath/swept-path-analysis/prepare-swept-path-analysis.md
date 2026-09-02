@@ -40,29 +40,29 @@ To start drawing a Vehicle Path select the vehicle on your plan and click on the
 
 Once you have begun to draw a path two things will appear:
 
-- A **Predicted Movement Area Cloud** - Displayed for your reference, displaying how tight an arch the vehicle can turn in, given the constraints that have been applied.
-- The **Section Details interface** - Details below.
+- a **Predicted Movement Area Cloud** - Displayed for your reference, displaying how tight an arch the vehicle can turn in, given the constraints that have been applied
+- the **Section Details interface** - Details below
 
 ### The Section Details interface
 
 When in the process of drawing a path, a special window called **Section Details** will appear with settings for:
 
-- **Speed** - Vehicle speed.
-- **Friction** - Lateral friction factor dependent on the vehicle speed and calculated according to the chosen standard. To set a custom value disable speed and friction dependency by clicking on the link/unlink toggle button on the left and enter the desired value in the field.
-- **Turn on Stop** - Turning this option on ("True") allows the vehicle to make a stop and turn the front wheels between different sections (at **control points**) of the Vehicle Path.
+- **Speed** - Vehicle speed
+- **Friction** - Lateral friction factor dependent on the vehicle speed and calculated according to the chosen standard. To set a custom value disable speed and friction dependency by clicking on the link/unlink toggle button on the left and enter the desired value in the field
+- **Turn on Stop** - Turning this option on ("True") allows the vehicle to make a stop and turn the front wheels between different sections (at **control points**) of the Vehicle Path
 
 Information such as:
 
-- **Min radius** - Minimum turning radius (centerline) of the vehicle at the given speed and friction.
-- **Max angle** - Maximum turn angle of the vehicle at the given speed and friction.
-- **Max speed** - Maximum speed for the vehicle taking into account standard guidelines, given speed, friction and current **turn radius**.
+- **Min radius** - Minimum turning radius (centerline) of the vehicle at the given speed and friction
+- **Max angle** - Maximum turn angle of the vehicle at the given speed and friction
+- **Max speed** - Maximum speed for the vehicle taking into account standard guidelines, given speed, friction and current **turn radius**
 
 As well as settings for altering the appearance of the **Predicted Movement Area Cloud**:
 
-- **Show** - Whether the Predicted Movement Area Cloud is visible while drawing.
-- **Outline Color** - Alter the outline of the Cloud.
-- **Color** - Alter the fill color of the Cloud.
-- **Opacity** - Alter the opacity of the fill color of the Cloud.
+- **Show** - Whether the Predicted Movement Area Cloud is visible while drawing
+- **Outline Color** - Alter the outline of the Cloud
+- **Color** - Alter the fill color of the Cloud
+- **Opacity** - Alter the opacity of the fill color of the Cloud
 
 ![Sections details window](./images/Sections_details_window.png)
 
@@ -88,14 +88,14 @@ Once the Vehicle Path is finished it turns into a separate object that can be fr
 
 After the Vehicle Path is finished you can edit and adjust it using these methods:
 
-1. **Editing the parameters of the path's sections** - You can edit each section's parameters such as Speed, Friction and Turn on Stop. To select a section, first select the path, then click on the section you want to change with the left mouse button while holding **Ctrl** key. Once the section is selected, it will highlight red and a **Section Details** window will appear. You can also select multiple sections by clicking on them one by one while holding **Ctrl** key.
+1. **Editing the parameters of the path's sections** - You can edit each section's parameters such as Speed, Friction and Turn on Stop. To select a section, first select the path, then click on the section you want to change with the left mouse button while holding **Ctrl** key. Once the section is selected, it will highlight red and a **Section Details** window will appear. You can also select multiple sections by clicking on them one by one while holding **Ctrl** key
 
 ![Selected section of the vehicle path](./images/Selected_section_of_the_vehicle_path.png)
 
-1. **Editing control points** - You can change Vehicle Path's geometry by moving **control points**. Select the path, then click on one of the red circles and drag while holding the left mouse button. It is possible that you won't be able to move it freely because its position can be bounded by vehicle's manoeuvrability capabilities (sections' properties, other **control points**).
+1. **Editing control points** - You can change Vehicle Path's geometry by moving **control points**. Select the path, then click on one of the red circles and drag while holding the left mouse button. It is possible that you won't be able to move it freely because its position can be bounded by vehicle's manoeuvrability capabilities (sections' properties, other **control points**)
 You can also remove the **control point** by clicking on it with the right-click and choosing "Remove **control point**" option from the context menu.
 
-1. **Continuing the path** - You can continue drawing already finished path. To do this simply right-click on the path you want to expand, then choose the "Continue path" option from the "Vehicle path" sub-menu. Continuing the path works the same way as drawing the path.
+1. **Continuing the path** - You can continue drawing already finished path. To do this simply right-click on the path you want to expand, then choose the "Continue path" option from the "Vehicle path" sub-menu. Continuing the path works the same way as drawing the path
 
 ![Continuing the path option in the context menu](./images/Continuing_the_path_option_in_the_context_menu.png)
 
@@ -113,9 +113,9 @@ Changes to a swept path's **Properties** are discussed in the [next section](./s
 
 You can add additional vehicle objects to the path to:
 
-- Better visualize results of your analysis;
-- Check position/behavior of the vehicle and trailers at a specific point along the path; and
-- Start a new analysis from a selected point on the existing path to make multiple connected analyses or different route variants.
+- better visualize results of your analysis;
+- check position/behavior of the vehicle and trailers at a specific point along the path; and
+- start a new analysis from a selected point on the existing path to make multiple connected analyses or different route variants
 
 To add additional vehicles to the path, click on it with the right-click and choose the "Add vehicle" option from the "Vehicle path" sub-menu. Now place the vehicles along the path by clicking with the left mouse button. When finished press the right-click or "Esc" key. These are ordinary vehicle objects that can be moved, edited and even replaced with other vehicles. You can also start a new **swept path analysis** from them.
 

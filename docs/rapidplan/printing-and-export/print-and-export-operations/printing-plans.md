@@ -40,7 +40,7 @@ For multiple plans or **print regions**, use [Batch print and export](./batch-pr
 
 ## Related output workflows
 
-- Use [In-place print preview](../output-setup/in-place-print-preview) to check page layout directly on the plan.
-- Use [Export formats](./export-formats) when you need PDF, image, or CAD output.
-- Use [Fax mode](./fax-mode) when output must remain readable in black and white.
+- use [In-place print preview](../output-setup/in-place-print-preview) to check page layout directly on the plan
+- use [Export formats](./export-formats) when you need PDF, image, or CAD output
+- use [Fax mode](./fax-mode) when output must remain readable in black and white
 

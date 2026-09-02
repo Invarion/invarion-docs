@@ -36,11 +36,11 @@ Use brush defaults to control default line and shape styling.
 
 By default, RapidPlan creates text with its default font settings. To change the default text style:
 
-1. Open **Tools** > **Preferences**.
-2. Select **Defaults**.
-3. Scroll to **Fonts and Text**.
-4. Set the font and text properties you want new text objects to use.
-5. Close the Preferences tab.
+1. Open **Tools** > **Preferences**
+2. Select **Defaults**
+3. Scroll to **Fonts and Text**
+4. Set the font and text properties you want new text objects to use
+5. Close the Preferences tab
 
 ![Font_Default_Preferences](../../preferences-and-defaults/assets/Font_Default_Preferences.png)
 

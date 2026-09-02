@@ -13,11 +13,11 @@ This tool enables you to place a **legend** box on your plan. There is a **Legen
 
 ## Creating a Legend Box
 
-- Select the **Legend** Tool from the Annotations tab in the **Tools palette**
-- Place this in the desired location on your plan
-- Select an item on your plan that you want to appear in the Legend Box by clicking on it once
-- Under the **Legend & Manifest** tab in the **Properties palette** make sure the **Show in Legend** section is set to **True**
-- Do this for any other items on your plan you wish to appear in the **legend**
+- select the **Legend** Tool from the Annotations tab in the **Tools palette**
+- place this in the desired location on your plan
+- select an item on your plan that you want to appear in the Legend Box by clicking on it once
+- under the **Legend & Manifest** tab in the **Properties palette** make sure the **Show in Legend** section is set to **True**
+- do this for any other items on your plan you wish to appear in the **legend**
 
 **Note**: The **legend** box does not need to be visible on the plan for you to set an item to appear in the **legend** box. Therefore, you can set any item to **Show in Legend** as you build your plan and place the complete **legend** box at the end.
 

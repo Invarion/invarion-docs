@@ -5,7 +5,7 @@ tags:
   - markers-devices
 
 ---
-# Zoomed view box tool
+# Zoomed View Box tool
 
 The **Zoomed View Box** tool allows you to create an inset that presents a detailed view of a specific section in a larger plan.
 

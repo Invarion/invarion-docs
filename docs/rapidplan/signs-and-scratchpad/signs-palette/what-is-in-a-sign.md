@@ -15,5 +15,5 @@ Each sign in RapidPlan has its own sign file saved on your computer, and almost 
 
 The reason behind the multiple variations lies in the features of the RapidPlan canvas:
 
-- When Fax Mode is selected, the signs need to be able to be displayed in black and white.
-- When Sign Designations are turned on, the software needs to be able to display a variation of each sign with its code.
+- when Fax Mode is selected, the signs need to be able to be displayed in black and white
+- when Sign Designations are turned on, the software needs to be able to display a variation of each sign with its code

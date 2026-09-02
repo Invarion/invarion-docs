@@ -11,8 +11,8 @@ A North pointer Arrow or Star can be placed on your plan and rotated accordingly
 
 ## Creating a North or Star Arrow
 
-- Select the **North Arrow** tool from the Annotations tab in the **Tools palette**.
-- Select it to see it in the **Properties palette**.
-- Change the Style from Arrow to Star or vice versa from the **Style** tab and the **Icon** drop down menu.
+- select the **North Arrow** tool from the Annotations tab in the **Tools palette**
+- select it to see it in the **Properties palette**
+- change the Style from Arrow to Star or vice versa from the **Style** tab and the **Icon** drop down menu
 
     ![Changing_the_North_or_Star_Arrows_Properties](./assets/Changing_the_North_or_Star_Arrows_Properties.png)

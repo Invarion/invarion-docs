@@ -23,10 +23,10 @@ This is useful for roads, corridors, paths, and other long linear features where
 
 ## Typical workflow
 
-1. Select the **Chainage Marker** tool.
-2. Draw or define the path it should follow.
-3. Set the tick spacing.
-4. Adjust label position, alignment, and orientation in the **Properties palette**.
+1. Select the **Chainage Marker** tool
+2. Draw or define the path it should follow
+3. Set the tick spacing
+4. Adjust label position, alignment, and orientation in the **Properties palette**
 
 ## Why use chainage instead of distance markers
 

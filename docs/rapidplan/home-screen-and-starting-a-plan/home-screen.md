@@ -17,11 +17,11 @@ Recently Plans are listed in order of the date they were last edited. Plans can 
 
 *Right-clicking* a plan in Recent Plans will reveal a drop down menu:
 
-- **Unpin** the plan from the top of the Recent Plans list.
-- **Remove from list**: Remove the plan from the Recent Plans list.
-- **Open** the plan.
-- **Open in background tab**: Open a plan in the background, so that it can be reviewed later.
-- **Open containing folder** in File Explorer.
+- **Unpin** the plan from the top of the Recent Plans list
+- **Remove from list**: Remove the plan from the Recent Plans list
+- **Open** the plan
+- **Open in background tab**: Open a plan in the background, so that it can be reviewed later
+- **Open containing folder** in File Explorer
 
 ## New Plan Wizard
 
@@ -51,10 +51,10 @@ Opens an Invarion Cloud tab in RapidPlan, where plans can be reviewed, managed a
 
 Quick Access features:
 
-- **What's New**: Brings you to the [RapidPlan release notes](/rapidplan/release-notes/official) section of the Help Center.
-- **Preferences**: Opens a [Preferences](/rapidplan/home-screen-and-starting-a-plan/preferences-and-defaults/managing-preferences) tab in RapidPlan.
-- **Keyboard Shortcuts**: Opens a tab in RapidPlan listing enabled keyboard shortcuts.
-- **Plan Locations Map**: Opens a mapped view of your plans, as this can sometimes be easier than seeking your plans' filenames.
+- **What's New**: Brings you to the [RapidPlan release notes](/rapidplan/release-notes/official) section of the Help Center
+- **Preferences**: Opens a [Preferences](/rapidplan/home-screen-and-starting-a-plan/preferences-and-defaults/managing-preferences) tab in RapidPlan
+- **Keyboard Shortcuts**: Opens a tab in RapidPlan listing enabled keyboard shortcuts
+- **Plan Locations Map**: Opens a mapped view of your plans, as this can sometimes be easier than seeking your plans' filenames
 
 ## Online Resources
 

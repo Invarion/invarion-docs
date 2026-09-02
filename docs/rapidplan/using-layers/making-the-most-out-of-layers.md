@@ -36,10 +36,10 @@ The benefits of this are obvious; one file with each stage of the works neatly p
 
 Two weeks after drawing the plan you will probably remember what each of the 6 schemes in your plan was designed for, but what about a year down the track when you are re-excavating the same site? Chances are you might have forgotten (or another user is retrieving the plans from an old site). So name your layers appropriately. Some simple, self-explanatory names might be:
 
-- Stage 1 lane closure for valve removal
+- stage 1 lane closure for valve removal
 - 4 week advance notice of closure
-- Footpath closure for re-concreting
-- Aftercare signage before spray seal
+- footpath closure for re-concreting
+- aftercare signage before spray seal
 
 ### Do not place different road sections on different layers
 
@@ -59,9 +59,9 @@ The only objects that change on the plan are the **Merge Right** and **Merge Lef
 
 Therefore, it would be wise to:
 
-- Create the road and common signs on the background
-- Place the left lane specific items on Layer 1
-- Place the right lane specific items on Layer 2
+- create the road and common signs on the background
+- place the left lane specific items on Layer 1
+- place the right lane specific items on Layer 2
 
 ![Suggested_Layout_for_the_three_Layers_on_the_Plan](./assets/Suggested_Layout_for_the_three_Layers_on_the_Plan.png)
 

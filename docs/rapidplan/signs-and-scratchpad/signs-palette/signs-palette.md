@@ -9,9 +9,9 @@ tags:
 
 The **Signs palette** is the repository for each of the signs in RapidPlan. Aside from the signs themselves, the **Signs palette** has three main components:
 
-- Sign library
-- Sign categories
-- Search signs
+- sign library
+- sign categories
+- search signs
 
 ![Signs_Palette](./assets/Signs_Palette.png)
 
@@ -36,12 +36,12 @@ Use the search field to find signs by keyword, phrase, sign name, or sign code. 
 
 You can control how broadly RapidPlan searches when a sign library contains many signs.
 
-1. Enter a search term in the **Search** field.
-1. Right-click **Go**.
+1. Enter a search term in the **Search** field
+1. Right-click **Go**
 1. Choose a search scope:
-   - **Search all libraries** searches every installed sign library.
-   - **Search current library** searches only the selected sign library.
-   - **Search current category** searches only the open category in the selected sign library.
+   - **Search all libraries** searches every installed sign library
+   - **Search current library** searches only the selected sign library
+   - **Search current category** searches only the open category in the selected sign library
 
 RapidPlan displays matching signs on the **Search Results** tab. Use a narrower scope to reduce the number of results.
 
@@ -53,7 +53,7 @@ You can change the size of the signs in the palette. This is helpful when using 
 
 **To change the signs icon size:**
 
-- Click on the bar at the base of the **Signs palette** to make options appear.
-- The size bar will pop up enabling you to select a different size (see below).
+- click on the bar at the base of the **Signs palette** to make options appear
+- the size bar will pop up enabling you to select a different size (see below)
 
 ![Icon_Size_Bar](./assets/Icon_Size_Bar.png)

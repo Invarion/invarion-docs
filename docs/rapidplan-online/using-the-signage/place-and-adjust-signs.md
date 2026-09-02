@@ -13,11 +13,11 @@ After you place a sign, you can move, resize, and rotate it.
 
 **To place a sign:**
 
-- Select the desired sign from the **Signs palette**.
+- select the desired sign from the **Signs palette**
 
-- Move the sign onto the canvas with the mouse. You do not have to hold the mouse button while you drag the sign.
+- move the sign onto the canvas with the mouse. You do not have to hold the mouse button while you drag the sign
 
-- Click to place the sign at the selected position.
+- click to place the sign at the selected position
 
 **Note:** For details about the palette layout, see [Signs palette](/rapidplan-online/rapidplan-online-workspace/signs-palette).
 

@@ -18,8 +18,8 @@ Irrespective of which **distance marker** you are using, the technique for creat
 
 **To place a Distance Marker:**
 
-- Select the **Distance Marker** tool from the Marker tab in the **Tools palette**.
-- Click once to start drawing the **distance marker**, click a second time to mark the end point.
+- select the **Distance Marker** tool from the Marker tab in the **Tools palette**
+- click once to start drawing the **distance marker**, click a second time to mark the end point
 - right-click to finish
 
 **Note**: It is helpful to hold **Shift** whilst drawing the **distance marker** to keep it straight.
@@ -46,9 +46,9 @@ This tool does the same as the **Distance Marker** but with the ability to show 
 
 **To place a Combined Distance Marker:**
 
-- Select the **Combined Distance Marker** tool from the Marker tab in the **Tools palette**.
+- select the **Combined Distance Marker** tool from the Marker tab in the **Tools palette**
 - left-click once to start drawing the **distance marker**, left-click again to end the first **distance marker** and start the second
-- Repeat this until you have all of your distances marked for that marker
+- repeat this until you have all of your distances marked for that marker
 - right-click to finish
 
 ### Offset distance marker
@@ -59,12 +59,12 @@ This tool allows you to un-clutter items on your plan by being "offset" from its
 
 **To place an Offset Distance Marker:**
 
-- Select the **Offset Distance Marker** tool from the Marker tab in the **Tools palette**.
-- Click once to start drawing the **distance marker**, click a second time to mark the end point.
-- Drag your mouse laterally away from the distance
+- select the **Offset Distance Marker** tool from the Marker tab in the **Tools palette**
+- click once to start drawing the **distance marker**, click a second time to mark the end point
+- drag your mouse laterally away from the distance
 marker to set the offset. Click a third time to finish drawing the marker.
 
-### Angle marker tool
+### Angle Marker tool
 
 This tool enables you to show angle degrees on your plan.
 
@@ -72,16 +72,16 @@ This tool enables you to show angle degrees on your plan.
 
 **To place an Angle Marker:**
 
-- Select the **Angle Marker** tool from the Marker tab in the **Tools palette**.
-- Click the space you wish to measure (the first click will be the angle measured)
-- Click a second time to mark the base point of the angle.
-- Drag your mouse in the direction you want to measure and click to finish the angle once it is set to the desired degree/location.
+- select the **Angle Marker** tool from the Marker tab in the **Tools palette**
+- click the space you wish to measure (the first click will be the angle measured)
+- click a second time to mark the base point of the angle
+- drag your mouse in the direction you want to measure and click to finish the angle once it is set to the desired degree/location
 
     ![Placing_the_Angle_Marker](./assets/Placing_the_Angle_Marker.png)
 
     **Note:** Like any item in RapidPlan, the angle marker, once made, can be moved and adjusted, with the degrees changing accordingly.
 
-### Area marker tool
+### Area Marker tool
 
 This tool calculates the area you allocate which is shown as the cross-hatched netting in the image below.
 
@@ -89,12 +89,12 @@ This tool calculates the area you allocate which is shown as the cross-hatched n
 
 **To place an Area Marker:**
 
-- Select the **Area Marker** tool from the Marker tab in the **Tools palette**.
-- left-click once to start drawing.
-- Continue clicking to set corner points of the area.
-- right-click to finish.
+- select the **Area Marker** tool from the Marker tab in the **Tools palette**
+- left-click once to start drawing
+- continue clicking to set corner points of the area
+- right-click to finish
 
-### Combined offset distance marker tool
+### Combined Offset Distance Marker tool
 
 This tool allows you to create a combined marker that is offset on your plan.
 
@@ -102,12 +102,12 @@ This tool allows you to create a combined marker that is offset on your plan.
 
 **To place an Combined Offset Distance Marker:**
 
-- Select the **Combined Offset Distance Marker** tool from the Marker tab in the **Tools palette**.
-- left-click once to start drawing the **distance marker**, left-click again to end the first **distance marker** and start the second.
-- Repeat this until you have all of your distances for that marker.
-- To finish the last distance press right-click.
-- Drag your mouse laterally away from the **distance marker** to set the offset. Click a third time to finish drawing the marker.
-- right-click to finish.
+- select the **Combined Offset Distance Marker** tool from the Marker tab in the **Tools palette**
+- left-click once to start drawing the **distance marker**, left-click again to end the first **distance marker** and start the second
+- repeat this until you have all of your distances for that marker
+- to finish the last distance press right-click
+- drag your mouse laterally away from the **distance marker** to set the offset. Click a third time to finish drawing the marker
+- right-click to finish
 
 ### The Distance marker breakline
 
@@ -121,9 +121,9 @@ Simply change it from False to True and it will set the breakline in the middle 
 
 ## Changing the Distance on the Marker
 
-- Select the Marker
+- select the Marker
 - double-click on the distance number provided
-- The writing cursor will appear and will allow you to enter your desired distance
-- Click anywhere on your plan to finish
+- the writing cursor will appear and will allow you to enter your desired distance
+- click anywhere on your plan to finish
 
     ![Changing_the_Distance_on_a_Distance_Marker](./assets/Changing_the_Distance_on_a_Distance_Marker.png)

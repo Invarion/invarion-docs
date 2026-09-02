@@ -13,9 +13,9 @@ Before you get started with RapidPlan, you should probably get to know your way 
 
 There are three main components of the RapidPlan **workspace**:
 
-- The toolbar
-- The palettes
-- The canvas
+- the toolbar
+- the palettes
+- the canvas
 
 Organizing your **workspace** is simple as each of the items that sit on the canvas can be moved around. Generally, your screen will be laid out similar to as is shown below.
 

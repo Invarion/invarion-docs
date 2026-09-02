@@ -12,10 +12,10 @@ Like any other object in RapidPlan, the shape of the road once drawn can very ea
 
 **To edit the roads shape:**
 
-- Select the road by clicking on it once. This will make its control
-   points visible.
-- Drag any of the **control points** until the road is the correct shape.
-- Remember that you can hold **Shift** to make the **control points** line up in a row.
+- select the road by clicking on it once. This will make its control
+   points visible
+- drag any of the **control points** until the road is the correct shape
+- remember that you can hold **Shift** to make the **control points** line up in a row
 
 In the image below, Road A is the original road. Road B has had the 2nd and 3rd **control points** adjusted to change the shape of the road.
 
@@ -29,8 +29,8 @@ Adding **control points** allows you to create extra turn points to your road, h
 
 **To add a control point:**
 
-- Select the road by clicking on it once.
-- right-click where you want to add the **control point**, and select **Insert Control Point** from the context menu.
+- select the road by clicking on it once
+- right-click where you want to add the **control point**, and select **Insert Control Point** from the context menu
 
     ![Adding_a_Control_Point](./assets/Adding_a_Control_Point.png)
 
@@ -38,7 +38,7 @@ Removing **control points** is equally simple as adding them. You do need to rem
 
 **To remove a control point:**
 
-- Select the road by clicking on it.
-- right-click on the desired **control point** and select **Remove Control Point** from the context menu.
+- select the road by clicking on it
+- right-click on the desired **control point** and select **Remove Control Point** from the context menu
 
     ![Removing_a_Control_Point](./assets/Removing_a_Control_Point.png)

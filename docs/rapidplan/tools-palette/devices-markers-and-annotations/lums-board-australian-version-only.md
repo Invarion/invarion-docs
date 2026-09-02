@@ -20,9 +20,9 @@ This tool helps you create a Lanes Use Management System (LUMS) across a roadway
 
 ## Creating an LUMS Board
 
-- Select the **LUMS Board** tool in the Devices tab in the **Tools palette**.
-- Click once to place an LUMS Board the first lane, continue this for each lane.
-- Once all of your LUMS Boards are set, you can select each one and change its style in the **Properties palette** under the **Style** tab and the **Icon** drop down menu.
+- select the **LUMS Board** tool in the Devices tab in the **Tools palette**
+- click once to place an LUMS Board the first lane, continue this for each lane
+- once all of your LUMS Boards are set, you can select each one and change its style in the **Properties palette** under the **Style** tab and the **Icon** drop down menu
 - right-click to finish
 
     ![LUMS_Board_Properties_Palette](./assets/LUMS_Board_Properties_Palette.png)

@@ -11,10 +11,10 @@ You should now have a good understanding of what is inside a RapidPlan sign file
 
 The basic steps for creating a sign are:
 
-- Create your base sign
-- Create the black and white version
-- Save the base sign
-- Create and save the variations
+- create your base sign
+- create the black and white version
+- save the base sign
+- create and save the variations
 
 The steps below use a fictitious sign to illustrate the process.
 
@@ -34,8 +34,8 @@ If your new sign is to be similar in appearance to an existing sign, or even if 
 
 If you want to start from scratch, there are a couple of guidelines you should adhere to:
 
-- **Sign frame**: You should ensure that the line stroke width for the frame of your sign is 1.5 pt or above.
-- **Size**: Try and keep you signs roughly the same size as the original ones packaged with RapidPlan.
+- **Sign frame**: You should ensure that the line stroke width for the frame of your sign is 1.5 pt or above
+- **Size**: Try and keep you signs roughly the same size as the original ones packaged with RapidPlan
 - **Font**: Whilst the font isn't critical, the size is. Try to keep your font to a minimum 8pt or above,
 bold setting (all the default signs use Arial).
 

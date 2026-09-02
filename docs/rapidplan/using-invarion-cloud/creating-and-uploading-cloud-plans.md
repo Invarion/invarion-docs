@@ -9,11 +9,11 @@ tags:
 
 RapidPlan now features incorporated cloud functionality, allowing you to:
 
-- Store your library of plans securely, and access them from anywhere.
-- Seamlessly collaborate with team members or clients by adding them to a plan and providing editing or view-only access.
-- Add comments and create comment threads to discuss aspects of your plan during the design process.
-- Quickly share a link to your plan so relevant stakeholders can view a read-only version on their mobile devices.
-- Plan files created in the **desktop applications** can be opened and edited by our web applications, and vice versa.
+- store your library of plans securely, and access them from anywhere
+- seamlessly collaborate with team members or clients by adding them to a plan and providing editing or view-only access
+- add comments and create comment threads to discuss aspects of your plan during the design process
+- quickly share a link to your plan so relevant stakeholders can view a read-only version on their mobile devices
+- plan files created in the **desktop applications** can be opened and edited by our web applications, and vice versa
 
 ## Creating a cloud plan
 

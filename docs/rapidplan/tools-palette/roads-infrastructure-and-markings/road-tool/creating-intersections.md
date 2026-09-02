@@ -12,9 +12,9 @@ The real power of RapidPlan lies in its ability to quickly create intersections.
 
 **To form an intersection:**
 
-- Select the **Road tool** from the Road Tools tab.
-- Draw your first road.
-- Now draw a second road overlapping the first road.
+- select the **Road tool** from the Road Tools tab
+- draw your first road
+- now draw a second road overlapping the first road
 
     ![Two_Roads_Overlapping_Creating_an_Intersection](./assets/Two_Roads_Overlapping_Creating_an_Intersection.png)
 

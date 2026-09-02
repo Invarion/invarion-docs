@@ -15,11 +15,11 @@ The **Manifest** will give you a running total of objects placed on your plan. T
 
 ## Adding a Legend
 
-- Select the **Legend** Tool from the Markers tab in the **Tools palette**;
-- Place this in the desired location on your plan;
-- Select an item on your plan that you want to appear in the Legend by clicking on it once;
-- Under the **Legend & Manifest** tab in the **Properties palette** make sure the **Show in Legend** section is set to **True**;
-- Do this for any other items on your plan you wish to appear in the **legend**.
+- select the **Legend** Tool from the Markers tab in the **Tools palette**;
+- place this in the desired location on your plan;
+- select an item on your plan that you want to appear in the Legend by clicking on it once;
+- under the **Legend & Manifest** tab in the **Properties palette** make sure the **Show in Legend** section is set to **True**;
+- do this for any other items on your plan you wish to appear in the **legend**
 
 **Note:** If you change **Entry Name** of a sign or object from Auto to Custom, you can edit the sign or object's displayed description in the Legend.
 

@@ -15,19 +15,19 @@ The areas you print in your plan is dictated by the location of your [Print Regi
 
 ## Printing options
 
-* **Plan preview:** The preview of your plan in the center shows how your plan will print out. In this preview window you can adjust the plan to fit the page size, by simply clicking and moving the map around, or by simply scrolling up and down to zoom in and out on the map area.
+* **Plan preview:** The preview of your plan in the center shows how your plan will print out. In this preview window you can adjust the plan to fit the page size, by simply clicking and moving the map around, or by simply scrolling up and down to zoom in and out on the map area
 
-* **Lock plan preview:** The lock plan preview button locks the ability to adjust the plan preview.
+* **Lock plan preview:** The lock plan preview button locks the ability to adjust the plan preview
 
-* **View horizontally:** The view horizontally button adjusts the view of the plan for different screen sizes. For example, a laptop screen is quite often smaller - this button adjusts the view so that you can view the plan appropriately on your screen.
+* **View horizontally:** The view horizontally button adjusts the view of the plan for different screen sizes. For example, a laptop screen is quite often smaller - this button adjusts the view so that you can view the plan appropriately on your screen
 
-* **Template:** Here you can select a template for your desired page size. Templates include generic title blocks where plan information can be added.
+* **Template:** Here you can select a template for your desired page size. Templates include generic title blocks where plan information can be added
 
-* **Page size and orientation:** Change the page size and orientation to suit your printout. When selected you will also need to make sure, if you have added a template, that it matches the page size/orientation you have chosen.
+* **Page size and orientation:** Change the page size and orientation to suit your printout. When selected you will also need to make sure, if you have added a template, that it matches the page size/orientation you have chosen
 
-* **Page margins:** Adjust the page margins.
+* **Page margins:** Adjust the page margins
 
-* **Print or export:** When ready to print, simply select the **Get PDF** button to download your plan as a .PDF file, or select **Get Image** to download the plan as a .PNG file.
+* **Print or export:** When ready to print, simply select the **Get PDF** button to download your plan as a .PDF file, or select **Get Image** to download the plan as a .PNG file
 
 ## Exporting to PDF
 

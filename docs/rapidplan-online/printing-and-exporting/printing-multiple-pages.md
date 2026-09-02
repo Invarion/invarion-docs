@@ -14,11 +14,11 @@ Create and position each print region that you want to include. For help setting
 
 ## Print multiple pages
 
-1. In the **Print Regions** section of the **Layers palette**, select the printer icon to print all print regions.
-1. In the **Print Frame** list, confirm that each print region you want to print is selected.
-1. Drag the print frames into the order in which you want the pages to appear.
-1. Review the template, page size, orientation, and margins.
-1. Select **Get PDF**.
+1. In the **Print Regions** section of the **Layers palette**, select the printer icon to print all print regions
+1. In the **Print Frame** list, confirm that each print region you want to print is selected
+1. Drag the print frames into the order in which you want the pages to appear
+1. Review the template, page size, orientation, and margins
+1. Select **Get PDF**
 
 ![Multiple print frames selected and arranged in the print dialog](./assets/Multi-Page_Print.png)
 

@@ -19,10 +19,10 @@ A turning lane usually needs only 3 **control points** placed, more can be added
 
 **With the Turning Lane tool engaged:**
 
-- Place a **control point** at the point where two roads intersect, with space between the **control point** and the edge of the road on which the turning lane will exist.
-- Then, place another **control point** at the other end of straight section of the turning lane.
-- Finally place a **control point** *on top of* the road the turning lane is part of where the turning lane merges with the road.
-- right-click to finish drawing.
+- place a **control point** at the point where two roads intersect, with space between the **control point** and the edge of the road on which the turning lane will exist
+- then, place another **control point** at the other end of straight section of the turning lane
+- finally place a **control point** *on top of* the road the turning lane is part of where the turning lane merges with the road
+- right-click to finish drawing
 
 You'll see the Turning Lane overlaps the edging of the pre-existing road. **If the Turning Lane's edging is on the wrong side** (not on the far side from the road): Go to its Properties and change **Direction** from Right to Left or vise-versa.
 

@@ -31,14 +31,14 @@ Alternatively, you can **open the Plan History menu from the Invarion Cloud**, b
 
 Once the Plan History dialog menu is open, you can view **Saved Versions** or **Local Backups** of your plan:
 
-- **Saved Versions** are saved into the cloud.
-- **Local Backups** are created in the event that there's a disruption in your connection.
+- **Saved Versions** are saved into the cloud
+- **Local Backups** are created in the event that there's a disruption in your connection
 
 Recovery points listed in the Version dialog are listed by date. Each one also has a unique number, timestamp and user responsible for the modification made to the plan.
 Select the saved version from either of these menus, and when ready choose one of two options:
 
-- **Restore This Version:** Restores the original plan to the selected previous version.
-- **Create Copy:** Creates a new plan from information saved in the selected recovery point.
+- **Restore This Version:** Restores the original plan to the selected previous version
+- **Create Copy:** Creates a new plan from information saved in the selected recovery point
 
 If you restore a previous version of the plan, you will still have access to the later versions of the document. So, no risk is involved.
 

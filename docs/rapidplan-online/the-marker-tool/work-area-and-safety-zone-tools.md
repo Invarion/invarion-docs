@@ -11,10 +11,10 @@ The Work Area and Safety Zone tools are designed to show where the site works an
 
 ## Drawing a Work Area or Safety Zone
 
-- Select the appropriate tool (Work zone, Safety zone) from the Markers tab in the **Tools palette**;
-- Click at the first corner point of your required area and continue clicking to set corner points;
-- When the final point is placed, right-click to stop drawing;
-- right-click to clear the cursor.
+- select the appropriate tool (Work zone, Safety zone) from the Markers tab in the **Tools palette**;
+- click at the first corner point of your required area and continue clicking to set corner points;
+- when the final point is placed, right-click to stop drawing;
+- right-click to clear the cursor
 
 An example work zone is shown below.
 

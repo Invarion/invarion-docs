@@ -30,11 +30,11 @@ Follow these steps to integrate RapidPlan with DroneDeploy:
 
 ![add dronedeploy](../assets/3-add-dronedeploy.png)
 
-5. Select DroneDeploy from the Provider dropdown list. A Select DroneDeploy Service window will appear.
+5. Select DroneDeploy from the Provider dropdown list. A Select DroneDeploy Service window will appear
 
 Note: Enable background provider will show content from a selected base map provider outside the area provided by your DroneDeploy service. If you would like to the provider used as the background, close this window and choose the provider;
 
-6. To connect to the DroneDeploy service, click Add a new service.
+6. To connect to the DroneDeploy service, click Add a new service
 
 At this point you will proceed with either **Organization Service** integration or **Single Project**:
 
@@ -42,13 +42,13 @@ At this point you will proceed with either **Organization Service** integration 
 
 As pictured below:
 
-- Select the **Organization** option;
+- select the **Organization** option;
 
-- Enter data your DroneDeploy credentials (OrganizationID, API key);
+- enter data your DroneDeploy credentials (OrganizationID, API key);
 
-- Click **Validate and add service**;
+- click **Validate and add service**;
 
-- Click **OK**.
+- click **OK**
 
 ![dronedeploy api setup](../assets/4-dronedeploy-api-setup.png)
 
@@ -66,20 +66,20 @@ To add Single project service, click Edit in the **Properties palette** > Base m
 
 ![single service](../assets/7-dronedeploy-single-project.png)
 
-- Click **Add new service**;
-- Select **Single Project**;
-- Add the project name;
-- Go to the DroneDeploy webpage;
-- Open the created single project and copy the *WMTS* link:
+- click **Add new service**;
+- select **Single Project**;
+- add the project name;
+- go to the DroneDeploy webpage;
+- open the created single project and copy the *WMTS* link:
 
 ![dronedeploy ui](../assets/8-dronedeploy-ui.png)
 
-- Then return to RapidPlan and paste the link as a Single Project:
+- then return to RapidPlan and paste the link as a Single Project:
 
 ![single project integration](../assets/9-single-project-integrating.png)
 
-- Click **Validate and add service**, and the single project will be added;
-- Select the project from the list of services and click **OK**.
+- click **Validate and add service**, and the single project will be added;
+- select the project from the list of services and click **OK**
 
 ![single projected integrated](../assets/10-single-project-integrated.png)
 

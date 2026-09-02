@@ -16,9 +16,9 @@ Use **Launcher Diagnostics** for non-trivial technical issues, especially when t
 A diagnostic report can include:
 
 - operating system and environment details
-- Launcher settings and connectivity checks
+- launcher settings and connectivity checks
 - accessible account and license information
-- Launcher, RapidPlan, and RapidPath logs collected during the session
+- launcher, RapidPlan, and RapidPath logs collected during the session
 - crash logs
 - optional files and comments added by the user
 
@@ -26,10 +26,10 @@ The tool creates a single zip file that can be sent to Invarion **Technical Supp
 
 ## Run diagnostics from the Launcher
 
-1. Open the Invarion Launcher.
-2. Open **Settings**.
-3. Select **Show advanced settings**.
-4. Scroll to the bottom and select **Start diagnostic session**.
+1. Open the Invarion Launcher
+2. Open **Settings**
+3. Select **Show advanced settings**
+4. Scroll to the bottom and select **Start diagnostic session**
 
 The Launcher runs default tests and starts collecting logs.
 
@@ -39,12 +39,12 @@ For RapidPlan or RapidPath issues, open the application during the diagnostic se
 
 ## Finish the diagnostic session
 
-1. Select **Finish**.
-2. In the finishing dialog, add any comments that may help **Technical Support** understand the issue.
-3. Review the attached files.
-4. Unselect any files you do not want to include.
-5. Drag and drop any extra files you want to add, such as screenshots, plans, or exported files.
-6. Select **Finish**.
+1. Select **Finish**
+2. In the finishing dialog, add any comments that may help **Technical Support** understand the issue
+3. Review the attached files
+4. Unselect any files you do not want to include
+5. Drag and drop any extra files you want to add, such as screenshots, plans, or exported files
+6. Select **Finish**
 
 The Launcher creates a zip file named with your username and the date/time, and saves it to your Desktop.
 

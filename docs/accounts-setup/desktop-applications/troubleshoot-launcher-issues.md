@@ -11,10 +11,10 @@ Use this page when you cannot sign in to the Invarion Launcher, cannot see an ap
 
 ## I cannot sign in to the Launcher
 
-- Make sure your internet connection is working.
-- Sign in with the Invarion account assigned to your company or license.
-- If you have forgotten your password, use the **Forgot your password** link on the sign-in page.
-- If sign-in is blocked, or the browser sign-in does not return you to the Launcher, check [Firewall and proxy configuration](./firewall-and-proxy-configuration).
+- make sure your internet connection is working
+- sign in with the Invarion account assigned to your company or license
+- if you have forgotten your password, use the **Forgot your password** link on the sign-in page
+- if sign-in is blocked, or the browser sign-in does not return you to the Launcher, check [Firewall and proxy configuration](./firewall-and-proxy-configuration)
 
 If the issue continues, run **Launcher Diagnostics** and send the report to Invarion **Technical Support**. See [Run Launcher Diagnostics](./run-launcher-diagnostics).
 
@@ -24,9 +24,9 @@ The Launcher only shows applications assigned to your account.
 
 If you do not see RapidPlan or RapidPath after signing in:
 
-- Select the refresh icon in the Launcher.
-- Confirm that you are signed in with the correct Invarion account.
-- Ask your account administrator to check that the correct license or add-on is assigned to your user.
+- select the refresh icon in the Launcher
+- confirm that you are signed in with the correct Invarion account
+- ask your account administrator to check that the correct license or add-on is assigned to your user
 
 See [Manage licenses and add-ons](../account-management/manage-licenses-and-add-ons).
 
@@ -50,18 +50,18 @@ What to check next depends on where the process fails.
 
 If the Launcher starts downloading files but fails before the application opens:
 
-- Check that your internet connection is working.
-- If your organization uses a firewall or proxy, make sure the required Invarion services are allowed. See [Firewall and proxy configuration](./firewall-and-proxy-configuration).
-- Refresh the Launcher and try opening the application again.
-- If the issue continues, run **Launcher Diagnostics** and send the report to Invarion **Technical Support**.
+- check that your internet connection is working
+- if your organization uses a firewall or proxy, make sure the required Invarion services are allowed. See [Firewall and proxy configuration](./firewall-and-proxy-configuration)
+- refresh the Launcher and try opening the application again
+- if the issue continues, run **Launcher Diagnostics** and send the report to Invarion **Technical Support**
 
 ### The application opens, then shows an error or closes unexpectedly
 
 If RapidPlan or RapidPath starts but then shows an error, crashes, or closes unexpectedly:
 
-- Run **Launcher Diagnostics**.
-- During the diagnostic session, open the application and repeat the action that caused the problem.
-- Finish the diagnostic session and send the report to Invarion **Technical Support**.
+- run **Launcher Diagnostics**
+- during the diagnostic session, open the application and repeat the action that caused the problem
+- finish the diagnostic session and send the report to Invarion **Technical Support**
 
 See [Run Launcher Diagnostics](./run-launcher-diagnostics).
 

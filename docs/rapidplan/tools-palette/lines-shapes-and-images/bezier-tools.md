@@ -12,8 +12,8 @@ One of the trickier techniques to master in RapidPlan is the drawing of a Bezier
 
 There are two components of a Bezier curve:
 
-- The center **Control Point** sets the apex of the curve.
-- The **Curve Handle** allow you to set the direction and sweep of the curve.
+- the center **Control Point** sets the apex of the curve
+- the **Curve Handle** allow you to set the direction and sweep of the curve
 
     ![Bezier_with_its_Control_Points_and_Curve_Handles](./assets/Bezier_with_its_Control_Points_and_Curve_Handles.png)
 
@@ -39,9 +39,9 @@ the wider the sweep of the curve and vice versa. To manipulate the curve handles
 
 ## Modify a Bezier curve handle
 
-- Click on the shape or line to reveal its **control points**.
-- Click on one of the two curve handles until the mouse cursor changes to a +.
-- Hold down **Ctrl** and drag the curve in and out.
+- click on the shape or line to reveal its **control points**
+- click on one of the two curve handles until the mouse cursor changes to a +
+- hold down **Ctrl** and drag the curve in and out
 
 ## Convert non-Bezier control points
 
@@ -49,6 +49,6 @@ If you place a regular **control point** on a Bezier or Filled Bezier but decide
 
 **To convert a standard control point to a Bezier control point:**
 
-- Select the **Filled Bezier** or **Bezier** by clicking on it once.
-- Click once on the **control point** you wish to convert. (The cursor will change to a +.)
-- Hold down **Ctrl** on the keyboard and drag the handles in or out as you choose.
+- select the **Filled Bezier** or **Bezier** by clicking on it once
+- click once on the **control point** you wish to convert. (The cursor will change to a +.)
+- hold down **Ctrl** on the keyboard and drag the handles in or out as you choose

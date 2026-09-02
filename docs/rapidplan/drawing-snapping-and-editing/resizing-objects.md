@@ -16,8 +16,8 @@ Most of the RapidPlan objects can be resized by moving their **control points**.
 
 **To resize with control points:**
 
-- Select the item you wish to resize.
-- Drag its **control points** until the object is the size and shape you
+- select the item you wish to resize
+- drag its **control points** until the object is the size and shape you
    require.
 
     ![Control_Point_resize](./assets/Control_Point_resize.png)
@@ -30,8 +30,8 @@ You can also change the size of your object with the **resize handles**. Unlike 
 
 **To resize with the resize handles:**
 
-- Select the item you wish to resize.
-- Drag either of the **resize handles** to stretch or shrink the object. (If you hold **Shift** while you resize, the length to width ratio of your object will be maintained).
+- select the item you wish to resize
+- drag either of the **resize handles** to stretch or shrink the object. (If you hold **Shift** while you resize, the length to width ratio of your object will be maintained)
 
     ![Resize_Handles_rail](./assets/Resize_Handles_rail.png)
 

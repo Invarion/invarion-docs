@@ -51,5 +51,5 @@ Custom symbols work well when the symbol itself should stay consistent, but the 
 
 ## Related content
 
-- Use [Location markers](/rapidplan/tools-palette/devices-markers-and-annotations/location-marker) for map pin style annotations.
-- Use [Signs palette](/rapidplan/signs-and-scratchpad/signs-palette) when you need actual sign-library content rather than symbol replacement.
+- use [Location markers](/rapidplan/tools-palette/devices-markers-and-annotations/location-marker) for map pin style annotations
+- use [Signs palette](/rapidplan/signs-and-scratchpad/signs-palette) when you need actual sign-library content rather than symbol replacement

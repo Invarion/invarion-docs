@@ -30,10 +30,10 @@ When this tool is selected, a **Multi-message Sign Wizard** box will appear wher
 
 **Multi-message sign placement:**
 
-- Select the **Multi-message Sign** tool from the Devices tab in the **Tools palette**
-- Toggle through the size tabs to view the signs available in each size category and preview the placement of each sign in the preview pane on the right
-- Select the signs and placement you want to add to the message board
-- Click **Create** to update the marker
+- select the **Multi-message Sign** tool from the Devices tab in the **Tools palette**
+- toggle through the size tabs to view the signs available in each size category and preview the placement of each sign in the preview pane on the right
+- select the signs and placement you want to add to the message board
+- click **Create** to update the marker
 
     ![Create_a_new_Multi_Message_Sign](./assets/Create_a_new_Multi_Message_Sign.png)
 
@@ -59,10 +59,10 @@ You can also add a Lane Status sign to your Multi-message sign in the 600x600 si
 
 **Adding a Lane Status to you Multi-message sign:**
 
-- Select the desired size depending on number of lanes.
-- Select the Lane Status Icon (see below).
-- You will be directed to select a Lane Status Arrow for each lane.
-- Select **Save** and complete your Multi-message Sign and select **Create**.
+- select the desired size depending on number of lanes
+- select the Lane Status Icon (see below)
+- you will be directed to select a Lane Status Arrow for each lane
+- select **Save** and complete your Multi-message Sign and select **Create**
 
     ![Adding_a_1200x600_Lane_Status_Sign_to_the_Multi_Message_Sign](./assets/Adding_a_1200x600_Lane_Status_Sign_to_the_Multi_Message_Sign.png)
 

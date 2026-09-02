@@ -12,8 +12,8 @@ This tool is handy for advising viewers of the plan that there is a scale set. Y
 
 ## Place a scale marker
 
-- Select the **Scale Marker** from the Annotations tab in the **Tools palette**.
-- Click once anywhere on your plan to place the marker.
-- Edit the values for the marker within the **Properties palette**.
+- select the **Scale Marker** from the Annotations tab in the **Tools palette**
+- click once anywhere on your plan to place the marker
+- edit the values for the marker within the **Properties palette**
 
     ![Scale_Marker_and_Properties_Palette](./assets/Scale_Marker_and_Properties_Palette.png)

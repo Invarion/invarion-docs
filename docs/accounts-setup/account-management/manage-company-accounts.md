@@ -11,10 +11,10 @@ Once you have signed in to your account, you will be taken to the **My Account**
 
  This page shows your account details including:
 
-- Your email address or username
-- Your role within the system, whether you are a Company admin or standard user
-- Your company name
-- And a list of your account Administrators.
+- your email address or username
+- your role within the system, whether you are a Company admin or standard user
+- your company name
+- and a list of your account Administrators
 
 ![home screen](./assets/home-screen-account-management.jpg)
 

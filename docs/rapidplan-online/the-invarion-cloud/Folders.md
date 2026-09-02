@@ -17,8 +17,8 @@ To create a folder select **+ Create**a button and choose the**New folder** opti
 
 **Notes:**
 
-- You can change folder's name at any time using rename option in the folder's context menu on folder's details.
-- You can't create a folder inside Home, All Plans or Shared with Me section.
+- you can change folder's name at any time using rename option in the folder's context menu on folder's details
+- you can't create a folder inside Home, All Plans or Shared with Me section
 
 ## Folders actions
 

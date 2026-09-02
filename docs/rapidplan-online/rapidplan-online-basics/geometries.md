@@ -22,8 +22,8 @@ Spline applies a curve based on the **Tension** value you input in the object's 
 
 **Tension** values can be any value less than 1:
 
-- A lower value will apply less smoothing - making the line more direct and less curved.
-- A higher value will smooth the path more - creating more curvature.
+- a lower value will apply less smoothing - making the line more direct and less curved
+- a higher value will smooth the path more - creating more curvature
 
 ## Bezier
 
