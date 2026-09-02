@@ -24,6 +24,8 @@ Open **File** > **Print** > **Print Options** to control:
 - multipage printing
 - other output defaults used by print and export workflows
 
+See [Plan scale and print scaling](../output-setup/plan-scale-and-print-scaling) if the scale shown in a print frame differs from the plan scale or if you need to maintain a specific printed scale.
+
 ![Print_Options](../assets/Print_Options.png)
 
 ## Printing a single plan
@@ -43,4 +45,3 @@ For multiple plans or **print regions**, use [Batch print and export](./batch-pr
 - use [In-place print preview](../output-setup/in-place-print-preview) to check page layout directly on the plan
 - use [Export formats](./export-formats) when you need PDF, image, or CAD output
 - use [Fax mode](./fax-mode) when output must remain readable in black and white
-

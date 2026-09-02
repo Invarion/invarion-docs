@@ -58,6 +58,8 @@ It is sometimes desirable that the frame rotates its objects when page orientati
 By default, when printing or exporting TCPs RapidPlan uses the application-wide settings specified in the **File** > **Print** > **Print Options** dialog. However, when creating a print frame it is possible to make it override the default settings and use its own options (for example when a specific print region should be printed to a different paper size). While editing a print frame, go to its **Properties palette**, change **Print options** to **Custom**, then click **Edit**.
 This will open a print options dialog that lets you specify settings to be used when printing the current plan or region only (depending on whether your frame is defined for the plan or region).
 
+For help understanding why the plan and print frame can show different scales, see [Plan scale and print scaling](./plan-scale-and-print-scaling).
+
 ![Overriding_print_options](../../the-canvas-area/assets/Overriding_print_options.png)
 
 ## Reusing print frames
@@ -68,4 +70,3 @@ Then anytime you create a new plan, you can load the appropriate pre-saved frame
 ![Save_frame_to_file](../../the-canvas-area/assets/Save_frame_to_file.png)
 
 ![Load_frame_from_file](../../the-canvas-area/assets/Load_frame_from_file.png)
-
