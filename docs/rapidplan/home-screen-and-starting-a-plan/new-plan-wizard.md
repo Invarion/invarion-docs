@@ -31,13 +31,13 @@ If you choose not to enter any details here, a default print region and scale wi
 
 Selecting the **blank canvas** option will provide you with a plain canvas to draw your plan on.
 
-**To create a Blank Canvas Plan:**
+**To create a Blank Canvas plan:**
 
-- Select **New Plan Wizard** in the Quick Start section of the Welcome to RapidPlan page.
-- In **step 1**, select **Blank Canvas**.
-- In **step 2** enter your plan's details and choose a print region and scale if needed.
-- In this step, if you scroll down you can also add a **job location** to make the plan searchable by location.
-- Once you are ready, select **Create Plan** in the top right of the window.
+- select **New Plan Wizard** in the Quick Start section of the Welcome to RapidPlan page
+- in **step 1**, select **Blank Canvas**
+- in **step 2** enter your plan's details and choose a print region and scale if needed
+- in this step, if you scroll down you can also add a **job location** to make the plan searchable by location
+- once you are ready, select **Create Plan** in the top right of the window
 
     ![Enter_Plan_Details](./assets/Enter_Plan_Details.png)
 
@@ -47,13 +47,13 @@ Selecting the **blank canvas** option will provide you with a plain canvas to dr
 
 Select this plan type if you're drawing a plan for a specific job site. It will let you display a site preview map, import aerial photos as the plan's background and draw road networks automatically.
 
-**Creating a New Plan from a Base Map:**
+**Creating a new plan from a Base Map:**
 
-- Select **New Plan Wizard** in the Quick Start section of the Welcome to RapidPlan page.
-- In **step 1**, select **Base Map**.
-- In **step 2** enter your plan details and choose a print region and scale, or leave them as default.
-- Scroll down to **Job Location** and type in the address for your job in the search bar and click **Search**.
-- Select **Create Plan** and your plan will load on your canvas as shown in the image below.
+- select **New Plan Wizard** in the Quick Start section of the Welcome to RapidPlan page
+- in **step 1**, select **Base Map**
+- in **step 2** enter your plan details and choose a print region and scale, or leave them as default
+- scroll down to **Job Location** and type in the address for your job in the search bar and click **Search**
+- select **Create Plan** and your plan will load on your canvas as shown in the image below
 
     **Note**: in the **Properties palette** you can change the provider of the map from omniscale, satellite and hybrid.
 
@@ -65,9 +65,9 @@ Select this plan type if you're drawing a plan for a specific job site. It will 
 
 The bearing of a base map is adjustable, enabling you to draw plans at any orientation. To adjust the base map bearing:
 
-1. Create a new plan in new plan wizard
-2. Select the Base map plan type
-3. When choosing job location, adjust bearing to liking as shown below.
+1. Create a new plan in New Plan Wizard
+2. Select the Base Map plan type
+3. When choosing job location, adjust bearing to liking as shown below
 
 ![Base_map_bearing_adjustment](./assets/Base_map_bearing_adjustment.png)
 
@@ -93,13 +93,13 @@ This creates a new plan base on a TCP template selected from a library of typica
 
 ## Create a new plan from a template
 
-- Select **New Plan Wizard** in the Quick Start section of the Welcome to RapidPlan page.
-- In **step 1**, select **Static Template**.
-- A **New Plan From Template** window will appear as shown in the image below, where you can select your regional template package and your template.
-- Once you have chosen your template, click **Select Template**.
-- You will be taken back to **step 1**, now select **Next** at the top right of the window.
-- You will now be at the **step 2** window where you may see your template's details already there. You can keep these and the default settings or enter your own details.
-- Select **Create Plan** and your template will appear on your canvas  as shown in the image below.
+- select **New Plan Wizard** in the Quick Start section of the Welcome to RapidPlan page
+- in **step 1**, select **Static Template**
+- a **New Plan From Template** window will appear as shown in the image below, where you can select your regional template package and your template
+- once you have chosen your template, click **Select Template**
+- you will be taken back to **step 1**, now select **Next** at the top right of the window
+- you will now be at the **step 2** window where you may see your template's details already there. You can keep these and the default settings or enter your own details
+- select **Create Plan** and your template will appear on your canvas  as shown in the image below
 
     ![New_Plan_From_Template](./assets/New_Plan_From_Template.png)
 

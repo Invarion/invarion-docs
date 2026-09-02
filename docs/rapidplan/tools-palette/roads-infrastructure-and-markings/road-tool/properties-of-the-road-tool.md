@@ -10,11 +10,11 @@ tags:
 
 Of all the tools in RapidPlan, the Road has by far the most power and flexibility. Accordingly, there are a great many settings you can alter to set your road up as you require. You can change:
 
-- Road color, geometry and auto merge
-- Lane number, width, color and **lane markings**
-- Left side/right side edge line, shoulder and sidewalk widths and colors
-- Distance markers
-- Legend and **manifest** preferences
+- road color, geometry and auto merge
+- lane number, width, color and **lane markings**
+- left side/right side edge line, shoulder and sidewalk widths and colors
+- distance markers
+- legend and **manifest** preferences
 
 All of the above settings are accessed through the road properties screen. You can access the properties screen by double-clicking on the road you need to change from the Quick Edit mode or from the **Properties palette**.
 
@@ -24,10 +24,10 @@ The Road section of the road's properties allows you to adjust the color, the ro
 
 **To change the color of the road in the Properties palette:**
 
-- Select the road on your plan
-- Select the **Road** section on the Properties palette
-- Select the **Color** bar (the blue bar the image below)
-- Some color options will become available for you to choose from
+- select the road on your plan
+- select the **Road** section on the Properties palette
+- select the **Color** bar (the blue bar the image below)
+- some color options will become available for you to choose from
 
     ![Road_Properties](./assets/Road_Properties.png)
 
@@ -43,9 +43,9 @@ In this section you can edit the number of lanes, lane width and **lane markings
 
 **To change a road's lane markings in properties:**
 
-- Select the road.
-- On the Lanes tab in the Properties palette select Markings.
-- Change the width value, the color and/or style of the markings (Dashed, Solid, DashSolid, SolidDash, Double or None), dash and gap length.
+- select the road
+- on the Lanes tab in the Properties palette select Markings
+- change the width value, the color and/or style of the markings (Dashed, Solid, DashSolid, SolidDash, Double or None), dash and gap length
 
 Styles of Lane Markings for your roads:
 
@@ -63,8 +63,8 @@ In this section you can adjust the left/right edges (color, width), shoulders (w
 
 **To change Left Side (or Right Side) shoulder properties:**
 
-- Select the road.
-- On the **Left Side/Right Side** section of the Properties palette select **Shoulder** to adjust the width and color of the Left Shoulder (see the image below).
+- select the road
+- on the **Left Side/Right Side** section of the Properties palette select **Shoulder** to adjust the width and color of the Left Shoulder (see the image below)
 
     **Note**: The Edges and Sidewalks can be adjusted in a similar way.
 
@@ -72,8 +72,8 @@ In this section you can adjust the left/right edges (color, width), shoulders (w
 
 **To turn a edge/shoulder/sidewalk on or off:**
 
-- Select the road.
-- On the Left Side/Right Side section use the check boxes to toggle the on/off state of the properties as shown below.
+- select the road
+- on the Left Side/Right Side section use the check boxes to toggle the on/off state of the properties as shown below
 
     ![Shoulder_and_Sidewalk_turned_off](./assets/Shoulder_and_Sidewalk_turned_off.png)
 
@@ -83,8 +83,8 @@ This section allows you to activate distance markers on the road. On the image b
 
 **To activate Distance Markers on a road:**
 
-- Select the road.
-- On the **Distance Markers** section of the Properties palette click **False** in the **Show** section to change it to **True**.
+- select the road
+- on the **Distance Markers** section of the Properties palette click **False** in the **Show** section to change it to **True**
 
     ![Activated_Distance_Markers_on_a_road](./assets/Activated_Distance_Markers_on_a_road.png)
 
@@ -96,8 +96,8 @@ There you can also choose the **manifest** value as **Default** or **Dimensions*
 
 **To activate road on your plan's legend and/or manifest:**
 
-- Select object.
-- On the **Legend & Manifest** section of the Properties palette clock on **False** on **Show in legend** section to make it **True**.
+- select object
+- on the **Legend & Manifest** section of the Properties palette clock on **False** on **Show in legend** section to make it **True**
 
     ![Legend_and_Manifest_Properties](./assets/Legend_and_Manifest_Properties.png)
 

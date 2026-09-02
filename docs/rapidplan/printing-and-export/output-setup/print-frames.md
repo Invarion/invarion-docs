@@ -10,10 +10,10 @@ Print frames let you place page-space content such as titleboxes, notes, legends
 
 ## Typical usage scenarios
 
-- **Reusing standard TCP annotations** - if your TCPs need to have a similar titlebox layout (company logo, job details, planner signature, permit number), you can extract these annotations into a print frame and reuse the frame for different TCPs, only adjusting the necessary details.
-- **Adjusting annotations to page size** - print frames automatically adjust to the current print page size and can auto-rotate their content to ensure annotations are printed in the same position regardless of whether you're printing in portrait or landscape orientation.
-- **Aligning annotations with page edges** - when the proportions of your print region don't exactly match the proportions of the page printable area, you're often left with additional margins between the page border and the content that's scaled to fit inside. Anchoring annotations to frame edges ensured they're aligned with printout borders.
-- **Preventing annotations from obscuring other print regions** - when drawing plans with multiple overlapping **print regions**, extracting annotations to print frames prevents them from obscuring contents of other regions.
+- **Reusing standard TCP annotations** - if your TCPs need to have a similar titlebox layout (company logo, job details, planner signature, permit number), you can extract these annotations into a print frame and reuse the frame for different TCPs, only adjusting the necessary details
+- **Adjusting annotations to page size** - print frames automatically adjust to the current print page size and can auto-rotate their content to ensure annotations are printed in the same position regardless of whether you're printing in portrait or landscape orientation
+- **Aligning annotations with page edges** - when the proportions of your print region don't exactly match the proportions of the page printable area, you're often left with additional margins between the page border and the content that's scaled to fit inside. Anchoring annotations to frame edges ensured they're aligned with printout borders
+- **Preventing annotations from obscuring other print regions** - when drawing plans with multiple overlapping **print regions**, extracting annotations to print frames prevents them from obscuring contents of other regions
 
 ## Creating print frames
 
@@ -58,6 +58,8 @@ It is sometimes desirable that the frame rotates its objects when page orientati
 By default, when printing or exporting TCPs RapidPlan uses the application-wide settings specified in the **File** > **Print** > **Print Options** dialog. However, when creating a print frame it is possible to make it override the default settings and use its own options (for example when a specific print region should be printed to a different paper size). While editing a print frame, go to its **Properties palette**, change **Print options** to **Custom**, then click **Edit**.
 This will open a print options dialog that lets you specify settings to be used when printing the current plan or region only (depending on whether your frame is defined for the plan or region).
 
+For help understanding why the plan and print frame can show different scales, see [Plan scale and print scaling](./plan-scale-and-print-scaling).
+
 ![Overriding_print_options](../../the-canvas-area/assets/Overriding_print_options.png)
 
 ## Reusing print frames
@@ -68,4 +70,3 @@ Then anytime you create a new plan, you can load the appropriate pre-saved frame
 ![Save_frame_to_file](../../the-canvas-area/assets/Save_frame_to_file.png)
 
 ![Load_frame_from_file](../../the-canvas-area/assets/Load_frame_from_file.png)
-

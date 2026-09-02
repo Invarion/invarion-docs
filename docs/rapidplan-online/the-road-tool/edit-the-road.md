@@ -12,8 +12,8 @@ Like any other object in RapidPlan Online, the shape of the road can be edited b
 
 ## To edit the roads shape
 
-- Select the road by clicking on it. This will make it's **control points** visible.
-- Drag any of the **control points** until you have the desired shape of the road.
+- select the road by clicking on it. This will make it's **control points** visible
+- drag any of the **control points** until you have the desired shape of the road
 
 In the image below, **Road A** is the original road. **Road B** has had the 1st, 2nd and 3rd **control points** moved to change the shape of the road.
 
@@ -23,10 +23,10 @@ In the image below, **Road A** is the original road. **Road B** has had the 1st,
 
 Road objects are fully customizable. Elements that can be adjusted include:
 
-- Road color, geometry and auto merge
-- Lane number, width, color and **lane markings**
-- Left side/right side edge line, shoulder and sidewalk widths and colors
-- Legend and **manifest** preferences
+- road color, geometry and auto merge
+- lane number, width, color and **lane markings**
+- left side/right side edge line, shoulder and sidewalk widths and colors
+- legend and **manifest** preferences
 
 All of these properties can be adjusted by clicking the objects, then navigating to the **Properties palette** (pictured below), and making alterations
 

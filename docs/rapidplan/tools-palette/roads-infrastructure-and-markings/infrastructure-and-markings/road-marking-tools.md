@@ -11,22 +11,22 @@ tags:
 
 ## Lane Marker tool
 
-The automatic **lane markings** on the road always perfectly follow the curve of the road. Sometimes you will need to create something different, so RapidPlan has a custom lane marker tool. In a lot of cases, you will use the **Lane Marker** tool in conjunction with the lane mask tool. The example below will show you how to combine the two.
+The automatic **lane markings** on the road always perfectly follow the curve of the road. Sometimes you will need to create something different, so RapidPlan has a custom Lane Marker tool. In a lot of cases, you will use the **Lane Marker** tool in conjunction with the Lane Mask tool. The example below will show you how to combine the two.
 
 In this example we will replace the current dash lane marker with the solid double line lane marker.
 
-Firstly, we need to remove part of the existing lines. We do this with the lane mask tool (see [Road Masking](./road-masking-tools)).
+Firstly, we need to remove part of the existing lines. We do this with the Lane Mask tool (see [Road Masking](./road-masking-tools)).
 
-Next we select the lane marker tool and draw in the edge merge the line.
+Next we select the Lane Marker tool and draw in the edge merge the line.
 
 **To create a new lane marking:**
 
-- Hover your cursor over **Markings** in the **Tools palette**.
-- Select the **Lane Marker** tool.
-- Click once on your road where you want to start.
-- Move the mouse, clicking to place turn points as required.
-- When you are finished, right-click to stop drawing.
-- right-click again to clear the cursor.
+- hover your cursor over **Markings** in the **Tools palette**
+- select the **Lane Marker** tool
+- click once on your road where you want to start
+- move the mouse, clicking to place turn points as required
+- when you are finished, right-click to stop drawing
+- right-click again to clear the cursor
 
     ![Using_a_Lane_Marker](./assets/Using_a_Lane_Marker.png)
 
@@ -35,8 +35,8 @@ You can change the lane marker to any of the standard lane styles (Dashed, Solid
 **To change the properties of a lane marking:**
 
 - double-select the **lane marking**
-- On its properties screen, make any required alterations to the type and color of the line
-- Click Ok to accept the changes
+- on its properties screen, make any required alterations to the type and color of the line
+- click Ok to accept the changes
 
 ## Flush Median tool
 
@@ -48,11 +48,11 @@ This tool works like any Polygon where you click to place each of its corners an
 
 This tool also works like a polygon, with the first click forming the tip of the chevron.
 
-**To place the chevron flush median tool:**
+**To place the Chevron Flush Median tool:**
 
-- Select the Chevron Flush Median tool from the Markings tab in the **Tools palette**
-- Your first click will be the top point of the shape (in the direction of the chevron)
-- Then click for all other consecutive points
+- select the Chevron Flush Median tool from the Markings tab in the **Tools palette**
+- your first click will be the top point of the shape (in the direction of the chevron)
+- then click for all other consecutive points
 - right-click to finish
 
     ![Chevron_Flush_Median_tool](./assets/Chevron_Flush_Median_tool.png)

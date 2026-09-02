@@ -12,7 +12,7 @@ The sign palette is the repository for each of the signs in RapidPlan Online. As
 
 - **Sign library** - Drop down menu that allows you to select which signage pack you wish to use. In some cases you will only have one pack installed, but certain countries will have numerous state/region packs also installed;
 - **Sign categories** - The signs are organized into tabs so that they are easy to find. Clicking through the tabs will reveal the signs for each category; and
-- **Sign search** - Search the entire **sign library** by keyword, phrase, sign name or sign code.
+- **Sign search** - Search the entire **sign library** by keyword, phrase, sign name or sign code
 
 ![Sign Palette](./Assets/Sign_Palette.png)
 

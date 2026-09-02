@@ -32,5 +32,5 @@ This is useful when you want one window per active plan instead of several tabs 
 
 ## Notes
 
-- A plan normally needs to be saved before it can be opened in a new window.
-- Multi-window workflows are especially helpful when combined with shared basemap, import, print, or review work.
+- a plan normally needs to be saved before it can be opened in a new window
+- multi-window workflows are especially helpful when combined with shared basemap, import, print, or review work

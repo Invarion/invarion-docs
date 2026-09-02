@@ -16,9 +16,9 @@ Irrespective of which **distance marker** you are using, the technique for creat
 
 **To place a Distance Marker:**
 
-- Select your **Distance Marker** tool from the Markers tab in the **Tools palette**;
-- Click once to start drawing the **distance marker**, click a second time to mark the end point;
-- right-click to finish.
+- select your **Distance Marker** tool from the Markers tab in the **Tools palette**;
+- click once to start drawing the **distance marker**, click a second time to mark the end point;
+- right-click to finish
 
 **Quick Tip:** It is helpful to hold **Shift** whilst drawing the **distance marker** to keep it straight.
 
@@ -26,9 +26,9 @@ Irrespective of which **distance marker** you are using, the technique for creat
 
 Provided your plan is scaled to match the background image you are working on, your **distance marker** will have an accurate distance value to match. If however you wish to define your own distance on the marker, simply follow the steps below:
 
-- Select the Marker;
-- Navigate to the **Properties palette**;
-- Change mode from Auto to Text, enter desired Distance in Text heading;
-- Click anywhere on your plan to finish.
+- select the Marker;
+- navigate to the **Properties palette**;
+- change mode from Auto to Text, enter desired Distance in Text heading;
+- click anywhere on your plan to finish
 
 ![Setting Distance](./assets/Setting_Distance.png)

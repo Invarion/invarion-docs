@@ -13,11 +13,11 @@ The **Callout box** is a great way to draw attention to important items on your 
 
 ## Creating a Callout Box
 
-- Select the **Callout box** from the Text tab in the **Tools palette**.
-- Click on the plan where you want to place the pointer of the **callout box**.
-- Move the mouse to where you wish to place the body of the callout and click again.
-- A text cursor will appear for you to write your text in the box (see below).
-- Click anywhere on your plan to complete the **callout box**.
+- select the **Callout box** from the Text tab in the **Tools palette**
+- click on the plan where you want to place the pointer of the **callout box**
+- move the mouse to where you wish to place the body of the callout and click again
+- a text cursor will appear for you to write your text in the box (see below)
+- click anywhere on your plan to complete the **callout box**
 
     ![Callout_Box_Ready_for_you_to_Add_your_Text](./assets/Callout_Box_Ready_for_you_to_Add_your_Text.png)
 

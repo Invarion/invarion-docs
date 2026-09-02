@@ -17,27 +17,27 @@ Sometimes, it may be necessary to remove a small section of a **lane marking** o
 
 **To mask out a lane marking:**
 
-- Hover your cursor over **Markings** in the **Tools palette**
-- Select the **Lane Mask** tool
-- Click and hold the left mouse button on the marking, at the point you wish to start the mask
-- Move the mouse along the line to lay out the mask
-- On curves, you will need to click in turn points for your mask as it follows the road
+- hover your cursor over **Markings** in the **Tools palette**
+- select the **Lane Mask** tool
+- click and hold the left mouse button on the marking, at the point you wish to start the mask
+- move the mouse along the line to lay out the mask
+- on curves, you will need to click in turn points for your mask as it follows the road
 - right-click to finish
 
     ![Lane_Masking_tool](./assets/Lane_Masking_tool.png)
 
-The lane mask tool is no different to any other object in RapidPlan once it's been placed, you can select it and shift its **control points** if you didn't manage to completely cover the line in the first attempt.
+The Lane Mask tool is no different to any other object in RapidPlan once it's been placed, you can select it and shift its **control points** if you didn't manage to completely cover the line in the first attempt.
 
 ## Road Mask tool
 
 This tool operates similar to the **Lane Mask** tool and removes sections of lane markers but instead of covering only a lane width, you can cover an entire road to remove markers. This comes in handy particularly when you have several lanes on roads that meet at an intersecting point and you need to remove many lane markers.
 
-**To mask out lane markings using the Road Mask Tool:**
+**To mask out lane markings using the Road Mask tool:**
 
-- Hover your cursor over **Markings** in the **Tools palette**.
-- Select the **Road Mask** tool.
-- Start using the tool as you would use the Polygon tool drawing a perimeter of the road mask enclosing all the lane markers you want.
-- right-click to finish.
+- hover your cursor over **Markings** in the **Tools palette**
+- select the **Road Mask** tool
+- start using the tool as you would use the Polygon tool drawing a perimeter of the road mask enclosing all the lane markers you want
+- right-click to finish
 
     ![Road_Mask_tool](./assets/Road_Mask_tool.png)
 

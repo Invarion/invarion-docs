@@ -22,13 +22,13 @@ List of things collaborators can do:
 - edit your plan,
 - rename your plan,
 - duplicate your plan,
-- restore the previous version of the plan.
+- restore the previous version of the plan
 
 List of things collaborators can't do:
 
 - further share your plan with other people or users,
 - move your plan to a different location,
-- delete your plan.
+- delete your plan
 
 You can track the activity on your shared plan using the plan details, where the last modification date and person responsible for the change are listed. Collaborators are also listed in [Plan history and recovery](./plan-history-and-recovery), where you can restore any previous version of the plan.
 

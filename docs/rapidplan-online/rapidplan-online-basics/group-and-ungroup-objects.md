@@ -9,9 +9,9 @@ tags:
 
 Grouping and ungrouping objects is an important technique to learn. The benefit of grouping objects is the ability to adjust several objects together, rather than individually.
 
-- Group by holding down the **Shift** key and left-clicking each object you wish to group. Once they are all selected, right-click and select **Group** - as shown in the image below.
+- group by holding down the **Shift** key and left-clicking each object you wish to group. Once they are all selected, right-click and select **Group** - as shown in the image below
 
-- Alternatively, use a selection window (see [Select and alter objects](./select-and-alter-objects)) to select the desired objects, then right-click.
+- alternatively, use a selection window (see [Select and alter objects](./select-and-alter-objects)) to select the desired objects, then right-click
 
 ![Group Objects](./assets/Group_Objects.png)
 

@@ -15,9 +15,9 @@ It is always a good idea to add the description of the vehicle used for the **Sw
 
 The **Vehicle Profile** displays the:
 
-- Vehicle's name;
-- Vehicle's side view with the most important dimensions; and
-- Vehicle's properties crucial for the **Swept Path Analysis**.
+- vehicle's name;
+- vehicle's side view with the most important dimensions; and
+- vehicle's properties crucial for the **Swept Path Analysis**
 
 ![Vehicle profile added to the plan](./images/Vehicle_profile_added_to_the_plan.png)
 
@@ -52,8 +52,8 @@ Modifiable **Parameters** include:
 - **Direction of Travel**
 - **Speed** and **Friction**
 - [**Turn on Stop**](./prepare-swept-path-analysis#editing-an-existing-vehicle)
-- **Range Factor** - How far the cloud extends (at max value of '1' by default).
-- **Units** - chosen unit of measurement.
+- **Range Factor** - How far the cloud extends (at max value of '1' by default)
+- **Units** - chosen unit of measurement
 
 Note that a **Vehicle Predicted Movement Area** cloud can be generated from the vehicle itself (rather than by clicking on a drawn path). To do this, right-click the vehicle, hover over **Vehicle** in the menu and select **Predicted Movement Area**.
 
@@ -74,9 +74,9 @@ Once a **marker** has been created, like all other objects it can be selected an
 
 The properties section labelled **Marker** is a space in which the content of the measurement displayed on the marker can be adjusted:
 
-- **Units** - alter the unit of measurement used.
-- **Significant Digits** - alter how many decimal places are included.
-- **Mode** - when set to *Default*, the measurement will display the distance measured based on the span of the marker. If set to *Custom Text*, it will display the input in the **Text** field.
+- **Units** - alter the unit of measurement used
+- **Significant Digits** - alter how many decimal places are included
+- **Mode** - when set to *Default*, the measurement will display the distance measured based on the span of the marker. If set to *Custom Text*, it will display the input in the **Text** field
 
 **Note:** Like other objects, tThe content of the marker can also be edited by double-clicking on it and typing a new value or message.
 

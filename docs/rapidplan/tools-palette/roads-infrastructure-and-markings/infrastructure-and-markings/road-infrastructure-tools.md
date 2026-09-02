@@ -16,10 +16,10 @@ The Train Tracks tool allows you to quickly add train or tram (light rail) lines
 
 **To place a train line:**
 
-- Select the **Train Tracks** tool from the Infrastructure tab in the **Tools palette**
-- Click once to start your rail line.
-- Click at each turn point.
-- right-click to stop drawing.
+- select the **Train Tracks** tool from the Infrastructure tab in the **Tools palette**
+- click once to start your rail line
+- click at each turn point
+- right-click to stop drawing
 
     ![Train_Tracks_and_Tram_Tracks](./assets/Train_Tracks_and_Tram_Tracks.png)
 
@@ -33,9 +33,9 @@ The Crosswalk tool is a handy tool that creates crosswalks on roads, arcs, and r
 
 **To create a crosswalk:**
 
-- Draw your road
-- Select the **Crosswalk** tool from the Infrastructure tab in the **Tools palette**
-- Place your cursor where you want the crosswalk to start and left-click your mouse once to start drawing
+- draw your road
+- select the **Crosswalk** tool from the Infrastructure tab in the **Tools palette**
+- place your cursor where you want the crosswalk to start and left-click your mouse once to start drawing
 - right-click to finish drawing
 
     ![Crosswalks](./assets/Crosswalks.png)
@@ -44,7 +44,7 @@ Three different types of crosswalks have been created in the screen print above.
 
 ## Traffic Islands
 
-Learning how to create traffic islands/refuge points and center medians is important. There are two tools that you can use in RapidPlan to create them - the Polygon tool and the island tool.
+Learning how to create traffic islands/refuge points and center medians is important. There are two tools that you can use in RapidPlan to create them - the Polygon tool and the Island tool.
 
 **Islands with the Polygon:**
 
@@ -52,24 +52,24 @@ Creating islands with the polygon is as simple as tracing out the shape of your 
 
 To create an island with the polygon:
 
-- Select the Polygon tool from the Shapes tab in the tools palette
+- select the Polygon tool from the Shapes tab in the tools palette
 
-- It is best to start your island at one of its corners. Click once to start drawing
+- it is best to start your island at one of its corners. Click once to start drawing
 
-- Move in either a clockwise, or anti-clockwise order, clicking at each of your island's corner points (Note: Remember, you can hold **Shift** to keep the corners of your island perfectly straight)
+- move in either a clockwise, or anti-clockwise order, clicking at each of your island's corner points (Note: Remember, you can hold **Shift** to keep the corners of your island perfectly straight)
 
-- When you have placed your last point, right-click to stop drawing, and then right-click to drop the Polygon tool
+- when you have placed your last point, right-click to stop drawing, and then right-click to drop the Polygon tool
 
 ![Polygon traffic island](./assets/Creating_an_Island_with_a_Polygon.png)
 
 The picture above shows an example of a click sequence to create an island. Polygon is a free form tool, you can make islands of virtually any shape.
 
-**To create an island with the island tool:**
+**To create an island with the Island tool:**
 
-- Select the **Island** tool from the Infrastructure tab in the tools palette
-- Start your island at the smallest corner, click once to start drawing
-- Move in either a clockwise, or anti-clockwise order, clicking at each of your island's corner points (**Note**: Remember, you can hold **Shift** to keep the corners of your island perfectly straight)
-- When you have placed your last point, right-click to stop drawing, and then right-click to drop the Island tool
+- select the **Island** tool from the Infrastructure tab in the tools palette
+- start your island at the smallest corner, click once to start drawing
+- move in either a clockwise, or anti-clockwise order, clicking at each of your island's corner points (**Note**: Remember, you can hold **Shift** to keep the corners of your island perfectly straight)
+- when you have placed your last point, right-click to stop drawing, and then right-click to drop the Island tool
 
     ![The_Island_Tool_verses_Polygon_Tool](./assets/The_Island_Tool_verses_Polygon_Tool.png)
 
@@ -81,11 +81,11 @@ The technique for creating **control points** is simple but requires some practi
 
 **To create a curved island:**
 
-- Draw your island as normal
-- Ensure your cursor is clear of the Island Tool by right-clicking
-- Now select the Island that you've drawn by clicking on it once
-- Move your cursor over the **control point** that you wish to curve and hold down the **Ctrl** button on the keyboard. The **control points** will then turn from red to blue and display curve handles
-- Drag the curve handles out (away from the **control point**) to increase the radius of the curve until you are happy with the islands shape
+- draw your island as normal
+- ensure your cursor is clear of the Island tool by right-clicking
+- now select the Island that you've drawn by clicking on it once
+- move your cursor over the **control point** that you wish to curve and hold down the **Ctrl** button on the keyboard. The **control points** will then turn from red to blue and display curve handles
+- drag the curve handles out (away from the **control point**) to increase the radius of the curve until you are happy with the islands shape
 
     ![Curving_Island](./assets/Curving_Island.png)
 
@@ -97,10 +97,10 @@ The Bike Lane tool works similarly to tools like the Polyline and the **Road too
 
 **To place the bike lane:**
 
-- Select the **Bike Lane** tool from the Infrastructure tab in the **Tools palette**.
-- Click to start the bike lane.
-- Hold **Shift** to create a straight lane, or click to create **control points** to adjust the lane's shape.
-- right-click to finish.
+- select the **Bike Lane** tool from the Infrastructure tab in the **Tools palette**
+- click to start the bike lane
+- hold **Shift** to create a straight lane, or click to create **control points** to adjust the lane's shape
+- right-click to finish
 
 ## Parking Bay tool
 
@@ -112,10 +112,10 @@ This tool makes it simple to add parking bays to your plan. In the items **Prope
 
 **To place a parking bay:**
 
-- Select the **Parking Bay** tool from the Infrastructure tab in the **Tools palette**.
-- Click at the first corner and drag out a line (hold **Shift** to keep straight).
-- Click again to make the second corner then drag the parking bays out to make their full shape.
-- Click a third time to complete it, and right-click to finish.
+- select the **Parking Bay** tool from the Infrastructure tab in the **Tools palette**
+- click at the first corner and drag out a line (hold **Shift** to keep straight)
+- click again to make the second corner then drag the parking bays out to make their full shape
+- click a third time to complete it, and right-click to finish
 
 ## Sidewalk tool
 

@@ -7,7 +7,7 @@ tags:
 ---
 # Use delineators
 
-Traditionally, one of the most difficult things to do when creating a traffic plan was run out lines of bollards, cones, barrels, etc. The RapidPlan Online delineator tool allows you to drag out lines of devices in seconds.
+Traditionally, one of the most difficult things to do when creating a traffic plan was run out lines of bollards, cones, barrels, etc. The RapidPlan Online Delineator tool allows you to drag out lines of devices in seconds.
 
 **Types of Delineators available:**
 
@@ -35,11 +35,11 @@ All delineator lines start by default as Cones. They can then be changed into th
 
 **To create a basic delineator line:**
 
-- Select the Delineator from the Markers tab in the **Tools palette**;
-- Click once where you wish to start drawing (don't hold);
-- Click at each corner for your line, to drop a **control point**;
-- After you have placed the end point, right-click to stop drawing;
-- right-click to clear the cursor.
+- select the Delineator from the Markers tab in the **Tools palette**;
+- click once where you wish to start drawing (don't hold);
+- click at each corner for your line, to drop a **control point**;
+- after you have placed the end point, right-click to stop drawing;
+- right-click to clear the cursor
 
 ![Drawing with Delineators](./assets/Drawing_with_Delineators.png)
 
@@ -49,14 +49,14 @@ Once your line is on the plan, you can change the various Properties of your del
 
 ### To change delineator types
 
-- Select the delineator line on the plan and observe the **Properties palette**;
-- Click on the Type drop down box and choose the type of delineator required from the Type drop down box.
+- select the delineator line on the plan and observe the **Properties palette**;
+- click on the Type drop down box and choose the type of delineator required from the Type drop down box
 
 ### To change size and spacing
 
-- Chance spacing by entering value in the **spacing** box;
-- Change your size in the **size** box by entering a value, by default it will be set at 6;
-- The drawing style of the delineator can also be changed (Point, Contiguous, Parallel).
+- chance spacing by entering value in the **spacing** box;
+- change your size in the **size** box by entering a value, by default it will be set at 6;
+- the drawing style of the delineator can also be changed (Point, Contiguous, Parallel)
 
 **Note:** To change your unit of measurement, click the drop down box highlighted below.
 

@@ -13,11 +13,11 @@ Placing signs is simple. Once your sign is placed you can move, resize and rotat
 
 ### To place a Sign
 
-- Select the desired sign from the **Sign Palette** by clicking on it.
-- Float the sign out onto the canvas with the mouse. (You don't have to hold the mouse button
+- select the desired sign from the **Sign Palette** by clicking on it
+- float the sign out onto the canvas with the mouse. (You don't have to hold the mouse button
 while you drag your sign.)
-- If you want to rotate your sign 90 degrees; use **Ctrl + R**.
-- Click to drop the sign on the canvas.
+- if you want to rotate your sign 90 degrees; use **Ctrl + R**
+- click to drop the sign on the canvas
 
 ## Rotating placed Signs
 
@@ -29,20 +29,20 @@ right-click Rotate option, or **Ctrl + R**.
 
 ### To rotate in set 90 degrees increments
 
-- Select the placed sign
-- Press **Ctrl + R** repeatedly to rotate the sign 90 degrees clockwise
+- select the placed sign
+- press **Ctrl + R** repeatedly to rotate the sign 90 degrees clockwise
 
 ### To rotate by set angle
 
-- right-click on the sign to reveal the context menu.
-- Select **Transform** >  **90 degrees**, **180 degrees**, **270 degrees** or **Rotate by custom value**
+- right-click on the sign to reveal the context menu
+- select **Transform** >  **90 degrees**, **180 degrees**, **270 degrees** or **Rotate by custom value**
 
 ![Rotate_90_Degrees_Sign_from_Context_Menu](./assets/Rotate_90_Degrees_Sign_from_Context_Menu.png)
 
 ### To free rotate
 
-- Select the sign that you wish to rotate. The **rotation handles** will become available for use.
-- Using the rotation handle, drag the sign around until it is positioned as you require.
+- select the sign that you wish to rotate. The **rotation handles** will become available for use
+- using the rotation handle, drag the sign around until it is positioned as you require
 
     ![Rotation_Handles](./assets/Rotation_Handles.png)
 

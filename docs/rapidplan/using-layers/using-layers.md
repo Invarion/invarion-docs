@@ -28,14 +28,14 @@ The layer tools are all housed on the **Layers palette**. From here you can sele
 
 There are 7 general layer functions that you will use;
 
-- Adding
-- Removing
-- Flattening
-- Hiding/Showing
-- Locking/Unlocking
-- Moving Layers
-- Copying
-- Color Mode
+- adding
+- removing
+- flattening
+- hiding/Showing
+- locking/Unlocking
+- moving Layers
+- copying
+- color Mode
 
 ### Adding Layers
 
@@ -92,6 +92,6 @@ Renaming layers is useful because it allows you to better organize your file aro
 
 **To rename a layer in your plan:**
 
-- double-click on the desired layer from the Layer Selector (or right-click and select **Rename**). The name of the layer is automatically highlighted, ready for change.
-- Click inside the layer selector box and type in the new name for your layer.
-- Either press Enter or simply click back out onto the canvas. Your new name is saved.
+- double-click on the desired layer from the Layer Selector (or right-click and select **Rename**). The name of the layer is automatically highlighted, ready for change
+- click inside the layer selector box and type in the new name for your layer
+- either press Enter or simply click back out onto the canvas. Your new name is saved

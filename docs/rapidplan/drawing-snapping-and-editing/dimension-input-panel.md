@@ -10,11 +10,11 @@ tags:
 
 The Dimensions Input Panel tool allows you to:
 
-- **Distance [D]**: Place a **control point** an exact distance from the last.
-- **Angle [A]**: Place a **control point** at an absolute angle, or at a chosen angle compared to the last two points.
-- **Offset [O]**: Select the location of your next point based on how far you want it to travel on X and Y axis from your last **control point**.
-- **Point [P]**: Place an object or **control point** at a chosen location on your plan relative to the plan's centerpoint.
-- **Coordinates [C]**: Or place an object or **control point** at a given coordinate (latitude/longitude).
+- **Distance [D]**: Place a **control point** an exact distance from the last
+- **Angle [A]**: Place a **control point** at an absolute angle, or at a chosen angle compared to the last two points
+- **Offset [O]**: Select the location of your next point based on how far you want it to travel on X and Y axis from your last **control point**
+- **Point [P]**: Place an object or **control point** at a chosen location on your plan relative to the plan's centerpoint
+- **Coordinates [C]**: Or place an object or **control point** at a given coordinate (latitude/longitude)
 
 Each of these can be engaged by clicking the corresponding key on your keyboard while you are drawing or placing an object.
 
@@ -28,7 +28,7 @@ A red circle will appear around the last point, locking in the chosen distance f
 
 If you need this tool again for your next point, simply click **D** again and repeat.
 
-If you decide against using the distance tool once the red circle has already been engaged, click **Esc** to cancel.
+If you decide against using the Distance tool once the red circle has already been engaged, click **Esc** to cancel.
 
 **Note:** If the point you are currently drawing a line from is [snapped](/rapidplan/drawing-snapping-and-editing/control-points-and-snapping) to a geometric object or line, the distance plugged into to the Distance tool will automatically measure along the object or line selected if desired.
 

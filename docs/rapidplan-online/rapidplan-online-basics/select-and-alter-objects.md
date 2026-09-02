@@ -28,8 +28,8 @@ As described above, **selection boxes** are created by clicking and dragging you
 
 There are two types of **selection box**, which you use will depend on the direction you click and drag:
 
-- **If you drag to the *right***: The window is **purple**. This will only select objects that are *completely within* the **selection box**.
-- **If you drag to the *left***: The window is **green**. This will select all objects that are *touching* the **selection box**.
+- **If you drag to the *right***: The window is **purple**. This will only select objects that are *completely within* the **selection box**
+- **If you drag to the *left***: The window is **green**. This will select all objects that are *touching* the **selection box**
 
 | ![Purple 1](./assets/purple1.png) | Drag right (Purple)   | ![Purple 2](./assets/purple2.png) | Object selection     |
 | ------------------------------------ | --------------------- | ------------------------------------ | -------------------- |

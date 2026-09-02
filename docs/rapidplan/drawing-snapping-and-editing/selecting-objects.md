@@ -15,8 +15,8 @@ as would be the case when you want to change the size of a single sign. On other
 
 There are two ways to select a single item in RapidPlan:
 
-- By clicking on it.
-- By dragging a **selection box** around it (this can also be used for selecting multiple items).
+- by clicking on it
+- by dragging a **selection box** around it (this can also be used for selecting multiple items)
 
 ## Select by Clicking
 
@@ -68,7 +68,7 @@ Selecting multiple objects is useful when you want to move, duplicate, cut or co
 
 Again, there are two ways to perform a multiple selection:
 
-- By dragging a **selection box** around all of the elements (as described above).
-- By holding **Shift** and repeatedly clicking on each element that you wish to select.
+- by dragging a **selection box** around all of the elements (as described above)
+- by holding **Shift** and repeatedly clicking on each element that you wish to select
 
 ![Multiple_objects_selected_with_SHIFT_key](./assets/Multiple_objects_selected_with_SHIFT_key.png)

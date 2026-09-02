@@ -19,10 +19,10 @@ On the roadway, the top line would occupy the first frame, the middle the second
 
 ## Creating a VMS Board
 
-- Select the **VMS Board** from the Devices tab in the **Tools palette** and place the panel in the desired location on the plan.
-- Set the number of panels (or frames) using the **Panels** section of the **Properties palette**.
-- Enter the text for each frame in the Messages section of the **Properties palette**.
-- Deselect the VMS board to finish.
+- select the **VMS Board** from the Devices tab in the **Tools palette** and place the panel in the desired location on the plan
+- set the number of panels (or frames) using the **Panels** section of the **Properties palette**
+- enter the text for each frame in the Messages section of the **Properties palette**
+- deselect the VMS board to finish
 
     ![Creating_the_VMS_Board](./assets/Creating_the_VMS_Board.png)
 

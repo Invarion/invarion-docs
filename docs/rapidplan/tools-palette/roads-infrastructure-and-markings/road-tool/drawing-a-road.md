@@ -16,15 +16,15 @@ The road has a number of different parts. It is well worth familiarizing yoursel
 
 ## Basic drawing techniques
 
-Drawing using the road tool is very simple. As you move the mouse after you have clicked to start drawing, the roadway will "snake" behind the cursor. Each time you click the mouse on the canvas, a new turning point for the road is placed. The turning point is represented by a **control point**.
+Drawing using the Road tool is very simple. As you move the mouse after you have clicked to start drawing, the roadway will "snake" behind the cursor. Each time you click the mouse on the canvas, a new turning point for the road is placed. The turning point is represented by a **control point**.
 
 ### To draw a Road
 
-- Select the **Road** from the **Tools palette**.
-- Move your mouse to the canvas and click once to start drawing your road.
-- Move the mouse around the canvas, clicking at each turning point.
-- When you have placed your final point, right-click to stop drawing.
-- If you don't want to draw another road, right-click again to drop the road tool.
+- select the **Road** from the **Tools palette**
+- move your mouse to the canvas and click once to start drawing your road
+- move the mouse around the canvas, clicking at each turning point
+- when you have placed your final point, right-click to stop drawing
+- if you don't want to draw another road, right-click again to drop the Road tool
 
 ### Keep sections straight
 
@@ -34,8 +34,8 @@ A simple trick allows you to draw perfectly straight roads. By holding **Shift**
 
 There are two simple ways to add and remove lanes to roadways:
 
-1. double-click on the road to be altered to bring up the Quick Edit screen
-2. Select the object and change the number of lanes from the **Properties palette** within the right pane.
+1. Double-click on the road to be altered to bring up the Quick Edit screen
+2. Select the object and change the number of lanes from the **Properties palette** within the right pane
 
 ![road properties lanes](./assets/Road_Properties_Lanes.png)
 

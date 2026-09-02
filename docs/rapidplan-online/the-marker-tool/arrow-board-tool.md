@@ -5,7 +5,7 @@ tags:
   - markers-devices
 
 ---
-# Arrow board tool
+# Arrow Board tool
 
 They come by many names, flashing arrow boards, sequential arrow boards, arrow trailers or even illuminated trailer mounted sequential flashing arrow systems. In RapidPlan Online they are referred to as Arrow Boards. They are simple to place and use and come with various configurations for the required site setting.
 
@@ -19,12 +19,12 @@ There are six different **Arrow Board** patterns available, as shown below.
 
 ## Placing an Arrow Board
 
-- Select the **Arrow Board** from the Devices tab in the **Tools palette**;
+- select the **Arrow Board** from the Devices tab in the **Tools palette**;
 
-- Drop it into position on the plan;
+- drop it into position on the plan;
 
-- Rotate it as necessary.
+- rotate it as necessary
 
    **Note:** by default the Arrow board appears as a right flash. If you require a left flash, use the context menu to flip the object.
 
-![Arrow Board Tool](./assets/Arrow_Board_Tool.png)
+![Arrow Board tool](./assets/Arrow_Board_Tool.png)

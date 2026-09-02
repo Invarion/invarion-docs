@@ -18,9 +18,9 @@ The Rich Text Editor is unique to the other editors. Clicking the icon shown in 
 
 Once open, you'll see familiar text editing iconography:
 
-- **On the left:** Bold, italics and underlining.
-- **In the center:** Alignment settings.
-- **On the right:** Buttons to insert an image, a table, or a horizontal line.
+- **On the left:** Bold, italics and underlining
+- **In the center:** Alignment settings
+- **On the right:** Buttons to insert an image, a table, or a horizontal line
 
 There are also drop-down buttons:
 
@@ -44,9 +44,9 @@ The **More Paragraph** button opens a drop-down menu for additional paragraph co
 
 ![more paragraph](./assets/rich-text-more-pgraph.png)
 
-- **Paragraph Format:** Switch between varied heading sizes and normal body text.
-- **Ordered List:** Insert a list ordered by numbers and other numerals.
-- **Unordered List:** Dot points and similar.
+- **Paragraph Format:** Switch between varied heading sizes and normal body text
+- **Ordered List:** Insert a list ordered by numbers and other numerals
+- **Unordered List:** Dot points and similar
 - **Decrease Indent**
 - **Increase Indent**
 
@@ -84,11 +84,11 @@ Once a table is created, changes can be made to cells using all of the toolbar f
 
 Using a table's context menu:
 
-- Rows and columns can be inserted or removed.
-- Borders can be engaged or disengaged.
-- Cells can be split horizontally or vertically.
-- Cells can be merged.
-- Background color can be applied, and vertical or horizontal text alignment can be applied.
+- rows and columns can be inserted or removed
+- borders can be engaged or disengaged
+- cells can be split horizontally or vertically
+- cells can be merged
+- background color can be applied, and vertical or horizontal text alignment can be applied
 
 A column's width can also be adjusted by clicking and dragging it.
 

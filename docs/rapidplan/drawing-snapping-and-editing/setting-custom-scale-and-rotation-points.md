@@ -12,8 +12,8 @@ tags:
 
 ## Changing the Scale Point
 
-- right-click on an object > Transform > Scale.
-- Select either Scale from Center, or Select Scale Point.
+- right-click on an object > Transform > Scale
+- select either Scale from Center, or Select Scale Point
 
 Once you do this, a red **control point** will appear for that object. This can be dragged to any point in relation to the object, even to points outside of it.
 Wherever that point is in relation to the object will remain constant while resizing.
@@ -22,8 +22,8 @@ Note that the point will disengage if you deselect the object and select it agai
 
 ## Changing the Rotation Point
 
-- Similarly, right-click on an object > Transform > Rotate.
-- Click Select Rotation Point.
+- similarly, right-click on an object > Transform > Rotate
+- click Select Rotation Point
 
 By default the rotation point is in the center, you may wish to move the point to the center of another object for example, so that your object will now rotate around it.
 

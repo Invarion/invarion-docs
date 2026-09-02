@@ -73,9 +73,9 @@ You will need to have a high quality logo, preferably in **JPG**, **BMP** or **P
 
 **To include the logo on a title box:**
 
-- Select the **Company Logo** tab in Properties.
-- Hover your cursor over the **Image** section until the option to **Load File From** becomes visible. Select this.
-- Browse for your image files on your computer, double-click on your file once you've found it.
-- Do not forget to make the **Show** section **True** to make your logo visible in the Title Box.
+- select the **Company Logo** tab in Properties
+- hover your cursor over the **Image** section until the option to **Load File From** becomes visible. Select this
+- browse for your image files on your computer, double-click on your file once you've found it
+- do not forget to make the **Show** section **True** to make your logo visible in the Title Box
 
     ![Add_Company_Logo_on_the_Title_Box](./assets/Add_Company_Logo_on_the_Title_Box.png)

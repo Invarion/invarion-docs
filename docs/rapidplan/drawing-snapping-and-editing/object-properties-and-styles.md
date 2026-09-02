@@ -54,8 +54,8 @@ Once you have a altered the properties of an object on the canvas, with the obje
 
 ![set style](./assets/set-style.png)
 
-- **Save as Default Style** will without further input set that style to default.
-- **Reset Default Style** will reset the default style for that object type to the bedrock, original default default that RapidPlan came with.
+- **Save as Default Style** will without further input set that style to default
+- **Reset Default Style** will reset the default style for that object type to the bedrock, original default default that RapidPlan came with
 - **Save as New Style** will open the **Object Styles dialog window**:
 
 The **Styles Dialog Window** pictured below is used for saving new styles, and updating/managing existing ones.

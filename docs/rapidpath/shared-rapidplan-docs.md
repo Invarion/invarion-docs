@@ -21,7 +21,7 @@ Use the RapidPlan section for shared functionality such as:
 
 This is especially relevant for current RapidPath users because shared documentation now covers workflows such as:
 
-- Spatial Data Import for ArcGIS, CAD, KML, and Shapefile data
+- spatial Data Import for ArcGIS, CAD, KML, and Shapefile data
 - Google and Custom Service basemap providers
 - print-region ordering and output workflows
 - CAD export and **georeferenced image** export

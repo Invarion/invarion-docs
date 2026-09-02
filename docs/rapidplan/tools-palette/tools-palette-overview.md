@@ -13,7 +13,7 @@ The **Tools palette** contains most of the tools you will use to construct the f
 
 You can hover your mouse over each Tool to reveal its contents. Continue reading for more information on what each tool icon contains.
 
- 1. **Roads** - This displays each of the tools you can use to construct your road way.
+ 1. **Roads** - This displays each of the tools you can use to construct your road way
 
     *See [Drawing a road](/rapidplan/tools-palette/roads-infrastructure-and-markings/road-tool/drawing-a-road).*
 
@@ -24,7 +24,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |  ![road corner icon](./assets/Road_corner_icon.png)   | Road corner         | ![road region icon](./assets/Road_region_icon.png) | Road region |
     | ![intersection editor](./assets/Intersection_Editor.png) | Intersection Editor |                                               |             |
 
- 2. **Infrastructure** - This displays infrastructure you may need to construct your plan including train tracks, bicycle lanes, etc.
+ 2. **Infrastructure** - This displays infrastructure you may need to construct your plan including train tracks, bicycle lanes, etc
 
     *See [Road infrastructure tools](/rapidplan/tools-palette/roads-infrastructure-and-markings/infrastructure-and-markings/road-infrastructure-tools).*
 
@@ -34,7 +34,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |![island icon](./assets/Island_icon.png)       | Island      |![bicycle lane icon](./assets/Bicycle_lane_icon.png)   |Bicycle lane   |
     |![parking bay icon](./assets/Parking_bay_icon.png)  | Parking bay |![sidewalk icon](./assets/Sidewalk_icon.png)       |Sidewalk       |
 
- 3. **Devices** - This displays devices such as delineators, **arrow board** and lane status.
+ 3. **Devices** - This displays devices such as delineators, **arrow board** and lane status
 
     *See [Delineators](/rapidplan/tools-palette/devices-markers-and-annotations/Delineators) and the devices pages in this category.*
 
@@ -45,7 +45,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |![lane status icon](./assets/Lane_status_icon.png)  | Lane status |![lums board icon](./assets/LUMS_board_icon.png)               | LUMS board          |
     |![mms icon](./assets/MMS_icon.png)          |Multi message sign   | ||
 
- 4. **Markings** - This displays various **lane markings**.
+ 4. **Markings** - This displays various **lane markings**
 
     *See [Road marking tools](/rapidplan/tools-palette/roads-infrastructure-and-markings/infrastructure-and-markings/road-marking-tools).*
 
@@ -55,7 +55,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |![chevron flush median icon](./assets/Chevron_flush_median_icon.png) | Chevron flush median  |![lane mask icon](./assets/Lane_mask_icon.png)                | Lane mask           |
     |![road mask icon](./assets/Road_mask_icon.png)            | Road mask             | | |
 
- 5. **Zones** - This includes a work area zone and a safety zone.
+ 5. **Zones** - This includes a work area zone and a safety zone
 
     *See [Work Area and Safety Zone tools](/rapidplan/tools-palette/devices-markers-and-annotations/work-area-and-safety-zone-tools).*
 
@@ -63,7 +63,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |:---------------------------------------------------:|-----------------------|:---------------------------------------------------------:|---------------------|
     |![work area icon](./assets/Work_area_icon.png)          | Work area             |![safety zone icon](./assets/Safety_zone_icon.png)              | Safety zone         |
 
- 6. **Annotations** - This includes necessary annotation features for your plan such as a **scale marker** and a **legend** box.
+ 6. **Annotations** - This includes necessary annotation features for your plan such as a **scale marker** and a **legend** box
 
     *See the annotation pages in [Devices, Markers and Annotations](/category/devices-markers-and-annotations).*
 
@@ -74,7 +74,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |    ![titlebox icon](./assets/Titlebox_icon.png)     | Titlebox        |     ![number stamper](./assets/Number_Stamper.png)      | Number stamper |
     | ![zoomed view box icon](./assets/Zoomed_view_box_icon.png) | Zoomed view box |                                                      |                |
 
- 7. **Markers** - This displays distance markers, an area marker and an angle marker.
+ 7. **Markers** - This displays distance markers, an area marker and an angle marker
 
     *See [Distance markers](/rapidplan/tools-palette/devices-markers-and-annotations/distance-markers) and [Chainage markers](/rapidplan/tools-palette/devices-markers-and-annotations/chainage-markers).*
 
@@ -84,7 +84,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |![offset distance marker icon](./assets/Offset_distance_marker_icon.png)   | Offset distance marker|![angle marker icon](./assets/Angle_marker_icon.png)                     | Angle marker                         |
     |![area marker icon](./assets/Area_marker_icon.png)              | Area marker           |![combined offset distance marker](./assets/Combined_offset_distance_marker_icon.png)  | Combined offset distance marker|
 
- 8. **Lines** - This displays various line shapes that can be used.
+ 8. **Lines** - This displays various line shapes that can be used
 
     *See [Line and shape tools](/rapidplan/tools-palette/lines-shapes-and-images/line-and-shape-tools).*
 
@@ -94,7 +94,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |![bezier](./assets/Bezier_icon.png)             | Bezier                |![arrow](./assets/Arrow_icon.png)                      | Arc                 |
     |![arrow](./assets/Arrow_icon.png)              | Arrow                 |![marked path](./assets/Marked_path_icon.png)              | Marked path         |
 
- 9. **Shapes** - These simple shape tools allow you to create your own objects and signs for your plans.
+ 9. **Shapes** - These simple shape tools allow you to create your own objects and signs for your plans
 
     *See [Line and shape tools](./lines-shapes-and-images/line-and-shape-tools).*
 
@@ -106,7 +106,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
     |       ![grid icon](./assets/Grid_icon.png)        | Grid              |    ![ar pie](./assets/Arc_pie_icon.png)    | Arc pie       |
     |      ![cloud shape](./assets/Cloud_Shape.png)       | Cloud Shape       |                                                 |               |
 
- 10. **Text** - These text options can allow you to add a text box, name roads, hyperlinks and create signs.
+ 10. **Text** - These text options can allow you to add a text box, name roads, hyperlinks and create signs
 
      *See [Text tools](/rapidplan/tools-palette/text-tools).*
 
@@ -118,7 +118,7 @@ You can hover your mouse over each Tool to reveal its contents. Continue reading
      |    ![text table](./assets/Text_Table.png)    | Text table  |    ![hyperlink](./assets/Hyperlink.png)    | Hyperlink  |
      |![rich text](./assets/rich-text-icon.png)|Rich Text|||
 
- 11. **Image** - This allows you to open an image from your computer to your plan.
+ 11. **Image** - This allows you to open an image from your computer to your plan
 
      |Image                                     |                       |
      |:----------------------------------------:|-----------------------|

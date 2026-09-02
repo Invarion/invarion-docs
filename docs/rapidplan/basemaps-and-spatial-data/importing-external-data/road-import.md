@@ -12,9 +12,9 @@ Importing roads onto **integrated mapping** creates a **road object** with prope
 
 There are three ways of importing your roads;
 
- 1. Import **all roads in Print Region** by right-clicking on the print region printer icon and selecting **Import Roads**.
- 2. Select a custom area via **Tools** > **Import** > **Road Layout** to import **all roads in the custom area**.
- 3. Select **individual roads** by right-clicking on the road and selecting **Import Roads**.
+ 1. Import **all roads in Print Region** by right-clicking on the print region printer icon and selecting **Import Roads**
+ 2. Select a custom area via **Tools** > **Import** > **Road Layout** to import **all roads in the custom area**
+ 3. Select **individual roads** by right-clicking on the road and selecting **Import Roads**
 
 ![Imported_Roads](../assets/Imported_Roads.jpg)
 
@@ -31,13 +31,13 @@ Once your road widths are adequate, you may need to make some manual adjustments
 
 **To adjust the road objects to match the satellite image:**
 
- 1. First, adjust the road layer **opacity** in the layers list to see the satellite image through the **road object**. This will make transferring **lane markings** much easier.
+ 1. First, adjust the road layer **opacity** in the layers list to see the satellite image through the **road object**. This will make transferring **lane markings** much easier
 
 ![Changing_Road_Opacity_to_see_Satellite_Image_Below](../assets/Changing_Road_Opacity_to_see_Satellite_Image_Below.jpg)
 
-2. You may need to adjust the roads by adding **road corners** or **turning lanes**, etc. Make sure to copy the **style** of the road to each road tool by copying the style from the main road, selecting the new object and using **Ctrl + Shift + V** to paste the style.
+2. You may need to adjust the roads by adding **road corners** or **turning lanes**, etc. Make sure to copy the **style** of the road to each Road tool by copying the style from the main road, selecting the new object and using **Ctrl + Shift + V** to paste the style
 
- *For more information of how to use Road tools, see [The Road Tool](/rapidplan/tools-palette/roads-infrastructure-and-markings/road-tool/drawing-a-road) and [Other Road Tools](/rapidplan/tools-palette/roads-infrastructure-and-markings/infrastructure-and-markings/other-road-creation-tools).*
+ *For more information of how to use Road tools, see [The Road tool](/rapidplan/tools-palette/roads-infrastructure-and-markings/road-tool/drawing-a-road) and [Other Road Tools](/rapidplan/tools-palette/roads-infrastructure-and-markings/infrastructure-and-markings/other-road-creation-tools).*
 
  In the image below, the provider has been changed to the Omniscale, so you can see the road corners are the same style as the road.
 
@@ -45,11 +45,11 @@ Once your road widths are adequate, you may need to make some manual adjustments
 
  **Note:** The Road Corners were placed with the satellite provider to trace the exact shape.
 
-3. When you are satisfied with your roads, add other necessary features such as **lane markings**.
+3. When you are satisfied with your roads, add other necessary features such as **lane markings**
 
 ![Completed plan with satellite on the left and no satellite on the right](../assets/Completed_Plan_Satellite_on_Show_%28Left%29_Completed_Plan_No_Satellite_%28Right%29.png)
 
-4. Once your base road layout is drawn up, you can print it, use the **fax mode** icon to convert it or start adding your traffic management information.
+4. Once your base road layout is drawn up, you can print it, use the **fax mode** icon to convert it or start adding your traffic management information
 
 ## Import road names and speed limits
 

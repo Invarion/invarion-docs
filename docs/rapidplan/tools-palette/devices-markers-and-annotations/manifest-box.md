@@ -23,9 +23,9 @@ Below is an image of the Manifest **Properties palette**, showing all of the fea
 
 ![Manifest_Box_Properties](./assets/Manifest_Box_Properties.png)
 
-## Export manifest tool
+## Export Manifest tool
 
-The Export Manifest Tool allows you to create **manifest** documents based on one or more traffic control plans, then print or export to a range of formats: PDF, Text, CSV, XML and JSON. Access the export tool by right-clicking on a **Manifest Box**, or via **File** > **Export** > **Batch Export** > **Export batch manifest...**
+The Export Manifest tool allows you to create **manifest** documents based on one or more traffic control plans, then print or export to a range of formats: PDF, Text, CSV, XML and JSON. Access the export tool by right-clicking on a **Manifest Box**, or via **File** > **Export** > **Batch Export** > **Export batch manifest...**
 
 Step 1:
 
@@ -35,10 +35,10 @@ Step 1:
 
 Step 2:
 
-- Order **manifest** items (by name, by value or custom/manually)
-- Set the units
-- Set document header (and optional custom description)
-- Select export format
+- order **manifest** items (by name, by value or custom/manually)
+- set the units
+- set document header (and optional custom description)
+- select export format
 
     ![Manifest_export](./assets/Manifest_export.png)
 

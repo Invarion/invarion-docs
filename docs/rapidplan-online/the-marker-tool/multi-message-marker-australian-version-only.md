@@ -12,18 +12,18 @@ When this tool is selected, the **Multi-Message Sign Creator** window appears (s
 
 ## Using the Multi-message Sign Creator
 
-- Select the **Multi-message Sign** tool from the Devices tab in the **Tools palette**. New dialog will appear.
-- Choose the right layout for your multi-message sign in the top-right corner of the dialog.
-- Choose a the space you want to fill out by clicking on it in preview. A signs with proper size will appear on the left.
-- Browse through the available signs or use the filter input to search for the desired one.
-- Click on the sign to populate the selected space in the Multi-message Sign frame. Space selection will automatically move to the next space.
-- When multi-message sign is finished click **OK** and drop the created sign on your canvas.
+- select the **Multi-message Sign** tool from the Devices tab in the **Tools palette**. New dialog will appear
+- choose the right layout for your multi-message sign in the top-right corner of the dialog
+- choose a the space you want to fill out by clicking on it in preview. A signs with proper size will appear on the left
+- browse through the available signs or use the filter input to search for the desired one
+- click on the sign to populate the selected space in the Multi-message Sign frame. Space selection will automatically move to the next space
+- when multi-message sign is finished click **OK** and drop the created sign on your canvas
 
 
 ### Quick tips
 
-- Once created, save the multi-message sign to your [Scratchpad](/rapidplan-online/rapidplan-online-workspace/scratchpad-palette) for later use.
-- You can edit already created multi-message signs. To do this, select **Edit MMS** button inside sign's Properties.
+- once created, save the multi-message sign to your [Scratchpad](/rapidplan-online/rapidplan-online-workspace/scratchpad-palette) for later use
+- you can edit already created multi-message signs. To do this, select **Edit MMS** button inside sign's Properties
 
 ![Sign Editor](./assets/Sign_Editor.png)
 
@@ -31,10 +31,10 @@ When this tool is selected, the **Multi-Message Sign Creator** window appears (s
 
 To list multi-message sign in the **manifest** select the multi-message sign you want to appear in the **manifest** and check the **Show in manifest** checkbox in its Properties. You have different options for displaying multi-message sign in the **manifest**:
 
-- **Default** - The multi-message sign occupies a single position (row) in the **manifest**, listing all the signs in the entry name.
+- **Default** - The multi-message sign occupies a single position (row) in the **manifest**, listing all the signs in the entry name
 
-- **Panels** - Each sign that builds multi-message sign occupies a different position in the **manifest**.
+- **Panels** - Each sign that builds multi-message sign occupies a different position in the **manifest**
 
-- **Panels & Frame** - Same as above. But, additionally to the signs, the **manifest** will also list the multi-message frame.
+- **Panels & Frame** - Same as above. But, additionally to the signs, the **manifest** will also list the multi-message frame
 
 Choose desirable option in multi-message sign's properties, this setting is called **Manifest entries**.

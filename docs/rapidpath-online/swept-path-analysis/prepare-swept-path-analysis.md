@@ -26,15 +26,15 @@ To start drawing a Vehicle path, select the vehicle on your plan and click on ''
 
 When in "Continue drawing" mode a special window called "Section details" will appear with settings for:
 
-- **Speed** - Vehicle speed.
-- **Friction** - Lateral friction factor dependent on the vehicle speed and calculated according to the chosen standard. To set a custom value disable speed and friction dependency by clicking on the ''derive friction from speed'' toggle button on the left and enter the desired value in the field.
-- **Turn on Stop** - Turning this option on ("True") allows the vehicle to make a stop and turn the front wheels between different sections(at **control points**) of the Vehicle path.
+- **Speed** - Vehicle speed
+- **Friction** - Lateral friction factor dependent on the vehicle speed and calculated according to the chosen standard. To set a custom value disable speed and friction dependency by clicking on the ''derive friction from speed'' toggle button on the left and enter the desired value in the field
+- **Turn on Stop** - Turning this option on ("True") allows the vehicle to make a stop and turn the front wheels between different sections(at **control points**) of the Vehicle path
 
 and info such as:
 
-- **Min radius** - Minimum turning radius (centerline) of the vehicle at the given speed and friction.
-- **Max angle** - Maximum turn angle of the vehicle at the given speed and friction.
-- **Max speed** - Maximum speed for the vehicle taking into account standard guidelines, given speed, friction and current **turn radius**.
+- **Min radius** - Minimum turning radius (centerline) of the vehicle at the given speed and friction
+- **Max angle** - Maximum turn angle of the vehicle at the given speed and friction
+- **Max speed** - Maximum speed for the vehicle taking into account standard guidelines, given speed, friction and current **turn radius**
 
 ![Section_details](./assets/Section_details.png)
 
@@ -60,9 +60,9 @@ You can edit the **clearance envelope** offset distances in the "Clearance dimen
 
 Vehicle Path, Sweep Envelope and Wheel Paths can be styled in many different ways using Vehicle Path's properties in the **Object Properties** window. Aside from visual customization, you can also:
 
-- Add wheel paths separately for front and rear wheels;
-- Show/hide directional arrows that indicate the start of each path section; and
-- Show/hide vehicles along the path.
+- add wheel paths separately for front and rear wheels;
+- show/hide directional arrows that indicate the start of each path section; and
+- show/hide vehicles along the path
 
 ![Path_edit](./assets/Path_edit.png)
 
@@ -78,9 +78,9 @@ It is always a good idea to add the description of the vehicle used for the **Sw
 
 The Vehicle Profile displays the:
 
-- Vehicle's name;
-- Vehicle's side view with the most important dimensions; and
-- Vehicle's properties crucial for the **Swept Path Analysis**.
+- vehicle's name;
+- vehicle's side view with the most important dimensions; and
+- vehicle's properties crucial for the **Swept Path Analysis**
 
 ![Vehicle_profile](./assets/Vehicle_profile.png)
 

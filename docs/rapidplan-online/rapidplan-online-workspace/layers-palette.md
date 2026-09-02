@@ -21,16 +21,16 @@ While it is named the **Layers palette** in light of its core and original use c
 
 In the top row of buttons in the **Print Regions** section of the Layers palette:
 
-- **Plus icon**: Create a new Print Region.
-- **Printer icon**: Print *all* **Print Regions**.
+- **Plus icon**: Create a new Print Region
+- **Printer icon**: Print all **Print Regions**. See [Printing multiple pages](/rapidplan-online/printing-and-exporting/printing-multiple-pages)
 
 There is also the three dots icon, which opens a dropdown menu with the following buttons:
 
-- **Fit All To Page Size**: Fit the Print Region (blue rectangle) to the Page Preview (red rectangle).
-- **Turn Off Page Preview**: Shows only the Blue Print Region, removing the external red Page Preview rectangle that matches the selected page size in your [print settings](/rapidplan-online/printing-and-exporting/print-and-export).
-- **Hide Print Regions**: Hide **Print Regions** so that you can work on design without distraction.
-- **Orientation**: Change the orientation of the Page Preview.
-- **Page Size**: Change the Page size of your Page Preview.
+- **Fit All To Page Size**: Fit the Print Region (blue rectangle) to the Page Preview (red rectangle)
+- **Turn Off Page Preview**: Shows only the Blue Print Region, removing the external red Page Preview rectangle that matches the selected page size in your [print settings](/rapidplan-online/printing-and-exporting/print-and-export)
+- **Hide Print Regions**: Hide **Print Regions** so that you can work on design without distraction
+- **Orientation**: Change the orientation of the Page Preview
+- **Page Size**: Change the Page size of your Page Preview
 
 ![print regions](./Assets/print-regions-palette.jpg)
 

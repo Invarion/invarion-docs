@@ -64,7 +64,7 @@ Key points:
 - spatial reference can be supplied when needed
 - non-georeferenced CAD can still be useful on non-basemap plans
 
-If your goal is output rather than input, see [CAD export](/rapidplan/printing-and-export/print-and-export-operations/cad-export).
+For the complete georeferenced workflow, including spatial-reference selection and CAD export, see [CAD export](/rapidplan/printing-and-export/print-and-export-operations/cad-export#import-and-export-georeferenced-cad).
 
 ## KML and Shapefile imports
 

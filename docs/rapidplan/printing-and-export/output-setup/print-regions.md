@@ -18,7 +18,7 @@ They are one of the core output tools in RapidPlan, especially when:
 
 ## Add a print region
 
-Use the print region tool on the toolbar to:
+Use the Print Region tool on the toolbar to:
 
 - draw a custom region by dragging on the plan
 - choose from preset region sizes from the tool's dropdown
@@ -70,7 +70,7 @@ You can rotate a region by:
 
 ## Related tools
 
-- Use [Print frames](./print-frames) for titleboxes and reusable page layout.
-- Use [In-place print preview](./in-place-print-preview) to check how plan content sits on the page.
-- Use [Printing plans](../print-and-export-operations/printing-plans) for single-plan and **batch print** workflows.
+- use [Print frames](./print-frames) for titleboxes and reusable page layout
+- use [In-place print preview](./in-place-print-preview) to check how plan content sits on the page
+- use [Printing plans](../print-and-export-operations/printing-plans) for single-plan and **batch print** workflows
 

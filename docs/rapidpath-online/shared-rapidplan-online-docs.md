@@ -13,7 +13,7 @@ The links below open the relevant RapidPlan Online documentation sections. Use t
 - [The Invarion Cloud](/category/the-invarion-cloud)
 - [RapidPlan Online Workspace](/category/rapidplan-online-workspace)
 - [RapidPlan Online Basics](/category/rapidplan-online-basics)
-- [The Road Tool](/category/the-road-tool)
+- [The Road tool](/category/the-road-tool)
 - [The Marker Tool](/category/the-marker-tool)
 - [Location Based Features](/category/location-based-features)
 - [Printing and Exporting](/category/printing-and-exporting)

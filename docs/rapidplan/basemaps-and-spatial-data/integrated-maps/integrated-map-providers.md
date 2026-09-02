@@ -10,11 +10,11 @@ RapidPlan's mapping tools start with a **Base Map** plan. Once a plan has a loca
 
 ## Create a base map plan
 
-1. Open the [New Plan Wizard](/rapidplan/home-screen-and-starting-a-plan/new-plan-wizard).
-2. Choose **Base Map** in step 1.
-3. Set a plan scale, then search for the job location by address, coordinates, or other supported location formats.
-4. Adjust the map so the red cross marks the location you want to start from.
-5. Select **Create Plan**.
+1. Open the [New Plan Wizard](/rapidplan/home-screen-and-starting-a-plan/new-plan-wizard)
+2. Choose **Base Map** in step 1
+3. Set a plan scale, then search for the job location by address, coordinates, or other supported location formats
+4. Adjust the map so the red cross marks the location you want to start from
+5. Select **Create Plan**
 
 ![Searching_for_Job_Location](../assets/Searching_for_Job_Location.png)
 
@@ -37,9 +37,9 @@ RapidPlan includes global providers such as Google, Bing, and ArcGIS, plus regio
 
 Google is one of the main basemap options for current RapidPlan workflows:
 
-- **Google Roadmap** is useful when you want road layout and labels.
-- **Google Satellite** is useful when you need aerial context.
-- Google annotations can be reduced or removed to keep the basemap clean while drawing.
+- **Google Roadmap** is useful when you want road layout and labels
+- **Google Satellite** is useful when you need aerial context
+- Google annotations can be reduced or removed to keep the basemap clean while drawing
 
 In supported locations, the Google Roadmap provider can also show **Road Level Details**, including features such as **lane markings**, turn lanes, crossings, and curb detail when you zoom in far enough.
 
@@ -51,9 +51,9 @@ When you select **Google Roadmap** or **Google Satellite**, the **Base map** sec
 
 Use this setting to control how much Google map labeling appears on the basemap:
 
-- **None** shows a clean map without road labels, points of interest, or place names.
-- **Light** adds road labels and transport stops. With **Google Satellite**, this gives a satellite view with road labels, similar to the older Google Hybrid view.
-- **Full** shows the full Google map labeling, including road labels, points of interest, and place names.
+- **None** shows a clean map without road labels, points of interest, or place names
+- **Light** adds road labels and transport stops. With **Google Satellite**, this gives a satellite view with road labels, similar to the older Google Hybrid view
+- **Full** shows the full Google map labeling, including road labels, points of interest, and place names
 
 ![Google basemap annotation levels comparison](../assets/google-basemap-annotations-comparison.png)
 
@@ -79,11 +79,11 @@ Use it when you need to connect RapidPlan to:
 
 To add one:
 
-1. Open the **Provider** dropdown in the **Base map** section.
-2. Select **More providers...** and enable **Custom Service**.
-3. Pick **Custom Service** from the provider list.
-4. Enter the service URL and, if required, an API key.
-5. Select **Get Details** and choose one of the detected compatible configurations.
+1. Open the **Provider** dropdown in the **Base map** section
+2. Select **More providers...** and enable **Custom Service**
+3. Pick **Custom Service** from the provider list
+4. Enter the service URL and, if required, an API key
+5. Select **Get Details** and choose one of the detected compatible configurations
 
 Compatible custom basemap services need to use Web Mercator with a Google-compatible tiling scheme.
 
@@ -95,8 +95,8 @@ If you need the imagery to print or export, import aerial photos instead of rely
 
 ## Related tasks
 
-- Use [Spatial Data Import](../importing-external-data/spatial-data-import) to bring in ArcGIS, CAD, KML, and Shapefile data.
-- Use [Road import](../importing-external-data/road-import) when you specifically want road geometry from OpenStreetMap data.
-- Use [Aerial photo import](./aerial-photo-import) when you need basemap imagery included in print or export output.
-- Use [Georeferenced image import](../importing-external-data/georeferenced-image-import) for already georeferenced map images.
-- Use [Printing and export](/category/printing-and-export) when you need output files.
+- use [Spatial Data Import](../importing-external-data/spatial-data-import) to bring in ArcGIS, CAD, KML, and Shapefile data
+- use [Road import](../importing-external-data/road-import) when you specifically want road geometry from OpenStreetMap data
+- use [Aerial photo import](./aerial-photo-import) when you need basemap imagery included in print or export output
+- use [Georeferenced image import](../importing-external-data/georeferenced-image-import) for already georeferenced map images
+- use [Printing and export](/category/printing-and-export) when you need output files

@@ -12,11 +12,11 @@ The technique for drawing with these tools varies from object to object. Many of
 
 ## Draw any line or shape
 
-- Select the tool from the corresponding tab in the **Tools palette**.
-- Click to place the first **control point**.
-- Continue clicking until the necessary number of points are placed and the object is complete.
-- right-click to stop drawing.
-- right-click again to drop the tool.
+- select the tool from the corresponding tab in the **Tools palette**
+- click to place the first **control point**
+- continue clicking until the necessary number of points are placed and the object is complete
+- right-click to stop drawing
+- right-click again to drop the tool
 
 ## Auto-align lines and shapes
 
@@ -64,7 +64,7 @@ One of the color settings for lines, shapes and text is **transparent**. In the 
 
 ## The Spline-Based Tools
 
-The **Spline** and **Filled Spline** have an extra property. They are different because they are built around what is known as a spline curve. Spline curves are formed by placing points along a desired path - RapidPlan uses a predefined curve radius and creates the curved line. (The road tool also is a spline curve).
+The **Spline** and **Filled Spline** have an extra property. They are different because they are built around what is known as a spline curve. Spline curves are formed by placing points along a desired path - RapidPlan uses a predefined curve radius and creates the curved line. (The Road tool also is a spline curve).
 
 ![The_Spline_Tool_on_the_Left_and_the_Filled_Spline_on_the_Right](./assets/The_Spline_Tool_on_the_Left_and_the_Filled_Spline_on_the_Right.png)
 
@@ -74,8 +74,8 @@ One of the trickier techniques to master in RapidPlan is the drawing of a Bezier
 
 There are two components of a Bezier curve:
 
-- The center **Control Point** sets the apex of the curve.
-- The **Curve Handle** allow you to set the direction and sweep of the curve.
+- the center **Control Point** sets the apex of the curve
+- the **Curve Handle** allow you to set the direction and sweep of the curve
 
     ![Bezier_with_its_Control_Points_and_Curve_Handles](./assets/Bezier_with_its_Control_Points_and_Curve_Handles.png)
 
@@ -87,11 +87,11 @@ There are three arc-based tools in RapidPlan, the **Arc** tool, the **Pie Arc** 
 
 **To use an arc tool:**
 
-- Select the necessary arc tool from the **Tools palette**.
-- Click once to set the radius of the arc.
-- The second click is where you draw your arc by moving the cursor in the direction of the arc.
-- Click to complete the object.
-- right-click to drop the tool.
+- select the necessary arc tool from the **Tools palette**
+- click once to set the radius of the arc
+- the second click is where you draw your arc by moving the cursor in the direction of the arc
+- click to complete the object
+- right-click to drop the tool
 
 You can also specify numeric values for the radius, start angle and end angle for the arc.
 
