@@ -8,9 +8,10 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
-### Version 4.4.134 (4 September 2026)
+### Version 4.4.136 (4 September 2026)
 * Improved low-memory warning behavior to avoid premature alerts and added diagnostic logging when the warning is shown.
 * Prevent the “What’s New” page from opening in additional RapidPlan windows.
+* Fixed hyperlink issue on exported PDF.
 
 ### Version 4.4.118 (25 August 2026)
 * Enabled scrolling through saved tool styles in the Tools panel when the list contains many items.
