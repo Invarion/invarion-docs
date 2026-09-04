@@ -10,6 +10,10 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.4.137 (4 September 2026)
+* Added support for sharing the recent plans list across multiple RapidPlan windows.
+* Added option to diable GPU acceleration for external browser.
+
 ### Version 4.4.135 (4 September 2026)
 * Added support for sharing the recent plans list across multiple RapidPlan windows.
 * Bugfixes.
