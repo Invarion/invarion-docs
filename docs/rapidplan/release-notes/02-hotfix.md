@@ -8,6 +8,10 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.4.143 (7 September 2026)
+* Provided option to bypass pdf reader issues.
+
+
 ### Version 4.4.136 (4 September 2026)
 * Improved low-memory warning behavior to avoid premature alerts and added diagnostic logging when the warning is shown.
 * Prevent the “What’s New” page from opening in additional RapidPlan windows.
