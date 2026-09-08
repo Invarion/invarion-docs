@@ -10,6 +10,9 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.4.151 (8 September 2026)
+* Bugfixes.
+
 ### Version 4.4.148 (7 September 2026)
 * Improved Shapefile import with DBF support.
 * Bugfixes.
