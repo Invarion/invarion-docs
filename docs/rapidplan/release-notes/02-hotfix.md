@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.4.150 (8 September 2026)
+* Fixed an error when applying large padding to Rich Text objects.
+
 ### Version 4.4.147 (7 September 2026)
 * Provided option to bypass pdf reader issues.
 * Fixed rendering issues with subscript and superscript text in rich text.
