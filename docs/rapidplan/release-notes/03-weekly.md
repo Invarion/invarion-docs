@@ -10,22 +10,22 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.4.158 (11 September 2026)
+* Spatial import limits now use the current viewport, improving large-plan support.
+* ArcGIS imports now warn when no importable features are visible in the current view.
+
 ### Version 4.4.156 (11 September 2026)
 * Added address lookup for the selected location.
-* Bugfixes.
 
 ### Version 4.4.148 (7 September 2026)
 * Improved Shapefile import with DBF support.
-* Bugfixes.
 
 ### Version 4.4.137 (4 September 2026)
 * Added support for sharing the recent plans list across multiple RapidPlan windows.
 * Added option to diable GPU acceleration for external browser.
-* Bugfixes.
 
 ### Version 4.4.135 (4 September 2026)
 * Added support for sharing the recent plans list across multiple RapidPlan windows.
-* Bugfixes.
   
 ### Version 4.4.119 (25 August 2026)
 * Bugfixes.
