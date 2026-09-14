@@ -1,7 +1,8 @@
 {
-  "label": "Tips",
+  "label": "Quick tips",
   "position": 31,
   "link": {
-    "type": "generated-index"
+    "type": "doc",
+    "id": "quick-tips"
   }
 }
