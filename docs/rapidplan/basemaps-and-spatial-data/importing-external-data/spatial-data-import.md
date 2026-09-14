@@ -64,7 +64,34 @@ Key points:
 - spatial reference can be supplied when needed
 - non-georeferenced CAD can still be useful on non-basemap plans
 
-For the complete georeferenced workflow, including spatial-reference selection and CAD export, see [CAD export](/rapidplan/printing-and-export/print-and-export-operations/cad-export#import-and-export-georeferenced-cad).
+### Import georeferenced CAD
+
+Before importing:
+
+- Open or create a RapidPlan plan with a location and basemap.
+- Confirm the coordinate system used by the source file. You may need its EPSG code.
+- Keep any accompanying `.prj` file in the same folder as the `.dwg` or `.dxf` file.
+
+1. Open **Tools** > **Import** > **Spatial Data**.
+2. Select **Add Import Provider**.
+3. Set **Provider type** to **CAD**, then open the `.dwg` or `.dxf` file.
+4. Review the file path and detected layer count.
+5. Set **CAD Layout** to **Model**.
+6. Select **Use georeference**.
+7. Select the displayed spatial reference to open **GIS Data Spatial Reference Selection**.
+8. Search for the required spatial reference by EPSG code and select it.
+9. Select or clear **Invert Lat/Long** as required by the coordinate system, then select **Select**.
+10. Select **Add**.
+
+![CAD provider and spatial reference settings for a georeferenced import](./assets/import-georeferenced-cad-settings.png)
+
+The CAD preview should appear at its mapped location. If it is outside the current view, select **Scroll to the nearest visible feature** in the **Import Spatial Data** window.
+
+![Scroll to the nearest visible feature button in the Import Spatial Data window](./assets/locate-imported-cad.png)
+
+Select the features you need, then select **Import Selected Data**. Finish the import when the required geometry is on the plan.
+
+For export settings and procedures, see [Export georeferenced CAD](/rapidplan/printing-and-export/print-and-export-operations/cad-export#export-georeferenced-cad).
 
 ## KML and Shapefile imports
 

@@ -3,7 +3,6 @@ sidebar_position: 4
 tags:
   - print-export
   - mapping-geospatial
-  - import
 ---
 
 # CAD export
@@ -37,36 +36,16 @@ RapidPlan supports both:
 
 That means the exported file can represent either the site geometry itself, the prepared print layout, or both depending on how your plan is set up.
 
-## Import and export georeferenced CAD
+## Export georeferenced CAD
 
-Use georeferencing to keep CAD data aligned with its real-world location when moving it between RapidPlan and CAD or GIS software.
+Use georeferencing to keep exported CAD data aligned with its real-world location in CAD or GIS software.
+
+To bring CAD data into RapidPlan, see [Import georeferenced CAD](/rapidplan/basemaps-and-spatial-data/importing-external-data/spatial-data-import#import-georeferenced-cad).
 
 ### Before you begin
 
 - Open or create a RapidPlan plan with a location and basemap.
-- Confirm the coordinate system used by the source or destination workflow. You may need its EPSG code.
-- For an import, keep any accompanying `.prj` file in the same folder as the `.dwg` or `.dxf` file.
-
-### Import georeferenced CAD
-
-1. Open **Tools** > **Import** > **Spatial Data**.
-2. Select **Add Import Provider**.
-3. Set **Provider type** to **CAD**, then open the `.dwg` or `.dxf` file.
-4. Review the file path and detected layer count.
-5. Set **CAD Layout** to **Model**.
-6. Select **Use georeference**.
-7. Select the displayed spatial reference to open **GIS Data Spatial Reference Selection**.
-8. Search for the required spatial reference by EPSG code and select it.
-9. Select or clear **Invert Lat/Long** as required by the coordinate system, then select **Select**.
-10. Select **Add**.
-
-![CAD provider and spatial reference settings for a georeferenced import](./assets/import-georeferenced-cad-settings.png)
-
-The CAD preview should appear at its mapped location. If it is outside the current view, select **Scroll to the nearest visible feature** in the **Import Spatial Data** window.
-
-![Scroll to the nearest visible feature button in the Import Spatial Data window](./assets/locate-imported-cad.png)
-
-Select the features you need, then select **Import Selected Data**. Finish the import when the required geometry is on the plan.
+- Confirm the coordinate system required by the destination workflow. You may need its EPSG code.
 
 ### Export a georeferenced print region
 
