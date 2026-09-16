@@ -10,6 +10,9 @@ hide_title: true
 
 _NOTE: all Weekly updates contain bugfixes published in the Hotfix channel, see separate changelog [HERE](/rapidplan/release-notes/hotfix/)._
 
+### Version 4.4.161 (16 September 2026)
+* CAD import/export improvements.
+
 ### Version 4.4.158 (11 September 2026)
 * Spatial import limits now use the current viewport, improving large-plan support.
 * ArcGIS imports now warn when no importable features are visible in the current view.
