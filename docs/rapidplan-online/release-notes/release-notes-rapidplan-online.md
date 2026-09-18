@@ -1,5 +1,13 @@
 # Release Notes
 
+## September 2026
+
+- Text in signs from the new sign library can now be edited, with a live preview of changes.
+
+### Bug fixes
+
+- The Continue drawing option no longer appears when a sign stand is selected.
+
 ## August 2026
 
 - Read-only plans can now be panned by dragging with the left mouse button or one finger, making navigation easier on desktop and touch devices.
