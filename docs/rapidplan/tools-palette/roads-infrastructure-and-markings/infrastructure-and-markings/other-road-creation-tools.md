@@ -16,11 +16,11 @@ This tool is used for making a slip lane or a turning lane.
 
 **To create a turning lane:**
 
-- select the **Turn Lane** tool from the Roads tab in the **Tools palette**
-- assuming you are adding this to a pre-existing road, click on the road where you want the turning to start
-- click again around the middle of the turning lane to place a **control point**
-- place your final click where you want your turning lane to end
-- right-click to drop the tool
+- select the **Turn Lane** tool from the Roads tab in the **Tools palette**,
+- assuming you are adding this to a pre-existing road, click on the road where you want the turning to start,
+- click again around the middle of the turning lane to place a **control point**,
+- place your final click where you want your turning lane to end,
+- right-click to drop the tool.
 
     ![Turning_Lane_on_left_and_a_Slip_Lane_on_right_using_the_Turn_Lane_tool](./assets/Turning_Lane_on_left_and_a_Slip_Lane_on_right_using_the_Turn_Lane_tool.png)
 
@@ -30,12 +30,12 @@ This tool allows you to create a precise arc in a road with ease. As you can see
 
 **To create a Road Arc:**
 
-- select the **Arc Road** tool in the Roads tab of the **Tools palette**
-- click once to set the radius of the road arc
-- the second click is where you start drawing your road arc from
-- now drag your cursor in the direction you want the road
-- click to place the road
-- right-click to drop the tool
+- select the **Arc Road** tool in the Roads tab of the **Tools palette**,
+- click once to set the radius of the road arc,
+- the second click is where you start drawing your road arc from,
+- now drag your cursor in the direction you want the road,
+- click to place the road,
+- right-click to drop the tool.
 
     ![Arc_Road](./assets/Arc_Road.png)
 
@@ -49,10 +49,10 @@ The Roundabout tool is relatively simple to use and blends easily like other **r
 
 **To Create a Roundabout:**
 
-- select the **Roundabout** tool in the Roads tab of the **Tools palette**
-- click once to place the roundabout, this is going to be a center of your roundabout
-- shift your mouse up or down to make the roundabout bigger or smaller
-- right-click to finish
+- select the **Roundabout** tool in the Roads tab of the **Tools palette**,
+- click once to place the roundabout, this is going to be a center of your roundabout,
+- shift your mouse up or down to make the roundabout bigger or smaller,
+- right-click to finish.
 
     ![Roundabout](./assets/Roundabout.png)
 
@@ -62,24 +62,24 @@ This tool allows you to easily create road corners for your roads. It is control
 
 **To create a road corner:**
 
-- select the **Road Corner** tool from the Roads tab in the **Tools palette**
-- place your first click where you want your corner to begin
-- the second click places the inner corner of the object
-- the third click places the final corner
-- the final click positions the shape point
-- as mentioned, there are three **control points** and shape point to help you adjust the object
+- select the **Road Corner** tool from the Roads tab in the **Tools palette**,
+- place your first click where you want your corner to begin,
+- the second click places the inner corner of the object,
+- the third click places the final corner,
+- the final click positions the shape point,
+- as mentioned, there are three **control points** and shape point to help you adjust the object.
 
 ![The_Road_Corner_Tool](./assets/The_Road_Corner_Tool.png)
 
 ## Road Region tool
 
-The Road Region tool is **free form** road tool which you can use to draw irregular paved surfaces, like parking lots.
+The Road Region tool is **free form** Road tool which you can use to draw irregular paved surfaces, like parking lots.
 
 **To create a road region:**
 
-- select **Road Region** tool from Roads tab in the **Tools palette**
-- start your region at the smallest corner and click once to start drawing
-- move in either a clockwise, or anti-clockwise order, clicking at each of your region's corner points (**Note:** Remember, you can hold **Shift** to keep the corners of your region perfectly straight)
-- when you have placed your last point, right-click to stop drawing, and then right-click to drop the Road Region tool
+- select **Road Region** tool from Roads tab in the **Tools palette**,
+- start your region at the smallest corner and click once to start drawing,
+- move in either a clockwise, or anti-clockwise order, clicking at each of your region's corner points (**Note:** Remember, you can hold **Shift** to keep the corners of your region perfectly straight),
+- when you have placed your last point, right-click to stop drawing, and then right-click to drop the Road Region tool.
 
 ![Road_Region_Tool](./assets/Road_Region_Tool.png)

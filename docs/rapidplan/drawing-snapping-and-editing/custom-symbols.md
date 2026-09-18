@@ -15,20 +15,20 @@ Custom symbols let you replace selected built-in symbols with your own reusable 
 
 Use **custom symbols** when you want to:
 
-- match a company or client visual standard
-- reuse the same approved symbol on many plans
-- replace a built-in icon with a preferred local convention
+- match a company or client visual standard,
+- reuse the same approved symbol on many plans,
+- replace a built-in icon with a preferred local convention.
 
 ## Supported objects
 
 The unified custom symbol system is available on **selected objects**, including:
 
-- bike lane
-- north arrow
-- **arrow board**
-- LUMS board
-- location marker
-- sign stand
+- Bike Lane,
+- North Arrow,
+- **Arrow Board**,
+- LUMS Board,
+- Location Marker,
+- Sign Stand.
 
 Support can expand over time, so check the **Properties palette** on the object you are using.
 
@@ -44,12 +44,12 @@ The object keeps behaving like its normal RapidPlan object, but its built-in sym
 
 Custom symbols work well when the symbol itself should stay consistent, but the object still needs RapidPlan behavior such as:
 
-- snapping
-- geometry or placement logic
-- **object properties**
-- inclusion in legends or manifests where supported
+- snapping,
+- geometry or placement logic,
+- **object properties**,
+- inclusion in legends or manifests where supported.
 
 ## Related content
 
-- use [Location markers](/rapidplan/tools-palette/devices-markers-and-annotations/location-marker) for map pin style annotations
-- use [Signs palette](/rapidplan/signs-and-scratchpad/signs-palette) when you need actual sign-library content rather than symbol replacement
+- use [Location markers](/rapidplan/tools-palette/devices-markers-and-annotations/location-marker) for map pin style annotations,
+- use [Signs palette](/rapidplan/signs-and-scratchpad/signs-palette) when you need actual sign-library content rather than symbol replacement.

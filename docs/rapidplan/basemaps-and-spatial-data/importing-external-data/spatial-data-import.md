@@ -5,22 +5,22 @@ tags:
   - import
 ---
 
-# Spatial data import
+# Spatial Data Import
 
 RapidPlan 4.4 replaced the older separate KML, Shapefile, and CAD import workflows with a unified **Spatial Data Import** tool.
 
 Use it when you want to preview spatial data over your plan before importing it.
 
-![redesigned import with arcgis support](../../release-notes/assets/import_arcgis3.png)
+![redesigned import with ArcGIS support](../../release-notes/assets/import_arcgis3.png)
 
 ## Supported provider types
 
 The current Spatial Data Import workflow supports:
 
-- ArcGIS Feature Service layers
-- CAD files: `DWG`, `DXF`
-- KML and KMZ files
-- ESRI Shapefiles: `SHP`
+- ArcGIS Feature Service layers,
+- CAD files: `DWG`, `DXF`,
+- KML and KMZ files,
+- ESRI Shapefiles: `SHP`.
 
 Multiple providers can be added to the same workflow, including several providers of the same type.
 
@@ -28,9 +28,9 @@ Multiple providers can be added to the same workflow, including several provider
 
 You can start the workflow in any of these ways:
 
-- **Tools** > **Import** > **Spatial Data**
-- the **Add Import Provider** action in the import window
-- drag and drop a supported file onto RapidPlan
+- **Tools** > **Import** > **Spatial Data**,
+- the **Add Import Provider** action in the import window,
+- drag and drop a supported file onto RapidPlan.
 
 ## How the workflow works
 
@@ -46,10 +46,10 @@ The preview updates as you pan and zoom, so you can focus on the area you actual
 
 ArcGIS support is new in this workflow. You can:
 
-- connect to an ArcGIS Feature Service URL
-- pick one or more layers from that service
-- preview geometry before importing
-- save useful ArcGIS sources as bookmarks for reuse
+- connect to an ArcGIS Feature Service URL,
+- pick one or more layers from that service,
+- preview geometry before importing,
+- save useful ArcGIS sources as bookmarks for reuse.
 
 If you need public sources to test with or explore, see [Finding ArcGIS Feature Services](./finding-arcgis-feature-services).
 
@@ -59,18 +59,18 @@ CAD files are now handled in the same import interface as the GIS formats.
 
 Key points:
 
-- `DWG` and `DXF` are supported
-- layout and layer information can be reviewed before import
-- spatial reference can be supplied when needed
-- non-georeferenced CAD can still be useful on non-basemap plans
+- `DWG` and `DXF` are supported,
+- layout and layer information can be reviewed before import,
+- spatial reference can be supplied when needed,
+- non-georeferenced CAD can still be useful on non-basemap plans.
 
 ### Import georeferenced CAD
 
 Before importing:
 
-- Open or create a RapidPlan plan with a location and basemap.
-- Confirm the coordinate system used by the source file. You may need its EPSG code.
-- Keep any accompanying `.prj` file in the same folder as the `.dwg` or `.dxf` file.
+- open or create a RapidPlan plan with a location and basemap,
+- confirm the coordinate system used by the source file. You may need its EPSG code,
+- keep any accompanying `.prj` file in the same folder as the `.dwg` or `.dxf` file.
 
 1. Open **Tools** > **Import** > **Spatial Data**.
 2. Select **Add Import Provider**.
@@ -99,25 +99,25 @@ KML, KMZ, and Shapefile data are still supported, but they now use the same Spat
 
 This makes it easier to:
 
-- combine several datasets in one session
-- preview what will be imported
-- inspect attributes before import
-- work consistently across GIS and CAD sources
+- combine several datasets in one session,
+- preview what will be imported,
+- inspect attributes before import,
+- work consistently across GIS and CAD sources.
 
 ## What gets imported
 
 Depending on the source data, RapidPlan can import:
 
-- point data
-- lines and paths
-- polygons
-- styling where supported
-- feature attributes for supported sources
+- point data,
+- lines and paths,
+- polygons,
+- styling where supported,
+- feature attributes for supported sources.
 
 Imported geometry can then be snapped to, edited, and used as the basis for further drawing.
 
 ## Related tasks
 
-- Use [Road import](./road-import) for OpenStreetMap road layouts.
-- Use [Georeferenced image import](./georeferenced-image-import) for map images rather than vector data.
-- Use [Integrated map providers](../integrated-maps/integrated-map-providers) if you first need to create or configure a base map plan.
+- use [Road import](./road-import) for OpenStreetMap road layouts,
+- use [Georeferenced image import](./georeferenced-image-import) for map images rather than vector data,
+- use [Integrated map providers](../integrated-maps/integrated-map-providers) if you first need to create or configure a base map plan.

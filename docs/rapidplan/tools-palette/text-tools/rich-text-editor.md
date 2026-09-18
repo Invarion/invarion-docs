@@ -18,9 +18,9 @@ The Rich Text Editor is unique to the other editors. Clicking the icon shown in 
 
 Once open, you'll see familiar text editing iconography:
 
-- **On the left:** Bold, italics and underlining
-- **In the center:** Alignment settings
-- **On the right:** Buttons to insert an image, a table, or a horizontal line
+- **On the left:** Bold, italics and underlining,
+- **In the center:** Alignment settings,
+- **On the right:** Buttons to insert an image, a table, or a horizontal line.
 
 There are also drop-down buttons:
 
@@ -30,13 +30,13 @@ The **More Text** button opens a drop-down menu for additional text controls:
 
 ![more text](./assets/rich-text-more-text.png)
 
-- **Text Color**
-- **Font**
-- **Text Size**
-- **Background Color (highlighting)**
-- **Strike-through**
-- **Subscript**
-- **Superscript**
+- **Text Color**,
+- **Font**,
+- **Text Size**,
+- **Background Color (highlighting)**,
+- **Strike-through**,
+- **Subscript**,
+- **Superscript**.
 
 ### More Paragraph
 
@@ -44,11 +44,11 @@ The **More Paragraph** button opens a drop-down menu for additional paragraph co
 
 ![more paragraph](./assets/rich-text-more-pgraph.png)
 
-- **Paragraph Format:** Switch between varied heading sizes and normal body text
-- **Ordered List:** Insert a list ordered by numbers and other numerals
-- **Unordered List:** Dot points and similar
-- **Decrease Indent**
-- **Increase Indent**
+- **Paragraph Format:** Switch between varied heading sizes and normal body text,
+- **Ordered List:** Insert a list ordered by numbers and other numerals,
+- **Unordered List:** Dot points and similar,
+- **Decrease Indent**,
+- **Increase Indent**.
 
 ### More Misc
 
@@ -56,11 +56,11 @@ The **More Misc** button opens a drop-down menu for these controls:
 
 ![more misc](./assets/rich-text-more-misc.png)
 
-- **Special Characters**
-- **Select All**
-- **Clear Formatting**
-- **Undo**
-- **Redo**
+- **Special Characters**,
+- **Select All**,
+- **Clear Formatting**,
+- **Undo**,
+- **Redo**.
 
 ### Quick Insert
 
@@ -68,11 +68,11 @@ The **Quick Insert** button is visible when the cursor is on an empty line, and 
 
 ![quick insert](./assets/rich-text-editor-quick-insert.jpg)
 
-- **Image**
-- **Table**
-- **Unordered List**
-- **Ordered List**
-- **Horizontal Line**
+- **Image**,
+- **Table**,
+- **Unordered List**,
+- **Ordered List**,
+- **Horizontal Line**.
 
 **Note:** Tools accessed through Quick Insert will be set to their default settings. If they are accessed through the Rich Text Editor's toolbar, you will be offered more options to customise the insert.
 
@@ -84,11 +84,11 @@ Once a table is created, changes can be made to cells using all of the toolbar f
 
 Using a table's context menu:
 
-- rows and columns can be inserted or removed
-- borders can be engaged or disengaged
-- cells can be split horizontally or vertically
-- cells can be merged
-- background color can be applied, and vertical or horizontal text alignment can be applied
+- rows and columns can be inserted or removed,
+- borders can be engaged or disengaged,
+- cells can be split horizontally or vertically,
+- cells can be merged,
+- background color can be applied, and vertical or horizontal text alignment can be applied.
 
 A column's width can also be adjusted by clicking and dragging it.
 

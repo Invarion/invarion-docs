@@ -14,10 +14,10 @@ Use PDF for most review, approval, email, and print-ready workflows.
 
 PDF is usually the right format when you need:
 
-- a stable page layout
-- print frames and titleblocks
-- one file per plan or stage
-- output that is easy to share outside RapidPlan
+- a stable page layout,
+- print frames and titleblocks,
+- one file per plan or stage,
+- output that is easy to share outside RapidPlan.
 
 ## Image
 

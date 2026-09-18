@@ -12,11 +12,11 @@ Using the Road tool is very simple. As you move the mouse after you have clicked
 
 ## Drawing a Road
 
-- select the **Road** from the **Tools palette**
-- move your mouse to the canvas and click once to start drawing your road
-- move the mouse around the canvas, clicking at each control (turning) point
-- when you have placed your final point, right-click to stop drawing
-- if you don't want to draw another road, right-click again to drop the Road tool
+- select the **Road** from the **Tools palette**,
+- move your mouse to the canvas and click once to start drawing your road,
+- move the mouse around the canvas, clicking at each control (turning) point,
+- when you have placed your final point, right-click to stop drawing,
+- if you don't want to draw another road, right-click again to drop the Road tool.
 
 **Tip:** A simple shortcut allows you to draw perfectly straight roads. By holding **Shift**, the tool will make sure that each **control point** is placed in a perfectly straight line. Move the move left or right, and the straight section of road will 'jump' in 15 degree increments.
 

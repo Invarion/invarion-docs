@@ -12,10 +12,10 @@ The Train Tracks tool allows you to quickly add train or tram (light rail) lines
 
 **To place a train line:**
 
-- select the **Train Tracks** tool from the Markers tab in the **Tools palette**;
-- click once to start your rail line;
-- click at each turn point;
-- right-click to stop drawing
+- select the **Train Tracks** tool from the Markers tab in the **Tools palette**,
+- click once to start your rail line,
+- click at each turn point,
+- right-click to stop drawing.
 
 To place a tram line, once the tool is selected, navigate to in the **Properties palette** and change the **Type** value from **Train** to **Tram**.
 

@@ -17,10 +17,10 @@ Upon selecting the Lane Status tool, a wizard box will open where you can make a
 
 ## Create a lane status marker
 
-- select the Lane Status tool from the Devices tab in the **Tools palette**
-- edit these markers accordingly depending on lane closures and lane numbers needed within your plan
-- remember you can Add and Delete panels, as well as adjust an arrow horizontally/vertically if need be
-- move your mouse over the individual marker you'd like to change and make the desired changes
-- click create to place the marker on your plan
+- select the Lane Status tool from the Devices tab in the **Tools palette**,
+- edit these markers accordingly depending on lane closures and lane numbers needed within your plan,
+- remember you can Add and Delete panels, as well as adjust an arrow horizontally/vertically if need be,
+- move your mouse over the individual marker you'd like to change and make the desired changes,
+- click create to place the marker on your plan.
 
     ![Lane_Status_Wizard_with_Available_Options](./assets/Lane_Status_Wizard_with_Available_Options.png)

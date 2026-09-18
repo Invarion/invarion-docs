@@ -19,11 +19,11 @@ There are six different **Arrow Board** patterns available, as shown below.
 
 ## Placing an Arrow Board
 
-- select the **Arrow Board** from the Devices tab in the **Tools palette**;
+- select the **Arrow Board** from the Devices tab in the **Tools palette**,
 
-- drop it into position on the plan;
+- drop it into position on the plan,
 
-- rotate it as necessary
+- rotate it as necessary.
 
    **Note:** by default the Arrow board appears as a right flash. If you require a left flash, use the context menu to flip the object.
 

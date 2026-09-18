@@ -15,11 +15,11 @@ Open it from **Tools** > **Preferences**.
 
 Basic options include application-wide behavior such as:
 
-- units of measurement
-- export compression
-- autosave behavior
-- spell checking
-- usage reporting
+- units of measurement,
+- export compression,
+- autosave behavior,
+- spell checking,
+- usage reporting.
 
 ## Diagram editor
 
@@ -27,11 +27,11 @@ Diagram editor settings control how the plan editor is displayed and how it beha
 
 Common options include:
 
-- showing rulers
-- showing the grid
-- showing the plan origin
-- showing object tooltips
-- grid snapping behavior
+- showing rulers,
+- showing the grid,
+- showing the plan origin,
+- showing object tooltips,
+- grid snapping behavior.
 
 ## Appearance
 

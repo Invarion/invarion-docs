@@ -21,11 +21,11 @@ All delineator lines start by default as Barrels with a size of 6 units and a sp
 
 **To create a basic delineator line:**
 
-- select the Delineator from the Devices tab in the **Tools palette**
-- click once where you wish to start drawing (don't hold)
-- click at each corner for your line
-- after you have placed the end point, right-click to stop drawing
-- right-click to clear the cursor
+- select the Delineator from the Devices tab in the **Tools palette**,
+- click once where you wish to start drawing (don't hold),
+- click at each corner for your line,
+- after you have placed the end point, right-click to stop drawing,
+- right-click to clear the cursor.
 
     ![Delineator_Line](./assets/Delineator_Line.png)
 
@@ -35,8 +35,8 @@ Once your line is on the plan, you can change the type of delineator that you us
 
 **To change delineator types:**
 
-- select the delineator line on the plan and observe the **Properties palette**
-- click on the Devices tab and choose the type of delineator required from the Type drop down box
+- select the delineator line on the plan and observe the **Properties palette**,
+- click on the Devices tab and choose the type of delineator required from the Type drop down box.
 
     ![Changing_Delineator_Type](./assets/Changing_Delineator_Type.png)
 

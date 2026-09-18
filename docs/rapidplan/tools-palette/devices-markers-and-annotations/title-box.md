@@ -13,13 +13,13 @@ The Title Box is an essential item on your plan - it captures a lot of important
 
 **The Title Box has provisions for the following information:**
 
-- Date
-- Author
-- Project
-- Custom details
-- North marker
-- Company logo
-- Comments field
+- date,
+- author,
+- project,
+- custom details,
+- north marker,
+- company logo,
+- comments field.
 
 ## Creating a Title Box
 
@@ -27,9 +27,9 @@ Creating a title box is a simple matter of selecting, filling and placing on the
 
 **To place a Title Box:**
 
-- Select the **Title Box** from the Annotations tab in the **Properties palette** and place the box on the plan.
-- double-click on the Title Box to open **Quick Edit**.
-- Fill in each of the required fields and click **Save**.
+- select the **Title Box** from the Annotations tab in the **Properties palette** and place the box on the plan,
+- double-click on the Title Box to open **Quick Edit**,
+- fill in each of the required fields and click **Save**.
 
 ![Filling_in_the_Title_Box_in_Quick_Edit](./assets/Filling_in_the_Title_Box_in_Quick_Edit.png)
 
@@ -73,9 +73,9 @@ You will need to have a high quality logo, preferably in **JPG**, **BMP** or **P
 
 **To include the logo on a title box:**
 
-- select the **Company Logo** tab in Properties
-- hover your cursor over the **Image** section until the option to **Load File From** becomes visible. Select this
-- browse for your image files on your computer, double-click on your file once you've found it
-- do not forget to make the **Show** section **True** to make your logo visible in the Title Box
+- select the **Company Logo** tab in Properties,
+- hover your cursor over the **Image** section until the option to **Load File From** becomes visible. Select this,
+- browse for your image files on your computer, double-click on your file once you've found it,
+- do not forget to make the **Show** section **True** to make your logo visible in the Title Box.
 
     ![Add_Company_Logo_on_the_Title_Box](./assets/Add_Company_Logo_on_the_Title_Box.png)

@@ -15,11 +15,11 @@ The Launcher uses the proxy settings configured in Windows by default.
 
 Allow access to:
 
-- `https://authorizationapi.invarion.com`
-- `https://rapidplan.b2clogin.com`
-- `https://invarionstorage.blob.core.windows.net`
-- `https://invarionstorage.azureedge.net`
-- `time.google.com` (NTP)
+- `https://authorizationapi.invarion.com`,
+- `https://rapidplan.b2clogin.com`,
+- `https://invarionstorage.blob.core.windows.net`,
+- `https://invarionstorage.azureedge.net`,
+- `time.google.com` (NTP).
 
 The Launcher uses a localhost port to confirm user authentication. Make sure security software does not block localhost access.
 
@@ -27,40 +27,40 @@ The Launcher uses a localhost port to confirm user authentication. Make sure sec
 
 Allow access to the services used by your selected map providers:
 
-- `https://maps.googleapis.com`
-- `https://maps.omniscale.net`
-- `http://*.virtualearth.net` (Bing)
-- `https://www.arcgis.com`
-- `https://services.arcgisonline.com`
+- `https://maps.googleapis.com`,
+- `https://maps.omniscale.net`,
+- `http://*.virtualearth.net` (Bing),
+- `https://www.arcgis.com`,
+- `https://services.arcgisonline.com`.
 
 ## Roads import
 
 Allow access to:
 
-- `https://overpass-api.de/api/`
-- `https://overpass.private.coffee/api/`
-- `https://overpass.osm.jp/api/`
+- `https://overpass-api.de/api/`,
+- `https://overpass.private.coffee/api/`,
+- `https://overpass.osm.jp/api/`.
 
 ## Location search
 
 Allow access to:
 
-- `https://maps.googleapis.com`
-- `https://nominatim.openstreetmap.org`
+- `https://maps.googleapis.com`,
+- `https://nominatim.openstreetmap.org`.
 
 ## Regional and additional map providers
 
 Allow access to the services used by your region or subscription:
 
-- `https://tiles.basemaps.linz.govt.nz` (LINZ, New Zealand)
-- `https://api.nearmap.com` (Nearmap, Australia)
-- `https://api.metromap.com.au` (MetroMap, Australia)
-- `https://tiles.metromap.com.au` (MetroMap, Australia)
-- `http://base.maps.vic.gov.au` (VicMap, Victoria)
-- `http://maps.six.nsw.gov.au` (SIX Maps, New South Wales)
-- `https://gisservices.information.qld.gov.au` (Queensland)
-- `https://spatial-img.information.qld.gov.au` (Queensland)
-- `https://services.thelist.tas.gov.au` (LIST, Tasmania)
+- `https://tiles.basemaps.linz.govt.nz` (LINZ, New Zealand),
+- `https://api.nearmap.com` (NearMap, Australia),
+- `https://api.metromap.com.au` (MetroMap, Australia),
+- `https://tiles.metromap.com.au` (MetroMap, Australia),
+- `http://base.maps.vic.gov.au` (VicMap, Victoria),
+- `http://maps.six.nsw.gov.au` (SIX Maps, New South Wales),
+- `https://gisservices.information.qld.gov.au` (Queensland),
+- `https://spatial-img.information.qld.gov.au` (Queensland),
+- `https://services.thelist.tas.gov.au` (LIST, Tasmania).
 
 ## Offline access
 

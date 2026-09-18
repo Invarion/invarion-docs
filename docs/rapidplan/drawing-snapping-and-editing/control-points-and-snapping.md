@@ -53,9 +53,9 @@ You can also snap not just to **control points**, but anywhere along a snappable
 
 Press **Alt** while snapping to a geometry to reveal additional guides such as:
 
-- tangent lines
-- perpendicular lines
-- midpoints
+- tangent lines,
+- perpendicular lines,
+- midpoints.
 
 ![Advanced_snapping](./assets/Advanced_snapping.png)
 
@@ -65,10 +65,10 @@ Snap to an existing geometry while drawing and RapidPlan can automatically fit y
 
 This is especially useful for drawing:
 
-- delineators
-- lane or edge-related objects
-- work areas
-- markers that need to follow an existing curve
+- delineators,
+- lane or edge-related objects,
+- work areas,
+- markers that need to follow an existing curve.
 
 Start by clicking on the geometry where you want the object to begin, then continue drawing along it.
 
@@ -84,10 +84,10 @@ When moving or scaling objects and **print regions**, their bounds edges and cen
 
 This is useful when aligning objects to:
 
-- print region edges
-- page layout elements
-- **custom sign** artwork
-- other rectangular objects
+- print region edges,
+- page layout elements,
+- **custom sign** artwork,
+- other rectangular objects.
 
 ![Snap_to_bounds](./assets/Snap_to_bounds.png)
 
@@ -109,8 +109,8 @@ right-click to save the offset when you are done.
 
 The offset dialog includes:
 
-- **Round Corners** to smooth the resulting offset geometry
-- **Object Offset Copy** to create a copy instead of replacing the original
+- **Round Corners** to smooth the resulting offset geometry,
+- **Object Offset Copy** to create a copy instead of replacing the original.
 
 ## Tangent points in Bezier geometry
 

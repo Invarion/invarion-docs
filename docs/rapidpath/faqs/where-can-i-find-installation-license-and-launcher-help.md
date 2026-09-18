@@ -11,10 +11,10 @@ Installation, licensing, Launcher, firewall/proxy, offline access, and license t
 
 Use these pages if you need to:
 
-- [download, install, or open RapidPath with the Invarion Launcher](/accounts-setup/desktop-applications/install-and-use-the-invarion-launcher)
-- [check minimum system requirements](/accounts-setup/desktop-applications/minimum-system-requirements)
-- [configure a firewall or proxy](/accounts-setup/desktop-applications/firewall-and-proxy-configuration)
-- [use RapidPath offline](/accounts-setup/licenses-and-access/use-desktop-applications-offline)
-- [transfer a single-machine license](/accounts-setup/licenses-and-access/transfer-a-single-machine-license)
-- [troubleshoot Launcher issues](/accounts-setup/desktop-applications/troubleshoot-launcher-issues)
-- [run Launcher Diagnostics](/accounts-setup/desktop-applications/run-launcher-diagnostics)
+- [Install and use the Invarion Launcher](/accounts-setup/desktop-applications/install-and-use-the-invarion-launcher)
+- [Minimum system requirements](/accounts-setup/desktop-applications/minimum-system-requirements)
+- [Firewall and proxy configuration](/accounts-setup/desktop-applications/firewall-and-proxy-configuration)
+- [Use desktop applications offline](/accounts-setup/licenses-and-access/use-desktop-applications-offline)
+- [Transfer a single-machine license](/accounts-setup/licenses-and-access/transfer-a-single-machine-license)
+- [Troubleshoot Launcher issues](/accounts-setup/desktop-applications/troubleshoot-launcher-issues)
+- [Run Launcher diagnostics](/accounts-setup/desktop-applications/run-launcher-diagnostics)

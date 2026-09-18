@@ -17,10 +17,10 @@ Use the new-plan defaults to set values RapidPlan should apply when a new defaul
 
 Common defaults include:
 
-- author
-- base map provider
-- aerial import provider
-- plan setup values used by default-plan workflows
+- author,
+- base map provider,
+- aerial import provider,
+- plan setup values used by default-plan workflows.
 
 The aerial import provider can be different from the visible basemap provider. This is useful when you draw over a free cartographic map but want imported aerial tiles to come from a paid imagery provider such as NearMap or MetroMap.
 
@@ -36,11 +36,11 @@ Use brush defaults to control default line and shape styling.
 
 By default, RapidPlan creates text with its default font settings. To change the default text style:
 
-1. Open **Tools** > **Preferences**
-2. Select **Defaults**
-3. Scroll to **Fonts and Text**
-4. Set the font and text properties you want new text objects to use
-5. Close the Preferences tab
+1. Open **Tools** > **Preferences**.
+2. Select **Defaults**.
+3. Scroll to **Fonts and Text**.
+4. Set the font and text properties you want new text objects to use.
+5. Close the Preferences tab.
 
 ![Font_Default_Preferences](../../preferences-and-defaults/assets/Font_Default_Preferences.png)
 

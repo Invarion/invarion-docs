@@ -29,16 +29,16 @@ The Export Manifest tool allows you to create **manifest** documents based on on
 
 Step 1:
 
-- right-click on Manifest and select **Export manifest...**
+- right-click on Manifest and select **Export manifest...**.
 
     ![Right_click_manifest_export](./assets/Right_click_manifest_export.png)
 
 Step 2:
 
-- order **manifest** items (by name, by value or custom/manually)
-- set the units
-- set document header (and optional custom description)
-- select export format
+- order **manifest** items (by name, by value or custom/manually),
+- set the units,
+- set document header (and optional custom description),
+- select export format.
 
     ![Manifest_export](./assets/Manifest_export.png)
 

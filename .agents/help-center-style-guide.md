@@ -123,6 +123,37 @@ Treat product names as proper names. Always use the exact capitalization shown b
 - Invarion Cloud
 - Invarion Launcher
 
+### Map provider names
+
+Treat map provider names as proper names and preserve their established capitalization wherever they appear, including in bulleted lists. Use these exact names:
+
+- Omniscale
+- Google Roadmap
+- Google Satellite
+- Microsoft Imagery
+- Microsoft Hybrid
+- ArcGIS World
+- ArcGIS Hybrid
+- NearMap
+- MetroMap
+- VicMap Cartographic
+- VicMap Satellite
+- VicMap Hybrid
+- NSW Base Map
+- NSW Imagery
+- QLD Cartographic
+- QLD Satellite
+- Tasmania State Orthophoto
+- LINZ Aerial Imagery
+- DroneDeploy
+- Custom Service
+
+When referring to the ArcGIS platform or its services without a specific provider suffix, use **ArcGIS**.
+
+### RapidPlan feature names
+
+Treat RapidPlan feature names as proper UI labels and preserve their established capitalization wherever they appear, including in headings and bulleted lists. Use **Spatial Data Import**.
+
 ### RapidPlan tool names
 
 Treat RapidPlan tool names as proper UI labels. Use the exact capitalization shown below whenever a named tool appears, regardless of whether the name is at the beginning, middle, or end of a sentence. Keep the generic word "tool" lowercase unless it is part of a visible UI label: "Select the **Road** tool" and "Draw the route with the **Road** tool."
@@ -142,6 +173,7 @@ Treat RapidPlan tool names as proper UI labels. Use the exact capitalization sho
 ## UI And Action Wording
 
 - Bold visible UI labels: select **Create**, open **Settings**, choose **New plan**.
+- Treat named features, workflows, plan types, and product options as proper UI labels. Preserve their established capitalization wherever they appear, including at the beginning of bulleted-list items. In the **New Plan Wizard**, use **Blank Canvas**, **Base Map**, **Static Templates**, **Auto Template**, and **From PDF**.
 - Use `>` for menu paths: **File** > **New Plan Wizard**.
 - Use keyboard shortcuts as bold text: **Ctrl+Z**.
 - Use "select" for buttons, menu items, checkboxes, and tools.
@@ -157,7 +189,8 @@ Treat RapidPlan tool names as proper UI labels. Use the exact capitalization sho
 - Prefer short paragraphs of one to three sentences.
 - Split sentences over about 30 words unless the wording would become less clear.
 - Use numbered lists for ordered procedures. Start each numbered item with an uppercase letter and end it with a period.
-- Use bullets for unordered options, checks, or requirements. Start each bulleted item with a lowercase letter and end it with a comma. End the final item with a period.
+- Use bullets for unordered options, checks, or requirements. Start each bulleted item with a lowercase letter and end it with a comma. End the final item with a period. This lowercase rule applies only to generic wording; preserve the established capitalization of product names, feature names, tool names, workflows, plan types, and other named UI options.
+- For navigation lists made up only of links to other articles or sections, use each destination's title as the link label and preserve its exact capitalization. Do not add punctuation at the end of these list items. Do not apply the general lowercase and punctuation rule for bulleted lists to these navigation lists.
 - Include prerequisites before steps when missing setup would block the task.
 - Include the expected result after complex steps.
 - For feature articles, explain what the feature does, when to use it, and how to configure it before covering edge cases.

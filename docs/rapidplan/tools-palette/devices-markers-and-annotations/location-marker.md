@@ -24,17 +24,17 @@ If you would like to place a marker at a known coordinate rather than placing it
 
 ### Icon
 
-- style: Change the icon type of a pin on the plan (flag, pin, marker icon etc.)
-- size: Size of pin
-- stroke: Adjust the outline of the pin
-- fill: Color of the pin
+- style: Change the icon type of a pin on the plan (flag, pin, marker icon etc.),
+- size: Size of pin,
+- stroke: Adjust the outline of the pin,
+- fill: Color of the pin.
 
 ### Text
 
-- mode: *Default* will display the coordinates of the pin in text depending on where you place the pin, *Custom Text* allows you to write whatever details you prefer
-- font: Adjust the font
-- centered: Toggle whether text is centered or offset
-- coords format: Toggle whether coordinates displayed are in *Decimal Degress* (**DD**), or *Degrees Minutes Seconds* (**DMS**)
+- mode: *Default* will display the coordinates of the pin in text depending on where you place the pin, *Custom Text* allows you to write whatever details you prefer,
+- font: Adjust the font,
+- centered: Toggle whether text is centered or offset,
+- coords format: Toggle whether coordinates displayed are in *Decimal Degress* (**DD**), or *Degrees Minutes Seconds* (**DMS**).
 
 ### Box
 
@@ -71,10 +71,10 @@ Click Tools > Advanced Tools > Batch Edit Location Markers. Then click the Copy 
 In the top-left, toggle Input to **WGS84**, and paste the coordinates into the 'Latitude, Longitude' field on the left.
 ![mobile roads conversion 1](./assets/mobile%20roads%20conversion%201.png)
 
-3. Click **Convert**, before copying Output type required on the right, selecting the entire contents of the text box before copying all of it at once
+3. Click **Convert**, before copying Output type required on the right, selecting the entire contents of the text box before copying all of it at once.
 ![mobile roads conversion 2](./assets/mobile%20roads%20conversion%202.png)
 
-4. Returning to RapidPlan, **Paste** the converted coordinates into the field on the right
+4. Returning to RapidPlan, **Paste** the converted coordinates into the field on the right.
 ![mobile roads conversion 3](./assets/mobile%20roads%20conversion%203.png)
 
 Once you click **Ok**, the converted coordinates will appear above the corresponding location markers.

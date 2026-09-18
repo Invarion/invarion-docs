@@ -13,11 +13,11 @@ Because they are different, the text tools behave differently to the other tools
 
 This tool creates an **object** out of text that can be manipulated like any other object.
 
-- select the **Text Object** tool from the Text tab
-- place it on the canvas with a click, then a writing cursor will appear in that place
-- type in your content then use the **Properties palette** to make any changes
-- if you wish to change the text content, font style, size or color, or to center the text, click the Text tab in properties and make any necessary adjustments
-- if you wish to paint the background of the text box, click the Box tab in properties and make your adjustments
+- select the **Text Object** tool from the Text tab,
+- place it on the canvas with a click, then a writing cursor will appear in that place,
+- type in your content then use the **Properties palette** to make any changes,
+- if you wish to change the text content, font style, size or color, or to center the text, click the Text tab in properties and make any necessary adjustments,
+- if you wish to paint the background of the text box, click the Box tab in properties and make your adjustments.
 
     ![Text_Object_and_Properties](./assets/text-tool-w-hover.png)
 
@@ -33,10 +33,10 @@ The Text Pair tool operates similar to the regular text tool but with limited ed
 
 ### Use the Text Pair tool
 
-- select the **Text Pair** tool from the Text tab
-- click on your canvas to place the text box and enter your desired text for your Label. (In the example the **Label** is Invarion)
-- enter your desired text for your Value. (Plan 456 is the **Value** in the example)
-- use the **Properties palette** to set the orientation of the text. (Horizontal or Vertical)
+- select the **Text Pair** tool from the Text tab,
+- click on your canvas to place the text box and enter your desired text for your Label. (In the example the **Label** is Invarion),
+- enter your desired text for your Value. (Plan 456 is the **Value** in the example),
+- use the **Properties palette** to set the orientation of the text. (Horizontal or Vertical).
 
     ![Text_Pair_Properties_Palette_and_Outcome](./assets/Text_Pair_Properties_Palette_and_Outcome.png)
 

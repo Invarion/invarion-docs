@@ -22,13 +22,13 @@ When an **intersection object** is selected, Control Points are available to adj
 
 Note the 4 icons at the top of the **Intersection Editor** panel - these can be used to switch between the available editor modes:
 
-- Road properties - adding and editing incoming roads,
+- road properties - adding and editing incoming roads,
 
-- Road extensions - road corners and turn lanes,
+- road extensions - road corners and turn lanes,
 
-- Markings - lane markers, stop lines and flush medians,
+- markings - lane markers, stop lines and flush medians,
 
-- Symbols - crosswalks and lane symbols.
+- symbols - crosswalks and lane symbols.
 
 To add an intersection element, switch to the required category and click one of the add [+] buttons in the panel. This will decorate the intersection with additional [+] buttons showing places where this type of element can be added. The sample below shows the process for adding a turn lane:
 

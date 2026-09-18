@@ -12,11 +12,11 @@ The technique for drawing with these tools varies from object to object. Many of
 
 ## Draw any line or shape
 
-- select the tool from the corresponding tab in the **Tools palette**
-- click to place the first **control point**
-- continue clicking until the necessary number of points are placed and the object is complete
-- right-click to stop drawing
-- right-click again to drop the tool
+- select the tool from the corresponding tab in the **Tools palette**,
+- click to place the first **control point**,
+- continue clicking until the necessary number of points are placed and the object is complete,
+- right-click to stop drawing,
+- right-click again to drop the tool.
 
 ## Auto-align lines and shapes
 
@@ -74,8 +74,8 @@ One of the trickier techniques to master in RapidPlan is the drawing of a Bezier
 
 There are two components of a Bezier curve:
 
-- the center **Control Point** sets the apex of the curve
-- the **Curve Handle** allow you to set the direction and sweep of the curve
+- the center **Control Point** sets the apex of the curve,
+- the **Curve Handle** allow you to set the direction and sweep of the curve.
 
     ![Bezier_with_its_Control_Points_and_Curve_Handles](./assets/Bezier_with_its_Control_Points_and_Curve_Handles.png)
 
@@ -85,13 +85,13 @@ For full details on how to use the Bezier tool, see [Bezier tools](./bezier-tool
 
 There are three arc-based tools in RapidPlan, the **Arc** tool, the **Pie Arc** tool and the **Road Arc** tool. All of these tools are created from a radius, making perfect curves.
 
-**To use an arc tool:**
+**To use an Arc tool:**
 
-- select the necessary arc tool from the **Tools palette**
-- click once to set the radius of the arc
-- the second click is where you draw your arc by moving the cursor in the direction of the arc
-- click to complete the object
-- right-click to drop the tool
+- select the necessary Arc tool from the **Tools palette**,
+- click once to set the radius of the arc,
+- the second click is where you draw your arc by moving the cursor in the direction of the arc,
+- click to complete the object,
+- right-click to drop the tool.
 
 You can also specify numeric values for the radius, start angle and end angle for the arc.
 

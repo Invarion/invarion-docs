@@ -20,11 +20,11 @@ Drawing using the Road tool is very simple. As you move the mouse after you have
 
 ### To draw a Road
 
-- select the **Road** from the **Tools palette**
-- move your mouse to the canvas and click once to start drawing your road
-- move the mouse around the canvas, clicking at each turning point
-- when you have placed your final point, right-click to stop drawing
-- if you don't want to draw another road, right-click again to drop the Road tool
+- select the **Road** from the **Tools palette**,
+- move your mouse to the canvas and click once to start drawing your road,
+- move the mouse around the canvas, clicking at each turning point,
+- when you have placed your final point, right-click to stop drawing,
+- if you don't want to draw another road, right-click again to drop the Road tool.
 
 ### Keep sections straight
 
@@ -34,8 +34,8 @@ A simple trick allows you to draw perfectly straight roads. By holding **Shift**
 
 There are two simple ways to add and remove lanes to roadways:
 
-1. Double-click on the road to be altered to bring up the Quick Edit screen
-2. Select the object and change the number of lanes from the **Properties palette** within the right pane
+1. Double-click on the road to be altered to bring up the Quick Edit screen.
+2. Select the object and change the number of lanes from the **Properties palette** within the right pane.
 
 ![road properties lanes](./assets/Road_Properties_Lanes.png)
 

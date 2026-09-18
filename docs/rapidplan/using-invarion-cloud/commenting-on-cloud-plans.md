@@ -11,7 +11,7 @@ Plans stored in the cloud can have comments pinned to them - useful as a means o
 
 To see or add comments: Simply open a plan and click the **Invarion Cloud Plan Details** button in the top-right of the toolbar, as pictured below:
 
-![invarion cloud plan details toolbar button](./assets/ic-toolbar-comments.png)
+![Invarion Cloud plan details toolbar button](./assets/ic-toolbar-comments.png)
 
 Then click the **Comments** button to toggle to the correct section of the plan details.
 

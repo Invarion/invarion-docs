@@ -14,9 +14,9 @@ Georeferenced aerial imagery is, as the name suggests, paired with data that ind
 
 To import georeferenced images to a plan:
 
-- click Tools > Import > Georeferenced Image
-- find and select the zip folder that houses the image
-- click Open
+- click Tools > Import > Georeferenced Image,
+- find and select the zip folder that houses the image,
+- click Open.
 
 The image will be placed on your plan, matching the bearing, scale, latitude and longitude it was saved in.
 
@@ -45,10 +45,10 @@ Once you've selected the files, scroll up and click the **Next** button. In the 
 
 If you do want to edit or change the order of the **georeferenced image**:
 
-- click the Georeferenced Images layer in the Layers palette, making it your active layer
-- right-click the imported image, then select **Send to Layer**
-- either select an existing normal layer to send it to, or create a new one
-- it can now be edited, moved and re-ordered as you require
+- click the Georeferenced Images layer in the Layers palette, making it your active layer,
+- right-click the imported image, then select **Send to Layer**,
+- either select an existing normal layer to send it to, or create a new one,
+- it can now be edited, moved and re-ordered as you require.
 
 ### Place an image for georeferenced image export
 

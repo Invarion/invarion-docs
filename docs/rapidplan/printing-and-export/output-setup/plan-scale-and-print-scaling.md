@@ -14,11 +14,11 @@ The plan scale describes the scale used while working on the plan. The scale sho
 
 The printable area depends on:
 
-- paper size
-- page orientation
-- page margins
-- print scaling mode
-- the size and proportions of the print region
+- paper size,
+- page orientation,
+- page margins,
+- print scaling mode,
+- the size and proportions of the print region.
 
 If the printable area does not match the print region, RapidPlan may resize the content to fit. For example, a plan created at **1:2000** may show **1:3228** in the print frame after it is fitted to the available page area.
 
@@ -30,9 +30,9 @@ In **Print Options**, use **Print scaling** to control how RapidPlan places the 
 
 RapidPlan provides four modes:
 
-- **No scaling** keeps the content at its current size.
-- **Fit diagram to page** scales the whole diagram to fit the printable page area.
-- **Fit objects to page** scales the plan objects to fit the printable page area.
+- **No scaling** keeps the content at its current size,
+- **Fit diagram to page** scales the whole diagram to fit the printable page area,
+- **Fit objects to page** scales the plan objects to fit the printable page area,
 - **Fixed print scale** prints at a specific scale.
 
 Select **Fixed print scale** when maintaining an exact output scale is more important than automatically fitting all content on the page. Check the **Page preview** to confirm that the required plan content remains inside the printable area.

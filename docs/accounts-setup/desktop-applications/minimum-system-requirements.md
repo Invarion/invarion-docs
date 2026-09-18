@@ -10,16 +10,16 @@ These are the minimum requirements for running Invarion **desktop applications**
 
 ## Hardware requirements
 
-- 64-bit processor
-- 8 GB RAM
-- 4 GB free disk space
+- 64-bit processor,
+- 8 GB RAM,
+- 4 GB free disk space.
 
 These values are a bare minimum. For a comfortable experience when editing complex plans, use a more modern hardware configuration.
 
 ## Software requirements
 
-- Windows 11
-- Invarion Launcher
+- Windows 11,
+- Invarion Launcher.
 
 Install the latest version of the Invarion Launcher before opening RapidPlan or RapidPath. The Launcher installs and updates the Invarion **desktop applications** assigned to your account.
 

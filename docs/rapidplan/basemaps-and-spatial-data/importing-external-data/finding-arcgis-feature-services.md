@@ -22,7 +22,7 @@ This page lists locations where you can find compatible public ArcGIS services t
 | NZTA ArcGIS Portal | https://spatial.nzta.govt.nz/portal/home/ - Search for published Feature Services and datasets. |
 | Esri Australia Hub | https://www.esriaustraliahub.com.au/ - Aggregates datasets from Australian organizations; filter results to Feature Services where required. |
 | Australian Government Spatial Infrastructure Services | https://spatial.infrastructure.gov.au/server/rest/services/Hosted - Contains transportation-related Feature Services including roadworks, traffic counts, rail, ports, and freight data. |
-| Vicmap Transport (Victoria) | https://services-ap1.arcgis.com/P744lA0wf4LlBZ84/arcgis/rest/services/Vicmap_Transport/FeatureServer - Road network and transport infrastructure Feature Service. |
+| VicMap Transport (Victoria) | https://services-ap1.arcgis.com/P744lA0wf4LlBZ84/arcgis/rest/services/Vicmap_Transport/FeatureServer - Road network and transport infrastructure Feature Service. |
 
 ## United States and Canada
 
@@ -46,6 +46,6 @@ This page lists locations where you can find compatible public ArcGIS services t
 
 ## Notes
 
-- when browsing ArcGIS Hub or ArcGIS Online portals, look specifically for **Feature Services** or **Feature Layers**
-- some portals contain multiple service types (Map Services, Feature Services, WMS, etc.). If so, filter search results to **Feature Services** before copying the service URL into RapidPlan
-- transportation-related datasets commonly include roads, traffic counts, roadworks, incidents, speed data, rail infrastructure, transit assets, and administrative boundaries
+- when browsing ArcGIS Hub or ArcGIS Online portals, look specifically for **Feature Services** or **Feature Layers**,
+- some portals contain multiple service types (Map Services, Feature Services, WMS, etc.). If so, filter search results to **Feature Services** before copying the service URL into RapidPlan,
+- transportation-related datasets commonly include roads, traffic counts, roadworks, incidents, speed data, rail infrastructure, transit assets, and administrative boundaries.

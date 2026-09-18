@@ -15,24 +15,24 @@ RapidPlan can export plans to CAD when you need to hand work over to AutoCAD-bas
 
 RapidPlan supports CAD export to:
 
-- `DWG`
-- `DXF`
+- `DWG`,
+- `DXF`.
 
 ## What CAD export is for
 
 Use CAD export when you need to:
 
-- share a **traffic control plan** with CAD users
-- place RapidPlan output into a wider design drawing set
-- preserve georeferenced output for downstream spatial workflows
-- export either worksite drawing content or print-frame content
+- share a **traffic control plan** with CAD users,
+- place RapidPlan output into a wider design drawing set,
+- preserve georeferenced output for downstream spatial workflows,
+- export either worksite drawing content or print-frame content.
 
 ## Modelspace and paperspace
 
 RapidPlan supports both:
 
-- **modelspace** for the main drawing content
-- **paperspace** for print-frame based page layouts
+- **modelspace** for the main drawing content,
+- **paperspace** for print-frame based page layouts.
 
 That means the exported file can represent either the site geometry itself, the prepared print layout, or both depending on how your plan is set up.
 
@@ -44,8 +44,8 @@ To bring CAD data into RapidPlan, see [Import georeferenced CAD](/rapidplan/base
 
 ### Before you begin
 
-- Open or create a RapidPlan plan with a location and basemap.
-- Confirm the coordinate system required by the destination workflow. You may need its EPSG code.
+- open or create a RapidPlan plan with a location and basemap,
+- confirm the coordinate system required by the destination workflow. You may need its EPSG code.
 
 ### Export a georeferenced print region
 
@@ -83,7 +83,7 @@ Use **CAD export** when the recipient needs editable drawing data or spatially a
 
 ## Related articles
 
-- [Spatial data import](/rapidplan/basemaps-and-spatial-data/importing-external-data/spatial-data-import)
+- [Spatial Data Import](/rapidplan/basemaps-and-spatial-data/importing-external-data/spatial-data-import)
 - [Batch print and export](./batch-print-and-export)
 - [Printing plans](./printing-plans)
 - [Georeferenced image export](./georeferenced-image-export)
