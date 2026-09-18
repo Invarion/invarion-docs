@@ -114,7 +114,7 @@ Use these terms consistently.
 | Invarion Launcher | Launcher on first use is acceptable after definition |
 | Invarion Cloud | Cloud on first use only if context is clear |
 
-Use product names exactly:
+Treat product names as proper names. Always use the exact capitalization shown below, regardless of whether the product name appears at the beginning, middle, or end of a sentence:
 
 - RapidPlan
 - RapidPath
@@ -122,6 +122,22 @@ Use product names exactly:
 - RapidPath Online
 - Invarion Cloud
 - Invarion Launcher
+
+### RapidPlan tool names
+
+Treat RapidPlan tool names as proper UI labels. Use the exact capitalization shown below whenever a named tool appears, regardless of whether the name is at the beginning, middle, or end of a sentence. Keep the generic word "tool" lowercase unless it is part of a visible UI label: "Select the **Road** tool" and "Draw the route with the **Road** tool."
+
+- **Roads:** Road, Turn Lane, Arc Road, Roundabout, Road Corner, Road Region, Intersection Editor
+- **Infrastructure:** Train Tracks, Crosswalk, Island, Bicycle Lane, Parking Bay, Sidewalk
+- **Devices:** Delineator, Buffered Delineator, Arrow Board, VMS Board, Lane Status, LUMS Board, Multi-message Sign
+- **Markings:** Lane Marker, Flush Median, Chevron Flush Median, Lane Mask, Road Mask
+- **Zones:** Work Area, Safety Zone
+- **Annotations:** North Arrow, Scale Marker, Legend Box, Manifest Box, Title Box, Number Stamper, Zoomed View Box, Location Marker, QR Code
+- **Markers:** Distance Marker, Combined Distance Marker, Offset Distance Marker, Angle Marker, Area Marker, Combined Offset Distance Marker, Chainage Marker
+- **Lines:** Polyline, Spline, Bezier, Arc, Arrow, Marked Path
+- **Shapes:** Rectangle, Ellipse, Rounded Rectangle, Polygon, Filled Spline, Filled Bezier, Grid, Arc Pie, Cloud Shape
+- **Text:** Text Object, Text Box, Text Pair, Arrow Text, Callout Box, Path Text, Text Table, Hyperlink, Rich Text
+- **Image:** Import Image
 
 ## UI And Action Wording
 
@@ -132,7 +148,7 @@ Use product names exactly:
 - Use "enter" for text fields.
 - Use "open" for files, windows, dialogs, applications, and pages.
 - Use "right-click", "double-click", and "drag" for pointer actions.
-- Do not capitalize generic actions: "right-click the road", not "Right-click the Road".
+- Keep generic actions lowercase, but retain the capitalization of RapidPlan tool names: "right-click the Road", not "Right-click the Road".
 
 ## Structure And Readability
 
