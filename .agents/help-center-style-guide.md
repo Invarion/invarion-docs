@@ -156,8 +156,8 @@ Treat RapidPlan tool names as proper UI labels. Use the exact capitalization sho
 - Keep intros short. Most articles need one or two opening sentences.
 - Prefer short paragraphs of one to three sentences.
 - Split sentences over about 30 words unless the wording would become less clear.
-- Use numbered lists for ordered procedures.
-- Use bullets for unordered options, checks, or requirements.
+- Use numbered lists for ordered procedures. Start each numbered item with an uppercase letter and end it with a period.
+- Use bullets for unordered options, checks, or requirements. Start each bulleted item with a lowercase letter and end it with a comma. End the final item with a period.
 - Include prerequisites before steps when missing setup would block the task.
 - Include the expected result after complex steps.
 - For feature articles, explain what the feature does, when to use it, and how to configure it before covering edge cases.
