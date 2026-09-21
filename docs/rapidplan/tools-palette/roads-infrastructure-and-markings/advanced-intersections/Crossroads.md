@@ -18,14 +18,14 @@ TODO: images withing tables are not supported in Markdown. Refactor this
 
 ## Create the base roads
 
-1. Select the **Road tool** from the Road Tools tab and draw an east west road. Change it to four lanes
+1. Select the **Road tool** from the Road Tools tab and draw an east west road. Change it to four lanes.
 2. With the **Road tool** already in use, draw a north south road that intersects the 4-lane road and change it to a 3-lane road as shown.
 
 ![Crossroad_Intersection_step_1_and_2](./assets/Crossroad_Intersection_step_1_and_2.png)
 
 ## Set the Lane Markings
 
-3. double-click on the east-west road. Select the Lane Markings tab and set marker number 2 to type double. Leave the double lines yellow and change the dashed lanes to white.
+3. Double-click on the east-west road. Select the Lane Markings tab and set marker number 2 to type double. Leave the double lines yellow and change the dashed lanes to white.
 4. For the north-south road, set marker number 2 to solid. Change both these lanes to white.
 5. Using the **Lane Mask** tool from the Markings tab, mask out each of the lines through the intersection.
 6. As we will need to completely change the road markings on the southbound approach, mask them out as well.

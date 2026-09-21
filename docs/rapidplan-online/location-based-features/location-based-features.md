@@ -9,7 +9,7 @@ tags:
 
 RapidPlan Online has two basic location features:
 
-- **Go to my location** - Moves map to your current location.
+- **Go to my location** - Moves map to your current location,
 
 - **Toggle my location marker** - Shows/hides marker of your current location.
 

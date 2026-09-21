@@ -48,9 +48,9 @@ Using the scroll bars like virtually all desktop publishing programs (and virtua
 
 **Select Area to Zoom** to can also be done by:
 
-- Selecting **Select Area to Zoom to** in the zoom toolbar.
-- Click and drag (hold down the mouse button) a box around the area that you wish to magnify.
-- The area that you encapsulate in your zoom region will be shown in full in your drawing window.
+- selecting **Select Area to Zoom to** in the zoom toolbar,
+- click and drag (hold down the mouse button) a box around the area that you wish to magnify,
+- the area that you encapsulate in your zoom region will be shown in full in your drawing window.
 
     ![Zoom_Region](../the-canvas-area/assets/Zoom_Region.png)
 

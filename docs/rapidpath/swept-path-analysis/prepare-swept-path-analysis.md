@@ -40,28 +40,28 @@ To start drawing a Vehicle Path select the vehicle on your plan and click on the
 
 Once you have begun to draw a path two things will appear:
 
-- A **Predicted Movement Area Cloud** - Displayed for your reference, displaying how tight an arch the vehicle can turn in, given the constraints that have been applied.
-- The **Section Details interface** - Details below.
+- a **Predicted Movement Area Cloud** - Displayed for your reference, displaying how tight an arch the vehicle can turn in, given the constraints that have been applied,
+- the **Section Details interface** - Details below.
 
 ### The Section Details interface
 
 When in the process of drawing a path, a special window called **Section Details** will appear with settings for:
 
-- **Speed** - Vehicle speed.
-- **Friction** - Lateral friction factor dependent on the vehicle speed and calculated according to the chosen standard. To set a custom value disable speed and friction dependency by clicking on the link/unlink toggle button on the left and enter the desired value in the field.
+- **Speed** - Vehicle speed,
+- **Friction** - Lateral friction factor dependent on the vehicle speed and calculated according to the chosen standard. To set a custom value disable speed and friction dependency by clicking on the link/unlink toggle button on the left and enter the desired value in the field,
 - **Turn on Stop** - Turning this option on ("True") allows the vehicle to make a stop and turn the front wheels between different sections (at **control points**) of the Vehicle Path.
 
 Information such as:
 
-- **Min radius** - Minimum turning radius (centerline) of the vehicle at the given speed and friction.
-- **Max angle** - Maximum turn angle of the vehicle at the given speed and friction.
+- **Min radius** - Minimum turning radius (centerline) of the vehicle at the given speed and friction,
+- **Max angle** - Maximum turn angle of the vehicle at the given speed and friction,
 - **Max speed** - Maximum speed for the vehicle taking into account standard guidelines, given speed, friction and current **turn radius**.
 
 As well as settings for altering the appearance of the **Predicted Movement Area Cloud**:
 
-- **Show** - Whether the Predicted Movement Area Cloud is visible while drawing.
-- **Outline Color** - Alter the outline of the Cloud.
-- **Color** - Alter the fill color of the Cloud.
+- **Show** - Whether the Predicted Movement Area Cloud is visible while drawing,
+- **Outline Color** - Alter the outline of the Cloud,
+- **Color** - Alter the fill color of the Cloud,
 - **Opacity** - Alter the opacity of the fill color of the Cloud.
 
 ![Sections details window](./images/Sections_details_window.png)
@@ -113,9 +113,9 @@ Changes to a swept path's **Properties** are discussed in the [next section](./s
 
 You can add additional vehicle objects to the path to:
 
-- Better visualize results of your analysis;
-- Check position/behavior of the vehicle and trailers at a specific point along the path; and
-- Start a new analysis from a selected point on the existing path to make multiple connected analyses or different route variants.
+- better visualize results of your analysis,
+- check position/behavior of the vehicle and trailers at a specific point along the path,
+- start a new analysis from a selected point on the existing path to make multiple connected analyses or different route variants.
 
 To add additional vehicles to the path, click on it with the right-click and choose the "Add vehicle" option from the "Vehicle path" sub-menu. Now place the vehicles along the path by clicking with the left mouse button. When finished press the right-click or "Esc" key. These are ordinary vehicle objects that can be moved, edited and even replaced with other vehicles. You can also start a new **swept path analysis** from them.
 

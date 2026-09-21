@@ -21,9 +21,9 @@ Use the RapidPlan section for shared functionality such as:
 
 This is especially relevant for current RapidPath users because shared documentation now covers workflows such as:
 
-- Spatial Data Import for ArcGIS, CAD, KML, and Shapefile data
-- Google and Custom Service basemap providers
-- print-region ordering and output workflows
-- CAD export and **georeferenced image** export
+- Spatial Data Import for ArcGIS, CAD, KML, and Shapefile data,
+- Google and Custom Service basemap providers,
+- print-region ordering and output workflows,
+- CAD export and **georeferenced image** export.
 
 Sign-related functionality is available in RapidPath only when a signs add-on is assigned to your license. See [Signs in RapidPath](/rapidpath/signs-in-rapidpath) for details.

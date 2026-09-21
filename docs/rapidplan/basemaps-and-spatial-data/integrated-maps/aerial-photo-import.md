@@ -15,7 +15,7 @@ Imported aerial photos are placed on an **Aerial Photos** layer so they stay beh
 
 ## Import aerial photos for a print region
 
-1. right-click the print region icon.
+1. Right-click the print region icon.
 2. Select **Import Aerial Photos**.
 3. Turn off the live base map preview if you want to check the printable imagery without the preview underneath.
 

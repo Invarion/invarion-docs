@@ -15,12 +15,12 @@ Use **Launcher Diagnostics** for non-trivial technical issues, especially when t
 
 A diagnostic report can include:
 
-- operating system and environment details
-- Launcher settings and connectivity checks
-- accessible account and license information
-- Launcher, RapidPlan, and RapidPath logs collected during the session
-- crash logs
-- optional files and comments added by the user
+- operating system and environment details,
+- launcher settings and connectivity checks,
+- accessible account and license information,
+- launcher, RapidPlan, and RapidPath logs collected during the session,
+- crash logs,
+- optional files and comments added by the user.
 
 The tool creates a single zip file that can be sent to Invarion **Technical Support**.
 

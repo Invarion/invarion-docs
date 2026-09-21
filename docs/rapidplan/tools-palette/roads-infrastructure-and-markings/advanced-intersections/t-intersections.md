@@ -43,7 +43,7 @@ T-intersections are the easiest of intersections to create in RapidPlan because 
 ## Add the stop bar and turning arrows
 
 8. Select the **Rectangle** tool from the Shapes tab in the **Tools palette** and draw a rectangle for a stop bar. It pays to zoom right in when doing this.
-9. double-click on your drawn rectangle and change the **Stroke** color to white.
+9. Double-click on your drawn rectangle and change the **Stroke** color to white.
 
     ![T-intersection_Steps_8_and_9](./assets/T-intersection_Steps_8_and_9.png)
 

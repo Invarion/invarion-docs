@@ -15,7 +15,7 @@ Objects in the same layer are drawn in an order, often called their z-order. Cha
 To change object order with the context menu:
 
 1. Select the object.
-2. right-click the object.
+2. Right-click the object.
 3. Open **Arrange**.
 4. Choose **Bring to front**, **Bring forward**, **Send backward**, or **Send to back**.
 
@@ -23,9 +23,9 @@ To change object order with the context menu:
 
 You can also use keyboard shortcuts:
 
-- **Alt + Home** brings the object to the front.
-- **Alt + Page Up** brings the object one step forward.
-- **Alt + Page Down** sends the object one step backward.
+- **Alt + Home** brings the object to the front,
+- **Alt + Page Up** brings the object one step forward,
+- **Alt + Page Down** sends the object one step backward,
 - **Alt + End** sends the object to the back.
 
 ## Layer scope

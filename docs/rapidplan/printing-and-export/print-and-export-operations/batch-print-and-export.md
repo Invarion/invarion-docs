@@ -16,9 +16,9 @@ Open **File** > **Print** > **Batch Print** to add files or open plans, choose r
 
 For each added plan, RapidPlan lets you choose whether to print:
 
-- the active region only
-- all regions on the plan
-- selected regions only
+- the active region only,
+- all regions on the plan,
+- selected regions only.
 
 ![Print_Active_Region](../assets/Print_Active_Region.png)
 
@@ -32,11 +32,11 @@ Use **batch export** when you need files rather than printer output.
 
 Batch export supports workflows such as:
 
-- exporting multiple regions
-- exporting multiple plans
-- exporting a separate PDF for each stage
-- using common page numbering or separate numbering per output file
-- saving reusable export configurations
+- exporting multiple regions,
+- exporting multiple plans,
+- exporting a separate PDF for each stage,
+- using common page numbering or separate numbering per output file,
+- saving reusable export configurations.
 
 ## Region order
 

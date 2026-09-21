@@ -35,9 +35,9 @@ Once your road widths are adequate, you may need to make some manual adjustments
 
 ![Changing_Road_Opacity_to_see_Satellite_Image_Below](../assets/Changing_Road_Opacity_to_see_Satellite_Image_Below.jpg)
 
-2. You may need to adjust the roads by adding **road corners** or **turning lanes**, etc. Make sure to copy the **style** of the road to each road tool by copying the style from the main road, selecting the new object and using **Ctrl + Shift + V** to paste the style.
+2. You may need to adjust the roads by adding **road corners** or **turning lanes**, etc. Make sure to copy the **style** of the road to each Road tool by copying the style from the main road, selecting the new object and using **Ctrl + Shift + V** to paste the style.
 
- *For more information of how to use Road tools, see [The Road Tool](/rapidplan/tools-palette/roads-infrastructure-and-markings/road-tool/drawing-a-road) and [Other Road Tools](/rapidplan/tools-palette/roads-infrastructure-and-markings/infrastructure-and-markings/other-road-creation-tools).*
+ *For more information of how to use Road tools, see [The Road tool](/rapidplan/tools-palette/roads-infrastructure-and-markings/road-tool/drawing-a-road) and [Other Road Tools](/rapidplan/tools-palette/roads-infrastructure-and-markings/infrastructure-and-markings/other-road-creation-tools).*
 
  In the image below, the provider has been changed to the Omniscale, so you can see the road corners are the same style as the road.
 

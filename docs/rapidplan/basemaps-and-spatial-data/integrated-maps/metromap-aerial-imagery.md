@@ -35,9 +35,9 @@ Make sure you are running the latest version of RapidPlan, then follow these ste
 
 **Please note**: If you have followed the steps above and the background shows "Connection error" or "Out of range", make sure that:
 
-- You are running the latest version of RapidPlan.
-- You copied the API key correctly.
-- Your plan points to a location covered by MetroMap.
+- you are running the latest version of RapidPlan,
+- you copied the API key correctly,
+- your plan points to a location covered by MetroMap.
 
 For ongoing connection issues, contact support@metromap.com.au.
 

@@ -12,10 +12,10 @@ RapidPlan supports several different import workflows, so the supported formats 
 
 For regular placed images, RapidPlan supports common formats such as:
 
-- `BMP`
-- `GIF`
-- `JPEG`
-- `PNG`
+- `BMP`,
+- `GIF`,
+- `JPEG`,
+- `PNG`.
 
 Use the **Image** tool from the **Tools palette** to place these on a plan.
 
@@ -25,15 +25,15 @@ For mapped or spatially referenced source data, use **Tools** > **Import** > **S
 
 That workflow supports:
 
-- `DWG`
-- `DXF`
-- `KML`
-- `KMZ`
-- `SHP`
+- `DWG`,
+- `DXF`,
+- `KML`,
+- `KMZ`,
+- `SHP`.
 
 ## Georeferenced imagery
 
 RapidPlan can also work with georeferenced imagery in dedicated workflows. See:
 
-- [Georeferenced image import](/rapidplan/basemaps-and-spatial-data/importing-external-data/georeferenced-image-import)
+- [Importing georeferenced imagery](/rapidplan/basemaps-and-spatial-data/importing-external-data/georeferenced-image-import)
 - [Georeferenced image export](/rapidplan/printing-and-export/print-and-export-operations/georeferenced-image-export)

@@ -5,19 +5,19 @@ tags:
   - markers-devices
 
 ---
-# Zoomed view box tool
+# Zoomed View Box tool
 
 The **Zoomed View Box** tool allows you to create an inset that presents a detailed view of a specific section in a larger plan.
 
 ## Create a zoomed view box
 
-1. Select the **Zoomed View Box** tool from the Annotations tab in the **Tools palette**
+1. Select the **Zoomed View Box** tool from the Annotations tab in the **Tools palette**.
 
-2. Select the area you want to enlarge
+2. Select the area you want to enlarge.
 
-3. Set the place where you want to put zoomed box
+3. Set the place where you want to put zoomed box.
 
-4. Set the size of box
+4. Set the size of box.
 
     ![Zoomed_View_Box](./assets/Zoomed_View_Box.png)
 

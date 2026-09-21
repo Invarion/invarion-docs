@@ -114,7 +114,7 @@ Use these terms consistently.
 | Invarion Launcher | Launcher on first use is acceptable after definition |
 | Invarion Cloud | Cloud on first use only if context is clear |
 
-Use product names exactly:
+Treat product names as proper names. Always use the exact capitalization shown below, regardless of whether the product name appears at the beginning, middle, or end of a sentence:
 
 - RapidPlan
 - RapidPath
@@ -123,16 +123,64 @@ Use product names exactly:
 - Invarion Cloud
 - Invarion Launcher
 
+### Map provider names
+
+Treat map provider names as proper names and preserve their established capitalization wherever they appear, including in bulleted lists. Use these exact names:
+
+- Omniscale
+- Google Roadmap
+- Google Satellite
+- Microsoft Imagery
+- Microsoft Hybrid
+- ArcGIS World
+- ArcGIS Hybrid
+- NearMap
+- MetroMap
+- VicMap Cartographic
+- VicMap Satellite
+- VicMap Hybrid
+- NSW Base Map
+- NSW Imagery
+- QLD Cartographic
+- QLD Satellite
+- Tasmania State Orthophoto
+- LINZ Aerial Imagery
+- DroneDeploy
+- Custom Service
+
+When referring to the ArcGIS platform or its services without a specific provider suffix, use **ArcGIS**.
+
+### RapidPlan feature names
+
+Treat RapidPlan feature names as proper UI labels and preserve their established capitalization wherever they appear, including in headings and bulleted lists. Use **Spatial Data Import**.
+
+### RapidPlan tool names
+
+Treat RapidPlan tool names as proper UI labels. Use the exact capitalization shown below whenever a named tool appears, regardless of whether the name is at the beginning, middle, or end of a sentence. Keep the generic word "tool" lowercase unless it is part of a visible UI label: "Select the **Road** tool" and "Draw the route with the **Road** tool."
+
+- **Roads:** Road, Turn Lane, Arc Road, Roundabout, Road Corner, Road Region, Intersection Editor
+- **Infrastructure:** Train Tracks, Crosswalk, Island, Bicycle Lane, Parking Bay, Sidewalk
+- **Devices:** Delineator, Buffered Delineator, Arrow Board, VMS Board, Lane Status, LUMS Board, Multi-message Sign
+- **Markings:** Lane Marker, Flush Median, Chevron Flush Median, Lane Mask, Road Mask
+- **Zones:** Work Area, Safety Zone
+- **Annotations:** North Arrow, Scale Marker, Legend Box, Manifest Box, Title Box, Number Stamper, Zoomed View Box, Location Marker, QR Code
+- **Markers:** Distance Marker, Combined Distance Marker, Offset Distance Marker, Angle Marker, Area Marker, Combined Offset Distance Marker, Chainage Marker
+- **Lines:** Polyline, Spline, Bezier, Arc, Arrow, Marked Path
+- **Shapes:** Rectangle, Ellipse, Rounded Rectangle, Polygon, Filled Spline, Filled Bezier, Grid, Arc Pie, Cloud Shape
+- **Text:** Text Object, Text Box, Text Pair, Arrow Text, Callout Box, Path Text, Text Table, Hyperlink, Rich Text
+- **Image:** Import Image
+
 ## UI And Action Wording
 
 - Bold visible UI labels: select **Create**, open **Settings**, choose **New plan**.
+- Treat named features, workflows, plan types, and product options as proper UI labels. Preserve their established capitalization wherever they appear, including at the beginning of bulleted-list items. In the **New Plan Wizard**, use **Blank Canvas**, **Base Map**, **Static Templates**, **Auto Template**, and **From PDF**.
 - Use `>` for menu paths: **File** > **New Plan Wizard**.
 - Use keyboard shortcuts as bold text: **Ctrl+Z**.
 - Use "select" for buttons, menu items, checkboxes, and tools.
 - Use "enter" for text fields.
 - Use "open" for files, windows, dialogs, applications, and pages.
 - Use "right-click", "double-click", and "drag" for pointer actions.
-- Do not capitalize generic actions: "right-click the road", not "Right-click the Road".
+- Keep generic actions lowercase, but retain the capitalization of RapidPlan tool names: "right-click the Road", not "Right-click the Road".
 
 ## Structure And Readability
 
@@ -140,8 +188,9 @@ Use product names exactly:
 - Keep intros short. Most articles need one or two opening sentences.
 - Prefer short paragraphs of one to three sentences.
 - Split sentences over about 30 words unless the wording would become less clear.
-- Use numbered lists for ordered procedures.
-- Use bullets for unordered options, checks, or requirements.
+- Use numbered lists for ordered procedures. Start each numbered item with an uppercase letter and end it with a period.
+- Use bullets for unordered options, checks, or requirements. Start each bulleted item with a lowercase letter and end it with a comma. End the final item with a period. This lowercase rule applies only to generic wording; preserve the established capitalization of product names, feature names, tool names, workflows, plan types, and other named UI options.
+- For navigation lists made up only of links to other articles or sections, use each destination's title as the link label and preserve its exact capitalization. Do not add punctuation at the end of these list items. Do not apply the general lowercase and punctuation rule for bulleted lists to these navigation lists.
 - Include prerequisites before steps when missing setup would block the task.
 - Include the expected result after complex steps.
 - For feature articles, explain what the feature does, when to use it, and how to configure it before covering edge cases.

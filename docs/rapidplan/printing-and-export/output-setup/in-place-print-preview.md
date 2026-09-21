@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 3
+sidebar_position: 4
 tags:
   - print-export
 
@@ -17,4 +17,3 @@ On plans with multiple **print regions**, only one preview can be active at the 
 ![In-place_print_preview.png](../assets/In-place_print_preview.png)
 
 **Note:** even if your plan or print region doesn't have a print frame, you can still use the in-place print preview to see how your print region will be laid out on the printout page.
-

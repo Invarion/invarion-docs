@@ -10,18 +10,18 @@ Print regions define what part of a plan will be printed or exported on each pag
 
 They are one of the core output tools in RapidPlan, especially when:
 
-- a single plan needs several pages
-- different parts of a large site need separate sheets
-- the same plan needs alternative output areas or page orientations
+- a single plan needs several pages,
+- different parts of a large site need separate sheets,
+- the same plan needs alternative output areas or page orientations.
 
 ![Print_Region](../../the-canvas-area/assets/Print_Region.png)
 
 ## Add a print region
 
-Use the print region tool on the toolbar to:
+Use the Print Region tool on the toolbar to:
 
-- draw a custom region by dragging on the plan
-- choose from preset region sizes from the tool's dropdown
+- draw a custom region by dragging on the plan,
+- choose from preset region sizes from the tool's dropdown.
 
 ![Add_Print_Region](../../the-canvas-area/assets/Add_Print_Region.png)
 
@@ -33,9 +33,9 @@ You can add multiple **print regions** to the same plan.
 
 This is useful for:
 
-- long roads or corridors
-- large sites with several work areas
-- one plan that needs different sheets for different audiences
+- long roads or corridors,
+- large sites with several work areas,
+- one plan that needs different sheets for different audiences.
 
 Each region can be activated, resized, moved, rotated, styled, printed, or exported independently.
 
@@ -53,9 +53,9 @@ This is generally better than relying on manual names or page numbers.
 
 Print regions can also carry comments and naming information that help with:
 
-- organizing output
-- communicating page-specific notes
-- filling text variables in print or export layouts
+- organizing output,
+- communicating page-specific notes,
+- filling text variables in print or export layouts.
 
 ## Rotate print regions
 
@@ -63,14 +63,14 @@ Each print region can have its own bearing. This is useful on curved or angled s
 
 You can rotate a region by:
 
-- selecting the region and dragging its **rotation handles**
-- entering an exact bearing in the **Properties palette**
+- selecting the region and dragging its **rotation handles**,
+- entering an exact bearing in the **Properties palette**.
 
 ![Rotating_print_regions](../../the-canvas-area/assets/Rotating_print_regions.png)
 
 ## Related tools
 
-- Use [Print frames](./print-frames) for titleboxes and reusable page layout.
-- Use [In-place print preview](./in-place-print-preview) to check how plan content sits on the page.
-- Use [Printing plans](../print-and-export-operations/printing-plans) for single-plan and **batch print** workflows.
+- use [Print frames](./print-frames) for titleboxes and reusable page layout,
+- use [In-place print preview](./in-place-print-preview) to check how plan content sits on the page,
+- use [Printing plans](../print-and-export-operations/printing-plans) for single-plan and **batch print** workflows.
 
