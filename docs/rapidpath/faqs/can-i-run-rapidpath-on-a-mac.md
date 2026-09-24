@@ -1,10 +1,11 @@
 ---
-
-sidebar_position: 11
-
+sidebar_position: .4
 ---
+
 # Can I run RapidPath on a Mac?
 
-RapidPath can run on a Mac with applications like **Parallels**, **VMWare**, or **Boot Camp**. If you buy RapidPath for your Mac and aren’t fully satisfied with running it through VMWare or one of the other options, we do offer a 14-day money back guarantee. Give it a try!
+RapidPath can run on a Mac with applications like **Parallels**, **VMWare**, or **Boot Camp**.
 
-Alternatively, sign up for a free trial of [RapidPath Online](https://invarion.com/au/products/rapidpath-online/) and [rapidpath Online](https://invarion.com/products/rapidpath-online) if required.
+If you buy RapidPath for your Mac and are not fully satisfied with running it through a Windows environment, we offer a 14-day money back guarantee.
+
+Alternatively, see [RapidPath Online](https://invarion.com/products/rapidpath-online/).

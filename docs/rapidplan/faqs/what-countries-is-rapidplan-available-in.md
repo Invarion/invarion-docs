@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 1
+tags:
+  - licensing
 
 ---
 # What countries is RapidPlan available in?
@@ -51,6 +53,6 @@ RapidPlan is currently available in the following countries. Each country versio
         -Papua New Guinea
         -Solomon Islands
 
- **South America**  
+ **South America**
         -Chile
         -Colombia

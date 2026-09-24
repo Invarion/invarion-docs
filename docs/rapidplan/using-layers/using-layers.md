@@ -1,9 +1,11 @@
 ---
 
 sidebar_position: 1
+tags:
+  - layers-stages
 
 ---
-# Using Layers
+# Using layers
 
 *Many schemes are on just one road base...*
 
@@ -16,7 +18,7 @@ By default, every plan starts with only one layer; the Background. Unlike all ot
 
 ## Accessing the Layer Tools
 
-The layer tools are all housed on the Layers palette. From here you can select each of the layer functions and rename any layers that you need to. If the Layers palette is not visible just below the Properties palette, simply click on **View** > **Layers List** box from the main toolbar.
+The layer tools are all housed on the **Layers palette**. From here you can select each of the layer functions and rename any layers that you need to. If the **Layers palette** is not visible just below the **Properties palette**, simply select **View** > **Layers List** box from the main toolbar.
 
 ![The_Layers_Palette_details](./assets/The_Layers_Palette_details.png)
 
@@ -26,14 +28,14 @@ The layer tools are all housed on the Layers palette. From here you can select e
 
 There are 7 general layer functions that you will use;
 
-- Adding
-- Removing
-- Flattening
-- Hiding/Showing
-- Locking/Unlocking
-- Moving Layers
-- Copying
-- Color Mode
+- adding,
+- removing,
+- flattening,
+- hiding/Showing,
+- locking/Unlocking,
+- moving Layers,
+- copying,
+- color Mode.
 
 ### Adding Layers
 
@@ -41,7 +43,7 @@ Adding a layer is as simple as clicking the **Add Layer** button on the toolbar.
 
 You will see a new layer name appear in the Layer selector box on the main toolbar. Anything you now draw will be placed on that new layer. You will also notice that you can no longer click on any of the items stored on other layers.
 
-This layer characteristic is especially useful if your background is complicated and has many component pieces on it (such as lane markings/corners/etc.) and you need to drop traffic control elements over the top. It means that you wont inadvertently pick up road structures for instance, when you are trying to alter a placed cone or barricade line.
+This layer characteristic is especially useful if your background is complicated and has many component pieces on it (such as **lane markings**/corners/etc.) and you need to drop traffic control elements over the top. It means that you wont inadvertently pick up road structures for instance, when you are trying to alter a placed cone or barricade line.
 
 ### Removing Layers
 
@@ -63,24 +65,24 @@ Sometimes, when you are finished drawing a layer you might want to lock it, to e
 
 ### Moving Layers
 
-Within the Layers palette, you can move selected layers up or down for easier access or you have the option of clicking on Send to layer from the context menu which will be discussed later.
+Within the **Layers palette**, you can move selected layers up or down for easier access or you have the option of clicking on Send to layer from the context menu which will be discussed later.
 
 ### Copying Layers
 
-**Right clicking** on a layer will show options to **Copy** a layer, allowing you to **Right click** > **Paste** the layer.
-Alternatively, you may **Right click** on a layer and **Duplicate** it to shorten the process.
+right-clicking on a layer will show options to **Copy** a layer, allowing you to right-click > **Paste** the layer.
+Alternatively, you may right-click on a layer and **Duplicate** it to shorten the process.
 
-You may also **Right click** in unoccupied space in the **Layers Palette**, in order to **Copy Visible Layers**. Doing this will allow you to then **Paste** all visible layers, potentially duplicating many layers at once.
+You may also right-click in unoccupied space in the **Layers palette**, in order to **Copy Visible Layers**. Doing this will allow you to then **Paste** all visible layers, potentially duplicating many layers at once.
 
-As a sidenote, you may also **Right click** > **Rotate Objects** on a layer. Doing so will rotate the objects around the central point of the plan, marked by the red cross.
+As a sidenote, you may also right-click > **Rotate Objects** on a layer. Doing so will rotate the objects around the central point of the plan, marked by the red cross.
 
 ### Color Mode
 
-You can select each separate layer to be in color mode or fax mode by clicking the **Toggle Layer Color** Mode button.
+You can select each separate layer to be in color mode or **fax mode** by clicking the **Toggle Layer Color** Mode button.
 
 ![The_Toggle_Layer_Color_Icon](./assets/The_Toggle_Layer_Color_Icon.png)
 
-**Note**: Layers can be copied, duplicated and objects within the layer can be rotated at an angle specified by the user. Layers can also be copied to another plan. These actions can be done by **Right clicking** on the layer name and selecting from the list of options that appear.
+**Note**: Layers can be copied, duplicated and objects within the layer can be rotated at an angle specified by the user. Layers can also be copied to another plan. These actions can be done by right-clicking on the layer name and selecting from the list of options that appear.
 
 ## Renaming Layers
 
@@ -90,6 +92,6 @@ Renaming layers is useful because it allows you to better organize your file aro
 
 **To rename a layer in your plan:**
 
-- **Double click** on the desired layer from the Layer Selector (or **Right click** and select **Rename**). The name of the layer is automatically highlighted, ready for change.
-- Click inside the layer selector box and type in the new name for your layer.
-- Either press Enter or simply click back out onto the canvas. Your new name is saved.
+- double-click on the desired layer from the Layer Selector (or right-click and select **Rename**). The name of the layer is automatically highlighted, ready for change,
+- click inside the layer selector box and type in the new name for your layer,
+- either press Enter or simply click back out onto the canvas. Your new name is saved.

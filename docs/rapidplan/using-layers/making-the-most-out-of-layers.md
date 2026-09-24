@@ -1,17 +1,19 @@
 ---
 
 sidebar_position: 4
+tags:
+  - layers-stages
 
 ---
-# Making the Most Out of Layers
+# Making the most out of layers
 
 Users who master using layers will find themselves considerably more productive than those who do not. As described earlier, the main (but not sole) advantage offered by layers is the ability to produce multiple plans on the same road base map, but more experienced users will figure out more productive ways to utilize layer functionality.
 
-## General Guidelines When Using Layers
+## General guidelines for layers
 
 Here are a few general guidelines that will help you make the most out of the layer functions.
 
-### Always Keep Your Roadway the Background
+### Keep your roadway in the background
 
 Keeping your road on the background is almost always the most sensible place. Reordering layers in RapidPlan is possible as described above, but keeping your roads on the background will be easiest since whichever layer is listed at the top of the list will always be drawn on the canvas first - all other items on following layers are drawn in subsequent order. This means that unless you want your signs and devices to appear under the road, it should be on the bottom layer.
 
@@ -34,12 +36,12 @@ The benefits of this are obvious; one file with each stage of the works neatly p
 
 Two weeks after drawing the plan you will probably remember what each of the 6 schemes in your plan was designed for, but what about a year down the track when you are re-excavating the same site? Chances are you might have forgotten (or another user is retrieving the plans from an old site). So name your layers appropriately. Some simple, self-explanatory names might be:
 
-- Stage 1 lane closure for valve removal
-- 4 week advance notice of closure
-- Footpath closure for re-concreting
-- Aftercare signage before spray seal
+- stage 1 lane closure for valve removal,
+- 4 week advance notice of closure,
+- footpath closure for re-concreting,
+- aftercare signage before spray seal.
 
-### Don't have different Road Sections on different Layers
+### Do not place different road sections on different layers
 
 It's never wise to have more than one road section in the same file. Doing so is likely to lead to confusion, when you have say 4 road sections, with 3 traffic schemes each. Unless you name your layers very carefully, you are likely to loose track of which layer scheme corresponds to which road base.
 
@@ -57,9 +59,9 @@ The only objects that change on the plan are the **Merge Right** and **Merge Lef
 
 Therefore, it would be wise to:
 
-- Create the road and common signs on the background
-- Place the left lane specific items on Layer 1
-- Place the right lane specific items on Layer 2
+- create the road and common signs on the background,
+- place the left lane specific items on Layer 1,
+- place the right lane specific items on Layer 2.
 
 ![Suggested_Layout_for_the_three_Layers_on_the_Plan](./assets/Suggested_Layout_for_the_three_Layers_on_the_Plan.png)
 

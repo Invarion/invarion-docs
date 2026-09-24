@@ -6,4 +6,4 @@ hide_title: true
 
 ## RapidPath Weekly changelog
 
-**NOTE: RapidPath shares its Weekly channel with RapidPlan, see changelog [HERE](/rapidplan/release-notes/weekly/).**
+**Note:** RapidPath shares its Weekly channel with RapidPlan. See the [RapidPlan Weekly changelog](/rapidplan/release-notes/weekly).

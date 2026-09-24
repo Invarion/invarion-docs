@@ -1,15 +1,17 @@
 ---
 
 sidebar_position: 4
+tags:
+  - cloud-plans
 
 ---
-# Commenting on Cloud Plans
+# Commenting on cloud plans
 
-Plans stored in the cloud can have comments pinned to them - useful as a means of writing notes for yourself or to other [collaborating users](./sharing-cloud-plans.md).
+Plans stored in the cloud can have comments pinned to them - useful as a means of writing notes for yourself or to other [collaborating users](./sharing-cloud-plans).
 
 To see or add comments: Simply open a plan and click the **Invarion Cloud Plan Details** button in the top-right of the toolbar, as pictured below:
 
-![invarion cloud plan details toolbar button](./assets/ic-toolbar-comments.png)
+![Invarion Cloud plan details toolbar button](./assets/ic-toolbar-comments.png)
 
 Then click the **Comments** button to toggle to the correct section of the plan details.
 
@@ -22,3 +24,9 @@ You can see that there are two comments in the example above:
 The comment reading **"Hello!"** is visible, and there is an option to reply.<br />Using the **Actions button**, I, as the author of the comment can also *Edit*, *Delete*, or *Resolve* the comment.
 
 The other comment is not visible currently as it has been marked as **Resolved**.<br />This indicates that the issue the comment was referring to has indeed been resolved, and can therefore be put out of sight and out of mind.<br />If needed, clicking **"Resolved Threads"** will reveal resolved comments.
+
+## Location comments
+
+Cloud comments can also be attached to specific plan locations. Use location comments when feedback needs to point at an exact place on the plan, such as a worksite risk, a sign placement issue, or a requested adjustment to a particular layout area.
+
+Location comments support threaded replies and can be marked as resolved when the issue has been handled.

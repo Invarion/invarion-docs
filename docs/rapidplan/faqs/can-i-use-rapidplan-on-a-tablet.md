@@ -1,6 +1,8 @@
 ---
 
 sidebar_position: 12
+tags:
+  - mobile
 
 ---
 # Can I use RapidPlan on a tablet?

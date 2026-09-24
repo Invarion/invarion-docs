@@ -40,15 +40,23 @@ const config = {
       }),
     ],
   ],
-  // plugins: [require.resolve('docusaurus-lunr-search')],
+  plugins: [
+    [
+      require.resolve('docusaurus-lunr-search'),
+      {
+        maxHits: '8',
+        highlightResult: true,
+      },
+    ],
+  ],
   customFields: {
     gettingStartedLinks: [
       {
-        to: '/rapidplan/installation-preferences-and-adminstration/the-invarion-launcher',
-        text: 'Downloading the Invarion Launcher',
+        to: '/accounts-setup/desktop-applications/install-and-use-the-invarion-launcher',
+        text: 'Install the Invarion Launcher',
       },
       {
-        to: '/rapidplan-online/the-invarion-cloud/invarion-cloud-and-its-layout',
+        to: '/rapidplan-online/the-invarion-cloud/invarion-cloud-layout',
         text: 'Using the Invarion Cloud',
       },
       {
@@ -56,8 +64,8 @@ const config = {
         text: 'The RapidPlan Online Workspace',
       },
       {
-        to: '/rapidplan/integrated-mapping/accessing-integrated-mapping',
-        text: 'Accessing Integrated Mapping',
+        to: '/rapidplan/basemaps-and-spatial-data/integrated-maps/integrated-map-providers',
+        text: 'Integrated map providers',
       },
     ],
     faqsLinks: [
@@ -77,33 +85,33 @@ const config = {
     docsLinks: [
       {
         to: '/rapidplan/Welcome',
-        text: 'RP',
+        text: 'RapidPlan',
       },
       {
         to: '/rapidplan-online/Welcome',
-        text: 'RO',
+        text: 'RapidPlan Online',
       },
       {
         to: '/rapidpath/Welcome',
-        text: 'RA',
+        text: 'RapidPath',
       },
-      { to: 'rapidpath-online/Welcome', text: 'RAO' },
+      { to: '/rapidpath-online/Welcome', text: 'RapidPath Online' },
     ],
     accountManagementLinks: [
       {
-        to: '/account-management/managing-licenses',
-        text: 'Managing Your Subscriptions',
+        to: '/accounts-setup/account-management/manage-licenses-and-add-ons',
+        text: 'Managing Licenses and Add-ons',
       },
       {
-        to: '/account-management/managing-company-accounts',
+        to: '/accounts-setup/account-management/manage-company-accounts',
         text: 'Managing Users',
       },
       {
-        to: '/account-management/buying-a-subscription',
+        to: '/accounts-setup/account-management/buy-a-subscription',
         text: 'Purchasing New Licenses',
       },
       {
-        to: '/account-management/updating-your-billing-information',
+        to: '/accounts-setup/account-management/update-your-billing-information',
         text: 'Updating Your Billing Information',
       },
     ],
@@ -113,7 +121,7 @@ const config = {
         text: 'Release Notes - RapidPlan',
       },
       {
-        to: '/rapidplan-online/release-notes/release-notes-rapidplan-online',
+        to: '/rapidplan-online/release-notes/',
         text: 'Release Notes - RapidPlan Online',
       },
       {
@@ -121,7 +129,7 @@ const config = {
         text: 'Release Notes - RapidPath',
       },
       {
-        to: '/rapidpath-online/release-notes/release-notes-rapidpath-online',
+        to: '/rapidpath-online/release-notes/',
         text: 'Release Notes - RapidPath Online',
       },
     ],
@@ -138,65 +146,55 @@ const config = {
         },
       ],
       navbar: {
+        title: 'Invarion Help Center',
         logo: {
           alt: 'Invarion logo',
-          src: 'img/logo.svg',
-          srcDark: 'img/logo-dark.svg',
-          href: 'https://invarion.com/',
+          src: 'img/help-center-logo.png',
+          srcDark: 'img/help-center-logo.png',
+          href: '/',
+          width: 32,
+          height: 32,
         },
         items: [
           {
             position: 'left',
-            label: 'Help Center',
-            to: '/',
-            className: 'text-black',
+            label: 'RapidPlan',
+            to: '/rapidplan/Welcome',
+            activeBaseRegex: '^/rapidplan(?:/|$)',
+            className: 'helpCenterSectionLink',
           },
           {
-            type: 'dropdown',
-            label: 'Sections',
             position: 'left',
-            items: [
-              {
-                type: 'doc',
-                label: 'RapidPlan',
-                docId: 'rapidplan/Welcome',
-              },
-              {
-                type: 'doc',
-                label: 'RapidPath',
-                docId: 'rapidpath/Welcome',
-              },
-              {
-                type: 'doc',
-                label: 'RapidPlan Online',
-                docId: 'rapidplan-online/Welcome',
-              },
-              {
-                type: 'doc',
-                label: 'RapidPath Online',
-                docId: 'rapidpath-online/Welcome',
-              },
-              {
-                type: 'doc',
-                label: 'Account Management',
-                docId: 'account-management/Welcome',
-              },
-            ],
+            label: 'RapidPath',
+            to: '/rapidpath/Welcome',
+            activeBaseRegex: '^/rapidpath(?:/|$)',
+            className: 'helpCenterSectionLink',
+          },
+          {
+            position: 'left',
+            label: 'RapidPlan Online',
+            to: '/rapidplan-online/Welcome',
+            activeBaseRegex: '^/rapidplan-online(?:/|$)',
+            className: 'helpCenterSectionLink',
+          },
+          {
+            position: 'left',
+            label: 'RapidPath Online',
+            to: '/rapidpath-online/Welcome',
+            activeBaseRegex: '^/rapidpath-online(?:/|$)',
+            className: 'helpCenterSectionLink',
+          },
+          {
+            position: 'left',
+            label: 'Accounts & Setup',
+            to: '/accounts-setup/Welcome',
+            activeBaseRegex: '^/accounts-setup(?:/|$)',
+            className: 'helpCenterSectionLink',
           },
           {
             position: 'right',
-            label: 'Book a demo',
-            to: 'https://invarion.com/contact/',
-          },
-          {
-            position: 'right',
-            label: 'Contact Support',
-            to: 'https://invarion.com/support/ ',
-          },
-          {
-            position: 'right',
-            label: 'Sign up',
-            to: 'https://accounts.invarion.com/manage/my-account',
+            label: 'Support',
+            to: 'https://invarion.com/support/',
           },
         ],
       },
@@ -206,24 +204,24 @@ const config = {
             title: 'Company',
             items: [
               {
+                label: 'Home (invarion.com)',
+                href: 'https://invarion.com/',
+              },
+              {
                 label: 'About Us',
-                to: 'https://invarion.com/about/',
-                target: '_self',
+                href: 'https://invarion.com/about/',
               },
               {
                 label: 'Our History',
-                to: 'https://invarion.com/history/',
-                target: '_self',
+                href: 'https://invarion.com/history/',
               },
               {
                 label: 'Our Guarantee',
-                to: 'https://invarion.com/guarantee/',
-                target: '_self',
+                href: 'https://invarion.com/guarantee/',
               },
               {
                 label: 'Blog',
-                href: 'https://invarion.com/blog/',
-                target: '_self',
+                href: 'https://blog.invarion.com/',
               },
             ],
           },
@@ -233,22 +231,18 @@ const config = {
               {
                 label: 'RapidPlan',
                 href: 'https://invarion.com/products/rapidplan/',
-                target: '_self',
               },
               {
                 label: 'RapidPlan Online',
-                href: 'https://invarion.com/products/rapidplan-online/',
-                target: '_self',
+                href: 'https://invarion.com/products/rapidplanonline/',
               },
               {
                 label: 'RapidPath',
                 href: 'https://invarion.com/products/rapidpath/',
-                target: '_self',
               },
               {
                 label: 'RapidPath Online',
-                href: 'https://invarion.com/products/rapidpath-online/',
-                target: '_self',
+                href: 'https://invarion.com/products/rapidpathonline/',
               },
             ],
           },
@@ -258,22 +252,18 @@ const config = {
               {
                 label: 'Invarion Cloud',
                 href: 'https://cloud.invarion.com/',
-                target: '_self',
               },
               {
                 label: 'My Account',
                 href: 'https://accounts.invarion.com/manage/my-account',
-                target: '_self',
               },
               {
                 label: 'Manage Company',
                 href: 'https://accounts.invarion.com/manage/my-company',
-                target: '_self',
               },
               {
                 label: 'Manage Licenses',
                 href: 'https://accounts.invarion.com/manage/license',
-                target: '_self',
               },
             ],
           },
@@ -283,27 +273,22 @@ const config = {
               {
                 label: 'Technical Support',
                 href: 'https://invarion.com/support/',
-                target: '_self',
               },
               {
                 label: 'FAQs',
                 href: 'https://invarion.com/faqs/',
-                target: '_self',
               },
               {
                 label: 'Video Tutorials',
                 href: 'https://www.youtube.com/user/invarionsupport',
-                target: '_self',
               },
               {
                 label: 'Download',
                 href: 'https://invarion.com/install/',
-                target: '_self',
               },
               {
                 label: 'Contact',
                 href: 'https://invarion.com/contact/',
-                target: '_self',
               },
             ],
           },

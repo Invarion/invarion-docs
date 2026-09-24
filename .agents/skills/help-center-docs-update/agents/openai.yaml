@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Help Center Docs Update"
+  short_description: "Update Help Center docs from rough inputs."
+  default_prompt: "Use $help-center-docs-update to update Help Center documentation from the provided instructions and attachments."

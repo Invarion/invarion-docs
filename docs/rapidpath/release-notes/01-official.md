@@ -45,10 +45,10 @@ The Custom Service base map provider is compatible with map services that use th
 
 ![chainage marker](./assets/chainage.png)
 
-The new Chainage Marker tool enables quick generation of chainage references along linear geometry.
+The new **Chainage Marker** tool enables quick generation of chainage references along linear geometry.
 
 Key capabilities include:
-- Generation of chainage markers from lines, splines, or Bézier curves
+- Generation of chainage markers from lines, splines, or BÃ©zier curves
 - Automatic creation of ticks at configurable spacing
 - Snappable ticks
 - Labels that display the chainage value for each tick
@@ -60,7 +60,7 @@ This tool streamlines the process of marking distances and references along road
 
 ![custom symbols](./assets/custom_symbols.png)
 
-Custom symbols functionality has been added to selected objects, enabling greater visual consistency and customization. 
+Custom symbols functionality has been added to **selected objects**, enabling greater visual consistency and customization.
 
 The following objects support the unified custom symbol system: Bike lane, North arrow, Arrow board, LUMS board, Location marker, Sign stand.
 
@@ -75,8 +75,8 @@ This update makes it easier to reuse standardized symbols across different objec
 Multiple RapidPath instances can now run on the same machine, allowing parallel work with multiple plans or workflows.
 
 A new instance can be started in the following ways:
-- New window (Ctrl + Alt + N) – Available in the File section of the main menu. Opens a new, empty RapidPath window.
-- Open in new Window – Available from a plan’s context menu. Opens the selected plan in a separate window (the plan must be saved).
+- New window (Ctrl + Alt + N) - Available in the File section of the main menu. Opens a new, empty RapidPath window.
+- Open in new Window - Available from a plan's context menu. Opens the selected plan in a separate window (the plan must be saved).
 
 Additionally, saved open plans can be dragged and dropped into a new RapidPath window using a dedicated drag handle.
 
@@ -86,9 +86,9 @@ Additionally, saved open plans can be dragged and dropped into a new RapidPath w
 
 Print region management has been simplified with a single, consistent ordering system.
 
-What’s changed:
-- Print regions can now be reordered directly in the Print Regions window using drag-and-drop
-- The list order defines the default output order for actions such as batch export
+What's changed:
+- Print regions can now be reordered directly in the **Print Regions** window using drag-and-drop
+- The list order defines the default output order for actions such as **batch export**
 
 This creates one clear source of truth for print order, removing the need for renaming regions or manually adjusting page numbers.
 
@@ -105,9 +105,9 @@ Benefits:
 
 ### More changes
 
-**Print Region Comments** - Comments can now be added to print regions to capture additional context. Comments appear as a popup on the region and in the Print Regions panel, and can also be included as a text variable when printing or exporting.
+**Print Region Comments** - Comments can now be added to **print regions** to capture additional context. Comments appear as a popup on the region and in the **Print Regions** panel, and can also be included as a text variable when printing or exporting.
 
-**Improved Zoomed View Box Snapping** - Zoomed View Box snapping has been enhanced to provide greater precision and flexibility. The following snapping options has been added:
+**Improved Zoomed View Box Snapping** - **Zoomed View Box** snapping has been enhanced to provide greater precision and flexibility. The following snapping options has been added:
 - Snap the view box to the source region
 - Snap to source region bounds
 - Snap to source region geometry
@@ -115,7 +115,7 @@ Benefits:
 
 View box is the zoomed view of plan content within the source region.
 
-**Improved Inner Print Region Name Placement** - Print region names that appear inside other print regions in print and export outputs are now smartly positioned to remain clear and readable, even when regions are rotated or overlapping. This applies when the Inner regions option is set to Box in the Print & Export properties of the containing region.
+**Improved Inner Print Region Name Placement** - Print region names that appear inside other **print regions** in print and export outputs are now smartly positioned to remain clear and readable, even when regions are rotated or overlapping. This applies when the Inner regions option is set to Box in the Print & Export properties of the containing region.
 
 **Performance Improvements And Future-Proofing** - System performance has been optimized, and architectural enhancements have been introduced to improve long-term scalability and stability.
 
@@ -134,7 +134,7 @@ Following the success of the new CAD Import functionality added in the previous 
 
 ![road level detail](./assets/road_level_detail.png)
 
-Google's new Road Level Details view is now available in RapidPath with the Google Roadmap basemap provider. In selected locations around the world, you can now zoom in to reveal an extraordinary level of road details - curb geometries, turn lanes, lane markings, pedestrian crossings and more. NOTE: subject to Google data availability at specific locations.
+Google's new Road Level Details view is now available in RapidPath with the Google Roadmap basemap provider. In selected locations around the world, you can now zoom in to reveal an extraordinary level of road details - curb geometries, turn lanes, **lane markings**, pedestrian crossings and more. NOTE: subject to Google data availability at specific locations.
 
 ### Adjustable Google annotations
 
@@ -152,7 +152,7 @@ For plans stored in the Invarion Cloud, you can now annotate specific locations 
 
 **Custom print region sizes** - The default list of print region sizes can now be fully customized, to expose convenient shortcuts for the region sizes you use most often and remove the ones you don't need.
 
-**Marked Path arrow tails** - In the newly added Tails drawing mode, the Marked Path object allows you to draw a collection of arrows with a desired length, running along the object geometry.
+**Marked Path arrow tails** - In the newly added Tails drawing mode, the **Marked Path** object allows you to draw a collection of arrows with a desired length, running along the object geometry.
 
 **New Crosswalk type: Ladder** - The Ladder Crosswalk style is now natively supported without having to draw the outer edges manually.
 
@@ -167,7 +167,7 @@ For plans stored in the Invarion Cloud, you can now annotate specific locations 
 
 ![new vehicles](./assets/moreVehicles.png)
 
-The vehicle library has been extended to include national standard vehicles from a range of countries. Simply open the vehicle dialog and choose the library you need.
+The **vehicle library** has been extended to include national standard vehicles from a range of countries. Simply open the vehicle dialog and choose the library you need.
 A new 'National standards' add-on has automatically been assigned to each RapidPath subscription and included at no extra charge. Specialist libraries, such as Construction, are still available for purchase as separate add-ons.
 
 ### Georeferenced CAD Import
@@ -180,19 +180,19 @@ CAD Import has been integrated into RapidPath's georeferenced import tool (previ
 
 ![turn radius](./assets/turnRadius.png)
 
-Turning radius can now be measured for each section of a vehicle path. To do this, highlight the path and select the new turn radius mode from the menu. Choose a style for the markers and select individual path sections to add the annotations.
+Turning radius can now be measured for each section of a **vehicle path**. To do this, highlight the path and select the new **turn radius** mode from the menu. Choose a style for the markers and select individual path sections to add the annotations.
 
 ### More changes
 
 **Location Marker Object** - new annotation object designed to mark specific positions on the plan in the form of pin icons and the corresponding location coordinates.
 
-**Zoomed View Box stage selection** - the Zoomed View Box allows selecting a specific stage whose contents will be displayed. Using this feature lets you present objects drawn on another plan stage.
+**Zoomed View Box stage selection** - the **Zoomed View Box** allows selecting a specific stage whose contents will be displayed. Using this feature lets you present objects drawn on another plan stage.
 
-**New Batch Export options** - the Batch Export tool allows creating a separate PDF file for each stage you're exporting. Additionally, you can now select whether page numbering is common for the whole export job or separate for each output file.
+**New Batch Export options** - the **Batch Export** tool allows creating a separate PDF file for each stage you're exporting. Additionally, you can now select whether page numbering is common for the whole export job or separate for each output file.
 
 **Roads Import tool improvements** - predefined road styles can now be assigned to specific OSM road categories. Simply use OSM_*category* as name when saving the style, for example OSM_secondary (the full list of OSM road categories can be found [HERE](https://wiki.openstreetmap.org/wiki/Key:highway#Roads)). Additionally, lane count will be imported from OSM data (where available) and new settings are available for automatically including road names and speed limits in the Roads Import operation.
 
-**New Print Region styling options** - new advanced settings category: "Print region style", with options that allow adjusting the style of print regions displayed in the plan editor as well as the inner regions on exported plans.
+**New Print Region styling options** - new advanced settings category: "Print region style", with options that allow adjusting the style of **print regions** displayed in the plan editor as well as the inner regions on exported plans.
 
 **Find and Replace Signs auto zoom** - a new options that allows automatic zooming to signs selected by the Find and Replace Signs tool.
 
@@ -209,10 +209,10 @@ Turning radius can now be measured for each section of a vehicle path. To do thi
 
 RapidPath 4.0 is integrated with Invarion Cloud, allowing users to:
 
-* Store their traffic management plans on the Invarion Cloud instead of local files.
+* Store their **traffic management plans** on the Invarion Cloud instead of local files.
 * Open and edit the same plans in RapidPath as well as RapidPath Online (users who have licenses for both applications).
 * Use Invarion Cloud's collaboration features: share plans with other users, add comments.
-* Share plans with users who don't have a RapidPath license - they will still be able to open them in read-only mode.
+* Share plans with users who don't have a RapidPath license - they will still be able to open them in **read-only mode**.
 
 *NOTE: In the weeks following RapidPath 4.0 official release, integration with Invarion Cloud will be gradually made available for users based on their company size and region.*
 
@@ -273,7 +273,7 @@ Using the new QR Code tool lets you quickly add QR codes to your TCPs, allowing 
 
 **Plan property: "Last modified by"** - the new property of the plan allows keeping track of who authored its last revision.
 
-**Batch Export option: "Use plan folder by default"** - using this option will make batch export save exported files alongside the original TCP files.
+**Batch Export option: "Use plan folder by default"** - using this option will make **batch export** save exported files alongside the original TCP files.
 
 **MetroMap support for historical imagery layers** - MetroMap subscribers can now select different imagery layers when importing aerial tiles from the MetroMap provider.
 
@@ -301,7 +301,7 @@ Automatically apply scale and rotate transformations required to fit objects to 
 
 ![Scale/Rotate at point](./assets/133288014214613304-transform_big.png)
 
-Using the newly added "Select scale/rotate point" options, you can now scale or rotate selected objects around a specific point, provides a CAD-like experience for greater drawing precision and control over your plans.
+Using the newly added "Select scale/rotate point" options, you can now scale or rotate **selected objects** around a specific point, provides a CAD-like experience for greater drawing precision and control over your plans.
 
 ### Performance and memory usage improvements
 
@@ -313,27 +313,27 @@ RapidPath's core rendering engine has been redesigned to provide significant per
 
  **Import and export text variables as CSV** - We've added support for CSV (Comma-Separated Values) format, which is commonly used in spreadsheets. By using CSV format, you can easily import and export text variables between our software and other spreadsheet applications, streamlining your workflow and saving you time.
 
-**Batch export one PDF per plan** - The new batch export option “One file per plan” allows exporting multiple plans in a single batch while saving each into a separate file.
+**Batch export one PDF per plan** - The new **batch export** option "One file per plan" allows exporting multiple plans in a single batch while saving each into a separate file.
 
 **Conversion between a Text Objects and Text Boxes** - Seamlessly convert text objects to text boxes and vice versa.
 
-**Copy and paste multiple layers** - Right-click in the Layers panel and select “Copy visible layers” from the context menu to copy all currently visible layers. Then paste them by selecting “Paste layers” from the same menu.
+**Copy and paste multiple layers** - right-click in the Layers panel and select "Copy visible layers" from the context menu to copy all currently visible layers. Then paste them by selecting "Paste layers" from the same menu.
 
 **Sidewalk offset color** - Sidewalk offset color can now be changed in all Road Tools.
 
-**Print regions position on bearing change** - Changing the bearing of the map readjusts the positions of print regions to ensure that they are accurately centered on the intended location.
+**Print regions position on bearing change** - Changing the bearing of the map readjusts the positions of **print regions** to ensure that they are accurately centered on the intended location.
 
-**Reset page numbers** - Find this option in “Advanced tools” to recalculate print regions’ page numbers (this will also resets any manual changes to the page numbers).
+**Reset page numbers** - Find this option in "Advanced tools" to recalculate **print regions**' page numbers (this will also resets any manual changes to the page numbers).
 
-**Zoomed View Box - drag source area** - With the Zoomed View Box object selected, you can now easily change the position of its source region by clicking on its border and dragging it to a new location.
+**Zoomed View Box - drag source area** - With the **Zoomed View Box** object selected, you can now easily change the position of its source region by clicking on its border and dragging it to a new location.
 
-**Snapping in the Edit crop tool** - Snap to other objects while defining the object’s crop.
+**Snapping in the Edit crop tool** - Snap to other objects while defining the object's crop.
 
 **Base stage layers reordering** - You can now conveniently rearrange the order of base stage layers while working on a different stage.
 
 **Multiline stage names** - Stage names now support multiline text.
 
-**Multi Message Sign dialog size** - The size of the MMS dialog is now saved in your application settings. This means that the next time you open the dialog, it will automatically open to the same size you previously used.
+**Multi-message Sign dialog size** - The size of the MMS dialog is now saved in your application settings. This means that the next time you open the dialog, it will automatically open to the same size you previously used.
 
 ## RapidPath 3.9
 
@@ -345,19 +345,19 @@ RapidPath's core rendering engine has been redesigned to provide significant per
 
 Predefined object styles can now automatically adjust scaled properties to the current plan scale. This lets you use on-site units to specify values for properties like road lane width or delineator spacing and use such styles to draw objects with the correct dimensions on plans at different scales.
 
-Additionally, individual styles can now be added to the Scratchpad for quick access and it's much easier to create custom style icons.
+Additionally, individual styles can now be added to the **Scratchpad** for quick access and it's much easier to create custom style icons.
 
 ### Print Regions List
 
 ![print regions list](./assets/133034891426096549-printRegionsList.png)
 
-A dockable panel listing all Print Regions on the current plan allows accessing, editing and printing them without having to manually scroll the plan canvas.
+A dockable panel listing all **Print Regions** on the current plan allows accessing, editing and printing them without having to manually scroll the plan canvas.
 
 ### Plan Location tools
 
 ![plan location tools](./assets/133034891694724289-planLocationTools.png)
 
-**Right click** on any location while drawing a base map plan and use the location coordinates to look it up in a number of external services including Google Maps and Street View.
+right-click on any location while drawing a base map plan and use the location coordinates to look it up in a number of external services including Google Maps and Street View.
 
 ### More changes
 
@@ -367,7 +367,7 @@ A dockable panel listing all Print Regions on the current plan allows accessing,
 
 **Font underline** - Font Underline decoration was added as a property to all text objects.
 
-**Delete signs with stands** - Use "Alt + Delete" shortcut to remove signs together will their connected sign stands.
+**Delete signs with stands** - Use "Alt + Delete" shortcut to remove signs together will their connected **sign stands**.
 
 **Reversed Delineator devices** - New Device->Reversed property of Delineator objects allows you to make sure your Parallel or Perpendicular device alignment follows your desired direction.
 
@@ -421,7 +421,7 @@ The CAD Import tool has been updated to support new formats, including DXF/DWG 2
 
 ![Snap & Align To Geometry](./assets/132580619997884128-snapalign.png)
 
-Snap points and align drawn segments not only at control points, but anywhere along a snap geometry.
+Snap points and align drawn segments not only at **control points**, but anywhere along a snap geometry.
 
 ### Search for Plus Codes
 
@@ -433,7 +433,7 @@ The search bar now supports Plus Codes, a geocoding scheme used by Google as an 
 
 ![Circle/Cloud Shaped ZVB](./assets/132580620227768300-zvb.png)
 
-The Zoomed View Box can now be styled to present its content in an ellipse or cloud shaped box.
+The **Zoomed View Box** can now be styled to present its content in an ellipse or cloud shaped box.
 
 ### More changes
 
@@ -466,7 +466,7 @@ The Zoomed View Box can now be styled to present its content in an ellipse or cl
 * Transport for NSW TCAWS Signs update
 * Queensland MUTCD Q-Series Signs update
 * South Australia DPTI Templates 2020
-* South Australia DPTI Multi Message Signs update
+* South Australia DPTI Multi-message Signs update
 * Ireland DOT TTM Layout update
 * UK Department for Transport/Highways Agency Templates update
 * NZTA Signs Update
@@ -491,7 +491,7 @@ The Recent Plans list can now display up to 50 items, highlights selected item o
 
 ![Show Street View](./assets/132418122568605100-street_view.png)
 
-Right-click on a map location and select Show Google Street View to see on-site photos in your web browser (subject to Street View image availability at the specific location).
+right-click on a map location and select Show Google Street View to see on-site photos in your web browser (subject to Street View image availability at the specific location).
 
 ### Advanced Snapping
 
@@ -503,7 +503,7 @@ Press the Alt key while snapping to a geometry to enable snappable guides for ta
 
 ![Rotate Print Regions](./assets/132418122783332978-rotate_regions.png)
 
-Individual print regions can now be rotated. This is handy when planning works on a long and windy road, where each page needs a different bearing.
+Individual **print regions** can now be rotated. This is handy when planning works on a long and windy road, where each page needs a different bearing.
 
 ### Custom Sign Stands
 
@@ -521,7 +521,7 @@ Advanced sign search and replace tool allows quickly finding and updating signs,
 
  **Convert to sign** - the Save Sign dialog now allows automatical replacement of the original object with the newly created sign.
 
-**Create sign group** - group multiple sing panels (e.g. main + complementary) into a single sign group that can be attached to sign stand(s) while still preserving individual panel codes in the manifest.
+**Create sign group** - group multiple sing panels (e.g. main + complementary) into a single sign group that can be attached to sign stand(s) while still preserving individual panel codes in the **manifest**.
 
 **Adjust order of stages** - right-click on the Plan Stages dropdown and select "Reorder stages..." to open a dialog where stages can be ordered as required.
 
@@ -545,7 +545,7 @@ Advanced sign search and replace tool allows quickly finding and updating signs,
 
 ![Plan Stages](./assets/132265939730289308-stages.png)
 
-Several phases of works at one location can now be included in a single TCP, using the new Plan Stages feature. Each stage has its own set of layers and print regions, while the Base Stage is used for elements shared across all the other stages (for example the road network and permanent markings).
+Several phases of works at one location can now be included in a single TCP, using the new Plan Stages feature. Each stage has its own set of layers and **print regions**, while the Base Stage is used for elements shared across all the other stages (for example the road network and permanent markings).
 
 ### Auto Templates
 
@@ -557,7 +557,7 @@ RapidPath can now lay out required devices and signage for a selected set of sim
 
 ![Selection Preview](./assets/132265940378251142-selection_preview.png)
 
-The selection box will now highlight captured objects while you're dragging, letting you see what gets selected. A great way to improve precision especially on complex plans with many objects. And while we're at it, here's a quick guide to the available selection modes:
+The **selection box** will now highlight captured objects while you're dragging, letting you see what gets selected. A great way to improve precision especially on complex plans with many objects. And while we're at it, here's a quick guide to the available selection modes:
 
 Selection Modes
 
@@ -571,13 +571,13 @@ Capture Modes
 
 ![select contained](./assets/132265972642441432-SelectContained.png) Contained objects (default)
 
-![select intersecting](./assets/132265972767013513-SelectIntersecting.png) Intersecting objects (use right mouse button)
+![select intersecting](./assets/132265972767013513-SelectIntersecting.png) Intersecting objects (use right-click)
 
 ### Spellcheck improvements
 
 ![Spellcheck Improvements](./assets/132265940280538350-spellcheck.png)
 
-Right-click on an underlined word when editing text and quickly add it to the spellcheck dictionary, so it doesn't get highlighted in the future.
+right-click on an underlined word when editing text and quickly add it to the spellcheck dictionary, so it doesn't get highlighted in the future.
 
 ### Inverted Crop
 
@@ -593,17 +593,17 @@ Ever lost work because you accidentally closed a plan without saving it? Use Fil
 
 ### More changes
 
-**Distance Marker breakline** - when not drawing to scale, use the Breakline property of Distance Marker to indicate where the marker symbolically represents a larger on-site distance.
+**Distance Marker breakline** - when not drawing to scale, use the Breakline property of **Distance Marker** to indicate where the marker symbolically represents a larger on-site distance.
 
-**Print/export all regions** - other than the existing option to export active view, the right-clicking on the diagram canvas now also allows printing/exporting all print regions on the diagram via the Batch Export dialog.
+**Print/export all regions** - other than the existing option to export active view, the right-clicking on the diagram canvas now also allows printing/exporting all **print regions** on the diagram via the **Batch Export** dialog.
 
 **Toggle text alignment** - use **Ctrl + Alt  + C** to quickly toggle between the available text alignment modes in all selected text objects.
 
-**Quick load print frame file** - if you've saved your standard Print Frame to a file, you will now be able to apply it to new plans quicker. Right-click on the print frame icon and select Create print frame -> From file...
+**Quick load print frame file** - if you've saved your standard Print Frame to a file, you will now be able to apply it to new plans quicker. right-click on the print frame icon and select Create print frame -> From file...
 
-**Drag group by control point** - with an objects group selected, press the Alt key to highlight the grouped objects' snapable control points. You can now use them to move the whole object and snap to other points on the plan.
+**Drag group by control point** - with an objects group selected, press the Alt key to highlight the **grouped objects**' snapable **control points**. You can now use them to move the whole object and snap to other points on the plan.
 
-**Quick-adjust intersection masks** - **Right click** on an intersection object, select Edit intersection elements -> Show mask offset handles. The intersection gets decorated with points you can drag in order to mask out default markings to the desired distance along incoming roads.
+**Quick-adjust intersection masks** - right-click on an **intersection object**, select Edit intersection elements -> Show mask offset handles. The intersection gets decorated with points you can drag in order to mask out default markings to the desired distance along incoming roads.
 
 **Default aerial tiles provider setting** - you can now set the default aerials import tile provider independently of the default base map provider. This is useful if you normally use cartograpic maps as your plan canvas background, but import tiles from a satellite imagery provider.
 
@@ -623,19 +623,19 @@ Ever lost work because you accidentally closed a plan without saving it? Use Fil
 
 ![Advanced Geometry Drawing](./assets/132059304203892127-GeometrySnapping.png)
 
-Snap to an existing geometry when drawing an object and RapidPath will automatically create control points to fit the desired curve. Use the Offset Geometry tool to further adjust object position. Drawing delineators, lane markings, work zones along road and lane edges becomes easier than ever. NOTE: use F3 to quickly toggle snapping on/off or **Right click** the toolbar button to individually toggle snapping to points and/or geometries.
+Snap to an existing geometry when drawing an object and RapidPath will automatically create **control points** to fit the desired curve. Use the Offset Geometry tool to further adjust object position. Drawing delineators, **lane markings**, work zones along road and lane edges becomes easier than ever. NOTE: use F3 to quickly toggle snapping on/off or right-click the toolbar button to individually toggle snapping to points and/or geometries.
 
 ### Snap to Bounds
 
 ![Snap to Bounds](./assets/132059305107445714-BoundsSnapping.png)
 
-When moving or scaling objects and print regions, their bounds edges and centers snap to each other for quick and precise positioning. NOTE: use F3 to quickly toggle snapping on/off.
+When moving or scaling objects and **print regions**, their bounds edges and centers snap to each other for quick and precise positioning. NOTE: use F3 to quickly toggle snapping on/off.
 
 ### New drawing tools
 
 ![New Drawing Tools](./assets/132059305208533892-Annotations.png)
 
-Create notes sections with the editable Text Table, use Cloud Shape and Number Stamper to quickly annotate your TCP contents.
+Create notes sections with the editable Text Table, use Cloud Shape and **Number Stamper** to quickly annotate your TCP contents.
 
 ### Advanced Cropping
 
@@ -653,7 +653,7 @@ The redesigned CAD Import tool improves import quality and presents a live previ
 
 ![Batch Export Improvements](./assets/132059307105965225-BatchExport.png)
 
-Plans and print regions can now be arranged by drag-dropping the items, then saved and restored as reusable export configurations.
+Plans and **print regions** can now be arranged by drag-dropping the items, then saved and restored as reusable export configurations.
 
 ### NearMap integration
 
@@ -681,9 +681,9 @@ NearMap subscribers in USA, Australia and New Zealand can now access NearMap aer
 
 **Downward Text Orientation** - change Text Object's Text->Orientation property to Vertical to make it draw letters top-to-bottom instead of left-to-right.
 
-**MMS Panels and Frames in Manifest** - the Multi Message Sign can now report it's panels and frame to the Manifest individually, to allow counting the number of specific panels required for a job site.
+**MMS Panels and Frames in Manifest** - the Multi-message Sign can now report it's panels and frame to the Manifest individually, to allow counting the number of specific panels required for a job site.
 
-**Adjustable Island Edges** - the Island tool now has a full set of Edge, Shoulder and Sidewalk properties that can be matched with road objects.
+**Adjustable Island Edges** - the Island tool now has a full set of Edge, Shoulder and Sidewalk properties that can be matched with **road objects**.
 
 **Extend Geometry** - right-click on a geometry object and select Edit geometry ->Draw more points to extend the object at either end.
 
@@ -739,13 +739,13 @@ The Manifest Export tool can now include location coordinates for signs and othe
 
 ### More changes
 
- **Double-click to repeat last tool -** double-click on a blank space on the drawing canvas to repeat the last operation (e.g. draw another text object)
+ **Double-click to repeat last tool -** double-click on a blank space on the canvas to repeat the last operation (e.g. draw another text object)
 
 **Rotate and scale multiple objects individually** - when multiple objects are selected, you can press the Alt key to change transformation mode from collective to individual. The scale and rotate handles will then transform each object individually (in place).
 
-**Importing road names and speed limits** - After using the Roads Import tool, right-click on the imported roads and select "Import road data". If the required data is available in OpenStreetMaps, your roads will get annotated with names and speed limit signs.
+**Importing road names and speed limits** - After using the Roads Import tool, right-click on the imported roads and select "Import road data". If the required data is available in OpenStreetMap, your roads will get annotated with names and speed limit signs.
 
-**Zoomed View Box improvements** - The Zoomed View Box can now outline the source region and lets you select which layers it is displaying.
+**Zoomed View Box improvements** - The **Zoomed View Box** can now outline the source region and lets you select which layers it is displaying.
 
 **Optimize Images tool** - to reduce the file size of plans containing large amounts of image data go to Tools -> Advanced tools -> Optimize images.
 
@@ -763,7 +763,7 @@ The Manifest Export tool can now include location coordinates for signs and othe
 
 ![Print Frames and In-Place Print Preview](./assets/131739807239039475-PrintFrames3.png)
 
-Frames allow drawing titleboxes and other plan annotations on a separate paper-space layer and reusing them for multiple plans and print regions. Combined with in-place print preview they provide full control over how TCP objects are positioned on printouts.
+Frames allow drawing titleboxes and other plan annotations on a separate paper-space layer and reusing them for multiple plans and **print regions**. Combined with in-place print preview they provide full control over how TCP objects are positioned on printouts.
 
 ### Text Variables
 
@@ -777,17 +777,17 @@ Use Text Variables to create reusable templates and objects whose text gets auto
 
 Import and automatically position aerial imagery from external applications that use georeferenced images. This feature will enable you to import maps from applications like NearMap or MapInfo Pro.
 
-### Zoomed View Box tool
+### Zoomed view box tool
 
 ![Zoomed View Box Tool](./assets/131739809018653251-ZoomedViewBox.png)
 
-The Zoomed View Box tool allows you to create insets presenting specific site areas at a higher level of detail. The tool is available in the Annotations category of the Tools palette.
+The **Zoomed View Box** tool allows you to create insets presenting specific site areas at a higher level of detail. The tool is available in the Annotations category of the **Tools palette**.
 
 ### Export Manifest tool
 
 ![Export Manifest Tool](./assets/131739808394353257-ExportManifest.png)
 
-Create manifest documents based on one or more traffic control plans, then print or export to a range of formats: PDF, Text, CSV, XML and Json. Access the export tool by right-clicking on a Manifest Box, or via File -> Export -> Batch Export -> Export batch manifest...
+Create **manifest** documents based on one or more traffic control plans, then print or export to a range of formats: PDF, Text, CSV, XML and Json. Access the export tool by right-clicking on a Manifest Box, or via File -> Export -> **Batch Export** -> Export batch **manifest**...
 
 ### Find Objects listed in Legend/Manifest
 
@@ -823,7 +823,7 @@ New base map providers allow access to VIC, NSW and QLD state government service
 
 ![Control Point Snapping and Road Alignment](./assets/131595493896320900-snap-align.png)
 
-Precisely connect objects with each other by snapping into existing control points. Hold the **Ctrl** key while point-snapping roads or other objects and their geometries will merge seamlessly.
+Precisely connect objects with each other by snapping into existing **control points**. Hold the **Ctrl** key while point-snapping roads or other objects and their geometries will merge seamlessly.
 
 ### Measurements Panel
 
@@ -841,13 +841,13 @@ Base map bearing is now adjustable, so you can draw your plans at any orientatio
 
 ![Selection Improvements](./assets/131595517421832433-selection.png)
 
-The selection box has been optimized for extra flexibility when selecting multiple objects. Additionally, you can now preview and select objects across all layers by holding the **Ctrl + Alt** keys.
+The **selection box** has been optimized for extra flexibility when selecting multiple objects. Additionally, you can now preview and select objects across all layers by holding the **Ctrl + Alt** keys.
 
 ### New Drawing tools
 
 ![New Drawing Tools](./assets/131596217986614948-tools.png)
 
-Use the Marked Path tool to illustrate vehicle movement direction and the Road Region tool to draw irregular asphalted regions like parking lots.
+Use the **Marked Path** tool to illustrate vehicle movement direction and the Road Region tool to draw irregular asphalted regions like parking lots.
 
 ### Road Ends
 
@@ -865,7 +865,7 @@ Files produced by exporting your base map plans to PDF are now much smaller and 
 
 ![Multi-Message Bookmarks](./assets/131596207813089033-mms.png)
 
-The Multi Message Sign dialog loads faster, shows panel codes and lets you bookmark your most used panels for instant access.
+The Multi-message Sign dialog loads faster, shows panel codes and lets you bookmark your most used panels for instant access.
 
 ### More changes
 
@@ -877,7 +877,7 @@ The Multi Message Sign dialog loads faster, shows panel codes and lets you bookm
 
 **Adjustable Hatch Fills** - line thickness and spacing can now be adjusted for all hatch fill styles.
 
-**Static Legend/Manifest Boxes** - legend and manifest can be converted to static lists, which allows you to copy them between plans/layers while preserving their original content.
+**Static Legend/Manifest Boxes** - **legend** and **manifest** can be converted to static lists, which allows you to copy them between plans/layers while preserving their original content.
 
 **Apply Predefined Styles** - predefined styles can now be applied to new and existing objects alike.
 
@@ -899,7 +899,7 @@ The Multi Message Sign dialog loads faster, shows panel codes and lets you bookm
 
 ![Integrated Base Maps](./assets/131460791504765237-IntegratedMapsShort.png)
 
-RapidPath can now display a dynamic base map preview on the plan drawing canvas, download aerial tiles as plan background, import road network data and display lat/lng coordinates of any point on the plan. All you need to do to enable these features is specify plan location and scale. You can toggle between maps provided by Bing, ArcGIS and Omniscale, but we're planning to add even more providers in future RapidPath releases.
+RapidPath can now display a dynamic base map preview on the plan canvas, download aerial tiles as plan background, import road network data and display lat/lng coordinates of any point on the plan. All you need to do to enable these features is specify **plan location** and scale. You can toggle between maps provided by Bing, ArcGIS and Omniscale, but we're planning to add even more providers in future RapidPath releases.
 
 ### New Plan Wizard
 
@@ -911,7 +911,7 @@ Use the New Plan Wizard to quickly specify all properties of a new plan you're c
 
 ![Unrestricted Canvas](./assets/131460778029969993-UnrestrictedCanvas.png)
 
-The plan drawing canvas is now fully unrestricted. Scroll to its edges and it'll expand automatically. Use print regions to indicate which parts of the canvas you want to include on printouts.
+The plan canvas is now fully unrestricted. Scroll to its edges and it'll expand automatically. Use **print regions** to indicate which parts of the canvas you want to include on printouts.
 TIP: the "Scroll to origin" button will help you quickly go back to diagram center.
 
 ### Copying Object Styles
@@ -925,13 +925,13 @@ TIP: use the Duplicate Style tool (**Ctrl + Shift + D**) to draw an object using
 
 ![Editing Text](./assets/131460779045204977-EditingText.png)
 
-All objects containing text can now be easily edited on-canvas. Simply **Double click** on the text you want to change and start typing.
+All objects containing text can now be easily edited on-canvas. Simply double-click on the text you want to change and start typing.
 
 ### Batch Print
 
 ![Batch Print](./assets/131460779161267489-BatchPrint.png)
 
-Batch Export tool is now accompanied by Batch Print - a dialog that lets you quickly print multiple plans. Both dialogs have a new clean design and allow selecting print regions you want included on the printout.
+**Batch Export** tool is now accompanied by **Batch Print** - a dialog that lets you quickly print multiple plans. Both dialogs have a new clean design and allow selecting **print regions** you want included on the printout.
 
 ### Performance improvements
 
@@ -943,21 +943,21 @@ RapidPath has been redesigned to make the most out of your computer's capabiliti
 
 ![Distance Markers](./assets/131460808545362765-DistanceMarkers.png)
 
-Auto Distance Markers have been merged into the corresponding Distance Marker tools, so each marker can now display site distance in the selected units (Default), or custom text - depending on its Marker Mode property value. Additionally, we've added a Combined Offset Distance Marker Tool, as well as new text alignment options for all marker types.
+Auto Distance Markers have been merged into the corresponding **Distance Marker** tools, so each marker can now display site distance in the selected units (Default), or custom text - depending on its Marker Mode property value. Additionally, we've added a Combined Offset **Distance Marker** Tool, as well as new text alignment options for all marker types.
 
 ### Plan Properties
 
 ![Plan Properties](./assets/131460826185352505-PlanProperties.png)
 
-You can now specify job location coordinates for each traffic control plan you're drawing. Other than integrating base maps, in the future this will allow you to search your plans by location (show all plans in a selected area). Additionally, job start and end dates can be specified.
+You can now specify job location coordinates for each **traffic control plan** you're drawing. Other than integrating base maps, in the future this will allow you to search your plans by location (show all plans in a selected area). Additionally, job start and end dates can be specified.
 
 ### More changes
 
  **Custom spellchecker dictionary** - add words and phrases you often use so that SpellCheck knows they're valid.
 
-**Properties panel improvements** - advanced editors for Stroke, Fill, Text and other properties. Adjustable ordering and searching.
+**Properties palette improvements** - advanced editors for Stroke, Fill, Text and other properties. Adjustable ordering and searching.
 
-**Redesigned Quick Edit dialog** - if you prefer the dialog over the Properties panel, the new Quick Edit tool now allows you to edit all object properties.
+**Redesigned Quick Edit dialog** - if you prefer the dialog over the Properties palette, the new Quick Edit tool now allows you to edit all **object properties**.
 
 **Reorganized toolbars, menus and keyboard shortcuts** - quick access to the tools you use the most.
 
@@ -971,12 +971,12 @@ You can now specify job location coordinates for each traffic control plan you'r
 
 **New US paper sizes** - the following fixed print region sizes were added (Imperial metrical system only): ANSI C Sheet (17x22''), ARCH C Sheet (18x24''), ANSI D Sheet (22x34''), ARCH D Sheet (24x36'').
 
-**Resizing print regions** - print regions can now be freely scaled in each direction. Hold the **Shift** key down while scaling to preserve region proportions.
+**Resizing print regions** - **print regions** can now be freely scaled in each direction. Hold the **Shift** key down while scaling to preserve region proportions.
 
 **Arc Pie tool** - a new tool for drawing filled arc figures.
 
 **Dotted Hatch fill** - primitive objects can now be filled with a CAD-like Dotted Hatch brush.
 
-**Better lane markings customization** - lane marking dash lengths and gaps can now be accurately adjusted for all lane marker styles. Additionally The dedicated Lane Marker tool has a new Mask property, which by default lets you automatically cover up any underlying markers.
+**Better lane markings customization** - **lane marking** dash lengths and gaps can now be accurately adjusted for all lane marker styles. Additionally The dedicated **Lane Marker** tool has a new Mask property, which by default lets you automatically cover up any underlying markers.
 
 **Accurate plan Edit Time** - the Edit Time counter only ticks when the plan is open and its tab currently active.
