@@ -21,3 +21,9 @@ steps:
     yarn install
     yarn build
   displayName: 'yarn install and build'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)\build'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
