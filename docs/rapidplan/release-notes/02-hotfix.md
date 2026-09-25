@@ -8,6 +8,9 @@ hide_title: true
 
 **The Hotfix channel is updated whenever any issues are reported and fixed - use it if you don't mind frequent application updates.**
 
+### Version 4.4.176 (25 September 2026)
+* Fixed incorrect fills appearing when ungrouping SVG signs. 
+
 ### Version 4.4.170 (23 September 2026)
 * Improved handling of application keys.
 
